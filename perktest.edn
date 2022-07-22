@@ -1,0 +1,1611 @@
+[{:name "Cyberware Implants"
+  :type "CYBERWARE"
+  :Cosm "Cyberpapacy"
+  :Prereq "None"
+  :description "
+  When this Perk is selected the character may
+  choose up to $10 000 worth of Cyberware from the
+  lists on page 160 .
+  Official Church-approved cyberware is linked
+  directly to the GodNet and carefully monitored.
+  Devices bought via this Perk are “hacked“ and
+  don’t link to the GodNet (unless the wearer wants
+                                    it to for some reason) . Its installation is safe and
+  free from risk of injury.
+  Hacked cyberware is a crime in the Cyberpapacy
+  however. Heroes who “chrome“ their bodies
+  best beware of the Church Police—they are
+  always watching.
+  New Implants: This Perk may be taken more than
+  once. Each time after the first it grants the user
+  another $5 000 worth of implants."}
+{:name "Critical Strike"
+ :type "DARKNESS"
+ :Cosm "Aysle"
+ :Prereq "Frightening Aspect"
+ :description "
+ The dark hero knows how to make the most of
+ a bad situation—for his foe! If he makes an AllOut attack against a Vulnerable or Very Vulnerable
+ opponent and declares it to be a Critical Strike he
+ may play Destiny cards from his hand that directly
+ affect the attack."}
+{:name "Frightening Aspect"
+ :type "DARKNESS"
+ :Cosm "Aysle"
+ :Prereq "No Light Perks"
+ :description "
+ The dark hero’s physical appearance takes on an
+ unpleasant characteristic of some sort. Perhaps his
+ skin becomes pale and sickly or his eyes become
+ red and haunted.
+ The character’s Charisma is permanently reduced
+ by one but he becomes Favored at intimidation tests.
+ In addition a successful intimidation when it’s
+ the Approved Action grants the player two Destiny
+ cards instead of one. Choose one to keep as usual
+ and discard the other."}
+{:name "Shadow Step"
+ :type "DARKNESS"
+ :Cosm "Aysle"
+ :Prereq "At least two adds in stealth."
+ :description "The character’s stealth tests become Favored.
+ If attacking a Flat-Footed foe the backstabber
+ may declare he’s using Shadow Step to cause an
+ additional +2 damage."}
+{:name "Smiling Deceiver"
+ :type "DARKNESS"
+ :Cosm "Aysle"
+ :Prereq "Frightening Aspect"
+ :description "The character knows how to hide his Frightening
+ Aspect behind false smiles and platitudes.
+ Persuasion streetwise and taunt tests become
+ Favored. However if the deceiver fails a test in
+ any of those skills (including opposed tests) his
+ Frightening Aspect becomes immediately visible
+ for all to see. The bonuses of this Perk are then lost
+ for the remainder of the scene."}
+{:name "Bearded/Braided"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf, at least three adds in melee
+weapons, must have personally played a Glory
+card."
+ :description "Most Ayslish dwarves “go shaggy“ when it
+comes to their beards or hair. It’s a sign of the
+shame they feel for failing to defeat Uthorion on
+their home world.
+When a dwarf regains his honor however he
+begins to groom again. Bearded/Braided dwarves
+lace their hair (and beards, for males) with gold
+medals etched with their deeds.
+The honor bolsters the warrior’s will and pride,
+giving her courage to carry on despite overwhelming
+odds. This grants her one extra Wound."}
+{:name "Dragon Warrior"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf, Strength 10 +"
+ :description "Dragon Warriors are the last champions of
+ the dwarves who were virtually annihilated in
+ Aysle. As a final desperate measure they built
+ suits of powerful arcane armor designed to slay
+ Uthorion’s hated minions. Most knew they would
+perish in them.
+Dragon Warrior armor contains incredible
+weapons gadgets and devices that transform the
+ wearer into an engine of vengeance. It adds Armor
++4 limits the wearer’s Dexterity to 8 and causes two
+ extra points of Shock any time Fatigued comes up
+ on the Conflict Line (page 112) .
+ When Dragon Warrior is taken the dwarf can
+ choose one enhancement from the list below.
+ New Enhancements: This Perk may be taken
+ more than once. Each time after the first it grants
+ another one of the enhancements listed below.
+ Unless it says otherwise each enhancement may
+ only be taken once."}
+{:name "Dragon Warrior • Dart Thrower"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf Warrior"
+ :description "A compartment on one of
+the dwarf’s forearms contains six deadly
+iron darts. Each dart deals 13 damage, range
+10/20/40, may use a Short Burst (see Rapid
+Fire, page 125), and uses missile weapons to
+hit.
+Compartments in the armor hold 12 additional
+darts. Any dwarf who has this Perk knows how
+to make more from metal scraps. Assume the
+weapon and ammunition compartment are
+replenished between acts or whenever the
+Game Master feels the wearer has sufficient
+time to do so.
+A second dart thrower may be placed on the
+dwarf’s other arm by taking this enhancement a
+second time (as well as a second compartment)."}
+{:name "Dragon Warrior • Dragon Breath"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf Warrior"
+ :description "One of the warrior’s bracers
+is lined with a long tube leading to a chamber
+of compressed fuel hidden on his back armor.
+When activated with missile weapons the tube
+spurts fire in a 10-meter-long stream as a
+Small Blast (see Area Effects on page 122).
+Everything within the blast suffers 16 fire
+damage (see page 136). The chamber holds
+enough fuel for three individual blasts.
+86
+The container magically recharges at the end
+of the scene or during a long break in the
+action of a few hours or more (Game Master’s
+discretion)."}
+{:name "Dragon Warrior • Dragon Claws"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf Warrior"
+ :description "One of the gauntlets ends in a
+claw tipped with diamonds. The gauntlet uses
+unarmed combat to hit, and causes Strength +3,
+Armor Piercing 2 damage."}
+{:name "Dragon Warrior • Dragon Scales"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf Warrior"
+ :description "The armor is enchanted with
+magical runes that grant it +10 Armor versus
+fire (instead of +4)."}
+{:name "Dragon Warrior • Giant Strength"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf Warrior"
+ :description "A series of pneumatic
+compressors take in air and channel it
+to the dwarf’s arms. Along with cleverly
+placed levers along the inside of the armor,
+it increases his Strength by +2 for tests and
+determining damage. Toughness remains
+unaffected."}
+{:name "Dragon Warrior • Mad Jacks"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf Warrior"
+ :description "Cylinders of magically compressed
+gas are hidden in compartments of the dwarf’s
+heavy boots. When activated, gouts of fire
+propel her into the air, allowing her to jump
+up to 10 meters vertically and 30 meters
+horizontally. If used in conjunction with an
+All-Out attack, the dwarf gains an additional
++2 to his action total. Mad Jacks magically
+recharge once every 24 hours."}
+{:name "Dragon Warrior • Rune of Replenishment"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf Warrior"
+ :description "The armor only
+deals one extra Shock when Fatigue appears
+on the Conflict Line, and the wearer recovers
+an extra Shock when Inspiration appears."}
+{:name "Forsaken"
+ :type "DWARF"
+ :Cosm "Aysle"
+ :Prereq "Dwarf, cannot have adds in faith"
+ :description "The dwarves do not hold the gods of Aysle in
+high esteem. They were largely secular before
+Uthorion’s Rage and even those who begged the
+Gods of Light for salvation saw little divine aid.
+Dwarves do not doubt the gods are real their
+hand can be seen in the miracles cast by the faithful
+in their world and others. But they do not rely
+on them. Some take it so far as to claim they are
+forsaken by the gods and while they suffer for
+divine inspiration it hardens their hearts and spirit
+against other supernatural processes in the bargain.
+Forsaken dwarves cannot have adds in faith,
+but all miracles that target the dwarf suffer
+a –4 penalty. This applies to both beneficial and
+harmful invocations."}
+{:name "Chameleon Skin"
+ :type "EDEINOS"
+ :Cosm "Living Land"
+ :Prereq "Edeinos"
+ :description "Some very rare edeinos have a strange mutation
+that allows their skin to change color to match their
+environment. As long as they don’t wear excessive
+clothing or armor that obscures their scales they
+are Favored at stealth tests. If the edeinos uses an
+Active Defense all ranged attacks against him suffer
+an extra –2 penalty."}
+{:name "Death Claw"
+ :type "EDEINOS"
+ :Cosm "Living Land"
+ :Prereq "Edeinos, Spirit 10 +"
+ :description "When the black stone of the great volcanoes turns
+ to liquid the bravest of edeinos may undergo the
+“ritual of the death claw.“ They do this only under
+ the supervision of their optant who prays to Lanala
+ for life while the warrior attacks the molten stone
+ with his claws dipping slashing and punching
+ until his hands burn brilliant orange. If he survives
+this ritual his talons are forever after black as night
+ and harder than steel.
+ Edeinos with the Death Claw Perk cause Strength
+ +3 damage Armor Piercing 2 when attacking
+ with their claws."}
+{:name "Star Eyes"
+ :type "EDEINOS"
+ :Cosm "Living Land"
+ :Prereq "Edeinos"
+ :description "All edeinos can see in the dark to some extent but
+ some are born with additional guanine crystals in
+ their eyes that refract and amplify ambient light.
+ Those born with “stars in their eyes “ as the jakatts
+ say can ignore four points of vision penalties
+ due to darkness."}
+{:name "Stone Skin"
+ :type "EDEINOS"
+ :Cosm "Living Land"
+ :Prereq "Edeinos"
+ :description "
+ Perhaps the edeinos and the creatures Earthlings
+ call dinosaurs share some common ancestors for
+ some of their species seem to bear the monstrous
+ lizards’ traits.
+Edeinos with Stone Skin are evidence of such a
+ link. Their scales are tinged with gray—though
+ some cover or “color“ them with natural materials
+ to hide it—and are much tougher than most others
+ of their kind.
+ The Stone Skin Perk grants an edeinos Armor +2 .
+ This is normal Armor and therefore does not stack
+ with other forms of Armor (see page 144) ."}
+{:name "Whip Tail"
+ :type "EDEINOS"
+ :Cosm "Living Land"
+ :Prereq "Edeinos"
+ :description "
+ The lizard-folk use their tails primarily for balance
+ but some have learned to fight with them as well
+ performing complicated spins and flips that turn
+ their tails into long whip-like weapons. Unarmed
+ combat becomes Favored when an edeinos attacks
+ in this manner."}
+{:name "Ion Gusoku"
+ :type "ELECTRIC SAMURAI"
+ :Cosm "Pan-Pacifica"
+ :Prereq "Spirit 8+, at least two adds in melee
+weapons."
+ :description "The distinctive armor of the Electric Samurai
+ is the Ion Gusoku. The first suits were adapted
+ from the armor worn by Kanawa’s elite security
+ forces but many adaptations and improvements
+were added as the samurai reverse-engineered
+ Kanawa’s technology.
+ The armor itself is highly advanced and built
+specifically for the samurai intended to wear it. A
+ bio-scan lock shuts down functions and seizes up
+ when anyone else puts it on. It limits its wearer’s
+Dexterity to 10 is Tech Axiom 24 provides +4 Armor
+ and causes Fatigue.
+ New Enhancements: This Perk may be taken
+ more than once. Each additional Perk enhances
+ the armor with one of the systems below. Unless
+ it says otherwise each enhancement may only
+ be taken once."}
+{:name "Ion Gusoku • Chameleon Plates"
+ :type "ELECTRIC SAMURAI"
+ :Cosm "Pan-Pacifica"
+ :Prereq "Ion Gusoku"
+ :description "The entire outer layer of
+the gusoku is covered in sensors and LEDs
+that shift color and brightness to mimic the
+surrounding area when the samurai stands
+still. So long as she remains completely still
+(no actions or movement) she is effectively
+invisible, and opponents suffer a –6 penalty
+on attempts to find her or hit her with ranged
+attacks."}
+{:name "Ion Gusoku • Flash Burst"
+ :type "ELECTRIC SAMURAI"
+ :Cosm "Pan-Pacifica"
+ :Prereq "Ion Gusoku"
+ :description "Once per scene the armor
+may unleash a blinding flash of light as a
+free action. The light momentarily dazzles
+individuals within a Medium Blast around
+the character, rendering each Very Stymied.
+• Kabuto HUD: The armor’s helmet features
+an integrated display that removes the first
+two points of penalties from the samurai’s
+ranged attacks."}
+{:name "Ion Gusoku • Lightning Sheath"
+ :type "ELECTRIC SAMURAI"
+ :Cosm "Pan-Pacifica"
+ :Prereq "Ion Gusoku"
+ :description "Electric samurai quickly
+learned the dangers of being overwhelmed
+by hordes of infected or the jiangshi’s deadly
+grappling attack. Once a scene, the armor
+may discharge an electric blast as a free
+action, causing 12 damage +1BD to anything
+touching the armor. Anything grabbing the
+samurai automatically releases its hold."}
+{:name "Ion Gusoku • Ultra-Light Alloys"
+ :type "ELECTRIC SAMURAI"
+ :Cosm "Pan-Pacifica"
+ :Prereq "Ion Gusoku"
+ :description "The armor’s low weight
+and perfect fit combine to eliminate the suit’s
+Fatigue penalty."}
+{:name "Speed Demon"
+ :type "ELECTRIC SAMURAI"
+ :Cosm "Pan-Pacifica"
+ :Prereq "At least two adds in land vehicles."
+ :description "Motorcycles are the preferred mode of
+ transportation for most Electric Samurai thanks
+ to the combination of speed maneuverability
+ and the lack of an outer frame to hamper sword
+ use! When a Speed Demon makes a melee attack
+ from a motorcycle (or from any vehicle that allows
+unrestrained attacks, such as riding in an opentopped vehicle) he gains a +2 bonus to damage."}
+{:name "Unflinching"
+ :type "ELECTRIC SAMURAI"
+ :Cosm "Pan-Pacifica"
+ :Prereq "Spirit 8+"
+ :description "A true samurai puts her mission first even above
+her own personal safety. She pushes her body to
+ the limits of its endurance to accomplish her goals.
+ An Unflinching samurai may eliminate one or
+more levels of Stymied or Vulnerable by taking one
+ Shock per condition removed. For one Shock for
+ example she could reduce Very Stymied to Stymied.
+ For two Shock she could eliminate both or negate
+ a Stymied and Vulnerable condition and so on."}
+{:name "Elven Archer"
+ :type "ELF"
+ :Cosm "Aysle"
+ :Prereq "Elf, at least three adds in missile weapons."
+ :description "Elves are legendary archers. It is said they take
+ to the bow like dragons take to gold. Those with
+ this Perk can fire multiple arrows at once with ease.
+ An elven archer with this Perk may draw arrows
+ as a free action and ignores the first two points
+ of the Multi-Target penalty when firing a bow
+ (not a crossbow) ."}
+{:name "Elven Sorcerer"
+ :type "ELF"
+ :Cosm "Aysle"
+ :Prereq "Elf, Spellcaster"
+ :description "Elven sorcerers are some of the most powerful
+spellcasters of any cosm. Their long lives, natural
+affinity with magical energy, and ability to
+understand and memorize complex patterns make
+them natural spellcasters.
+When an Elven Sorcerer fails to cast a spell, he
+suffers 1 less Shock. This can reduce Shock loss to
+0 if the elf also has the Resilient Perk (page 105)."}
+{:name "Warden"
+ :type "ELF"
+ :Cosm "Aysle"
+ :Prereq "Elf"
+ :description "Elven wardens roamed the wilderness of Aysle
+before Uthorion’s Rage, always alert for threats to
+the good folk. After the Dark One’s hordes marched
+through their forests, the wardens’ numbers went
+from thousands to less than a hundred.
+Strangely, most of those survivors came to Earth.
+They are tight-lipped as to why, but seem to bear
+some secret shame over their people’s inability
+to stop the High Lord before his attention shifted
+to Core Earth.
+Wardens are independent, stealthy, and cunning,
+and many are accompanied by animals they have
+befriended in the wild (see White Wolf, below).
+Wardens treat stealth and tracking as Favored skills."}
+{:name "White Wolf"
+ :type "ELF"
+ :Cosm "Aysle"
+ :Prereq "Warden"
+ :description "Elven wardens often take white wolves as
+companions (not pets), and the two live, fight, and
+die together from the moment of bonding on.
+This Perk grants an elven warden a loyal white
+wolf who follows basic commands and fights to
+the death to defend his master. The animal is as
+smart as the most well-trained dog of Core Earth,
+meaning it can select targets intelligently, defend a
+particular person or location, or retrieve an object
+if it’s seen it before. The owner can also designate
+“rally spots“ the wolf can go to or wait, though this
+must be done ahead of time with a hand signal or
+command at the particular location. This is useful
+for those times a warden must go into a city or
+place the wolf might be unwelcome or endangered.
+In game terms, the player should control the wolf
+most of the time, choosing his targets, rolling his
+attacks, and so forth.
+White wolves do not have Possibilities, but the
+warden can spend his Possibilities (and Destiny
+cards) for the creature—even if they are separated.
+When a white wolf is slain, its spirit goes into a
+shadowy nether realm, gathering power and form
+until it can return to the land of the living at the
+beginning of the next act.
+If the wolf’s master falls, it permanently loses a
+point of Shock every 24 hours until it fades away
+to the spirit world, never to return.
+Attributes: Charisma 7, Dexterity 8, Mind 5, Spirit
+9, Strength 8
+Skills: Dodge 10, intimidation 10, stealth 10,
+tracking 8, unarmed combat 10
+Move: 12; Tough: 8; Shock: 9; Wounds: 2
+Possibilities: Never
+Perks: —
+Special Abilities:
+• Bite/Claws: Strength +2 (10)."}
+{:name "Conviction"
+ :type "FAITH"
+ :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+ :Prereq "Miracles, at least three adds in faith."
+ :description "The chosen true believers can better weather the
+trials and tribulations of failure. When a character
+with Conviction fails to invoke a miracle he suffers
+one less Shock than usual."}
+{:name "Miracles"
+ :type "FAITH"
+ :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+ :Prereq "At least one add in faith."
+ :description "Some Storm Knights walk with the power of light
+on their side. Whether it comes from their god or
+the eternal forces of creation, the hero is blessed
+with the ability to call forth miracles.
+The character begins with the ward enemy miracle
+and two others chosen from the cosm-specific
+Miracles Lists on page 199. See Miracles on page 
+196 to find out how to cast them and what happens
+should the invocation fail.
+New Miracles: This Perk may be taken more than
+once. Each time after the first, it grants the user one
+additional miracle."}
+{:name "Lay on Hands"
+ :type "FAITH"
+ :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+ :Prereq "At least three adds in faith."
+ :description "Those touched by divine forces bring relief to
+those in pain. By touching an ally and making a
+faith test as an action (−2 if the ally is of a different
+faith), a character removes 1 point of Shock with a
+Standard success, 2 with a Good success, and 3 for
+an Outstanding success.
+This may only be done once per character per
+scene. It may not be used on the chosen herself.
+Using this Perk causes a Contradiction if the local
+Spirit Axiom isn’t 8 or higher.
+ Unconscious characters restored in this way
+wake up immediately and may act that turn,
+though Stymied."}
+{:name "Protected"
+ :type "FAITH"
+ :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+ :Prereq " At least one add in faith."
+ :description "Divine beings do not like to see their champions
+slain by the forces of evil. The chosen has +2
+Toughness against attacks made by supernatural
+evil creatures (Game Master’s call, but usually
+includes gospog, ghosts, demons, etc.)."}
+{:name "Spirit Bane"
+ :type "FAITH"
+ :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+ :Prereq "At least one add in faith."
+ :description "The Storm Knight gains the ability to affect beings
+with the Ethereal Special Ability, such as ghosts,
+with unarmed combat or melee weapons."}
+{:name "Block Strike"
+ :type "KI POWERS"
+ :Cosm "Pan-Pacifica"
+ :Prereq "Spirit 8+, at least three adds in unarmed
+combat."
+ :description "When a foe misses the martial artist with a melee
+attack, she may take one Shock to immediately make
+a melee attack of her own against that opponent."}
+{:name "Focused Strike"
+ :type "KI POWERS"
+ :Cosm "Pan-Pacifica"
+ :Prereq "Spirit 8+, at least three adds in melee
+weapons or unarmed combat."
+ :description "The hero summons all his concentration and
+strikes at a foe’s most vulnerable point. After
+generating a melee weapons or unarmed combat
+damage total, she may take one Shock to give her
+attack Armor Piercing 4. This stacks with any other
+applicable Armor Piercing ability."}
+{:name "Ki Strike"
+ :type "KI POWERS"
+ :Cosm "Pan-Pacifica"
+ :Prereq "Spirit 8+, at least three adds in melee
+weapons or unarmed combat."
+ :description "The warrior can focus her ki energy into a
+devastating blow. After generating a melee damage
+total (melee weapons or unarmed combat), she may
+take one Shock to increase the final amount by +2."}
+{:name "Bolster"
+ :type "LEADERSHIP"
+ :Cosm "Any"
+ :Prereq "Charisma 8+, at least one add in reality."
+ :description "A true leader can empower his allies with a stern
+gaze, a short speech, or some other act that steels
+their resolve against adverse circumstances.
+Characters with this Perk can spend a Possibility
+to counter any Disadvantage affecting his party
+on the current Drama card’s Conflict Line. This
+completely negates the Conflict Line for his side,
+but has no effect on the rivals’ result. It can be done
+at any time the card is still active."}
+{:name "Followers"
+ :type "LEADERSHIP"
+ :Cosms "Any"
+ :Prereq "Charisma 8+, and the character must
+have successfully played a Glory card."
+ :description "Followers may be taken multiple times. The
+first time it’s taken, the Storm Knight has a single
+follower of some sort. The character is an Ord 
+created by the Game Master with 36 points of
+attributes and 12 points in skills. Each additional
+time this Perk is selected either add an additional
+follower, or an existing follower may gain a Perk
+(player’s choice).
+The player character controls these followers in
+most situations. They are loyal for the most part,
+but not suicidal. Losses are replaced at the start of
+the next act, or as soon as it makes sense in the story
+(Game Master’s decision). New followers don’t just
+show up in the middle of the Living Land looking
+for someone. But the group might stumble upon
+a settlement and find men and women willing to
+join the group after they’ve shared food and tales
+of the Storm Knights’ adventures."}
+{:name "Natural Leader"
+ :type "LEADERSHIP"
+ :Cosms "Any"
+ :Prereq "Charisma 8+"
+ :description "The character may spend a Possibility to
+immediately play two cards from her hand into
+any other characters’ Action Pools. This may be
+done at any time as a free action."}
+{:name "Rally"
+ :type "LEADERSHIP"
+ :Cosms "Any"
+ :Prereq "At least three adds in persuasion."
+ :description "A good leader can inspire those around her to
+overcome their wounds or exhaustion, carrying on
+no matter how difficult the odds.
+The leader may spend a Possibility to remove
+2 Shock from all allied characters in range of his
+voice (even remotely). This is a simple action, and
+requires a few encouraging words, gestures, or
+even supportive facial expressions to carry out."}
+{:name "Detect Darkness"
+ :type "LIGHT"
+ :Cosms "Aysle"
+ :Prereq "Radiant"
+ :description "Once per scene, a radiant Storm Knight may
+make an opposed Spirit test against a chosen target.
+If the hero wins, he knows whether or not the target
+has any Darkness Perks. With a Good success he
+knows one Darkness Perk the target possesses (if
+any), and all of them with an Outstanding success."}
+{:name "Radiant"
+ :type "LIGHT"
+ :Cosms "Aysle"
+ :Prereq "None"
+ :description "The Light runs through the Storm Knight’s blood.
+She doesn’t always do the right thing, but she tries,
+and it eats at her when she cannot.
+When a Radiant hero engages in combat with at
+least one supernaturally evil foe (Game Master’s
+call), she draws an additional card at the start of
+the fight. She may also add any one of her cards to
+her pool at the start of the fight."}
+{:name "Raise the Dead"
+ :type "LIGHT"
+ :Cosms "Aysle"
+ :Prereq "Radiant, at least three other Light Perks."
+ :description "A radiant Storm Knight can attempt to raise
+the recently slain (generally within an act). The
+character makes a Spirit test for the attempt, and
+gains a +2 bonus if the recipient has Light Perks, or
+−4 if the target has Darkness Perks.
+This attempt may only be made once. If the roll
+is failed, the deceased may not be raised with
+this ability."}
+{:name "Rejuvenate"
+ :type "LIGHT"
+ :Cosms "Aysle"
+ :Prereq "Radiant"
+ :description "Once per scene, the character can touch any
+one ally and remove five points of Shock. This is
+a simple action. Unconscious characters wake up
+immediately and may act that turn."}
+{:name "Righteousness"
+ :type "LIGHT"
+ :Cosms "Aysle"
+ :Prereq "Radiant"
+ :description "When battling supernaturally evil creatures, the
+righteous hero adds +2 damage to all of his melee
+weapons or unarmed combat tests. The Game Master
+decides if a particular creature is affected (see
+Supernatural Evil on page 273)."}
+{:name "Alchemy"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "At least 3 adds in Science."
+ :description "In the fear-soaked world of Orrorsh, mortals
+have learned many different skills to fend off
+the forces of darkness. Perhaps none are more
+powerful or varied than their mastery of arcane
+chemical concoctions.
+Alchemy allows a character to create and charge
+magical potions with a variety of effects. They may
+drink them, give them to allies, apply them as unguents
+to surfaces, or even throw them like grenades.
+Choose any three of the potions below. Alchemists
+channel magical energy, so they may have no more
+than three potions in existence at any one time. If
+more are created, they have no magical “spark“ and
+simply fail to work. The player must record which
+potions are currently prepared and mark them off
+as they are used.
+Creating new potions requires 30 minutes plus
+10 minutes per concoction, and a small portable
+kit of assorted chemicals, reagents, and equipment.
+Using Potions: Drinking a potion, elixir, or
+similar concoction is a simple action. Drinking up
+to three potions is a standard action.
+Some potions are used in glass grenades. These
+use the missile weapons skill and have a Range of
+5/10/15, and detonate on impact as long as they hit
+some sort of solid surface.
+Extra Potions: This Perk may be taken more than
+once. Each time after the first the Alchemist learns
+a new potion and may have one more potion in
+existence at once."}
+{:name "Alchemy • Demon’s Breath"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Alchemy"
+ :description "Alchemists discovered
+these dreadful draughts by accident, but were
+eventually able to turn them into fearsome
+weapons. The potion is thrown inside a glass
+container. On impact, everything in a Small
+Blast Radius is engulfed in yellow-green fire
+that causes 16 fire damage (see Fire on page
+136)."}
+{:name "Alchemy • Elixir of Enhancement"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Alchemy"
+ :description "Choose an attribute
+each time this choice is selected. When
+imbibed, the potion increases that attribute
+by +2 for one minute. An elixir of Dexterity,
+for example, increases Dexterity by two points
+for one minute. When the elixir wears off, the
+character suffers a −2 penalty to the affected
+attribute for one hour."}
+{:name "Alchemy • Elixir of Life"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Alchemy"
+ :description "Drinking this potent concoction
+immediately removes all Shock."}
+{:name "Alchemy • Iron Sheen"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Alchemy"
+ :description "While priests’ blessings are
+the preferred method of allowing Victorian
+soldiers to affect the ethereal horrors of their
+world, alchemists have developed an oil of
+their own as well. As an action, an application
+can coat a sword, three knives, arrows, or
+bolts, a single cannonball, or up to six bullets.
+The weapons or projectiles can then harm
+creatures with the Ethereal Special Ability
+for the duration of the scene. The magical
+effects wear off quickly, so items may not be
+“sheened“ and stored."}
+{:name "Alchemy • Thunder Brew"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Alchemy"
+ :description "This explosive brew is
+placed inside a glass container and used as a
+grenade. It detonates on impact, potentially
+concussing anyone in a Medium Blast. Those
+affected must make a standard Strength test.
+Those who pass suffer 2 Shock; those who
+fail are KO’ed."}
+{:name "Bulletsmith"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "At least 2 adds in science."
+ :description "Adventurers of Orrorsh long ago learned lead
+bullets and steel blades were no match for the
+horrors of their realm. Alchemy proved a great help
+to their cause, and some intrepid souls eventually
+combined that arcane craft with the more practical
+skill of marksmanship.
+When this Perk is taken, the user has a “slayer’s
+gun“ and knows how to create various rounds
+for it. He receives his weapon and the knowledge
+to make basic metal slugs (damage 14) and any
+three of the specialized rounds below. Crafted for
+close encounters, the short-barrel carbine design
+of the slayer’s gun allows it to be used in melee
+like a pistol.
+Because the bullets are necessarily large and
+require exacting specifications, monster hunters
+who make use of them have standardized a sixchambered, carbine-style gun to fire them—the
+rounds don’t work in any other kind of weapon.
+• Slayer’s Gun: Range 50/100/200, damage 14,
+Shots 6.
+Bulletsmiths can keep and maintain up to six
+special bullets as long as they have access to their
+gear (which always contains a small bullet-making
+kit). If more rounds are created, they lose the magical
+essence the Bulletsmith inherently provides and act
+as regular slugs (damage 14). Replacement rounds
+may be created between scenes, or during downtime if the Game Master feels it’s appropriate.
+Slayer’s guns are designed to rotate quickly and
+so can fire any one of their preloaded six chambers
+(specified before use). Swapping or reloading up
+to three rounds is an action.
+Slayer’s Bandoleer: Monster hunters wear a
+specialized bandoleer designed to hold 18 shells
+total (12 regular shells and their six special rounds).
+Extra Shells: This Perk may be taken more than
+once. Each time after the first the Bulletsmith learns
+to make a new type of shell and may maintain two
+more special rounds at a time.
+Here are some of the shells Bulletsmiths have
+thus far discovered:"}
+{:name "Bulletsmith • Adamant Shell"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Bulletsmith"
+ :description "Some of the Victorians’ foes
+are armored from head to toe with metal,
+scales, or even a carapace. These shells are
+designed to cut through them, causing Armor
+Piercing 4."}
+{:name "Bulletsmith • Electric Shell"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Bulletsmith"
+ :description "Water-based creatures or
+creatures standing in water take an additional
++4 damage when hit by electric shells. A
+previously unknown side-effect of these
+rounds is that they can cause glitches in
+high-tech electronic equipment. Robots and
+machines take the extra damage, and sensitive
+equipment shorts out and is inoperable for
+three rounds."}
+{:name "Bulletsmith • Explosive Shell"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Bulletsmith"
+ :description "The most dangerous of the
+Bullet Smith’s shells causes damage 15 in a
+Small Blast Radius."}
+{:name "Bulletsmith • Giant Killer Shell"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Bulletsmith"
+ :description "The Victorians developed
+these heavy shells to take down the Gaunt
+Man’s biggest horrors. They cause +5 damage
+against Large or greater creatures."}
+{:name "Bulletsmith • Holy Water Shell"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Bulletsmith"
+ :description "+2 damage versus any
+supernaturally evil creature, including
+gospog, vampires, and undead."}
+{:name "Bulletsmith • Phantom Shell"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Bulletsmith"
+ :description "These rounds are made from
+various reagents such as cold iron, salt, and
+holy water that allows them to affect ethereal
+creatures normally."}
+{:name "Bulletsmith • Silver Shell"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Bulletsmith"
+ :description "Creatures with the Lycanthrope
+Special Ability take +4 damage from silver
+shells."}
+{:name "Bulletsmith • Sun Shell"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Bulletsmith"
+ :description "These rounds contain something
+the alchemists call “liquid sunlight.“ They
+explode with ultraviolet light in a Medium
+Blast, causing any creatures “hit“ by them to
+be Very Vulnerable if they have a sensitivity
+to light or sunlight. Most creatures that can
+see in darkness are affected by sun shells."}
+{:name "Demoniacal Frenzy"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "None. The Gaunt Man eagerly awaits
+your descent into madness."
+ :description "The dire nature of combat drives many souls to
+pure fury and rage, but warriors of Orrorsh can call
+on far darker forces if they wish.
+Once per act, an Orrorshan with this Perk may
+add +2 to his melee or unarmed attack totals for the
+remainder of a scene. At the end of the scene, the
+hero must make a Corruption test (see page 55)."}
+{:name "Diabolist"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Spellcaster"
+ :description "Most Orrorshan sorcerers skirt the edges of the
+Abyss when they learn the arcane arts. Diabolists
+jump right into the inferno, entreating with
+demons, devils, and all manner of foul beings for
+additional power.
+Once per act, a Diabolist may add +5 to her next
+three magical skill totals. When the act ends or the
+final spell is resolved she must make a Corruption
+test at –2 (see page 55)."}
+{:name "Medals"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "See the individual medals."
+ :description "Victorians are status conscious, and few are held
+in higher esteem than their heroes. The Victorians
+show this regard by awarding medals to the brave,
+the ingenious, and the intrepid. Sometimes the
+medals become imbued with their intent and aid
+the recipient in their quest to save Gaea.
+New Medals: This Perk may be taken as desired
+during character creation. Afterwards, it may be
+taken multiple times, but only after completing
+the event described in the individual awards. The
+Dragon Slayer, for example, is awarded only after
+dealing the final blow to a huge monster.
+Medals don’t arrive instantly, of course, but
+may be delivered by courier after the Home Office
+receives dispatches testifying to the deed, a loved
+one receives letters, or the press announces it to
+the world. The Delphi Council understands the
+mystical nature of these awards, however, and
+assists the Victorians in delivering them when
+possible. Work with the Game Master to figure
+out the timing of the medal itself, but it should
+generally occur no later than the act after it was
+earned. The Perk may be purchased once the medal
+itself is in hand.
+A medal must be awarded and worn to grant its
+power. They grant no bonuses to others.
+Medals may be awarded to outsiders from
+other cosms, but only have powers for those of
+Orrorsh’s reality.
+Unless an award says otherwise, it is never
+granted more than once."}
+{:name "Medals • Carnifex Princeps"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Medals"
+ :description "The Victorians know
+exactly who the Gaunt Man is. This award
+is granted to anyone who takes part in the
+killing of a ravagon, his fiercest lieutenants.
+The hero draws and adds an additional card
+to his hand at the start of any Dramatic Scene."}
+{:name "Medals • Defender"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Medals"
+ :description "Awarded to those who rescue or
+defend a significant number of people, such
+as a school or town, at great personal risk.
+The hero starts each act with one additional
+Possibility."}
+{:name "Medals • Dragon Slayer"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Medals"
+ :description "Awarded to those who defeat
+a very large and powerful monster. The 
+character adds +1BD to all damage totals
+against all Large or greater-sized creatures
+(not vehicles or constructs) when Attack is
+an Approved Action."}
+{:name "Medals • Order of Cynthia Bartholomew"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Medals"
+ :description "Awarded
+for helping the injured or poor under great
+threat or for an extended period. “Ms.
+Bart,“ as the poor called her, was a Victorian
+humanitarian who always helped the poor
+and downtrodden. Once per act, the recipient
+can touch an ally to remove all Shock. This is
+a simple action."}
+{:name "Medals • Victoria Gloriana"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Medals"
+ :description "Awarded after personally
+playing a Glory card. This prestigious award
+is only granted to the country’s greatest
+heroes. The medal grants a +1 bonus to any
+one attribute and its linked skills, chosen
+when the medal is awarded. Note that if the
+medal is worn and the attribute or linked skill
+is used, it does cause a Contradiction."}
+{:name "Medals • Possibility Wars Campaign Medal"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "Medals"
+ :description "Awarded
+to any Storm Knight who participates in a
+Glory event. The medal is awarded per cosm,
+and may be used once per act to restore one
+bonus die of Shock. This does not require an
+action and may be used at any time."}
+{:name "Occultist"
+ :type "OCCULT"
+ :Cosms "Orrorsh"
+ :Prereq "At least two adds in scholar."
+ :description "Occultists are experts in not just the lore and
+legends of the various horrors that haunt their
+home, but their habits, traits, tell-tale signs, and
+most importantly, how to stop them!
+At the start of any fight against a supernaturally
+evil creature (GM’s call, but see the Supernatural
+Evil sidebar on page 273), the Occultist makes a
+scholar roll.
+He then draws one Destiny card with a Standard
+success, two with a Good success, or three
+with an Outstanding result. He keeps one and
+discards any others.
+Whether he made the scholar test or not, the
+Occultist may then choose any one of his cards and
+place it directly in his pool."}
+{:name "Occultech Implants"
+ :type "OCCULTECH"
+ :Cosms "Tharkold"
+ :Prereq "Strength 8+"
+ :description "When the character takes this Perk, she may
+choose up to $10,000 worth of occultech. These
+implants have been properly exorcised of any
+demonic influence. See the list of Tharkoldu
+Occultech on page 160.
+New Implants: This Perk may be taken more than
+once. Each time after the first, it grants the user
+another $5,000 worth of implants.
+OUTSIDER
+Cosm: Aysle
+Though most denizens of Aysle ally to the Light
+or Darkness, there are those who hew a different
+path. The barbarians of the cold reaches, some of
+the sea-raiders who didn’t ally with Uthorion, and
+even wild elves and rogue dwarves may “Walk the
+Gray.“ The rest of Aysle call these the Outsiders."}
+{:name "Berserk"
+ :type "OUTSIDER"
+ :Cosm "Aysle"
+ :Prereq "Spirit 8+"
+ :description "Some warriors become so enraged in the heat of
+combat they often become a danger to their own
+allies—and a cyclone of death to their foes!
+When a Berserker suffers a Wound, she
+automatically becomes enraged. She charges the
+nearest enemy regardless of danger and engages
+in hand-to-hand combat.
+For the rest of the encounter, the warrior adds
+her Wound penalties to her melee weapons or
+unarmed combat damage. If she takes Shock in
+excess of her limit, she doesn’t fall immediately
+but instead makes a Spirit roll at the start of each
+turn thereafter. If a test fails, she’s KO’ed as usual. 
+If the test succeeds she fights on, rolling again at
+the start of each turn. A Berserker can stop testing
+Spirit if Shock is restored.
+A Berserker is dangerous to her own, however. If
+she rolls a Mishap on a melee weapons or unarmed
+combat test (and the GM decides it’s possible), she
+hits an ally for her normal damage plus one bonus
+die. The Game Master can choose the target that
+makes the most sense or select one randomly if the
+situation is unclear."}
+{:name "Magic Resistance"
+ :type "OUTSIDER"
+ :Cosm "Aysle"
+ :Prereq "The character may not have the
+Spellcaster Perk."
+ :description "Though many Outsiders embrace and use magic
+themselves, some reject it and eventually
+become resistant. Magical spells suffer a –2
+penalty when cast against a character with
+Magic Resistance. This includes friendly
+spells as well! Miracles and psionic
+powers are unaffected by this Perk."}
+{:name "Bodyguard"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "At least two adds in maneuver."
+ :description "The character selflessly puts herself in
+harm’s way, protecting friends and allies
+with her own body. Once it’s determined
+a nearby ally has been hit by a physical
+attack (ranged or melee), the Bodyguard
+may redirect the attack to herself instead.
+The damage affects her normally. She may
+do this once per turn."}
+{:name "Brawler"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "At least two adds in unarmed
+combat."
+ :description "The fighter hits hard thanks to anything from
+dirty tricks and a good uppercut to training in
+karate, jujitsu, tae kwon do, or similar hand-tohand fighting styles. Characters with this Perk
+cause Strength +2 damage with their bare
+hands when attacking with unarmed combat. This
+stacks with any other unarmed combat bonuses such
+as an edeinos’s claw attack.
+More advanced and exotic techniques are taught
+in Pan-Pacifica under the Ki Powers Perks."}
+{:name "Brute"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "Strength 8+"
+ :description "The character can always use Strength when
+testing for Defeat, regardless of her Spirit."}
+{:name "Double Tap"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "At least 2 adds in energy weapons or
+fire combat."
+ :description "Anyone can fire two shots from a weapon, but a
+well-trained marksman can make that extra shot
+really count. The character gains the option
+of firing two bullets at a target and gain a +1
+bonus to attack."}
+{:name "Endurance"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "None"
+ :description "This Storm Knight doesn’t know how
+to quit. His Shock limit increases by +2."}
+{:name "Hard to Kill"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "At least two other
+Prowess Perks."
+ :description "The warrior’s Wound limit
+ increases by +1."}
+{:name "Indomitable"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "None"
+ :description "When the character attempts an
+Active Defense the test is Favored."}
+{:name "Mastery"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "5 adds in the chosen skill."
+ :description "Player character Storm Knights
+cannot normally increase their skill
+adds to more than +5. But some are
+adept at very specific skills, such as a
+world class marksman, a top computer
+hacker, or a master swordsman.
+The Mastery Perk allows your hero
+to increase any one skill beyond +5
+adds to a maximum of +8. Skill adds
+are still purchased with Experience
+Points—the Perk simply allows you to do so."}
+{:name "Relentless"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "Strength 10+"
+ :description "The most furious fighters put everything they
+have into their blows.
+When the character successfully uses the AllOut Attack option in melee, he can spend 3
+Shock to add an extra bonus die to the damage.
+This stacks with the usual bonus damage from
+Good and Outstanding results. The warrior must
+have the available Shock to spend or the ability
+doesn’t function."}
+{:name "Situational Awareness"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "Mind 8+"
+ :description "Veteran Storm Knights become hyper-aware of
+their surroundings when danger nears, marking
+exits, reading their foes’ intent, and knowing when
+and where to maneuver next.
+Once per scene, a character with Situational
+Awareness may play a single card directly from her
+hand into her pool (and use it immediately if desired)."}
+{:name "Sniper"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "At least 3 adds in energy weapons, fire
+combat, or missile weapons."
+ :description "When the character uses Aim (page 119) on a
+single ranged attack against a single foe, she adds
+an extra bonus die to the damage. This stacks
+with the usual bonus damage from Good and
+Outstanding results."}
+{:name "Survivor"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "None"
+ :description "Whether she’s blessed by fate, destined for some
+greater end, or just tough as nails, this Storm Knight
+is hard to kill. She ignores all Wound penalties
+when testing for Defeat (page 117)."}
+{:name "Strong-Willed"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "Spirit 8+"
+ :description "The character can always use Spirit when testing
+for Defeat, regardless of her Strength."}
+{:name "Trademark Weapon"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "None"
+ :description "The Storm Knight is known for one particular
+weapon. When an attack with the weapon results
+in bonus damage, the player may reroll any 1s and
+accept the new result.
+If the weapon is ever lost, the Game Master
+should eventually allow him to replace it, usually
+at the start of the next act."}
+{:name "Vengeful"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "Spirit 8+"
+ :description "Revenge isn’t always a bad thing. When a
+Vengeful character suffers a Wound, she gets an Up
+result on the next action taken against the offender
+in the same scene. This doesn’t stack with other Up
+results. The Wound must actually be sustained, not
+taken and then Soaked, for example."}
+{:name "Whirlwind"
+ :type "PROWESS"
+ :Cosms "Any"
+ :Prereq "Dexterity 8+"
+ :description "The warrior has trained to hit a large number of
+foes in a single dance of death. He ignores the first
+two points of the Multi-Target penalty when using
+melee weapons (see Multi-Targeting on page 125)."}
+{:name "Iron Will"
+ :type "PSIONICS"
+ :Cosms "Core Earth, Pan-Pacifica, Tharkold"
+ :Prereq "Psionic"
+ :description "This mentalist has learned to defend herself
+against rival psionicists. Psionic attacks against her
+suffer a −2 penalty."}
+{:name "Multi-Tasker"
+ :type "PSIONICS"
+ :Cosms "Core Earth, Pan-Pacifica, Tharkold"
+ :Prereq "Knowledge of at least 5 powers."
+ :description "The most efficient psis learn to trigger multiple
+powers at once, perhaps erecting a psychic screen
+while launching a synaptic strike.
+A psi with this Perk may activate two different
+powers in a single turn as part of a Multi-Action."}
+{:name "Overcharge"
+ :type "PSIONICS"
+ :Cosms "Core Earth, Pan-Pacifica, Tharkold"
+ :Prereq "Psionic, Spirit 10+"
+ :description "The character can boost her psionics ability at the
+risk of seriously damaging herself or possibly even
+dying. She may roll another d20 and add it to the
+die roll. This die roll is in addition to rolls from
+Ups or a spent Possibility. Once the test is resolved,
+the psi immediately suffers one Wound that may
+not be Soaked."}
+{:name "Psionic"
+ :type "PSIONICS"
+ :Cosms "Core Earth, Pan-Pacifica, Tharkold"
+ :Prereq "At least one add in kinesis, precognition,
+or telepathy."
+ :description "Psionicists or “psis“ tap into the collective
+consciousness—represented by the Social Axiom—
+for incredible powers. They can use this to read
+minds, move matter and energy, and sometimes
+even see or predict aspects of the future.
+Psionics can develop anywhere the Social Axiom
+is high enough, but like magic or miracles, just
+because it can doesn’t mean it has yet.
+When the Psi takes this Perk, she may choose any
+three powers from her cosm’s Power List on page
+206. Power descriptions and how to manifest them
+are explained in Psionics on page 204.
+New Powers: This Perk may be taken more than
+once. Each time after the first, it grants the user one
+additional power."}
+{:name "Electro-Ray"
+ :type "PULP POWERS"
+ :Cosms "Nile Empire"
+ :Prereq "None."
+ :description "The hero can fire a powerful bolt of electricity. He
+attacks using energy weapons or Dexterity and causes
+13 damage. The ray has range 10/25/50, Ammo 5,
+and regenerates 1 shot each round.
+Dangerous When Wet: Increase the damage
+by +2 in light rain or if the target is standing in a
+puddle, and +4 in heavy rain or if the target is in
+water up to his ankles or higher.
+Enhancements:
+• Damage: The damage is increased to 15.
+• Rapid Fire: The character may use the Short
+Burst option when using his Electro-Ray.
+• Shots: The power now holds 10 shots.
+• Small Blast Radius: The ray gun affects
+everyone in a Small Blast Radius."}
+{:name "Flight"
+ :type "PULP POWERS"
+ :Cosms "Nile Empire"
+ :Prereq "None"
+ :description "The caped crusader can fly! She can soar into the
+clouds, over the oceans, or across the burning sands
+without ever touching the ground.
+The hero may fly up to her walking speed. She
+may “rush“ up to 8× that speed but incurs a –2
+penalty to any other actions performed during her
+turn. She uses Dexterity to maneuver.
+Enhancements:
+• Aerial Acrobatics: The flyer remains in
+constant motion. As long as she’s flying, has
+room to maneuver, and isn’t caught FlatFooted, ranged attacks against her suffer a
+–2 penalty to hit.
+• Control: The hero incurs no penalty when
+rushing.
+• Speed: The flyer can move up to 150 meters
+per round (Value 11)."}
+{:name "Force Field"
+ :type "PULP POWERS"
+ :Cosms "Nile Empire"
+ :Prereq "None"
+ :description "A shield of invisible energy surrounds the hero.
+The force field has three “charges.“ Each time the
+hero suffers a Wound, the field expends a charge
+to block the wound and 2 Shock.
+The field recharges at the rate of one
+charge per hour.
+Enhancements:
+• Power: The field has 5 charges.
+• Recharge: The field regains a charge every
+10 minutes.
+• Size: The field can be used to protect an
+adjacent ally."}
+{:name "Mind Control"
+ :type "PULP POWERS"
+ :Cosms "Nile Empire"
+ :Prereq "None"
+ :description "This invasive power allows a crimefighter to
+control his foes, turning them into puppets who
+dance on the ends of his mental strings.
+Mind Control allows a pulp hero to control a
+single foe. This is a contest of willpower or Mind.
+Apply a −4 penalty if the target is in a hostile state
+(such as in combat). If the Mind Controller loses the
+contest, the target’s mind is off-limits the remainder
+of the scene.
+If a target is tasked with something drastically
+against his nature, such as harming an ally or
+himself, he gets an immediate Mind or willpower
+test to resist. The GM should modify this as she sees
+fit—+4 to resist harming a loved one or
+oneself, +2 to resist harming his allies.
+If a subject breaks free due to such a
+test, he cannot be controlled again
+during that scene.
+How long Mind Control lasts
+depends on the success level:
+• Standard: Until the end of the
+target’s next turn, or about 10
+seconds out of combat.
+• Good: One minute.
+• Outstanding: Until the
+end of the current scene.
+Enhancements:
+• Charisma: The hero
+may use persuasion
+or Charisma instead
+of willpower or Mind.
+(The target resists
+normally.)
+• Control: Negate the
+–4 penalty for hostile
+targets.
+• Power: Any bonus to
+resist an act against the
+target’s nature is reduced
+by 2."}
+ {:name "Super Attribute"
+  :type "PULP POWERS"
+  :Cosms "Nile Empire"
+  :Prereq "Attribute selected
+must be 10 +."
+  :description "Super Attribute allows a
+pulp hero to exceed normal
+maximums of Charisma, Dexterity,
+Mind, Spirit, or Strength. She is a
+paragon of one of these virtues with few rivals in
+the Nile Empire.
+When taken, Super Attribute increases a
+selected attribute by +1.
+The Nile Empire is a pulp realm—not a
+world of four-color superheroes—so Super
+Attribute may only be taken once (not once
+per attribute). Choose wisely!
+Super Attribute increases the attribute
+limit a like amount.
+Enhancements:
+• Power: The attribute and its limit are
+increased to +2."}
+{:name "Super Skill"
+ :type "PULP POWERS"
+ :Cosms "Nile Empire"
+ :Prereq " At least three adds in the selected
+skill."
+ :description "The pulp hero is exceptionally good at something.
+Maybe he’s a crack shot in fire combat, a mind
+unrivaled in science, or has a wit that cuts his foes
+to the bone via taunt.
+When Super Skill is taken, the character increases
+any one skill by two adds. She may exceed the
+usual maximum of +5 adds without taking the
+Mastery Perk. (If the character has the Mastery
+Perk, it stacks with Super Skill.) This stacks with
+all other skill increases and allows a pulp hero
+to reach superhuman levels of competency far
+faster than most.
+Like Super Attribute, the champion may only
+take this Perk once—she cannot have more than
+one Super Skill.
+Enhancements:
+• Favored: The skill is considered Favored.
+• Power: The skill is increased to +4 adds."}
+{:name "Adaptable"
+ :type "REALITY"
+ :Cosm "Core Earth"
+ :Prereq "Realm Runner"
+ :description "The Realm Runner doesn’t cause Contradictions
+when using equipment, spells, miracles, or powers
+supported by the local zone, even if the axioms are
+beyond his own personal reality."}
+{:name "Axiom Increase"
+ :type "REALITY"
+ :Cosm "Core Earth"
+ :Prereq "None"
+ :description "This Perk may be taken multiple times. The Storm
+Knight may increase any one of her axioms by one 
+each time this Perk is chosen. See page 178 for
+more on axiom levels and Contradictions."}
+{:name "Grant Possibilities"
+ :type "REALITY"
+ :Cosm "Core Earth"
+ :Prereq "Charisma 8+"
+ :description "Storm Knights cannot normally give others
+their Possibilities, but those with this Perk can!
+Granting a Possibility is a free action that can be
+done at any time. The character must be in verbal
+or visual contact with the recipient somehow, but
+can otherwise cross any distance or barrier (except
+an invoked reality storm—see page 220)."}
+{:name "Negation"
+ :type "REALITY"
+ :Cosm "Core Earth"
+ :Prereq "None"
+ :description "When an enemy attempts to spend a Possibility
+for an attribute or skill test, the Storm Knight may
+spend her own Possibility to instantly negate it.
+This is a free action she can perform as long as she’s
+aware of the rival’s action.
+Negation may not be used to stop a foe from
+Soaking Wounds with Possibilities."}
+{:name "Prodigy"
+ :type "REALITY"
+ :Cosm "Core Earth"
+ :Prereq "None"
+ :description "The character is filled with Possibility Energy.
+She begins each act with an extra Possibility. This
+stacks with any other ability that grants additional
+Possibilities."}
+{:name "Realm Runner"
+ :type "REALITY"
+ :Cosm "Core Earth"
+ :Prereq "None"
+ :description "The Storm Knight has a natural feel for
+manipulating reality. He ignores four points of
+reality penalties when attempting to reconnect,
+and may ignore disconnection the first time it
+happens in each act."}
+{:name "Storm Caller"
+ :type "REALITY"
+ :Cosm "Core Earth"
+ :Prereq "At least three other Reality Perks."
+ :description "The Storm Knight can engage another reality-
+-rated character in a reality storm. See page 220
+for a complete description."}
+{:name "Storyteller"
+ :type "REALITY"
+ :Cosm "Core Earth"
+ :Prereq "Charisma 8+"
+ :description "After a Glory card is played, the zone fills with
+ambient Possibility Energy. A Storm Knight with
+the Storyteller Perk can spread the tale of the deed
+and directly utilize that Possibility Energy.
+Telling the tale requires an audience, a
+performance of the teller’s choosing (narration, a
+song, etc.), and a persuasion test vs the standard
+zone modifiers (−4 in a Dominant Zone and –8 in
+a Pure Zone).
+Tales may be told once per act, and only in a zone
+where the Storyteller took part in playing a Glory
+card within the last month. The performer doesn’t
+have to have played the card himself, he just has
+to have been present at the event.
+The Storyteller gains a separate pool of Possibilities,
+one on a standard success, two on a Good, and
+three on an Outstanding. For the rest of the act,
+the Storm Knight can spend these Possibilities for
+himself or for anyone who heard the tale (GM’s
+call)—including Ords! This is a free action.
+Note that telling tales of the Storm Knights’ deeds
+almost always attracts attention from the High
+Lords and their minions. All the Reality Raiders
+are quick to hunt down such thorns in their sides."}
+ {:name "Tenacious"
+  :type "REALITY"
+  :Cosm "Core Earth"
+  :Prereq "Spirit 8+"
+  :description "Nothing seems to keep the hero down for long.
+Her tests to Soak damage become Favored."}
+{:name "Beast Rider"
+ :type "SAVAGERY"
+ :Cosm "Living Land"
+ :Prereq " At least three adds in beast riding."
+ :description "Edeinos and transformed humans make use of
+the various beasts of the Living Land for transport
+and battle. Some riders are particularly adept at
+combat from the back of their mounts. Interactions
+against the creature are against the beast's defense
+or the rider's, whichever is better. The rider may
+also ignore the penalty if the beast runs (see beast
+riding, page 77)."}
+{:name "Animal Companion
+ (Sabre-Tooth Cat)"
+ :type "SAVAGERY"
+ :Cosm "Living Land"
+ :Prereq "Charisma 8+"
+ :description "The great tigers of the Living Land are fearsome
+predators capable of taking down all but the largest
+dinosaurs. A smaller breed exists that seem far
+more interested in traveling with humans and
+edeinos—and less interested in eating them.
+This Perk grants the hero a sabre-tooth cat as a
+companion. It is as intelligent as the most welltrained dog so it can follow basic commands, such
+as attacking a foe it’s pointed at, protecting a person
+or area, or going to or waiting at a familiar place
+the character has marked for it.
+The player controls the cat. The Game Master
+should only take over if the pet becomes confused,
+abused, or is off on its own.
+The beast does not have Possibilities of its
+own, but the character can spend his Possibilities
+(and Destiny cards) for the creature even if they
+are separated.
+If the cat is Defeated, it should be considered
+Incapacitated instead of slain. It returns at the
+start of the next act. If it’s truly and undeniably
+killed, the character must visit the Living Land and
+spend several nights in the jungle to bond with a
+new companion.
+Sabre-tooth Cat
+Attributes: Charisma 7, Dexterity 10, Mind 5, Spirit
+8, Strength 7
+Skills: Dodge 12, find 7, intimidation 9, maneuver
+11, stealth 13, survival 7, unarmed combat 11
+Move: 14; Tough: 7; Shock: 8; Wounds: 2
+Perks: —
+Possibilities: Never
+Special Abilities:
+• Bite/Claws: Strength +2 (9)."}
+{:name "Helper"
+ :type "SOCIAL"
+ :Cosm "Any"
+ :Prereq "Charisma 8+"
+ :description "The character may take an action to speak a
+few encouraging words to an ally suffering from
+Stymied or Vulnerable conditions. She then makes a
+standard (DN 10) persuasion test. A Standard success
+eliminates one condition, Good eliminates two, and
+Outstanding removes all negative conditions. The
+affected ally decides which conditions to remove."}
+{:name "Linguist"
+ :type "SOCIAL"
+ :Cosm "Any"
+ :Prereq "Mind 8+"
+ :description "Given a brief conversation with native speakers,
+study of written words, etc., the character can speak,
+read, and write basic concepts in a language he
+has no skill adds in. This isn’t as comprehensive as
+having an actual add in the relevant language, but
+it should be enough to help the translator and his
+party speak and negotiate with the locals."}
+{:name "Wealthy"
+ :type "SOCIAL"
+ :Cosm "Any"
+ :Prereq "None"
+ :description "Some people are born into riches and prosperity,
+while others earn it the hard way. The character has
+$10,000 worth of starting gear instead of the usual
+$1,000, and persuasion or streetwise is Favored when
+testing to purchase an item or service."}
+{:name "Magister"
+ :type "SPELLCRAFT"
+ :Cosms "Aysle, Core Earth, Cyberpapacy, Nile
+Empire, Orrorsh, Tharkold"
+ :Prereq "Spellcaster, knowledge of at least 5
+spells."
+ :description "The spellcaster has reached a level of mastery
+where she can cast two different spells in the same
+turn as part of a Multi-Action. She may also use
+the same skill when doing so (see Multi-Actions
+on page 124). Casting two different spells requires
+two empty hands."}
+{:name "Resilient"
+ :type "SPELLCRAFT"
+ :Cosms "Aysle, Core Earth, Cyberpapacy, Nile
+Empire, Orrorsh, Tharkold"
+ :Prereq "Spellcaster"
+ :description "Spellcasters can eventually learn to dampen the
+effects of magical fatigue. When a Resilient sorcerer
+fails a spell he suffers one less Shock than usual."}
+{:name "Spellcaster"
+ :type "SPELLCRAFT"
+ :Cosms "Aysle, Core Earth, Cyberpapacy, Nile
+Empire, Orrorsh, Tharkold"
+ :Prereq "At least one add in alteration, apportation,
+conjuration, or divination.
+Those who delve into the arcane arts go by many
+names—mage, wizard, witch, or warlock to name a
+few. Regardless of their particular background, all
+can cast spells using any of the four primary types
+of magical skill—alteration, apportation, conjuration,
+or divination magic.
+When this Perk is taken, the mage may choose
+any three spells from her cosm’s Spell List on page
+186 for which she meets the minimum skill. Spell
+details are explained in Magic on page 184.
+New Spells: This Perk may be taken more than
+once. Each time after the first, the character learns
+one additional spell. "}
+ ]

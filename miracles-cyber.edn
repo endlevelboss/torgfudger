@@ -1,0 +1,339 @@
+[{:name "Battle Vigil"
+  "Axiom Level" 8
+  :Skill "Faith 10"
+  "Casting Time" "6 hours and see below"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "24 hours"
+  :description
+  "When a holy warrior knows a battle will occur
+the next day, he must spend the night constantly
+praying to God. He may not interrupt this praying
+for any reason, including traveling, eating, or
+sleeping, unless it is to fend off an attack, but once
+that is done, he must go back to praying. At least 6
+hours must be spent praying, and then the miracle
+is invoked at sunrise. This miracle may only be
+attempted once per day.
+On a success the Templar reduces any damage
+during any Dramatic Scene by 1 Shock.
+Fatigue: If the holy warrior fails to invoke this
+miracle, he is Fatigued and takes 2 Shock that he
+may not recover in any manner until he defeats an
+enemy in battle.
+Success Levels:
+• Good: Damage and Fatigue is reduced by 1
+Shock.
+• Outstanding: Damage or Fatigue is reduced by
+2 Shock."}
+ {:name "Computer Empathy"
+  "Axiom Level" 6
+  :Skill "Faith 8"
+  "Casting Time" "1 minute"
+  :DN "Easy (DN 8)"
+  :Range "Self"
+  :Duration "10 minute"
+  :description
+  "The priest feels the touch of God and gains an
+otherworldly understanding of using computers or
+other high technology. When successfully invoked,
+the priest’s computers tests are Favored.
+Success Levels:
+• Good: The duration increases to one hour.
+• Outstanding: As Good, but once during the
+duration the priest may declare a test Up
+instead of Favored. He must declare this before
+rolling."}
+ {:name "Cleanse"
+  "Axiom Level" 16
+  :Skill "Faith 16"
+  "Casting Time" "See below"
+  :DN "Very Hard (-6) vs. target’s dodge or Dexterity"
+  :Range "100 meters"
+  :Duration "Instant"
+  :description
+  "Prerequisite: Beta Clearance, lightning strike
+miracle
+Cleanse is a powerful and demanding miracle
+capable of striking down large numbers of enemies
+of the faith. The cleric invokes the name of God to
+strike down the heretics. As the priest invokes the
+miracle, a thunder and lightning storm develops
+around him. This uses up the priest’s action, but he
+can still take simple actions.
+On his next turn, he may use an action to complete
+the invocation and attacks all targets within range
+in a Very Large Blast Radius with a faith test. There
+is no penalty for range, concealment, or darkness.
+A hit does 18 damage, AP4.
+Allies of the invoker are not hit by this attack nor
+are they counted as targets.
+This miracle may only be attempted once per
+scene. If cleanse or lightning strike is invoked,
+the other miracle can be invoked on the cleric’s
+immediate next turn rather than preparing for a
+turn, as the storm already exists.
+Success Levels:
+• Good: +1BD damage.
+• Outstanding: +2BD damage."}
+ {:name "Cybercommunion"
+  "Axiom Level" 8
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "1 minute"
+  :description
+  "This miracle may only be invoked by consuming a
+CyberEucharist, a communion wafer that appears
+to be made of circuitry, and is frequently carried
+by cyberpriests when on missions in other realities.
+This miracle may only be invoked on one target at
+a time.
+Once the CyberEucharist is consumed, the target
+may access the GodNet remotely, without physical
+connection, as long as a route to a Holy Exchange
+can be drawn from his location through realities
+that either have at least a Spirit Axiom of 8, or a
+Tech Axiom of 23. This route may not cross a
+maelstrom bridge, but may cross reality storms
+without penalty.
+The blessed person cannot access the GodNet
+through virtual reality but can download and
+upload information and contact others in or
+connected to the GodNet. Additionally, this
+prevents GodNet withdrawal (see page 129).
+Success Levels:
+• Good: The duration increases to 5 minutes.
+• Outstanding: The duration increases to 30
+minutes."}
+ {:name "Fanaticism"
+  "Axiom Level" 8
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "25 meters"
+  :Duration "1 minute"
+  :description
+  "Fanaticism whips up the cleric’s allies into a
+religious fervor, making them fearless and able to
+ignore minor injuries—for a brief period.
+On a Standard Success the target’s defense against
+intimidation attacks is increased by +2 and tests to
+avoid fear effects are Favored.
+Success Levels:
+• Good: As Standard and the target takes two
+less Shock when damaged. However, the
+target becomes Fatigued and takes 2 Shock at
+the end of the spell’s duration, which cannot
+be removed until he sleeps for at least 8 hours.
+• Outstanding: As Good but the target is immune
+to Shock for the duration."}
+ {:name "First Strike"
+  "Axiom Level" 13
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "3 round"
+  :description
+  "This miracle allows the invoker to take (and keep)
+the momentum of the battle and keep his opponents
+on the defensive. While this miracle is in effect the
+warrior appears to move slightly quicker than one
+would expect. It’s obvious he has some sort of
+supernatural assistance.
+On a success the holy warrior (and only he) takes
+his actions each round before anyone else acts. This
+overrides the initiative line on the Drama card. If
+characters from both the Hero and Villain side
+have an ability that allows them to go first, those
+characters act according to the Initiative Line, and
+then the rest of the combatants act.
+Success Levels:
+• Good: The duration increases to one minute.
+• Outstanding: As Good and melee attacks are
+Favored."}
+ {:name "Net Damnation"
+  "Axiom Level" 13
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Target’s faith or Spirit"
+  :Range "25 meters"
+  :Duration "1 minute"
+  :description
+  "Net damnation can only be invoked within the
+GodNet. The priest calls upon God to sunder the
+target’s soul and send it to Purgatory.
+On a success the target takes 12 non-lethal damage
+that ignores armor unless it is holy or has some
+divine origin. If the target is KO’ed from Wounds
+by this attack he must make a Defeat test using
+Spirit (not Strength). If the target fails the test, his
+soul breaks from his body and is sent to Purgatory.
+Additionally, for the duration of this miracle, if
+the character is Defeated and fails the Defeat test,
+his soul is sundered from his avatar and sent to
+Purgatory (see page 96).
+Success Levels:
+• Good: The target must make a Defeat test even
+if he is KO’ed by this attack.
+• Outstanding: As Good and the target’s Defeat
+test is Disfavored."}
+ {:name "Node Scrambler"
+  "Axiom Level" 16
+  :Skill "Faith 12"
+  "Casting Time" "1 round"
+  :DN "Very Hard (DN 16)"
+  :Range "One GodNet sector"
+  :Duration "10 minute"
+  :description
+  "This miracle may only be invoked within the
+GodNet. This miracle is actually capable of
+affecting an entire GodNet region and makes it
+more difficult, or even nearly impossible, to create
+and use teleport nodes and exit nodes anywhere
+within the local Holy Exchange. The existence of
+the scrambler field is apparent, and adds a bit of a
+sparkle to the air in the area.
+On a success any attempts create or use transfer
+or exit nodes are Disfavored. This includes tests
+involving a Dramatic Skill Resolution or the casting
+of a spell or other ability that can create nodes. If
+a device can create nodes without a test, the user
+must now make a computers test to do so.
+Success Levels:
+• Good: Tests to create or use teleport or exit
+nodes are Disfavored and have a –2 penalty.
+• Outstanding: As Good but the penalty
+increases to –4."}
+ {:name "Purge Magic"
+  "Axiom Level" 11
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "The caster’s willpower or Spirit"
+  :Range "25 meters"
+  :Duration "Instant"
+  :description
+  "Purge magic is a useful miracle for Inquisitors and
+cyberpriests to know, as it allows them to cancel the
+effects of spells cast on their allies (or their flock). It
+only works on cast spells, not magic items, mystical
+artifacts, or any other type of arcane device. This
+miracle targets the recipient of the spell, not the
+caster, but the DN is based on the spellcaster’s
+willpower or Spirit.
+On a success, one spell effect of the priest’s
+choosing ends.
+Success Levels:
+• Good: The effects of two spells on the target
+end.
+• Outstanding: All spells on the target end."}
+ {:name "Reboot Device"
+  "Axiom Level" 9
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "Easy (DN 8)"
+  :Range "Touch"
+  :Duration "Instant"
+  :description
+  "As a counter to cyberwitch and white witch
+proclivities to mess with cyberware and other
+electronics, this miracle allows electronic devices
+which are shut down to return to life, as long as
+they are not physically damaged or destroyed.
+This miracle does not affect Tech Constructs.
+If the target is an electronic device, on a success
+it recovers and begins functioning normally. If the
+target is a living being with cyberware or Occultech,
+a single install of shut down cyberware recovers.
+Success Levels:
+• Good: The priest reboots all devices within 5
+meters, or the target living being regains the
+use of two installs of cyberware or Occultech.
+• Outstanding: All electronics within 20 meters
+recovers, or all of the target’s cyberware or
+Occultech begins to function normally."}
+ {:name "Rood Awakening"
+  "Axiom Level" 14
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Target’s dodge or Dexterity"
+  :Range "10 meters"
+  :Duration "Concentration"
+  :description
+  "Inquisitors don’t always need to smite heretics
+who are battling them, sometimes it’s more
+important to capture and interrogate them so as to
+gather more heretics to be burned. Rood awakening
+is particularly effective at entrapping spellcasters
+(those who know at least one spell). The priest
+may only target a single character (Multi-Targeting
+cannot be used), and once affected, he cannot
+invoke this miracle again unless he releases his first
+target.
+With a prayer, the inquisitor manifests a glowing
+white cross. On a success, the cross affixes itself
+to the target. The target loses some control of her
+body and becomes Stymied or Vulnerable at the
+end of the cleric’s turn until the miracle ends.
+Escaping uses the same rules as grappling, but
+instead is a contest of the target’s willpower vs. the
+cleric’s faith. If she gets a Standard Success, she
+escapes but it expends her action. On a Good or
+Outstanding Success she can act normally. In all
+cases where the victim escapes, the miracle ends.
+This miracle only affects sentient, living
+humanoids. Animals, tech constructs, and targets
+that are mindless are immune.
+Success Levels:
+• Good: The target becomes Stymied and
+Vulnerable at the end of the invoker’s turn.
+• Outstanding: As Good and the target is
+wracked with pain and takes 2 Shock. If the
+target is a spellcaster, her body is elevated just
+off the ground and restrained (see Grappling
+in Torg Eternity)."}
+ {:name "Strength of the Righteous"
+  "Axiom Level" 8
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "1 minute"
+  :description
+  "Strength of the righteous grants the strength of
+angels to God’s holy warriors when they are in
+desperate need. The character points her melee
+weapon to the sky and shouts out a petition for
+God to grant her strength against the heretics. On
+a success, a bolt of lightning harmlessly strikes the
+weapon and the faithful glows faintly. She gains a
+bonus to melee and unarmed damage equal to her
+Wound penalties.
+Success Levels:
+• Good: The damage bonus is twice the warrior’s
+Wound penalties.
+• Outstanding: As Good, and the hero gains +2
+damage even if she has no Wounds."}
+ {:name "Thrice Damned"
+  "Axiom Level" 12
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Target’s faith or Spirit"
+  :Range "25 meters"
+  :Duration "Instant"
+  :description
+  "This miracle is invoked with the priest pointing
+at one (and only one) target, and calling upon God
+to curse her, including the loud pronouncement of
+You are thrice damned! On a Standard Success,
+the target becomes Vulnerable. If the character is
+already Very Vulnerable, she becomes Stymied
+instead.
+Success Levels:
+• Good: As Standard and the victim becomes
+Fatigued as well.
+• Outstanding: As Good and the target becomes
+Confused, or Disfavored if invoked on a Game
+Master character."}]

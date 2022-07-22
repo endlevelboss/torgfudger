@@ -1,0 +1,384 @@
+[{:name "Animate Mummy"
+  "Axiom Level" 16
+  :Skill "Faith 12"
+  "Casting Time" "1 hour"
+  :DN "Challenging (DN 12)"
+  :Range "Touch"
+  :Duration "Permanent"
+  :description
+  "This ritual allows the invoker to animate and
+command a corpse which has been properly
+mummified. The supplicant can command the
+mummy to perform a specific task (“kill Rama
+Tut!” or “bring me the Possibility Chalice!”). The
+mummy remains animated until it performs the
+task or is destroyed. The mummy’s statistics are
+found on page 130.
+Success Levels:
+• Good: The mummy has 2 Wounds.
+• Outstanding: The mummy has Strength 15
+and Toughness 15."}
+ {:name "Blinding Dust"
+  "Axiom Level" 14
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :description
+  "Blinding dust creates an area 10 meters in radius
+filled with blowing dust. Any physical attacks at
+targets within the the blowing dust, or by characters
+in the dust attacking out, are treated as having a
+Dim (–2) Darkness Penalty.
+If the miracle is invoked in a sandy area, the faith
+test has a +4 bonus.
+Success Levels:
+• Good: The Darkness Penalty is increased to
+Dark (-4).
+• Outstanding: The zone of dust is treated as
+Pitch Black (-6)."}
+ {:name "Cure Poison"
+  "Axiom Level" 12
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "Instant"
+  :description
+  "This miracle quickly flushes any toxins out of the
+target’s system. On a success the target makes a
+Strength test as if the full minute of the poison’s
+effects had expired. Any of the toxin’s modifiers for
+the test remain in place. If the test fails, the poison
+continues to affect the target normally.
+Success Levels:
+• Good: The poison ends its duration
+immediately without requiring a Strength test
+from the target. Conditions caused by the
+poison linger normally.
+• Outstanding: The poison ends its duration
+immediately without requiring a Strength test
+from the target and any conditions caused
+by the poison are removed. This includes
+conditions like Stymied and Vulnerable, but
+also the KO’ed condition."}
+ {:name "Death Shout"
+  "Axiom Level" 16
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Target’s dodge or Dexterity"
+  :Range "10 meters"
+  :Duration "Instant"
+  :description
+  "The invoker shouts at a target with such force it
+can actually kill a person. Death shout causes 12
+damage and attacks the target’s lowest Armor.
+If the target has Full Body armor, the damage
+increases by +1 BD.
+Success Levels:
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD. Additionally,
+the target is deafened for one minute."}
+ {:name "Drain Life"
+  "Axiom Level" 18
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Spirit"
+  :Range "Touch"
+  :Duration "Instant"
+  :description
+  "This miracle, only invoked by evil priests,
+particularly those who favor Anubis, Set, and
+Sebek, actually drains the life energy from the target
+grants it to the priest, possibly even regenerating
+the priest’s wounds.
+This miracle may only be invoked on a single
+target (no Multi-Targeting) and may not be
+invoked as a Multi-Action as it requires the priest's
+full attention. The target may choose to make this a
+contest after being declared the target, but becomes
+Vulnerable and Stymied after the contest.
+On a success, the target takes 12 damage which
+ignores all armor. Any Shock or Wounds drain life
+actually causes are recovered by the priest. The
+target may attempt to Soak Damage, but the test
+has a Hard (-4) penalty.
+Success Levels:
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD."}
+ {:name "Dream"
+  "Axiom Level" 8
+  :Skill "Faith 10"
+  "Casting Time" "10 minutes"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "One act"
+  :description
+  "The priest invokes this miracle on herself as he
+goes to sleep. On a success, she has a dream in
+which she solves a future problem. She does not
+remember the particulars of the dream once she
+awakens, but when the problem presents itself in
+the form of a Dramatic Skill Resolution, the dream
+comes to her and enables her to help solve the
+problem for real.
+Success Levels:
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD.. Additionally,
+the target is deafened for one minute. The priest may declare that she is using the
+knowledge gained through her dream during
+any Dramatic Skill Resolution. She may make
+tests herself or assist others making tests through
+a Combined Action. All tests to solve steps of the
+Dramatic Skill Resolution the priest is involved
+with are Favored.
+The supplicant can only invoke this miracle once
+per act, and once the Dramatic Skill Resolution is
+complete, this miracle ends.
+Success Levels:
+• Good: As Standard, and the dreamer may
+cancel the negative consequence of failing a test
+that she attempted when a dilemma is showing
+on the Drama Deck.
+• Outstanding: As Good and once per Dramatic
+Skill Resolution the character automatically
+succeeds at one step associated with a dilemma."}
+ {:name "Empower Ankh"
+  "Axiom Level" 14
+  :Skill "Faith 12"
+  "Casting Time" "10 minutes"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "1 week"
+  :description
+  "To invoke this miracle, the priest requires at least
+one ankh with a jewel assoicated with a particular
+variety of ankh (see the Gear chapter for some
+examples), which are relatively easily acquired in
+the Nile Empire (Value 10) but are otherwise Rare.
+The priest touches the ankh invoking the power of
+Wadjet to aid and protect the bearer.
+On a success this miracle infuses the ankh with
+spiritual energy.
+The ankh must be attuned to a target in a ritual
+that takes one hour to conduct. One attuned, the
+ankh has no effect if worn by another person.
+Additionally if the bearer is already attuned to
+another ankh, that ankh's power fades.
+Protective Ankhs: Protective ankhs normally only
+provide +1 Full Body Armor, but can be empowered
+to higher levels. The DN to infuse a protective ankh
+with enough energy to provide +2 Armor is Hard
+(DN 14), or Heroic (DN 18) for +3 Armor.
+Success Levels:
+• Good: The priest retains enough spiritual
+power to immediately empower a second ankh.
+• Outstanding: The priest can empower a total
+of three ankhs."}
+ {:name "Pronouncement of Doom"
+  "Axiom Level" 18
+  :Skill "Faith 16"
+  "Casting Time" "10 minutes"
+  :DN "Target’s faith or Spirit"
+  :Range "Not Applicable"
+  :Duration "24 hours"
+  :description
+  "The pronouncement of doom is the most powerful
+curse that can be invoked by Amaatist priests.
+The priest invoking pronouncement of doom doesn’t
+even need to be in the vicinity of the target (but the
+target must be in the same cosm or stelae boundary
+as the invoker). He merely needs an object once
+possessed by the target for at least a week and an
+offering to a member of the Ennead worth at least
+Value Level 8.
+A character with a pronouncement of doom inflicted
+upon him is Stymied for the next 24 hours and
+cannot remove this condition until the duration
+ends.
+Success Levels:
+• Good: The character is also Vulnerable for the
+next 24 hours.
+• Outstanding: As Good, but if an additional
+offering of at least Value Level 15 is sacrificed
+by the invoker, the target must make a Defeat
+test at the end of the 24 hours."}
+ {:name "Prophecy"
+  "Axiom Level" 10
+  :Skill "Faith 10"
+  "Casting Time" "1 hour"
+  :DN "Hard (DN 14)"
+  :Range "Self"
+  :Duration "One act"
+  :description
+  "Sacred texts are full of prophecies, some
+fulfilled, many that have not, and all are open to
+interpretation.
+The priest performs a ritual that involves prayer
+and symbolic sacrifices, and puts himself into an
+altered state of conciousness, hoping that he is
+blessed with a vision of the future. Preferably one
+that's useful and correct.
+On a success the priest receives a vision of the next
+Dramatic scene, and if the GM knows the details
+can she may provide vague details.
+Once in the next Dramatic scene, immediately
+after a Drama card is flipped the priest may choose
+to make the Standard Conflict Line in effect for the
+round instead of the Dramatic Conflict Line.
+Success Levels:
+• Good: The priest may choose twice in the next
+Dramatic scene instead of once.
+• Outstanding: The priest may choose the
+Standard Conflict line every round when the
+card is revealed."}
+ {:name "Recall Spirit"
+  "Axiom Level" 18
+  :Skill "Faith 16"
+  "Casting Time" "10 minutes"
+  :DN "Very Hard (DN 16)"
+  :Range "Touch"
+  :Duration "Instant"
+  :description
+  "Death isn’t permanent in the Nile Empire, and it
+is possible to resurrect certain individuals. A body
+which has been dead for longer than three days
+cannot be resurrected unless the miracle is invoked
+under special circumstances—certain planets must
+align and the body must have been mummified
+and the organs properly contained within nearby
+canopic jars(see page 51).
+The priest touches the corpse and asks his deity
+to return the spirit to the body. If the person was
+ever previously the target of this miracle (whether
+it succeeded or not), the invocation automatically
+fails.
+On a success, the corpse is reunited with its spirit
+and the body is reanimated as a Mummy. The
+character suffers a permanent Injury but gains the
+Mummy Perk (see page 16), which must be paid
+for with XP’s when possible.
+Success Levels:
+• Good: As Standard but the target suffers no
+Injury.
+• Outstanding: The person is truly returned
+to life with no Injury and does not gain the
+Mummy Perk."}
+ {:name "Sandstorm"
+  "Axiom Level" 18
+  :Skill "Faith 16"
+  "Casting Time" "1 hour"
+  :DN "Very Hard (DN 16)"
+  :Range "100 kilometers"
+  :Duration "Concentration or 8 hours (see below)"
+  :description
+  "This miracle requires a large source of loose sand
+(like a desert) within 100 kilometers.
+The supplicant calls upon a sandstorm to inflict an
+area the size of a town. The storm begins to build
+immediately upon beginning the miracle, and one
+hour later takes effect.
+During the storm, the entire area is subject to
+Medium Concealment (–4) due to blowing sand.
+The invoker must continue to spend an action
+each round maintaining the sandstorm, and at the
+end of each hour must make a Very Hard (DN 16)
+Concentration test to maintain the storm.
+This miracle can be invoked only once per week.
+Success Levels:
+• Good: Each hour, those exposed to the
+sandstorm must make a survival test or suffer
+Fatigue. Those who are KO’ed automatically
+take 1 Wound every hour. Recovery of Shock is
+not possible while within the sandstorm for the
+duration of the miracle.
+• Outstanding: As Good, but the survival test is
+Hard (DN 14)."}
+ {:name "Scarab Swarm"
+  "Axiom Level" 18
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Hard (DN 14)"
+  :Range "10 meters"
+  :Duration "Concentration"
+  :description
+  "The invoker summons a single massive swarm of
+scarab beetles, which can rapidly envelop a target and
+chew them down to bones in seconds. The priest can
+direct the beetles to move and attack telepathically as
+a simple action, out to a range of 25 meters.
+In addition to the damage a creature takes at the
+start of their turn, the scarab swarm may make a
+Shred attack to directly attack targets it is touching.
+Only one swarm can be summoned at a time.
+When the miracle ends the swarm immediately
+dissipates and no additional swarms may be
+summoned until the start of the next scene. The
+scarab swarm otherwise uses the insect swarm
+statistics are found on page 130.
+Success Levels:
+• Good: The scarab swarm’s speed becomes 10.
+• Outstanding: The swarm’s speed increases to
+10 and it may fly at a speed of 10 meters per
+round."}
+ {:name "Snake Staff"
+  "Axiom Level" 14
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "1 minute"
+  :description
+  "The invoker transforms her staff into a dangerous
+asp (see page 124). The priest can telepathically
+direct the asp to move and attack as a simple action.
+If the asp is KO’ed, the miracle ends and the snake
+transforms back into a staff. If the asp is killed, it
+transforms into a staff, broken into several pieces.
+The invoker may only have one staff transformed
+into a snake at a time.
+Success Levels:
+• Good: The asp’s fangs do Strength +2 damage.
+• Outstanding: As Good plus the asp's poison
+deals 3 Shock each round instead of 2."}
+ {:name "Sundew"
+  "Axiom Level" 12
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Hard (DN 14)"
+  :Range "Self"
+  :Duration "Instant"
+  :description
+  "Sundew can only be invoked when the targets are
+outside or otherwise exposed to the sky. When this
+miracle is invoked, a burst of sunlight descends
+from the sky and strikes the invoker and those
+around him in a Medium Burst Radius. A success
+heals one Wound.
+An individual may only be the target of sundew
+once per day.
+Success Levels:
+• Good: Heals 2 Wounds.
+• Outstanding: Heals 3 Wounds."}
+ {:name "Wings of the Hawk"
+  "Axiom Level" 14
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Challenging (DN 12)"
+  :Range "Self"
+  :Duration "Concentration"
+  :description
+  "When this miracle is invoked, the supplicant grows
+hawk wings from her back, and is temporarily able
+to fly, with a speed of 50 meters per round. Flying
+faster than Dexterity meters counts as running
+(see page 114). The invoker may haul whatever
+weight she normally carries. A heavy load drops
+the maximum speed by half and causes her 1 Shock
+each round.
+Success Levels:
+• Good: The invoker may move at maximum
+speed without suffering a –2 penalty.
+• Outstanding: Maximum speed is increased to
+100 meters per round."}]

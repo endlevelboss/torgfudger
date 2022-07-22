@@ -1,0 +1,60 @@
+[{:name "Edeinor Warrior"
+  :description "Edeinos are trained in combat from the day they’re
+born. They grow up with a spear in their hands and
+are ferocious in their pursuit and capture of prey,
+which they rip apart with their savage teeth."
+  :Attributes [5 9 6 8 10]
+  :combat {:melee 11 :missile 10 :unarmed 11}
+  :interaction {:intimidation [10] :maneuver [10]}
+  :skills {:riding 10 :dodge 10 :faith 9 :find 8 :stealth 10 :survival 8 :tracking 8}
+  :Move 9 :Tough "10" :Shock 10 :Wounds 0
+  :Other {:Equipment "Hrockt shoot spear (Str+2/12)"
+          :Possibilities "Rare (2)"}
+  "Special Abilities"
+  [{:Name "Bite/Claws" :Description "Damage Str+2 (12)"}]}
+ {:name "Triceratops"
+  :description "Similar to what it was once thought triceratops of
+ancient Earth must look like, these Living Land
+creatures have a bony, plated head and three sharp
+horns. Triceratops are favored mounts for many
+edeinos tribes. They often decorate their beasts in
+the same paint and tattoos that warriors wear."
+  :Attributes [4 6 4 8 16]
+  :combat {:unarmed 10}
+  :interaction {:intimidation [10] :maneuver [7]}
+  :skills {:dodge 11 :find 8 :stealth 7}
+  :Move 8 :Tough "19 (3)" :Shock 12 :Wounds 3
+  :Other {:Possibilities "Never"}
+  "Special Abilities"
+  [{:Name "Armor" :Description "Bony crest and thick hide +3."}
+   {:Name "Charge" :Description "+2 damage to an attack after the creature
+moves more than a walk."}
+   {:Name "Horns" :Description "Damage Strength +2 (18)."}
+   {:Name "Very Large" :Description "Triceratops are up to nine meters
+long and 5,000 kg in weight. Attacks against
+them gain a +4 bonus."}]}
+ {:name "Tyrannosaurus Rex"
+  :description "One of the most terrifying predators ever to walk
+the Living Land. This massive reptilian killing
+machine is fast, 12 meters tall, and has a mouth
+full of teeth the size of daggers. Core Earthers often
+call them “rexes“ due to their strong resemblance
+to how media has portrayed tyrannosaurs."
+  :Attributes [4 9 4 10 17]
+  :combat {:melee 11 :unarmed 12}
+  :interaction {:intimidation [15] :maneuver [10] :taunt [9 :false]}
+  :skills {:dodge 10 :find 8 :stealth 10 :tracking 9}
+  :Move 11 :Tough "20 (3)" :Shock 14 :Wounds 4
+  :Other {:Possibilities "Never"}
+  "Special Abilities"
+  [{:Name "Armor" :Description "Scaly skin +3."}
+   {:Name "Bite" :Description "Damage Strength +3 (20)."}
+   {:Name "Dread" :Description "When the mighty tyrannosaur is present,
+any Standard Scene immediately becomes a
+Dramatic Scene instead."}
+   {:Name "Fear" :Description "The predatory teeth and roar of a
+tyrannosaur trigger instinctive terror. Test Spirit
+or become Very Stymied."}
+   {:Name "Very Large" :Description "Most adult specimens are up to
+18 meters long. Attacks against them gain a +4
+bonus."}]}]

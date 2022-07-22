@@ -1,0 +1,128 @@
+[{:name "Against all Odds"
+  "Axiom Level" 9
+  :Skill "Alteration 16"
+  "Casting Time" "1 action"
+  :DN "Very Hard (DN 16)"
+  :Range "Touch"
+  :Duration "3 rounds"
+  :description "This spell aids those who face insurmountable
+odds. This spell may only be cast on a single
+target, but on a success it grants the hero an Up
+when attempting a test that has a Heroic (DN 18)
+or greater difficulty. Difficulty modifiers are not
+considered in this requirement.
+Special: If this spell is cast in a reality with the
+Law of the Underdog (such as Core Earth) then the
+casting test is Favored.
+Success Levels:
+• Good: The target gains Up on their next
+test that has a Very Hard (DN 16) or greater
+difficulty.
+• Outstanding: As Good but also gains Up
+should the total difficulty modifier equal
+Nearly Impossible (-10)."}
+ {:name "Arcane CSI"
+  "Axiom Level" 9
+  :Skill "Divination 10"
+  "Casting Time" "10 minutes"
+  :DN "Standard (DN 10)"
+  :Range "5 meters"
+  :Duration "10 minutes"
+  :description "Arcane CSI provides a tool for the arcane
+investigator to take a look back at a crime scene and
+see a representation of what happened. Victims
+and perpetrators are represented by illusionary
+avatars that may approximate their rough shape
+and size, such that a subject’s general nature can
+be determined, but nothing specific (e.g. the spell
+could identify that a perpetrator was humanoid,
+but not whether they were human or some other
+humanoid species).
+The location that can be analyzed is approximately
+the size of a typical school room.
+On a Standard Success, investigators gain a +4
+bonus to find and evidence analysis tests made in
+the location when searching or investigating clues.
+Special: Arcane CSI may only be attempted once
+per scene on an individual location.
+Success Levels:
+• Good: As Standard but the tests are also
+Favored, and the species of the victims or
+perpetrators can be identified.
+• Outstanding: As Standard but the tests are
+Up, and the species and gender of the victims
+or perpetrators can be identified."}
+ {:name "Heroes"
+  "Axiom Level" 15
+  :Skill "Reality 14"
+  "Casting Time" "1 action"
+  :DN "Hard (DN 14)"
+  :Range "100 meters"
+  :Duration "The rest of the scene"
+  :description "Prerequisite: Beta Clearance and Reality Mage OR
+Storyteller
+Heroes may only be cast by reality-rated wizards
+using the reality skill. This spell taps into the
+Law of Glory and utilizes Possibility Energy to
+temporarily imbue an Ord with Possibilities which
+they may spend themselves. The specific Ord
+cannot be chosen, but is selected from those within
+range. The only Ords eligible are those who would
+be considered bystanders or allied to the caster.
+On a Success the Ord gains one Possibility, and
+may make reality tests using their Spirit, Boost
+Action and Soak Damage as if they were reality-
+rated themselves. The wizard may also immediately
+transfer one of their own Possibilities to the target
+Ord. Higher Success Levels imbue the Ord with
+additional Possibilities and if a Glory occurs, the
+Ord transcends, this being their Moment of Crisis.
+Special: This spell may only be attempted once
+per scene, and if it is not cast during an encounter
+or a Dramatic Skill Resolution it has no effect. If the
+spell is cast in an area where the Law of Glory is in
+effect, the reality test is Favored but if it is cast in a
+Standard scene, the casting is Disfavored.
+Success Levels:
+• Good: The Ord gains 2 Possibilities.
+• Outstanding: The Ord gains 3 Possibilities.
+• Glory: As Outstanding and the Ord gains the
+reality skill with one add."}
+ {:name "Tap Ley Line"
+  "Axiom Level" 9
+  :Skill "Alteration 12"
+  "Casting Time" "1 action"
+  :DN "Challenging (DN 12)"
+  :Range "Self"
+  :Duration "Rest of scene"
+  :description "The wizard can tap into the arcane energy of nearby
+ley lines to temporarily enhance his Magic Axiom
+and reduce the likelihood of disconnecting when
+casting contradictory spells. If the caster is in a reality
+other than Core Earth, the Zone modifiers apply (-4
+for Dominant, -8 for Pure). On a success, the wizard’s
+Magic Axiom temporarily increases to 12.
+If the wizard is in another cosm entirely, this
+ability may not be used. This spell may be cast only
+once per scene.
+Success Levels:
+• Good: The wizard’s Magic Axiom increases to 15.
+• Outstanding: The wizard’s Magic Axiom
+increases to 18."}
+ {:name "Wall of Stone"
+  "Axiom Level" 18
+  :Skill "Apportation 12"
+  "Casting Time" "1 action"
+  :DN "Challenging (DN 12)"
+  :Range "40 meters"
+  :Duration "Concentration"
+  :description "The geomancer lifts the rock, stone, and earth to
+form a wall up to 10 meters long, 3 meters high,
+and 30 centimeters thick at a place within range.
+The wall repels all attempts to penetrate it until it
+is dismissed or breached. It has Toughness 15, is
+immune to Shock damage, and can take 1 Wound.
+Success Levels:
+• Good: The wall’s Toughness increases to 20.
+• Outstanding: As Good and the wall’s Wound
+limit increases to two."}]

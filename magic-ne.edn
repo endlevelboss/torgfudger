@@ -1,0 +1,543 @@
+[{:name "Astral Form"
+  "Axiom Level" 10
+  :Skill "Alteration 16"
+  "Casting Time" "1 action"
+  :DN "Hard (DN 14)"
+  :Range "Self"
+  :Duration "Concentration"
+  :description
+  "Parallel to our physical existence is an immaterial
+one, a realm of ghosts and spirits. Some of these
+vengeful spirits, under a high enough Magic
+Axiom, can physically manifest and appear as
+demons. Skilled sorcerers have discovered a means
+to replicate this feat, but in the other direction.
+When successfully cast, the sorcerer intentionally
+separates his spirit from his physical body, and
+his body becomes helpless and inert, as if he were
+sleeping. The hero’s astral form is transparent,
+ethereal, and can fly as fast as he can run. The
+character remains connected to his physical body
+through a silver cord, and can travel up to one
+kilometer away. The spellcaster may instantly
+move back into his physical body as a free action.
+This also happens if the caster loses Concentration
+or if the caster’s astral form or physical body is
+subject to an effect like the banish miracle.
+The hero can view the physical realm as if he
+were physically present but cannot interact
+with beings or objects present. However, he can
+interact with and be attacked by ghosts, spirits, or
+other immaterial entities. Any of his abilities not
+connected to physical objects can be used in astral
+form, including inherent pulp powers, pulp sorcery
+rituals, miracles, or spells. He can also attack using
+unarmed combat. These abilities and attacks only
+affect immaterial beings. Invoking banish while
+in astral form on an already immaterial foe has no
+effect.
+Attacks that can affect ethereal beings work on the
+caster’s spirit for full effect.
+Success Levels:
+• Good: The character becomes invisible but
+can become visible and speak to others in the
+physical realm as a simple action. The caster
+still cannot touch or otherwise physically
+interact with any objects, but can make verbal
+interaction attacks.
+• Outstanding: As Good and the spellcaster
+can travel any distance away (in the same realm
+or cosm) from his body, and can travel to that
+location instantly (though he must already be
+familiar with that location)."}
+ {:name "Blue Bands of Bastet"
+  "Axiom Level" 14
+  :Skill "Conjuration 12"
+  "Casting Time" "1 action"
+  :DN "Target’s dodge or Dexterity"
+  :Range "20 meters"
+  :Duration "Concentration"
+  :description
+  "The sorcerer yells out the name of this spell while
+making circular motions with his fingers, causing
+glowing blue bands of energy to form and constrict
+around a single target (Multi-Targeting may not
+be used). On a success, the target is Stymied and
+Vulnerable until the spell ends.
+Success Levels:
+• Good: The target is restrained. To escape the
+target win a contest of Strength vs. the caster's
+conjuration.
+• Outstanding: As Good but the duration
+increases to one minute, and the caster’s test to
+keep the target restrained is Favored."}
+ {:name "Calculate Weakness"
+  "Axiom Level" 8
+  :Skill "Divination 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :description
+  "Calculate weakness is cast on one (and only one)
+heavily armored opponent or an object, and allows
+the caster to find a weakness in the target's armor.
+The spellcaster writes out a series of equations and
+informs his allies in hearing range the location of
+the weak spot. If the caster is unable to write out
+the equations, he must do the calculations in his
+head which makes it a Hard (DN 14) divination test.
+While this spell is active, the spellcaster allies may
+make a Called Shot (-4 penalty). On a hit, the attack
+gains Armor Piercing 2.
+Calculate weakness cannot be cast again until the
+first casting ends.
+Success Levels:
+• Good: The hit gains AP4.
+• Outstanding: As Good and the attacker deals
+the target an additional +1BD damage."}
+ {:name "Contemplation"
+  "Axiom Level" 6
+  :Skill "Divination 12"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Instant"
+  :description
+  "To be able to cast this spell at all, the spellcaster
+must spend an hour quietly meditating on the
+universe. This can include studying astrological
+charts as part of the use of the Astrologer Perk. After
+this preperation is complete, the Mathematician
+subconciously considers potential outcomes
+which can be brought to the forefront by casting
+contemplation once per scene until the next sunrise.
+On a success, the Storm Knight may draw two
+new Destiny cards and then immediately discard
+two cards.
+A nonplayer character who casts this spell
+successfully may reroll one test or contest during
+the rest of the scene, even a Mishap, as if they
+played a Second Chance card.
+Success Levels:
+• Good: The Storm Knight draws three cards
+and then discards three cards. A nonplayer
+character gets a +2 bonus to the reattempt.
+• Outstanding: The mathematician draws
+three cards then discards two cards. Nonplayer
+characters get a +4 bonus to the reattempt."}
+ {:name "Corporeal Diffraction"
+  "Axiom Level" 14
+  :Skill "Alteration 12"
+  "Casting Time" "1 minute"
+  :DN "Hard (DN 14)"
+  :Range "Self"
+  :Duration "Concentration"
+  :description
+  "By calculating his own vibrational frequency, the
+mathematician can decrease that frequency to a
+point he (and everything he is wearing) can pass
+through spaces physically smaller than himself.
+The spellcaster isn’t just able to pass through a
+single opening, but can pass through multiple
+openings like bars or a portcullis. On a success,
+the mathematician can pass through openings 10
+centimeters across or larger.
+This calculation is not simple and it does pose
+some danger. Concentration must be maintained
+while passing through openings, and should
+concentration fail, the spellcaster’s body is forcibly
+ejected forward or backward through the opening
+(whichever is closer). To avoid injury, the caster
+must succeed at a Hard (DN 14) alteration test. On
+a failure, he takes one Wound. On a Mishap, he
+takes 1 BD Wounds. These wounds may be soaked
+normally.
+Success Levels:
+• Good: The spellcaster can pass through
+openings one centimeter across or larger.
+• Outstanding: The mathematician may pass
+through an opening one millimeter across or
+larger."}
+ {:name "Detect Traps"
+  "Axiom Level" 10
+  :Skill "Divination 10"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "6 hours"
+  :description
+  "The engineer touches the walls of an individual
+structure, and closes his eyes. For the duration, the
+engineer may use his divination skill to avoid traps.
+This spell does not detect traps that are the result
+of a Cosm Card or deathtraps (thanks to the Law of
+Drama). Casting Detect traps can only be attempted
+on the same building once every six hours (even if
+the casting fails).
+See page 114 for more information on traps.
+Success Levels:
+• Good: The caster and nearby allies’ tests to
+avoid traps are Favored.
+• Outstanding: As Good and if a player has
+a Cosm card that causes a trap to go off, that
+player may discard it for the full benefit."}
+ {:name "Entropy"
+  "Axiom Level" 10
+  :Skill "Alteration 12"
+  "Casting Time" "1 action"
+  :DN "Hard (DN 14) or target's dodge or Dexterity"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :description
+  "The engineer points at an inanimate object or a part
+of a larger object (such as the wheels of a truck) no
+larger than something a typical human can carry,
+and states a certain mathematical formula. If the
+object is held by a character, the test is treated as a
+Called Shot.
+On a success, the object begins to rot or disintegrate.
+If the object is held by a character, actions using that
+item have a –2 penalty, and damage is reduced by
+2. If the object is armor, the bonus to Toughness is
+decreased by 2. At the end of the spell, the penalty
+goes away.
+If the object is not in anyone’s possession, it loses
+2 points of cover and Toughness each round.
+Once the object’s Toughness reaches zero, the
+object disintegrates into dust. Eternity Shards and
+Darkness Devices are not affected at all by this
+spell.
+Success Levels:
+• Good: The penalties are increased to –4.
+• Outstanding: The object disintegrates unless
+it is a magic item, sacred item, or mystical
+artifact."}
+ {:name "Figment"
+  "Axiom Level" 13
+  :Skill "Conjuration"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :description
+  "The illusionist closes his eyes briefly and imagines
+an object up to the size of a small house or a large
+dinosaur. He then opens his eyes and motions
+towards the target location. This spell creates an
+illusion of a new object (see Illusions on page
+34). Figment cannot make something that already
+exists look like something else. If the caster wishes
+to create multiple objects, the Multi-Targeting rule
+applies.
+As long as the caster maintains concentration he
+can make the illusion change shape or state, such
+as speaking, or moving its hands, etc. The illusion
+can be used as part of an interaction attack, but
+cannot do physical damage.
+Success Levels:
+• Good: The spell's duration is increased to 1
+minute and interaction attacks made with the
+illusion are Favored.
+• Outstanding: As Good and the interaction
+attack may use the caster’s conjuration skill
+instead of the interaction skill. The Repeated
+Actions restriction of the Multi-Action rule
+does not apply for this attack."}
+ {:name "Glamor"
+  "Axiom Level" 13
+  :Skill "Conjuration 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :description
+  "The caster closes his eyes and briefly imagines an
+object up to the size of a giant or train locomotive
+changes to appear to be something else (e.g.
+making a car look like a tree). He then opens his
+eyes and motions towards the object in question,
+which then appears to be the new object.
+This spell is an illusion (see page 34). It
+cannot turn an object invisible, nor can it make
+an object appear that didn't exist previously
+(e.g. an intact bridge over a canyon). If
+the caster wishes to make multiple
+objects appear different, the Multi-
+Targeting rule applies.
+The illusion cannot do physical
+damage, but can be used as
+part of an interaction attack.
+Success Levels:
+• Good: The spell's duration increases
+to 1 minute and any interaction attacks made with
+the glamor are Favored.
+• Outstanding: As Good and the caster may use his 
+conjuration skill instead of the interaction skill
+when making an interaction attack. The Repeated Actions
+restriction of the Multi-Action rule does not apply for 
+this attack."}
+ {:name "Harmonic Wave"
+  "Axiom Level" 10
+  :Skill "Alteration 14"
+  "Casting Time" "1 action"
+  :DN "Target’s dodge or Dexterity"
+  :Range "10 meters"
+  :Duration "Instant"
+  :description
+  "Mathematicians are familiar with the concept that
+harmonics can amplify the power of anything,
+even to the point of allowing something as light
+as air destroy a bridge, simply by blowing at its
+harmonic frequency. Harmonic wave changes the
+harmonic frequency within an object or organism.
+Mathematicians often joke, calling it “being on the
+same wavelength as someone”.
+The spellcaster motions with her fingers,
+starting with a single index finger, then both
+index fingers, then four, then eight before
+pushing out with her hands at the target. The
+harmonic wave causes 10 damage that ignores
+armor.
+Success Levels:
+• Good: +1 BD damage.
+• Outstanding: +2 BD damage."}
+ {:name "Images of Isis"
+  "Axiom Level" 14
+  :Skill "Conjuration 14"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :description
+  "Images of Isis is cast by the
+sorcerer making motions with
+his hands and spinning around
+once. On a success, two nearly
+perfect illusory duplicates of the
+caster appear and move into, out of,
+and around the caster like a huckster
+playing a shell game.
+If an enemy succeeds in an attack,
+the attack randomly strikes one of
+the illusions or the caster. If the
+attack hits an image, it disappears.
+The individual images can
+be included as targets for the
+purposes of Multi-Targeting
+or in an area effect attack. In this case, the normal
+Multi-Targeting penalty applies.
+Success Levels:
+• Good: Three duplicates are created.
+• Outstanding: Four duplicates are created and
+the duration increases to one minute."}
+ {:name "Map Building"
+  "Axiom Level" 12
+  :Skill "Divination 14"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "6 hours"
+  :description
+  "The engineer touches the walls of a single
+structure, closes his eyes and extends his senses
+throughout the structure. The spell provides a
+vague description of the current level in his head
+(e.g. “There’s a large room that way”), but does not
+give any information about floors above or below.
+The spellcaster automatically detects any secret
+doors with stealth 10 or less when he is in line of
+sight of them.
+Casting map building on a particular floor may
+only be done once every six hours, even if the spell
+fails.
+Success Levels:
+• Good: Any secret doors with stealth 14 or less
+are detected when the spellcaster is in line of
+sight of them.
+• Outstanding: The spellcaster gets a roughly
+accurate map of the entire building imprinted
+in his mind. The GM can sketch the map,
+provide a copy of the actual map (if available),
+or be very lenient with guiding the spellcaster
+through the building."}
+ {:name "Magical Trap"
+  "Axiom Level" 14
+  :Skill "Conjuration 12"
+  "Casting Time" "1 minutes"
+  :DN "Hard (DN 14)"
+  :Range "5 meters"
+  :Duration "Until the next sunrise"
+  :description
+  "This spell is cast upon an unoccupied location
+within a structure or one of its entrances. The
+caster chooses one of the following magical traps
+(see page 116):
+• Cold Blast Trap
+• Ennervate Trap
+• Flameburst Trap
+• Lightning Trap
+The engineer also chooses a trigger, which usually
+is stepping on a spot or passing a threshold. The
+result is a Standard (DN 10) trap. When triggered
+the trap conjures the chosen effect, and then resets
+10 seconds later.
+An individual caster may only have three traps
+(magical and mechanical) active simultaneously.
+When the spell ends, the trap disappears.
+Success Levels:
+• Good: The spell creates a Challenging (DN
+12) trap.
+• Outstanding: The spell creates a Hard (DN
+14) trap."}
+ {:name "Mechanical Trap"
+  "Axiom Level" 11
+  :Skill "Alteration 12"
+  "Casting Time" "10 minutes"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "Until the next sunrise"
+  :description
+  "Mechanical trap must be cast inside a structure or
+one of its entrances, and the target location cannot
+be occupied by any creature. The engineer points
+at the spot he wishes to trap, then motions, with
+a finger, equations involving motion and gravity.
+The spellcaster then chooses one of the following
+traps (see page 116):
+• Deadfall Trap
+• Pit Trap
+• Spike Trap
+• Arrow Trap
+• Poison Dart Trap
+The spellcaster also chooses a trigger, such as a
+pressure plate, tripwire, or blocking a beam of
+light. The materials in the structure, including the
+floor, wall, or doors transform to form the chosen
+trap. On a success the spell creates a Standard (DN
+10) trap.
+When the spell ends, the trap components return
+to the original shape or state. An individual caster
+may only have three traps (magical and mechanical)
+active simultaneously.
+Success Levels:
+• Good: The spellcaster creates a Challenging
+(DN 12) trap.
+• Outstanding: The trap created is Hard (DN
+14)."}
+ {:name "Neutralize Traps"
+  "Axiom Level" 10
+  :Skill "Alteration 12"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "10 meters"
+  :Duration "6 hours"
+  :description
+  "The engineer touches the walls of an individual
+building and closes his eyes. Until the end of the
+duration, the engineer may use his alteration skill
+to disable traps, and attempts to disable traps
+are Favored. Even traps that cannot normally be
+disabled may be attempted at Nearly Impossible
+(DN 20).
+This spell does not affect traps related to a Cosm
+card or affect deathtraps (thanks to the Law of
+Drama).
+This spell cannot be cast on the same building
+more than once every six hours, even if the casting
+fails.
+Success Levels:
+• Good: If a player has a Cosm card related to
+traps, she may discard it for the full benefit.
+• Outstanding: As Good plus once per scene,
+the engineer may automatically succeed at a
+Dramatic Skill Resolution step when solving a
+deathtrap."}
+ {:name "One by Four by Nine"
+  "Axiom Level" 9
+  :Skill "Alteration 10"
+  "Casting Time" "1 minute, must be cast at sunrise."
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Until the next sunrise"
+  :description
+  "Numbers have power, and one, four, and nine
+are the numbers one, two, and three raised to
+the second power. This pattern is said to have
+cosmic significance, and is rumored to have been
+discovered by an early mathematician, Zarathustra.
+One by four by nine must be cast at sunrise, while
+vocalizing particular notes and drumming a
+particular beat. Only one attempt may be made to
+cast per day. If an actual drum is used, the test is
+Favored.
+On a success, the mathematician can reduce the
+impact of his misfortune until the next sunrise.
+When mathematician rolls a 1 on the first die
+roll of any test, he rolls a die and adds it to 1.
+This second roll has a minimum of 4, similar to
+spending Possibilities. Any Mishap or Malfunction
+still takes effect, even if the test is a success. This is
+an exception to the rule that a 1 always fails, and
+the character can also spend Possibilities or play
+cards to further improve the result. If the Mishap
+causes a disconnection, it occurs after the test is
+resolved rather than immediately.
+Success Levels:
+• Good: If the second die roll is a 4 (and not
+just a lower roll that counts as 4), a third die is
+rolled and added to the total, with a minimum
+of 9.
+• Outstanding: As Good, but a roll of 1 on any
+die roll during a test (including Up conditions
+or Possibilities) starts the 1-4-9 sequence."}
+ {:name "Phantasm"
+  "Axiom Level" 14
+  :Skill "Conjuration 14"
+  "Casting Time" "1 action"
+  :DN "Hard (DN 14)"
+  :Range "25 meters"
+  :Duration "Concentration"
+  :description
+  "Prerequisite: Knowledge of figment or glamor
+   The caster closes his eyes briefly and creates a
+mental image of a creature. He then opens his
+eyes and motions towards a target location, and
+an illusion (see page 34) based on the creature
+appears.
+   Unlike normal illusions, phantasms are partially
+real, and can inflict physical, but non-lethal
+damage.
+No matter what form the illusion takes, once
+per turn the caster may attack with it as a simple
+action, making a conjuration test against the target's
+willpower or Mind. On a success the target takes 10
+damage that ignores armor. Good and Outstanding
+Successes add bonus dice as usual.
+Success Levels:
+• Good: The duration increases to 1 minute.
+• Outstanding: As Good plus the phantasm
+instead does a base 13 damage that ignores
+armor."}
+ {:name "Portent"
+  "Axiom Level" 10
+  :Skill "Divination 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Instant"
+  :description
+  "The spellcaster thinks of a person, item, area, or
+course of action, and receives an indication about
+immediate fortune surrounding the situation.
+Sometimes the flash of insight is so potent that the
+immediate future can even be altered slightly.
+On a success, the mathematician may look at the
+top card on the Drama deck and then return it to
+the top of the deck.
+Success Levels:
+• Good: Two cards may be looked at and then
+replaced in the same order.
+• Outstanding: Two cards may be looked at
+and then one discarded and the other placed
+back on top of the Drama deck."}]

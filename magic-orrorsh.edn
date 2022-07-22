@@ -1,0 +1,658 @@
+[{:name "Boiling Blood"
+  "Axiom Level" 15
+  :Skill "Alteration 14"
+  "Casting Time" "1 action"
+  :DN "Target’s Strength"
+  :Range "25 meters"
+  :Duration "Instant"
+  :description
+  "The occultist needs an open flame, at least the size
+of one produced by a lighter, to cast this spell. With
+the flame at the ready, the occultist makes a small
+cut on her hand while focusing on the target. She
+then thrusts the injured part of her hand into the
+open flame as she utters eldritch words. The blood
+throughout the target’s body begins to boil causing
+pain and possibly death.
+The occultist must make a test against the target’s
+Strength. On a success the target takes 12 Damage.
+This damage ignores armor, but magical protection
+may guard against this spell.
+If the Occultist risks testing Corruption
+(Challenging DN 12) she can increase the Damage
+Boiling Blood deals by +2 (for a total of 14). The
+damage total is increased whether or not the
+occultist succeeds the Corruption test. This may
+only be attempted once per casting of Boiling Blood.
+Success Levels:
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD."}
+ {:name "Ghost Form"
+  "Axiom Level" 16
+  :Skill "Alteration 14"
+  "Casting Time" "1 action"
+  :DN "Challenging (DN 12)"
+  :Range "Self"
+  :Duration "1 minute"
+  :description
+  "The occultist produces a small vial that is
+empowered by the casting of the spell. She consumes
+the dark red liquid within as the spell is completed.
+Upon the consumption, the occultist’s form becomes
+semi-transparent and ghost-like.
+If the occultist makes a Standard success, she
+receives a +4 bonus to all her Defenses and reduces
+all damage from physical attacks by 4 points. She
+also suffers a –4 penalty to all physical attacks she
+makes. All magical attacks such as miracles, spells,
+powers, or those from a magical weapon affect the
+caster as normal.
+If the caster chooses she can increase the duration
+of Ghost Form to 10 minutes by making a Corruption
+test (Hard DN 14). The duration increases regardless
+of the success or failure of the Corruption test. The
+caster can choose to continue to increase the duration
+if she is willing to risk further Corruption tests. This
+does not cost the caster an action.
+Success Levels:
+• Good: The caster can float at her Movement.
+• Outstanding: As Good and the caster becomes
+Ethereal (as the Special Ability in Torg Eternity)."}
+ {:name "Madness"
+  "Axiom Level" 12
+  :Skill "Alteration 10"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "50 meters"
+  :Duration "1 round"
+  :description
+  "The occultist thinks of the most horrible,
+despairing, frightening, and insane thoughts that
+she can, pushing herself to the verge of insanity.
+Before it can take hold of her, she points at her target
+with a shout and projects these thoughts into the
+targets head. The target’s thoughts become chaotic,
+causing her to act in violently unpredictable ways.
+On a Standard success, the target acts erratically
+and attacks a randomly determined target. This
+target can be an ally, enemy, or bystander and
+does not have to be adjacent to the target affected
+by Madness, though she must still be able to
+reach her victim.
+Success Levels:
+• Good: Affects all enemies within a Small Blast
+Area.
+• Outstanding: Affects all enemies within a
+Medium Blast Area."}
+ {:name "Piercing Eyes"
+  "Axiom Level" 16
+  :Skill "Conjuration 12"
+  "Casting Time" "1 action"
+  :DN "Challenging (DN 12)"
+  :Range "5 meters"
+  :Duration "3 rounds"
+  :description
+  "The casters eyes become extremely bright beacons
+of blinding white light that stretch out from her
+sockets. Anyone she looks upon feels the wrath of
+a thousand angry spirits reaching out to pierce and
+tear the flesh.
+The caster may only target one creature per round.
+When a creature is targeted, the caster must test
+conjuration again against the target’s willpower or
+Spirit. On a successful test, the target suffers 8 points
+of Damage that ignores Armor. If the target has any
+Corruption Perks she takes an additional 4 Damage.
+The round immediately after the duration of
+Piercing Eyes ends, the caster is treated as if she is in
+Pitch Black (–6 to all attacks) as her eyes readjust to
+normal light. This penalty is reduced by 2 on every
+round after the first until her eyesight returns to
+normal on the 4th round after the spell duration ends.
+Success Levels:
+• Good: Damage +1 BD.
+• Outstanding: Damage +2 BD."}
+ {:name "Shadow Constriction"
+  "Axiom Level" 13
+  :Skill "Apportation 10"
+  "Casting Time" "1 action"
+  :DN "Target’s unarmed combat or Dexterity"
+  :Range "25 meters"
+  :Duration "Concentration"
+  :description
+  "Those who have studied the mysteries of Orrorsh
+know that shadows can be dangerous. An Occultist
+who wields this spell can manipulate shadows to do
+her bidding. The caster calls to the nearby shadows
+and commands them to attack a target. The shadows
+lash out at the target, wrapping her up in its grasp.
+Shadow Constriction attacks a target using the
+Grappling rules (see Torg Eternity). The shadows
+have a Strength of 12 for purposes of dealing damage
+and breaking free of the grapple. As the Occultist
+guides the shadows attacks, it uses apportation for
+all attack tests.
+Success Levels:
+• Good: The target suffers a Dim Darkness
+penalty (–2 to attack and opposed grapple
+tests).
+• Outstanding: The target suffers a Dark
+Darkness penalty (–4 to attack and opposed
+grapple tests)."}
+ {:name "Sudden Death"
+  "Axiom Level" 16
+  :Skill "Alteration 14"
+  "Casting Time" "1 action"
+  :DN "Target’s Strength"
+  :Range "Touch"
+  :Duration "Special"
+  :description
+  "This spell is one that has been re-purposed from
+the scrolls of long dead warlocks and witches. The
+occultist calls forth the energies of any supernatural
+evil that will hear her call. Siphoning the Corruption
+from these creatures and the land itself, she draws
+it into one of her hands, turning it as black as
+midnight. The hand becomes twisted and claw
+like as it absorbs more wicked energy. The caster
+than reaches out with the corrupt appendage and
+claws at a creature’s chest. The talons quickly tear
+through the chest wall and sink into the creature’s
+heart —transferring the evil energy directly into it.
+The victims heart seizes and palpitates.
+Welcoming pure evil into her body with this
+spell results in the caster having to test Corruption
+(Challenging DN 12). The success or failure of the
+Corruption test has no impact on the casting. If the
+target of Sudden Death is an Ord, she immediately
+collapses as she goes into cardiac arrest. She cannot
+act for the next hour and at the end of that hour, she
+dies of a naturally seeming heart attack.
+Possibility rated characters suffer 20 damage that
+ignores armor. If Sudden Death causes the target to
+take more Wounds than her maximum, she makes
+her test for Defeat with a –4 penalty. If the target
+has Corruption Perk she only has a –2 penalty on
+the test for Defeat. If the target dies, it is the result
+of natural-seeming heart attack.
+Success Levels:
+• Good: The target has a –6 (–4 if Corrupted)
+penalty to the test for Defeat.
+• Outstanding: As Good and the test for Defeat
+is Disfavored."}
+ {:name "Terror"
+  "Axiom Level" 10
+  :Skill "Alteration 16"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Spirit"
+  :Range "50 meters"
+  :Duration "Instant"
+  :description
+  "Prerequisites: Beta clearance and Fear.
+Terror creates a deep and primal sense of fear
+that can physically harm those impacted by it. The
+caster releases a wave of energy. Enemies within a
+Large Blast Area are affected by this spell. Affected
+targets become Stymied and suffer 2 points of
+Shock. Note that as an Area Effect attack, there is
+no Multi-Targeting penalty, but also no option to
+add extra targets.
+Targets immune to fear effects can still be
+affected by Terror but have a +4 to their willpower
+or Spirit to resist.
+Success Levels:
+• Good: Affected targets become Very Stymied
+and suffer 4 Shock.
+• Outstanding: Affected targets lose their next
+action and suffer 4 Shock."}
+ {:name "Autumnal Slumber"
+  "Axiom Level" 13
+  :Skill "Alteration 16"
+  "Casting Time" "10 minutes"
+  :DN "Very Hard (DN 16)"
+  :Range "Special"
+  :Duration "8 hours"
+  :description
+  "Prerequisites: Beta clearance.
+Nightmare Trees are a horrible device used to
+infiltrate other realities by the Gaunt Man and
+leech their Possibilities. Autumnal Slumber is a ritual
+designed to temporarily suppress a Nightmare
+Tree’s power.
+To cast this ritual, the occultist must find one of
+the roots stretching out from the Nightmare Tree.
+Once located, the Occultist plunges her hand into
+the dirt grasping the end of the root and pulling it
+out of the ground like a large writhing worm. While
+maintaining a firm grasp on the root with one hand
+she walks counterclockwise around the tree. She
+uproots more of the Nightmare Tree as she does
+this and begins wrapping the root around the trunk
+of the tree. As long as the Occultist holds the root of
+the tree, she is protected from all attempts by the tree
+to harm her. When the Occultist finishes wrapping
+the trees root around it, she produces a silver nail
+and a hammer, placing the end of the root against
+the trunk of the tree, and then driving the nail into
+the root securing it against the tree. This binds the
+Nightmare tree to itself for a time.
+Casting this ritual is not without risk. Maintaining
+such close contact with a Nightmare Tree and having
+the sap spill onto the casters flesh or clothing exposes
+her to the taint of the tree. The Occultist must test
+Corruption (Hard DN 14) upon completion of this
+ritual. The Corruption test has no impact on the
+success or failure of Autumnal Slumber.
+For the duration of Autumnal Slumber, the
+Nightmare Tree is placed into a slumber like state.
+It cannot attack or use any of its powers. During
+this time, the Nightmare Tree does not have access
+to the Possibilities of the stelae network it has
+infiltrated either.
+If the Occultist is willing to risk testing Corruption
+(Very Hard DN 16) she may drain one Possibility
+from the Nightmare Tree upon completing this
+ritual. This may only be done once per completion
+of casting Autumnal Slumber.
+Success Levels:
+• Good: The duration increases to 24 hours.
+• Outstanding: The duration increases to 48
+hours."}
+ {:name "Dark Bargain"
+  "Axiom Level" 16
+  :Skill "Divination 16"
+  "Casting Time" "1 day"
+  :DN "Heroic (DN 18)"
+  :Range "Self"
+  :Duration "Special"
+  :description
+  "Prerequisites: Beta clearance and Protective Circle.
+Dark Bargain is an extremely dangerous ritual that
+only the most desperate of Occultists will enact. This
+24-hour long ritual requires the Occultist to cast a
+large protective circle around herself with salts
+that have been soaked in the blood of a Corrupted
+creature. She then lights 6 candles and begins calling
+out to the dark supernatural creatures of Orrorsh.
+If the Occultist performs the ritual correctly, and
+in her heart truly desires to strike a bargain with
+such an evil entity, it appears before her. The entity
+will grant the Occultist a powerful boon, but at a
+great price.
+On a Standard success, the caster refreshes her
+Possibilities and gains one extra. She also gains one
+Corruption Perk. Taking the Corruption Perk cannot
+be prevented in any way; the Storm Knight willingly
+accepts the stain on her soul as the price for making
+the bargain.
+Success Levels:
+• Good: The casters Destiny Hand size is
+increased by one for the rest of the Act.
+• Outstanding: The casters Destiny Hand size is
+increased by two for the rest of the Act."}
+ {:name "Death Haunt"
+  "Axiom Level" 16
+  :Skill "Conjuration 10"
+  "Casting Time" "1 hour"
+  :DN "Target’s willpower or Spirit"
+  :Range "See below"
+  :Duration "1 hour"
+  :description
+  "Death Haunt allows the caster to haunt the target’s
+thoughts with constant visions of her own death.
+The range of the ritual is a 3-mile radius if the caster
+knows who the target is. If the caster has an object
+belonging to the target, the range expands to 300
+miles. If the caster has a piece of the target (such
+as blood, hair, or nails), the range expands to 1000
+miles. If the name and exact location of the target
+are known, plus she has a piece of the target then
+Death Haunt has a limitless range.
+If the caster succeeded at a test against the target’s
+willpower or Spirit, the target suffers a -4 penalty to
+all skill tests for the duration of the ritual.
+Success Levels:
+• Good: All skill tests for the target are
+disfavored.
+• Outstanding: As Good and the duration
+increases to 8 hours."}
+ {:name "Detect Curs"
+  "Axiom Level" 14
+  :Skill "Divination 8"
+  "Casting Time" "10 minutes"
+  :DN "Target’s willpower or Spirit"
+  :Range "Unlimited"
+  :Duration "Instant"
+  :description
+  "This ritual requires some of the targets blood, hair,
+skin, or similar body part. Detect Curse is a divining
+ritual that can reveal the target’s true nature. The
+Occultist draws a magical circle, lights incense,
+and combines the target’s body part with other
+components in a bowl. This concoction is consumed
+by the caster at the conclusion of this rite. The
+nature of the target is then revealed to the Occultist.
+Though, the target is aware of the intrusion.
+Upon completion of this ritual, the caster must
+test Corruption (Standard DN 10). The Corruption
+test has no impact on the success or failure of this
+ritual. On a standard success, the Occultist knows if
+the target has any Corruption Perks, and how many.
+The ritual tells the Occultist with absolute certainty
+if the target is a creature of supernatural evil or not.
+Success Levels:
+• Good: The Occultist knows if and what kind of
+curse the target is affected by or what kind of
+monsters the target is. Any Corruption Perks
+possessed are identified by name.
+• Outstanding: As Good, plus the target is
+unaware of the intrusion."}
+ {:name "Eye Scry"
+  "Axiom Level" 7
+  :Skill "Divination 10"
+  "Casting Time" "30 minutes"
+  :DN "Standard (DN 10)"
+  :Range "See below"
+  :Duration "2 hours"
+  :description
+  "This gruesome ritual requires the occultist to
+pluck out her eye upon completion of casting. The
+ritual starts with the caster carefully preparing her
+hand by cutting ancient runes into her fingertips.
+Once this task is completed, she must immediately
+place her bleeding fingertips into her eye socket
+and pull out her own eyeball. If the runes were cut
+into her flesh correctly, the eye is pulled free with
+ease and, miraculously, the occultist can still see
+through the eye.
+At the conclusion of the ritual, the caster tests
+divination. On a success the she suffers one Wound
+until her eye is returned to its socket.
+Once removed the eye functions as normal, though
+a slight transformation takes place. The optical
+nerves form into two small appendages that allow
+the eye to creep along the ground at a Movement
+speed of 10. The eye cannot run.
+The eye is difficult to spot. Anyone looking for it
+must make a Heroic (DN 18) find or Mind test to spot
+it and recognize what it is.
+The eye is vulnerable to attack though its size does
+make it harder to hit. All attackers suffer a –6 Size
+penalty and the eye’s Defenses are all 8. The eye only
+has a Toughness of 2. Any Shock or Wounds dealt
+to the eye immediately destroy it.
+The range of Eye Scry is unlimited. If the eye can
+travel that distance it can see everything within
+the normal capabilities of the Occultist who cast
+it. Once the duration ends, the eye immediately
+becomes lifeless. If the caster retrieves the eye and it
+is undamaged, she can place it back into her socket,
+recovering the Wound and regaining her vision.
+If the eye is destroyed while outside of the
+Occultists head, even if returned to her socket, she
+is now blind in that eye.
+The caster may increase the movement of Eye Scry
+by +4 (for a total of 14) by risking a Corruption test
+(Standard DN 10). The movement of Eye Scry is
+increased regardless of the results of the Corruption
+test. Eye Scry can only be modified in this way once
+per the casting of this ritual.
+Success Levels:
+• Good: The eye gains the ability to Fly at Speed
+10 and can run.
+• Outstanding: As Good and the duration
+increases to 4 hours."}
+ {:name "Link Chart"
+  "Axiom Level" 16
+  :Skill "Divination 8"
+  "Casting Time" "30 minutes"
+  :DN "Heroic (DN 18)"
+  :Range "Special"
+  :Duration "Special"
+  :description
+  "Piecing together the clues from an investigation
+can present quite a challenge. The clues to solve
+a mystery are not always obvious or apparent.
+This ritual can help the caster organize and fill
+in any gaps.
+To complete this ritual, the occultist needs a
+bulletin board, large canvas, or a clear spot on a
+wall. She then places notes , clues, pictures, and any
+discovered information on the board and connects
+loose pieces of twine or yarn to each. Then she
+releases magical energy into the area and allows it
+to guide her in her thought process.
+On a Standard success, Link Chart reveals one piece
+of significant information related to the mystery
+the caster is trying to solve. This information is
+something she did not previously know, or guidance
+towards where to make a potential discovery.
+If the ritual fails or there are no discoveries left
+to make, or the notes and clues on the board aren’t
+from a single investigation the board bursts into
+flame and all the materials are destroyed.
+Success Levels:
+• Good: The caster learns two locations or pieces
+of information.
+• Outstanding: The caster learns three locations
+or pieces of information."}
+ {:name "Monkey's Paw"
+  "Axiom Level" 15
+  :Skill "Apportation 10"
+  "Casting Time" "1 hour"
+  :DN "Hard (DN 14)"
+  :Range "Special"
+  :Duration "Special"
+  :description
+  "This macabre ritual requires the occultist to have
+the hand of a dead humanoid. The hand must still
+have flesh. The ritual automatically fails if cast on
+a skeletal hand. The caster soaks the disembodied
+hand in foul-smelling fluids while chanting.
+Upon completion of the ritual, the pinky finger
+and thumb shrivel and curl up while the remaining
+fingers remain straight. If the hand is kept visible on
+the Occultist (typically worn as a talisman around
+the neck) it grants protection against harm.
+In addition to the apportation test to cast this
+ritual, the Occultist must test Corruption (DN 12).
+The Corruption test has no bearing on if the ritual
+succeeds or fails.
+On a Standard casting success the talisman allows
+anyone wielding it to Soak (including Ords) damage
+without spending a Possibility. Each Soak attempt
+where the Monkey’s Paw is used causes one of the
+straight fingers to curl up like the pinky and thumb.
+Once the Monkey’s Paw has been used to make three
+Soak attempts, the hand rapidly withers and turns
+into dust. The Monkey’s Paw holds its power until
+all three Soak attempts have been used.
+Success Levels:
+• Good: All Soak rolls with the paw are made
+at a +2.
+• Outstanding: All Soak rolls with the paw are
+made at a +4."}
+ {:name "Nightmare Aegis"
+  "Axiom Level" 10
+  :Skill "Apportation 16"
+  "Casting Time" "4 hours"
+  :DN "Target’s willpower or Spirit"
+  :Range "Special"
+  :Duration "24 hours"
+  :description
+  "Nightmares are powerful monsters which stalk
+Orrorsh. Many Storm Knights attempt to find
+ways to defeat these creatures, but end up drawing
+their attention before they have discovered any
+vulnerability. Drawing the notice of a Nightmare
+has cost the lives of many Storm Knights or the Ords
+around them.
+Nightmare Aegis is a ritual designed to misdirect
+the sight of a Nightmare. To complete this ritual, the
+occultist must posses at least one piece of information
+about the specific Nightmare—specifically from one
+of the five investigation categories which defines it
+as described on page 73.
+With this knowledge in mind, she focuses on it,
+calling to the Nightmare and drawing its attention.
+Once the Nightmare begins to look for her, the
+Occultist forms the shield around herself and her
+allies and redirects the Nightmare’s gaze elsewhere.
+This leads the Nightmare on a wild goose chase and
+gives her and her allies more time to act without the
+gaze of the creature upon them.
+On a Standard success, the occultist has fooled
+the Nightmare for long enough to make it look
+elsewhere for her and her companions. All attempts
+by the Nightmare to locate the Storm Knight and
+those she deems as her companions, fail for 24 hours.
+The occultist may opt to double the duration of
+Nightmare Aegis by testing Corruption (Very Hard
+DN 16) and choosing a specific person to divert the
+Nightmare’s attention to. It feels to the creature as
+if that person is investigating them, and they act
+accordingly. The duration is increased no matter the
+result of the Corruption test.
+Success Levels:
+• Good: The duration increases to 48 hours.
+• Outstanding: The duration increases to 72
+hours."}
+ {:name "Pestilence"
+  "Axiom Level" 16
+  :Skill "Conjuration 12"
+  "Casting Time" "1 hour"
+  :DN "Hard (DN 14)"
+  :Range "500 meters"
+  :Duration "Special"
+  :description
+  "Pestilence is a risky ritual that can wreak great
+havoc upon one’s enemies. To perform this ritual,
+the Occultist must have something that belonged
+to a person who died of a sickness — bandages,
+clothing, a handkerchief, and similar things will
+suffice. The diseased belonging is then ground up,
+burned, or otherwise shaped into dust. Finally,
+the occultist mixes in other components to make
+a magically infected powder that she blows into
+the wind. These particles seek out her targets and
+infect them.
+In addition to making the conjuration test to cast
+this ritual, the Occultist must also test Corruption
+(Challenging DN 12). The result of the Corruption
+test has no impact on the success or failure
+of the ritual.
+Pestilence infects all targets directly downwind
+within the ritual’s range. Each target is allowed a
+Hard (DN 14) Strength test to fight off the disease.
+Failure means that the target is infected. Any targets
+who fail the test immediately suffer a –1 to all
+Attributes as they become ill.
+The disease that Pestilence creates has a short,
+but devastating lifespan. Over the next 72 hours
+each target infected must make another Hard (DN
+14) Strength test at each 24-hour mark or suffer a
+cumulative –1 penalty to all Attributes, up to a total
+of –3 to all attributes on the third day. After the
+third day, the targets begin to recover, eliminating
+one point of penalty each day until they have no
+penalty at all.
+Additionally, any target infected by Pestilence
+becomes a temporary carrier of the magical disease.
+Anyone who comes into physical contact with
+someone with a current penalty must test Strength
+(Challenging DN 12) or become infected themselves
+as above. The new target in turn becomes a carrier
+who can infect others.
+Any creature that has a Corruption Perk tracks
+the penalty but ignores its effect on attributes. Such
+creatures are technically immune, but still count
+as carriers of the magical disease for as long as the
+penalty would affect them.
+Success Levels:
+• Good: The caster is immune to the effects of
+the disease she creates.
+• Outstanding: As Good and the caster chooses
+5 other targets that are immune."}
+ {:name "Transfer Corruption"
+  "Axiom Level" 11
+  :Skill "Apportation 14"
+  "Casting Time" "10 minutes"
+  :DN "Target’s willpower or Spirit, or Hard (DN 14) if
+an object"
+  :Range "Touch"
+  :Duration "24 hours"
+  :description
+  "Those who have suffered the effects of Corruption
+Perks have a stain on their soul. To draw that stain
+out, it has to come to the surface. The temptations
+incur Corruption are strong, but there are ways to
+temporarily cheat Orrorsh.
+While casting this ritual, the physical expression
+of corruption becomes exaggerated: disfigurements
+become obvious, moles look grotesque, old wounds
+reappear and fester, etc. This temporary ugliness
+is similar to the effects of Darkness Perks in Aysle,
+and no coincidence. At the climax of the ritual,
+the occultist must choose a target to inflict her
+Corruption Perk upon.
+Regardless of if the target is an object or a person,
+the Occultist must test Corruption (Hard DN 14).
+This ritual is resolved despite the outcome of the
+Corruption test.
+On a standard success the occultist can temporarily
+gains +1 Charisma and ignores the effects of
+Corruption Perks for the duration. If the target
+is a alive it suffers a –1 Charisma penalty for the
+duration, and temporarily inherits all the ghastly
+manifestations of Corruption that manifested
+during the casting. An object targeted by Transfer
+Corruption becomes warped and twisted. The caster
+must keep this object on her person or the duration
+immediately ends.
+During the ritual’s duration the caster doesn’t
+register as supernatural evil or in possession
+of Corruption Perks for Detect Curse and other
+similar senses.
+Transfer Corruption only removes the physical
+aspects of Corruption from the caster. Corruption
+can still be detected in the caster through magical or
+other supernatural means. If the target is Defeated
+or destroyed the duration ends and the caster must
+test Defeat as well.
+Success Levels:
+• Good: The duration increases to 48 hours.
+• Outstanding: As Good, plus the caster gains a
++2 bonus to Charisma and the target suffers a –2
+penalty to Charisma for the duraction."}
+ {:name "Truth of the Flesh"
+  "Axiom Level" 14
+  :Skill "Divination 10"
+  "Casting Time" "1 hour"
+  :DN "Target’s willpower or Spirit"
+  :Range "Touch"
+  :Duration "1 hour"
+  :description
+  "Orrorsh is a cosm full of mysteries where Storm
+Knights may find themselves at the center of
+investigations of arson, robbery, and murder. This
+bloody ritual was designed to assist an interviewers
+with obtaining the absolute truth from a suspect.
+To complete this ritual, the occultist must harm
+the target without killing him. Committing such a
+torturous act requires Hard (DN 14) Corruption test.
+This Corruption test has no impact on the success
+or failure of the ritual.
+On a Standard success the target answers two
+questions asked by the occultist completely and
+honestly. If the target does not know the answer to
+the question, he responds with, “I do not know,” or
+something similar. The target of Truth of the Flesh is
+not granted any extra awareness of the subjects he
+is being interviewed about.
+Once the ritual’s duration ends the target is
+unconscious for 24 hours.
+Success Levels:
+• Good: The target answers three questions
+honestly and completely.
+• Outstanding: As Good, plus the target isn’t
+rendered unconscious."}]

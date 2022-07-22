@@ -1,0 +1,489 @@
+[{:name "Exorcist"
+  :Cosm "Any"
+  :Prereq "Knowledge of the banish miracle and
+at least three adds in scholar"
+  :type "FAITH"
+  :description
+  "The miracle worker specializes in the casting out of
+spirits, demons, and other supernatural agents who
+possess or otherwise inhabit and control a person,
+place, or object. If a character is being temporarily
+controlled by an entity via magic, miracle, psionic
+power, pulp power, or other supernatural ability,
+the exorcist may use banish against a single target
+and end that control immediately by invoking the
+miracle against the controller’s willpower or Spirit.
+On a Good Success the target gains immunity to
+any such control again until the end of the scene.
+If the faithful gets an Outstanding Success, the
+controller takes a Wound as well. If a supernatural
+agent has permanently possessed the target, it
+must instead be exorcised."}
+ {:name "Fortified by Faith"
+  :Cosm "Any"
+  :Prereq "At least one add in faith"
+  :type "FAITH"
+  :description
+  "Strong belief in righteousness or a rewarding
+afterlife helps the devotee resist coercion and threats
+of danger. When testing for Fear, the character may
+use faith instead of Spirit or willpower."}
+ {:name "Pacifist"
+  :Cosm "Any"
+  :Prereq "Vow of Nonviolence"
+  :type "FAITH"
+  :description
+  "The character is a pacifist. The character may not,
+under any circumstances, make physical attacks
+that can cause Shock or Wounds. However, in
+exchange, all the character’s interaction attacks are
+Favored.
+Making any attack that can inflict Shock or
+Wounds on a target constitutes a major violation
+of the pacifist’s vow, and the sinner loses the use
+of this Perk as well as Vow of Nonviolence for
+the remainder of the act. However, no violation
+occurs if the target is injured by accident, such as
+by tripping and falling over a ledge or by jumping
+into an oncoming train while attacking the pacifist."}
+ {:name "Religious Pluralist"
+  :Cosm "Any"
+  :Prereq "Beta, Core Earth, and at least three adds
+in faith"
+  :type "FAITH"
+  :description
+  "The faithful of Core Earth, especially those who
+are Storm Knights, often witness miracles from a
+multitude of different religions, and knowledge
+of these new miracles is spreading. The miracle
+worker may select a miracle from a list other than
+the ones the character may normally access, even if
+it is contradictory. This miracle must be compatible
+with the character’s religion."}
+ {:name "Religious Scholar"
+  :Cosm "Any"
+  :Prereq "Core Earth, at least one add in faith,
+and two adds in scholar, and a follower of a Core
+Earth religion"
+  :type "FAITH"
+  :description
+  "Knowledge is a powerful tool, and many of the
+faithful study the intracies of their religion, often
+for years. This theological knowledge served
+the character well; the character may access the
+appropriate miracle list on page 23, and can
+select two miracles, plus additional miracles as
+described below. If the supplicant already knows
+the listed miracles, they may select a new one.
+   Theology: Adherents of the religion of Los
+Asangrados do not have a large body of knowledge
+about their faith and may not take this Perk.
+• Bantu and other Traditional African Faiths:
+commune with spirits and pass without trace
+• Buddhism: meditation and yin and yang
+• Chinese Folk Religion: commune with spirits
+and yin and yang
+• Christianity: bounty and walk on water
+• Hinduism: contort and meditation
+• Indigenous Religions: dream and banish
+• Islam: pass without trace and walk on water
+• Judaism: prophecy and snake staff
+• Neopaganism: break curse and commune with
+spirits
+• Sikhism: contort and meditation
+• Shinto: commune with spirits and yin and yang
+• Other Core Earth Religions: Gain one
+miracle from another Core Earth faith’s list, as
+appropriate (GM’s call)"}
+ {:name "Spirit Nemesis"
+  :Cosm "Any"
+  :Prereq "Spirit Bane"
+  :type "FAITH"
+  :description
+  "Many spirits adopt a nonchalant attitude when
+inflicting pain or trying to kill corporeal beings,
+believing their victims are powerless to resist.
+Unfortunately for them, when facing someone
+with this Perk, spirits quickly find they are terribly
+mistaken. The hero’s physical attacks against
+ethereal creatures are Favored, and 1s on bonus
+dice are re-rolled (though the second roll stands)."}
+ {:name "Vow of Nonviolence"
+  :Cosm "Any"
+  :Prereq "At least one add in faith"
+  :type "FAITH"
+  :description
+  "The faithful takes a vow of nonviolence, but
+not one of true pacifism. After an oppnent rolls a
+bonus for an attack, the Storm Knight may spend
+a Possibility to roll another bonus and take the
+lowest. If the attacker spent any Possiblities, the
+hero must spend an equal amount of additional
+Possibilities. However, any test to make a physical
+attack suffers a -2 penalty.
+Making an attack that can cause Shock or Wounds
+against a target who has not made a physical attack
+against the hero, an ally, or an innocent bystander
+in the current scene is a major violation of this vow
+and the character loses the use of this Perk for the
+remainder of the act."}
+ {:name "Ascetic"
+  :Cosm "Core Earth"
+  :Prereq "At least one add in reality, at least
+three adds in willpower, Strong Willed, and
+Endurance"
+  :type "REALITY"
+  :description
+  "A lifestyle of dedicated self-discipline and
+abstinance from a variety of indulgences allows the
+most strong-willed to use their inner ki to perform
+incredible feats. The Storm Knight gains access to
+the Ki Power Perk category and may select one Ki
+Power Perk. This Perk is supported by both Core
+Earth and Pan-Pacifica’s World Laws and does not
+cause contradictions in either reality."}
+ {:name "Anomaly Prime"
+  :Cosm "Core Earth"
+  :Prereq "Beta Clearance, at least 5 adds in
+kinesis, precognition, or telepathy, and one of
+Precog Anomaly, Telekinetic Anomaly, or
+Telepathy Anomaly"
+  :type "PSIONIC"
+  :description
+  "The psi is one of the most powerful on Core Earth,
+and unlocks her complete potential. She gains access
+to, and learns the psionic power corresponding to
+the type of psionic anomaly she is:
+• Precog Anomaly: Shift fate.
+• Telekinetic Anomaly: Teleport.
+• Telepathic Anomaly: Mind control."}
+ {:name "Firestarter"
+  :Cosm "Core Earth"
+  :Prereq "At least one add in kinesis. May not
+have any adds in precognition or telepathy, and may
+not know any psionic powers that require
+precognition or telepathy. May not have the Psionic
+Perk."
+  :type "PSIONIC"
+  :description
+  "The psi is a wild talent who can materialize fire
+or waves of heat. Her power potential is immense,
+and may have access to powers that she otherwise
+shouldn’t have, but she tends to lose control of her
+powers at inopportune times.
+The psi gains access to the Firestarter psionic
+power list on page 31, and knows all of the powers,
+even if she does not have a high enough kinesis
+skill. She is subject to the effects listed in the Wild
+Talents sidebar.
+Special: The psi may never gain adds in
+precognition or telepathy, nor learn any psionic
+powers not on the Firestarter list."}
+ {:name "Firestarter Prime"
+  :Cosm "Core Earth"
+  :Prereq "At least 5 adds in kinesis and Firestarter"
+  :type "PSIONIC"
+  :description
+  "The pyrokinetic is at one with her powers. This
+does not mean that she fully controls them,
+but more that she is subject to their chaotic and
+uncontrollable nature. While heat shield is active,
+her rolls to activate pyrokinesis or pyrokinetic storm
+are Favored."}
+ {:name "Precog Anomaly"
+  :Cosm "Core Earth"
+  :Prereq "At least one add in precognition. May
+not have any adds in kinesis or telepathy, and
+may not know any psionic powers that require
+kinesis or telepathy"
+  :type "PSIONIC"
+  :description
+  "The psi gains access to the Precog Anomaly list on
+page 31 and may learn three powers, even if she
+does not have the requisite precognition skill. She
+is subject to the effects listed in the Wild Talents
+sidebar.
+Special: The psi may never gain adds in kinesis or
+telepathy, nor learn any psionic powers requiring
+those skills.
+Additional Powers: The psi may take the Psionic
+Perk, but only gains additional powers, not the
+access to a new power list."}
+ {:name "Psychic Anomaly"
+  :Cosm "Core Earth"
+  :Prereq "Psionic and at least one add in two of
+kinesis, precognition, or telepathy."
+  :type "PSIONIC"
+  :description
+  "The psi expands her mind slightly and learns
+two additional psionic powers from the Psychic
+Anomaly list."}
+ {:name "Telekinetic Anomaly"
+  :Cosm "Core Earth"
+  :Prereq "At least one add in kinesis. May not
+have any adds in telepathy or precognition, and
+may not know any psionic powers that require
+telepathy or precognition."
+  :type "PSIONIC"
+  :description
+  "The psi gains access to the Telekinetic Anomaly
+list on page 31 and may learn three powers, even
+if she does not have the requisite kinesis skill. She
+is subject to the effects listed in the Wild Talents
+sidebar.
+Special: The psi may never gain adds in
+precognition or telepathy, nor learn any psionic
+powers requiring those skills.
+Additional Powers: The psi may take the Psionic
+Perk, but only gains additional powers, not the
+access to a new power list."}
+ {:name "Telepathic Anomaly"
+  :Cosm "Core Earth"
+  :Prereq "At least one add in telepathy. May not
+have any adds in precognition or kinesis, and
+may not know any psionic powers that require
+precognition or kinesis."
+  :type "PSIONIC"
+  :description
+  "The psi gains access to the Telepathic Anomaly
+list on page 31 and may learn three powers, even if
+she does not have the requisite telepathy skill. She
+is subject to the effects listed in the Wild Talents
+sidebar.
+Special: The psi may never gain adds in
+precognition or kinesis, nor learn any psionic powers
+requiring those skills.
+Additional Powers: The psi may take the Psionic
+Perk, but only gains additional powers, not the
+access to a new power list."}
+ {:name "Supernatural Adaptation"
+  :Cosm "Any"
+  :Prereq "Beta Clearance, access to any spell list,
+and Realm Runner OR Gamma Clearance and
+access to any spell list."
+  :type "PROWESS"
+  :description
+  "Exposure to other realities allows the Storm Knight
+to expand the scope of their own abilities and learn
+spells that are foreign to their own training. The
+hero gains access to a single new spell list and
+may replace up to two spells, miracles, or psionic
+powers they currently know with new spells from
+that list. This access does not count as a Prereq for
+the selection of other Perks that require access to
+that spell list."}
+ {:name "Arcane Investigator"
+  :Cosm "Any"
+  :Prereq "Core Earth, Spellcaster, and access to
+the Dabbler spell list. The spellcaster may not
+have access to any other spell list."
+  :type "SPELLCRAFT"
+  :description
+  "Some wizards utilize their skills in solving crimes,
+or acting as private investigators. These arcane
+detectives most often live in urban areas, but can
+occasionally be found aiding rural folk. Selecting
+this Perk grants the wizard access to the Arcane
+Investigator spell list (see page 30).
+Additionally, they may select three additional
+spells."}
+ {:name "Avant-Garde"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire,
+Orrorsh, Tharkold"
+  :Prereq "Core Earth, Spellcaster, and access to
+the Dabbler spell list. The spellcaster may not
+have access to any other spell list."
+  :type "SPELLCRAFT"
+  :description
+  "Some Dabblers turn their dabbling to 11, dipping
+their toes into the knowledge that other cosms have
+brought to Core Earth. Selecting this Perk allows
+the wizard to select three spells, one of which may
+be from another cosm, but must have a Magic
+Axiom of 14 or less."}
+ {:name "Mythomancer"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire,
+Orrorsh, Tharkold"
+  :Prereq "Core Earth, Storyteller, and at least
+one add in alteration, apportation, conjuration or
+divination. May not have access to any spell lists."
+  :type "SPELLCRAFT"
+  :description
+  "Mythomancers cast spells in the form of telling a
+story, and are newcomers to the spellcasting stage,
+only appearing after the invasion began. Some
+mythomancers narrate scenes or character actions
+from stories. Others cast their spells in the form of
+songs, or in the form slam poetry. Mechanically
+these spells are identical to the current forms, but
+manifest in a different manner. For example, the
+dancing sword spell can appear as a heroic knight
+wielding a sword.
+Selecting this Perk grants access to the Mythomancer
+spell list, and the wizard may select three spells.
+Additionally, apportation or conjuration spells use
+Charisma as the base attribute rather than Spirit.
+Additional Spells: The Spellcaster Perk may be
+selected to gain additional spells but it does not
+provide access to any new spell lists."}
+ {:name "Soul Implement"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire,
+Orrorsh, Tharkold"
+  :Prereq "Core Earth and Spellcaster OR
+Mythomancer"
+  :type "SPELLCRAFT"
+  :description
+  "Wizards and magicians of all sorts frequently
+use implements such as wands or to enhance
+their spellcasting (see Aysle Sourcebook). Selecting
+this Perk grants the wizard one of the appropriate
+implements as shown below.
+No matter the implement, the magician chooses
+one of the magic skills, and tests using that skill are
+Favored. This skill cannot be changed.
+These implements have the same power as Arcane
+items, but since those require a significantly higher
+Magic Axiom than Core Earth has ever had, soul
+implements utilize the Law of Aegis to function by
+putting a piece of the user’s soul into it. Thus the
+use of soul implements is contradictory outside of
+Core Earth.
+Should the item be destroyed or permanently lost,
+the wizard suffers a temporary Injury (see Defeat in
+Torg Eternity). The wizard gains a new implement
+after one full act passes, which heals the Injury.
+Alternatively, if the wizard has selected one of the
+following Perks, they can instead gain the listed
+implement:
+• Spellcaster: These wands are made by the
+magician, whittling branches from particular
+hardwood trees such as oak, maple, or poplar
+trees.
+• Geomancer (Selenite Crystal): These crystals
+are handpicked by geomancers who make a
+pilgrimage to the Cave of Crystals (see page 22).
+• Mythomancer: Mythomancers use a variety
+of instruments (literally in the case of those
+who base their spellcasting on song) to enhance
+their spells. The physical form that this takes
+is not important, whether it be analog or
+digital, paper or silicon. What is important is
+that the spellcaster compiles the stories, songs,
+poems, plays, or movies themselves. The
+repertoire says something profound about the
+mythomancer’s soul, and whether the media
+is stored on a paper page, on a DVD, or MP3
+player, the device functions through the Law
+of Aegis."}
+ {:name "Geomancer"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire,
+Orrorsh, Tharkold"
+  :Prereq "Core Earth and access to the Dabbler
+spell list. The spellcaster may not have access to
+any other spell list."
+  :type "SPELLCRAFT"
+  :description
+  "These Core Earth wizards specialize in the use
+of rocks, minerals, and the planet itself to power
+their spells. Geomancers frequently use the power
+of ley lines to cast higher axiom spells, and the
+most skilled geomancers can even use ley lines to
+teleport across the globe. With the exposure to other
+realities with high magic (like Aysle), geomancers
+have even managed to learn otherwise unheard of
+spells such as sudden burial. This Perk grants the
+spellcaster access to the Geomancer spell list, and
+they may choose three spells."}
+ {:name "Quantum Entanglement"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire,
+Orrorsh, Tharkold"
+  :Prereq "Core Earth or Aysle (Transformed
+Core Earth), Spellcaster, and at least two adds in
+science."
+  :type "SPELLCRAFT"
+  :description
+  "Combining quantum physics with mathematics
+can entangle a spell with future possibilities. As
+a free action, after determining the Success Level
+of a successfully cast spell, it may be increased
+by one level by spending a Possibility. After the
+action resolves, that Possibility is given to the GM
+who can spend it at any time in the future for any
+character, including an Ord"}
+ {:name "Reality Mage"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire,
+Orrorsh, Tharkold"
+  :Prereq "Core Earth and access to the Dabbler
+spell list. The spellcaster may not have access to
+any other spell list."
+  :type "SPELLCRAFT"
+  :description
+  "The wizard gains access to the Reality Mage spell
+list, and may select three spells. One of these spells
+may instead be from a cosm’s list that Core Earth
+has been exposed to, up to a Magic Axiom of 18.
+The wizard only learns that specific spell, and does
+not otherwise gain access to the associated spell
+list, and may not select any Perks that knowing
+that spell may allow."}
+ {:name "Spell Slinger"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire,
+Orrorsh, Tharkold"
+  :Prereq "Spellcaster, at least 2 adds in apportation."
+  :type "SPELLCRAFT"
+  :description
+  "When armed with a rod, wand, or a staff you may
+use Dexterity + apportation as a defense in place of
+dodge or melee weapons."}
+ {:name "Travel Ley Line"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire,
+Orrorsh, Tharkold"
+  :Prereq "Geomancer and at least 5 adds in
+apportation."
+  :type "SPELLCRAFT"
+  :description
+  "This ability allows the geomancer and up to 8
+allies to instantly transport from one ley node to
+another. The departure node can be any of the ones
+on Core Earth, but the arrival node must be one
+that is Magic 15 or higher. The nodes much be in a
+Core Earth Dominant or Pure Zone, but can include
+hardpoints (by traveling through the interior of
+the Earth). Even if a reality such as Aysle has a
+Magic Axiom higher than 15, it does not properly
+maintain the ley line structure needed for this spell
+to work.
+To activate the ley node, the mage creates a circle
+with chalk, sand, or other materials, around the
+people who will be traveling the ley lines. As long
+as the circle isn’t broken when the casting time is
+complete, the travelers instantly teleport to the
+desired ley node.
+Under most circumstances, this casting can be done
+without effort, and no test is necessary. However,
+if the geomancer is activating the node under time
+pressure (such as during combat), this ability is
+activated through a Dramatic Skill Resolution, with
+all four Steps requiring a successful Hard (DN 14)
+apportation test.
+The use of this ability requires Magic 15, so any
+tests involved in activating the ley node could be
+contradictory."}
+ {:name "Wiccan"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire,
+Orrorsh, Tharkold"
+  :Prereq "Core Earth, at least one add in faith,
+and at least one add in alteration, apportation,
+conjuration, or divination, and follower of neo-
+paganism (see Core Earth Religions)."
+  :type "SPELLCRAFT"
+  :description
+  "The White Witches of the Cyberpapacy are
+spiritual cousins to those who follow the Wicca
+faith of Core Earth. Selecting this Perk counts as
+selecting the White Witch Perk (see Cyberpapacy
+Sourcebook) for all intents and purposes, including
+access to the White Witch spell list, access to any
+Perks that require White Witch as a Prereq, and any
+advantages or disadvantages such an association
+involves."}]

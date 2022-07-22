@@ -1,0 +1,469 @@
+[{:name "Alpha"
+  "Axiom Level" 10
+  :Skill "Alteration 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :description 
+  "The power of dominance radiates from the
+scholar. The caster appears to stand taller, move
+with confidence, and has a powerful glint in her
+eye. This spell releases an ancient and carnal feeling
+in all within the radius, causing creatures near her
+to mentally struggle and eventually submit to
+her presence.
+The caster’s intimidation and persuasion
+tests are Favored.
+Special: This spell can only be attempted once per
+scene.
+Success Levels:
+• Good: Intimidation and persuasion tests against
+gain a +4 bonus instead.
+• Outstanding: The characters intimidation and
+persuasion tests are Up."}
+ {:name "Agony"
+  "Axiom Level" 11
+  :Skill "Alteration 10"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Spirit"
+  :Range "Touch"
+  :Duration "Instant"
+  :description
+  "The spellcaster reaches out and physically touches
+a single target; no Multi-Targeting is available.
+On a success, pain tears through the target’s
+body causing temporary blindness, nausea, and
+instability. The victim is Stymied and Vulnerable.
+Success Levels:
+• Good: The target is Very Stymied and Very
+Vulnerable.
+• Outstanding: The target loses their next action
+and takes 2 Shock."}
+ {:name "Chilling Darkness"
+  "Axiom Level" 14
+  :Skill "Conjuration 14"
+  "Casting Time" "1 action"
+  :DN "Target’s intimidation or Spirit"
+  :Range "25 meter radius, centered on caster"
+  :Duration "1 round"
+  :description
+  "A cold shadow extends from the caster,
+enshrouding all within 25 meters of her in darkness.
+Those within, or attacking targets within, the
+darkness suffer a Dark (–4) penalty. Abilities and
+gear which allow subjects to see in darkness do not
+work while inside the chilling darkness.
+Additionally, all within the darkness, except the
+caster, feel an overwhelming sense of terror. At the
+start of their turn, each person other than the caster
+must make a Fear test (willpower or Spirit) or become
+Very Stymied.
+Success Levels:
+• Good: The Fear tests have a –2 penalty.
+• Outstanding: The Fear tests have a –4 penalty."}
+ {:name "Flesh Link"
+  "Axiom Level" 10
+  :Skill "Alteration 12"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Spirit"
+  :Range "Touch"
+  :Duration "Concentration"
+  :description
+  "Flesh link is a defensive spell devised by Tharkoldu
+scholars. In technodemon fashion, the caster shares
+his pain with a single unwilling target. Multi-
+Targeting rules cannot be used.
+If successful, the target suffers all Shock the caster
+suffers, after any mitigating effects such as Occultech
+or Soaking. If the target reduces or is otherwise
+immune to Shock, those abilities still apply.
+Flesh link does not prevent the caster from suffering
+any damage, and it inflicts Shock before the caster
+takes any Concentration tests.
+Success Levels:
+• Good: The link is particularly painful and the
+target takes 1 additional Shock.
+• Outstanding: The target also takes any
+Wounds the caster suffers."}
+ {:name "Elemental Bullets"
+  "Axiom Level" 10
+  :Skill "Alteration 12"
+  "Casting Time" "1 action"
+  :DN "Challenging (DN 12)"
+  :Range "Touch"
+  :Duration "Concentration"
+  :description
+  "Elemental bullets allows the acolyte to infuse bullets
+in any firearm with elemental energy. This spell can
+only be cast on weapons that fire standard bullets
+(i.e. no energy, thrown, or missile weapons or special
+ammunition). Enchanting heavy weapons (i.e. those
+that require heavy weapons to fire) takes a Hard (–4)
+penalty. Multiple firearms may be targeted with
+Multi-Targeting as normal.
+When the acolyte casts this spell, she selects one
+form of elemental energy to infuse into the weapons.
+As the caster lifts her hand from the firearms they
+pulse with the imbued energy. Elemental bullets
+count as a magical attack.
+The energy options include:
+• Cold (Cryo Bullets): Frost can visibly be
+seen on the barrel. The weapon is cold to the
+touch, and when fired, bolts of ice shoot forth
+from the weapon. A target hit by cryo bullets
+becomes Stymied and Movement speed drops
+by 2 until Stymied wears off.
+• Fire (Fire Spitters): The firearm’s barrel
+glows red with heat. When this firearm is
+fired, the bullets look like bursts of fire. Those
+struck by fire spitters may catch on fire (see
+Environmental Hazards in Torg Eternity;
+Damage 12 each round and Stymied) if
+the damage of the bullet is greater than the
+target’s total toughness, unless they can pass
+a Dexterity (DN 12) test. The fire goes out if
+the target suffers no Shock damage from it or
+spends an Action to douse the flames.
+• Electricity (Shock Rounds): Electrical energy
+crackles around the weapon, infusing the
+firearm’s bullets with lightning. When fired,
+the rounds appear to be bolts of lightning.
+Those struck by a weapon enhanced with
+shock rounds take 2 Shock.
+Success Levels:
+• Good: The firearm also deals +1 damage.
+• Outstanding: The firearm deals +2 damage."}
+ {:name "Forced Burst"
+  "Axiom Level" 10
+  :Skill "Alteration 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "Concentration"
+  :description
+  "This spell allows the acolyte to drastically enhance
+the rate at which the energy weapons or firearms can
+fire. Heavy weapons and missile weapons cannot be
+affected by this spell.
+Forced burst increases the efficiency of the action,
+bolt, energy distribution, and other operations that
+govern the rate of fire of the weapon. The weapon
+gains the Short Burst trait, or the Long Burst trait if
+it already fires Short Bursts. The weapon must still
+have the ammo capacity and available rounds in
+the clip or chamber to be able to fire the appropriate
+number of rounds.
+Success Levels:
+• Good: The weapon gains the Long Burst trait,
+or if the weapon already does Long Burst, the
+Malfunction range decreases by one.
+• Outstanding: The weapon gains the Long Burst
+trait and the Malfunction range decreases to 1."}
+ {:name "Impaling Limb"
+  "Axiom Level" 13
+  :Skill "Alteration 14"
+  "Casting Time" "1 round"
+  :DN "Target’s willpower or Spirit"
+  :Range "Touch"
+  :Duration "1 minute"
+  :description
+  "Impaling limb is a spell created when Tharkold’s
+Magic Axiom was higher, and is currently
+contradictory when cast within Tharkold.
+This spell may only be cast on targets that have
+a skeleton or similar structure, otherwise this spell
+automatically fails. Additionally, it may only be cast
+upon willing targets, or those who are the caster’s
+submissives.
+When impaling limb spell is successfully cast, the
+spell breaks the bones and strips away the flesh of
+one of the target’s arms, from elbow to fingertips.
+The arm then temporarily reshapes into a vicious
+looking spike that can be used to impale foes.
+This gruesome process inflicts 2 Shock to the
+target. The limb is an effective weapon that inflicts
+Strength +4 damage with AP 2. Unarmed combat is
+used for attacks.
+When the spell ends, the limb reverts to normal.
+Success Levels:
+• Good: AP increases to 3.
+• Outstanding: AP increases to 4."}
+ {:name "Flesh Armor"
+  "Axiom Level" 13
+  :Skill "Alteration 14"
+  "Casting Time" "1 round"
+  :DN "Target’s willpower or Spirit"
+  :Range "Touch"
+  :Duration "1 minute"
+  :description
+  "Flesh armor was discovered hundreds of years
+ago, when the Magic Axiom was higher, and is now
+contradictory within Tharkold.
+This spell may only be cast on targets that have
+a skeleton or similar structure otherwise this spell
+automatically fails. Additionally, it may only be
+cast upon willing targets, or those who are the
+caster’s thralls.
+Flesh armor allows the scholar to shape his own
+or another’s flesh and bone making it significantly
+tougher. Bones audibly snap and twist as the scholar
+passes his hands over the target’s body. Bones visibly
+move and expand under the skin – the rib cage fuses
+together, and the skull becomes larger as the bone
+mass dramatically increases, offering protection
+over vital organs. As the molding is completed, the
+flesh thickens and takes on a red tint.
+The target takes 2 Shock from the painful process
+but enjoys a +4 Full Body Armor that ignores two
+points of Armor Penetration.
+At the end of the duration, the target’s body
+returns to normal.
+Success Levels:
+• Good: The armor ignores 3 points of AP.
+• Outstanding: The armor ignores 4 points of AP."}
+ {:name "Know Pain"
+  "Axiom Level" 11
+  :Skill "Divination 12"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Spirit"
+  :Range "25 meters"
+  :Duration "Concentration"
+  :description
+  "The acolyte points at a target, looking through
+its mind for the most agonizing memories. Finding
+these, the caster becomes intimately familiar with
+the most painful ways to cause harm to the target
+—striking a “bum knee,” applying pressure to a
+broken bone that hasn’t completely healed, or other
+areas of the body physically or psychologically more
+vulnerable to attacks.
+On a success, the target takes 2 Shock and all
+subsequent attacks made by the adept against the
+target deal 1 additional Shock.
+Success Levels:
+• Good Success: The target takes 4 Shock
+and subsequent attacks by the adept deal 2
+additional Shock.
+• Outstanding Success: The duration increases
+to 1 minute."}
+ {:name "Occultech Blast"
+  "Axiom Level" 12
+  :Skill "Alteration 14"
+  "Casting Time" "1 action"
+  :DN "Target’s dodge or Dexterity"
+  :Range "Self"
+  :Duration "Instant"
+  :description
+  "This spell was originally developed by the
+Tharkoldu, since the caster must possess Occultech
+to cast the spell.
+The caster speaks an incantation that causes all her
+Occultech to arc and pulse as it begins to overload.
+If the caster does not possess the Occultech perk,
+this spell automatically fails.
+Occultech blast targets those within a Large Blast
+Radius centered on the caster. On a hit, the spell
+deals 16 AP4 damage. The caster
+also takes 2 Shock.
+Success Levels:
+• Good: +1BD damage.
+• Outstanding: +2BD damage."}
+ {:name "Overdrive"
+  "Axiom Level" 12
+  :Skill "Apportation 10"
+  "Casting Time" "1 action"
+  :DN "Vehicle’s Top Speed"
+  :Range "Touch"
+  :Duration "Concentration"
+  :description
+  "The acolyte places her hand on a vehicle and
+transfers the magical energy around her into the
+engine, which pulses. This enhancement gives the
+engine a significant boost for as long as the acolyte
+maintains concentration.
+A Standard Success increases the vehicle’s Top
+Speed by +1. If Top Speed increases to 11+ the vehicle
+gains the Fast property, if 15+ it gains the Very Fast
+property, and at 17+ the Ultra Fast property.
+At higher levels of success the vehicle also becomes
+more maneuverable.
+Success Levels:
+• Good: Top Speed increases by +2, and MR
+increases by 1.
+• Outstanding: Top Speed increases by
++3 and MR increases by 2."}
+ {:name "Subjugate Technology"
+  "Axiom Level" 12
+  :Skill "Apportation 14"
+  "Casting Time" "1 action"
+  :DN "Challenging (DN 12) or
+Challenging (–2) against the target’s
+willpower or Spirit"
+  :Range "Touch"
+  :Duration "Concentration"
+  :description
+  "The acolyte quickly draws
+magical runes in the air granting
+her influence on the object she
+touches. Subjugate technology allows
+the acolyte to slow down the moving
+parts, electrical currents, and all
+inner workings of a single non-Threat
+technological device.
+The technological device affected by
+subjugate technology must be of a Tech
+Axiom 17 or higher and have moving parts.
+If the acolyte attempts to use the spell on
+an object that has a lower Tech Axiom it
+automatically fails.
+Subjugate technology can target any single piece
+of armor, gear, weapon or similar device that can
+be wielded in two hands. No Multi-Targeting is
+allowed. If the target is not in the possession of
+someone, the test is Challenging (DN 12), otherwise
+it’s against the willpower or Spirit of the wielder (with
+a –2 penalty). Large and Very Large devices take a
+–4 or –8 penalty, respectively.
+If the caster succeeds, he may control the item
+to do anything it could do on its own if given
+electrical inputs: turn on or off, or possibly even
+aim and attack! Any tests the object must make use
+the caster’s skill (e.g. fire combat to shoot firearms).
+Note this doesn’t allow the caster to move an item
+around as if by telekinesis.
+If the device is possessed by someone, they can
+control it on their turn, by taking a contest against
+the caster, using the target’s willpower vs. the caster’s
+apportation. This counts as an action but other actions
+may be taken as a Multi-Action as normal.
+Success Levels:
+• Good: The apportation test to maintain control
+in a contest is Favored.
+• Outstanding: As Good and the target’s test is
+Disfavored."}
+ {:name "Summon Aishan"
+  "Axiom Level" 12
+  :Skill "Apportation 14"
+  "Casting Time" "1 round"
+  :DN "Challenging (DN 12)"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :description
+  "Axiom Level: 12 or 14 (see below)
+All Occultech is fueled by dark magic. Damaged
+or broken Occultech releases this energy back into
+the cosm. This spell allows the scholar to draw
+the available dark magic to him and form it into a
+supernatural entity that obeys his every command.
+When cast within Tharkold, this spell uses
+apportation. It can be cast outside of Tharkold
+by making a conjuration test with a Hard (–4)
+penalty instead. When cast in this manner, the
+Axiom Level is 14.
+The scholar creates and binds an Aishan within
+50 meters of himself and may then direct it with a
+simple action by using an action and testing against
+the target’s dodge. The caster must take a simple
+action each round to command the Aishan or it
+does not act.
+The spell’s duration ends immediately if the
+Aishan is KOed.
+Success Levels:
+• Good: The Aishan gains +1 Wound.
+• Outstanding: As Good and the duration
+increases to one round.
+
+AISHAN
+An aishan is a spirit formed from the dark arcane
+energy of damaged or destroyed Occultech.
+Aishan are ghostly creatures who appear to be
+conglomerations of individual Occultech implants,
+formed into some semblance of a creature with
+long, sharp claws and teeth.
+Aishan are considered supernaturally
+evil creatures.
+Attributes: Charisma 5, Dexterity 11, Mind 7, Spirit
+11, Strength 10
+Skills: Dodge 14, find 10, intimidation 13, maneuver
+13, stealth 14, taunt (10), tracking 10, trick (10),
+unarmed combat 14, willpower 13
+Move: 11; Tough: 10; Shock: —; Wounds: 2
+Equipment: —
+Perks: —
+Possibilities: Never
+Special Abilities:
+• Occultech Claws: Damage Strength + 2 (13).
+• Drawn to Cybernetics: If its target has cyberware
+or Occultech, the attack is Favored.
+• Ethereal: Aishan may move through walls and
+solid objects, and are immune to physical attacks
+unless the weapon is magical or has a property
+that allows it to affect ethereal beings. Magic,
+miracles, psionics, and similar powers affect
+ethereal beings normally.
+• Fear: Aishan are frightening spirits. The first
+time a character encounters an aishan in an act,
+he must make a willpower or Spirit test or become
+Very Stymied.
+• Undead: Aishan are immune to poison and other
+effects that require breathing, eating, or other
+“living” processes."}
+ {:name "Summon Technodemon"
+  "Axiom Level" 16
+  :Skill "Apportation 16"
+  "Casting Time" "10 minutes"
+  :DN "Heroic (DN 18) or see below"
+  :Range "10 meters"
+  :Duration "1 minute"
+  :description
+  "This is an exceptionally risky ancient (and
+contradictory) spell, only used by the most desperate
+or mad of acolytes. The Tharkoldu are creatures of
+magic, and they are bound to it in ways humans and
+the Race are not.
+The acolyte draws a summoning circle and uses it
+to harness a massive amount of magical energy. This
+draws the attention of a nearby technodemon or
+pulls one into the area if none are present. Shouted
+words of power and runes of binding etched into
+the air force the Tharkoldu to submit to the scholar’s
+will—temporarily.
+For the duration of the spell, the technodemon
+must do as commanded. If the Tharkoldu is ordered
+to do something he’s violently opposed to, such
+as harming himself, he may make a contest of
+willpower or Spirit against the caster’s apportation to
+break free and end the duration. Luckily, demons
+generally don’t mind hurting other beings, even
+their own allies.
+The caster may attempt to summon a specific
+Tharkoldu — including an Aspirant — with a
+personal possession and the demon’s true name.
+This increases the difficulty to Nearly Impossible
+(–10) vs. the target’s willpower or Spirit. After casting
+this spell, regardless of success or failure, that
+particular Tharkoldu cannot be summoned again
+for a year and a day.
+There is great risk in utilizing this spell. When
+the duration ends, the Tharkoldu does not vanish,
+and is likely very angry. This rare ritual enrages
+technodemons. It is wise for the acolyte to be far
+away before releasing the technodemon. Even then,
+the Tharkoldu live a long time and are gifted with
+long memories. The technodemons hold a grudge
+and remember those who have made them do
+such a humiliating act. Those who use this ritual
+should be wary.
+Should the caster or the caster’s allies KO or kill
+the summoned technodemon, the caster will be
+unable to cast this spell for a year and a day.
+Worst of all, due to the energies involved, casting
+this spell always draws technodemons as though a
+Mishap occurred after a Tharkoldu Attack Cosm card
+was played, even when completed successfully.
+This spell can only be used in the cosm of Tharkold.
+It automatically fails if used in any other cosms.
+Success Levels:
+• Good: The duration increases to 10 minutes.
+• Outstanding: The duration increases to 1 hour."}]

@@ -1,0 +1,1215 @@
+[{:name "Absorb Magic"
+  "Axiom Level" 22
+  :Skill "Alteration 14"
+  "Casting Time" "1 action, or as a free action in
+response to being the target of a spell and the caster
+is taking an Active Defense."
+  :DN "Hard (14) or opponent spellcaster’s casting
+total."
+  :Range "Self"
+  :Duration "Concentration"
+  :description "The next spell targeting the caster is absorbed and
+has no effect on the caster. The spell still affects
+other targets.
+Success Levels:
+• Good: As Standard and if the caster has the
+required skill, she may capture the spell and
+may subsequently cast it before absorb magic
+expires. Only one spell may be captured in this
+fashion.
+• Outstanding: As Good, but multiple spells
+may be captured."}
+ {:name "Animal's Eyes"
+  "Axiom Level" 16
+  :Skill "Divination 10"
+  "Casting Time" "1 minute"
+  :DN "Standard (10)"
+  :Range "1 kilometer"
+  :Duration "1 hour"
+  :description 
+  "This spell allows the caster to possess and take
+limited control a normal animal of Small size or
+smaller she can see (magical animals and creatures
+like animal companions are immune). The mage
+can influence where the animal goes and looks,
+but cannot force the animal to make attacks or
+interaction attacks, or otherwise endanger itself.
+The spellcaster can use the animal’s senses
+but makes tests on Mind-based skills to gather
+information using his own skill values. The caster
+may not normally act or sense his own body while
+possessing an animal, but may split his attention
+to do both by taking a Multi-Action penalty. If the
+animal gets beyond 1 kilometer, the spell ends.
+Success Levels:
+• Good: The caster’s tests involving the animal
+are Favored.
+• Outstanding:
+As Good and the range
+increases to 10 kilometers and the caster ignores
+the penalty for Multi-Targeting mentioned
+above."}
+ {:name "Animal Spy Network"
+  "Axiom Level" 24
+  :Skill "Divination 18"
+  "Casting Time" "1 minute"
+  :DN "Heroic (18)"
+  :Range "1,500 km (but see below)"
+  :Duration "Concentration"
+  :description 
+  "Prerequisite: Beta Clearance, one of birdswarm,
+messenger hawk, or animal’s eyes
+This spell may be cast over a vast distance, but the
+effect cannot cross reality boundaries, and if this
+spell is contradictory, it is limited to 1,000 meters
+as normal.
+The caster chooses an earthly type of animal. This
+spell allows the caster to locate a specific creature
+or object by looking through the eyes of all animals
+of that type in range (even if out of line of sight).
+If the target is in a location with those animals,
+the animal discovering the subject continues to
+monitor the target, and the caster can attempt to
+decipher where the target is by making one Heroic
+(DN 18) divination test.
+While an animal monitors the subject, a black circle
+appears on the animal’s right eye, and a Mishap on
+the test to locate a living target allows the target to
+realize it is being watched.
+This spell can only be cast once a day to find a
+specific person or object regardless of which
+animals are used.
+Success Levels:
+• Good: Skill tests to search for the subject or
+determine its location become Favored.
+• Outstanding: As Good and when the caster
+figures out where the subject is, he can cast
+spells targeting the subject as if standing at
+the animal’s location. Damage or interaction
+conditions to the animal cause Concentration
+tests as normal."}
+ {:name "Animate Skeleton"
+  "Axiom Level" 19
+  :Skill "Alteration 14"
+  "Casting Time" "1 minute"
+  :DN "Very Hard (16)"
+  :Range "10 meters"
+  :Duration "24 hours"
+  :description 
+  "This spell must be cast in the presence of nearly
+complete skeletons. If it is cast in a Dark or Pitch
+Black location, or in a graveyard (not a gospog
+field), the casting is Favored.
+On a success, the skeleton (page 137) animates
+and joins the caster. If multiple skeletons animate,
+they form a Mob (see Characters and Creatures in
+Torg Eternity). The skeletons are loyal to the caster
+and may be directed by voice with a simple action.
+The skeletons do not have any equipment normally,
+but may use equipment provided to them.
+Only one attempt to cast this spell each day.
+Success Levels
+• Good: The skeletons gain +1 to Strength.
+• Outstanding: The skeletons gain +1 to
+Dexterity and Strength."}
+ {:name "Bind Entity"
+  "Axiom Level" 20
+  :Skill "Alteration 18"
+  "Casting Time" "1 action"
+  :DN "The target’s willpower or Spirit"
+  :Range "10 meters"
+  :Duration "See below."
+  :description 
+  "Prerequisite: Beta Clearance, protective circle spell
+This spell allows the mage to strike a “bargain”
+with one sentient supernaturally evil creature
+within range. If the creature is reality-rated, the
+casting test is a contest instead.
+On a success, the caster issues a command to
+the creature, which it obeys in the most literal
+way possible. Commands that are impossible,
+or directly harm the creature (such as “destroy
+yourself”) automatically are ignored and the spell
+immediately ends.
+When the spell ends, or if the casting fails, the
+entity cannot be controlled again for a year and a
+day.
+Success Levels:
+• Good: The entity obeys the intent of the
+command as opposed to the literal wording.
+• Outstanding: As Good and at the conclusion
+of the task, the caster may contest willpower or
+Spirit against the creature to require a second
+task to be completed. Once that task is done,
+the spell ends."}
+ {:name "Birdswarm"
+  "Axiom Level" 18
+  :Skill "Apportation 12"
+  "Casting Time" "1 action"
+  :DN "Hard (DN 14)"
+  :Range "100 meters"
+  :Duration "Concentration"
+  :description 
+  "This spell gathers nearby birds (within 10
+kilometers) into a birdswarm (page 132) that
+manifests at a point within 100 meters of the caster.
+If this spell is cast outdoors the apportation test is
+Favored.
+The birds attack the nearest target or the caster
+can make a simple action to direct them to another
+target.
+Only one swarm can be summoned at a time.When
+the spell ends the swarm immediately dissipates
+and no additional swarms may be summoned until
+the start of the next scene.
+Success Levels
+• Good: The birdswarm inflicts three Shock per
+turn instead of two.
+• Outstanding: As Good and the duration
+increases to one minute."}
+ {:name "Block Scrying"
+  "Axiom Level" 12
+  :Skill "Alteration 12"
+  "Casting Time" "1 minute"
+  :DN "Standard (10)"
+  :Range "Touch"
+  :Duration "1 day"
+  :description 
+  "This spell may be attempted once per day. When
+cast, this spell ends any effects involving remotely
+sensing the target, including the scry and animal
+spy network spells. Also, while this spell is active,
+any other scry or similar spells, miracles, psionic
+powers or pulp powers targeting the target
+automatically fail.
+Success Levels:
+• Good: If someone attempts to scry the target,
+the caster immediately notices the attempt.
+• Outstanding: As Good, plus if a scry effect
+is ended, the caster can make a divination test
+vs. the other character’s willpower or Spirit to
+determine the identity and rough location of
+the spy."}
+ {:name "Create Zombie"
+  "Axiom Level" 19
+  :Skill "Alteration 14"
+  "Casting Time" "1 minute"
+  :DN "Difficult (12)"
+  :Range "Touch"
+  :Duration "1 act"
+  :description 
+  "This spell may only be cast once per day and only
+upon a single humanoid corpse with most of its
+flesh still on it. The corpse animates and becomes
+a Zombie (page 138). The caster may direct the
+zombie by voice as a simple action, but it is only
+capable of simple tasks, such as carrying objects or
+attacking creatures.
+Success Levels
+• Good: The zombie has +1 Wound Limit
+• Outstanding: The zombie has +2 Wound
+Limit."}
+ {:name "Dancing Sword"
+  "Axiom Level" 18
+  :Skill "Apportation 12"
+  "Casting Time" "1 action"
+  :DN "Standard (10)"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :description 
+  "The spell is cast on a sword (or other one-handed
+melee weapon) the caster controls or is unattended.
+Once per turn she may use a simple action to make
+the sword fly up to 50 meters and attack a target
+in melee. The sword uses the caster’s melee weapons
+skill when attacking, and deals 12 damage with
+additional bonus dice for Good or Outstanding
+hits as normal. The sword defends itself and the
+caster using the caster’s melee weapons value, and it
+can move back to the caster as a simple action.
+A magic sword grants any benefits to the attack
+(e.g. damage bonus, Armor Piercing, etc.) as
+normal.
+Success Levels
+• Good: The sword does 14 damage.
+• Outstanding: As Good and the caster’s attack
+with the sword is Favored."}
+ {:name "Detect Undead"
+  "Axiom Level" 8
+  :Skill "Divination 10"
+  "Casting Time" "1 minute"
+  :DN "Standard (10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :description 
+  "The caster detects the presence of any affected
+undead within 100 meters. The caster only knows
+that the undead are present, not their particular
+location.
+Success Levels
+• Good: The caster knows the direction and
+distance to each undead, even if vision is
+blocked, unless blocked by lead.
+• Outstanding: As Good, plus the caster also
+knows the type of each affected undead."}
+ {:name "Discern Lies"
+  "Axiom Level" 20
+  :Skill "Divination 12"
+  "Casting Time" "10 minutes"
+  :DN "Target’s willpower or Spirit"
+  :Range "5 meters"
+  :Duration "1 minute (see below)"
+  :description 
+  "The caster must use a personal item of the target. If
+that object has been owned by the target for at least
+a year and a day, the divination test to cast this spell
+is Favored. The caster points the item at the target
+and asks questions. The target is not compelled to
+answer, however. If the target makes a knowingly
+untrue statement, the object will vibrate.
+The caster may ask up to three questions of the
+target, and once the duration ends, the target
+cannot be affected by this spell for the remainder
+of the act.
+Success Levels:
+• Good: The target is compelled to answer.
+• Outstanding: As Good and the caster can tell
+which part of the statement the target is lying
+about."}
+{:name "Energy Shield"
+ "Axiom Level" 11
+ :Skill "Alteration 14"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Touch"
+ :Duration "Concentration"
+ :description 
+ "Choose an energy type, such as fire, lightning, or
+force. The target gets +4 Toughness vs. that energy
+type.
+Success Levels:
+• Good: +6 Toughness vs. that energy type.
+• Outstanding: +8 Toughness vs. the chosen
+energy type."}
+{:name "Grow"
+ "Axiom Level" 20
+ :Skill "Alteration 14"
+ "Casting Time" "1 action"
+ :DN "Target’s Strength"
+ :Range "Touch"
+ :Duration "Concentration"
+ :description 
+ "This spell makes a living creature and any
+clothing or armor one size category larger (no
+Multi-Targeting allowed). Any equipment carried
+or worn grows as well, but does not change its
+statistics.
+While the spell is in effect the target gains +1 to
+its Strength and Wound limit, and +2 to his Shock
+limit. Attacks against the target gain a penalty or
+bonus according to its new size category. If grow is
+cast on a target with shrink already cast on it, both
+spells are canceled and both end.
+Success Levels
+• Good: The target gains +2 Strength.
+• Outstanding: The creature becomes two size
+categories larger and gains +2 Strength and
+Wounds and +4 Shock."}
+{:name "Hailstorm"
+ "Axiom Level" 21
+ :Skill "Conjuration 16"
+ "Casting Time" "1 action"
+ :DN "Hard (-4) vs. dodge or Dexterity"
+ :Range "50 meters"
+ :Duration "3 rounds"
+ :description 
+ "Prerequisite: Beta Clearance and ice burst spell.
+  This spell affects everyone in a Large Blast radius,
+pelting them with chunks of ice. This spell may
+also be used to block a door or hallway no more
+than 5 meters wide.
+  Targets hit take 16 ice damage and their speed
+is reduced by 2 meters. until the end of their next
+turn. The damage and effects apply during target’s
+turn on the subsequent rounds. Those who are in
+the maelstrom at the end of their turn, or enter with
+their own movement suffer the effect. Escaping the
+storm requires an action and a Dexterity test. A
+Mishap on this test adds +1BD damage.
+  Success Levels
+• Good: +1BD damage.
+• Outstanding: +2BD damage and characters’
+tests in the maelstrom to escape are Disfavored."}
+{:name "Heighten Backlash"
+ "Axiom Level" 23
+ :Skill "Alteration 12"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "100 meters"
+ :Duration "Concentration"
+ :description 
+ "The caster targets another spellcaster.
+The target is surrounded by an invisible barrier
+that smells of lilac and lavender. Whenever the
+target casts a spell, random flowers appear around
+him afterward. Whenever the target fails a spell, he
+takes an additional 2 Shock from backlash.
+Success Levels
+• Good: The target takes an additional 1BD
+Shock from backlash.
+• Outstanding: As Good and the target takes
+2 Shock even on a Standard success when
+making a casting test."}
+{:name "Ice Burst"
+ "Axiom Level" 18
+ :Skill "Conjuration 12"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "25 meters"
+ :Duration "Instant"
+ :description 
+ "The caster conjures an intense spray of super
+cooled-water directed at a target. When hit, the
+target takes 14 damage and becomes immobilized
+(but not restrained) if he is standing on a solid
+surface.
+  Once per turn, as a simple action, the target may
+make a Strength test to break the ice and move
+normally.
+  Success Levels:
+• Good: +1BD damage
+• Outstanding: +2BD damage and the target
+is restrained instead (see Grappling in Torg
+Eternity)."}
+{:name "Identify Magic Item"
+ "Axiom Level" 14
+ :Skill "Divination 10"
+ "Casting Time" "1 minute"
+ :DN "Standard (10)"
+ :Range "Touch"
+ :Duration "Instant"
+ :description 
+ "This spell only has an effect on magic items.
+Successfully casting this spell determines the
+properties of the item, including the presence of a
+curse or quirk without triggering it.
+Success Levels:
+• Good: The caster learns the properties of any
+curse and if the item is part of a set.
+• Outstanding: The caster learns what other
+items are part of the set (if any), and the abilities
+gained from obtaining more pieces of that set."}
+{:name "Inferno"
+ "Axiom Level" 21
+ :Skill "Conjuration 16"
+ "Casting Time" "1 action"
+ :DN "Hard (DN 14) or Hard (-4) vs target’s. dodge
+or Dexterity"
+ :Range "50 meters"
+ :Duration "3 rounds"
+ :description 
+ "Prerequisites: Beta Clearance, fireball spell
+  This spell creates a blazing fire tornado, affecting
+targets in a Large Blast radius. This spell may also
+be used to block a door or hallway no more than 5
+meters wide.
+Targets hit take 16 fire damage, which targets the
+lowest armor rating.
+Those who are in the raging fire at the end of their
+turn, or enter the fire takes damage again (plus any
+bonus damage). Targets may escape the firestorm
+easily unless they are immobilized.
+Success Levels
+• Good: +1 BD damage
+• Outstanding: +2 BD damage."}
+{:name "Inner Barbarian"
+ "Axiom Level" 18
+ :Skill "Alteration 14"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Self"
+ :Duration "1 minute"
+ :description 
+ "The caster suspends his normal reasoning ability
+to tap into more primal instincts. He can’t cast
+spells, invoke miracles, or manifest psionic or pulp
+powers while this spell is in effect, and she loses
+Concentration on any such powers. His Strength,
+and Toughness increase by 2, but he is Vulnerable to
+taunt and trick attacks, and his own are Disfavored.
+Success Levels
+• Good: Strength and Toughness each increase
+by 3.
+• Outstanding: Strength and Toughness each
+increase by 4."}
+{:name "Inner Berserker"
+ "Axiom Level" 20
+ :Skill "Alteration 16"
+ "Casting Time" "1 action"
+ :DN "Larger of target’s Strength or Dexterity"
+ :Range "Touch"
+ :Duration "1 minute"
+ :description 
+ "Prerequisite: Beta Clearance, inner barbarian spell
+  Through a more powerful application of alteration
+magic, the mage releases deep reserves of raw
+physical power. The target can’t cast spells, invoke
+miracles, or manifest psionic or pulp powers, and
+she loses Concentration on any such powers. Her
+Wound Limit increases by 2 and she ignores Shock
+while the spell is active. When the spell ends she
+takes 1BD Shock.
+Additionally, her Strength, Dexterity, Toughness
+increase by 2, but she is Vulnerable to taunt and
+trick attacks, and his own are Disfavored.
+If the target chooses to resist this spell it
+automatically fails.
+Success Levels
+• Good: Her Strength, Dexterity, Toughness
+increase by 3.
+• Outstanding: Strength, Dexterity, and
+Toughness each increase by 4."}
+{:name "Keen Blade"
+ "Axiom Level" 17
+ :Skill "Alteration 12"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Touch"
+ :Duration "1 minute"
+ :description 
+ "This spell is cast on a bladed metallic weapon.
+That weapon gains Armor Piercing 2.
+Success Levels:
+• Good: The weapon gains Armor Piercing 3.
+• Outstanding: The weapon gains Armor
+Piercing 4."}
+{:name "Little Frog"
+ "Axiom Level" 24
+ :Skill "Alteration 16"
+ "Casting Time" "1 minute"
+ :DN "Hard (–4) vs. the target’s highest attribute."
+ :Range "10 meters"
+ :Duration "Concentration"
+ :description 
+ "Prerequisites: Beta Clearance, shrink spell
+  The spell requires a frog doll with patches of folk
+skin on it. The caster waves the frog doll at the
+target to cast the spell.
+If the casting is successful, the target must make a
+special Defeat test. If the test is failed, she is cursed
+and transformed into an Enchanted Frog.
+Any objects held by the victim are dropped but
+the rest of the items he carries transform with
+him. However, at the GM’s option, specific items
+important to the story (like Eternity Shards) may
+not transform. The spellcaster may end this spell
+at will.
+Success Levels
+• Good: The duration increases to 24 hours.
+• Outstanding: The duration increases to
+Permanent and can only be removed through
+defeating the caster, and forcing him to end the
+spell, or by performing a Quest (see page 90).
+  
+ENCHANTED FROG
+Being transformed into a frog is inconvenient at best.
+The victim’s Strength, Dexterity, and Toughness
+change to match the new form, but he keeps his
+Charisma, Mind, Spirit, Shock, and Wounds as well
+as any skill adds he already possesses.
+Attributes: Charisma *, Dexterity 10, Mind *, Spirit
+*, Strength 3
+Skills: Skill adds as victim
+Move: 10; Tough: 3; Shock: *; Wounds: *
+Equipment: —
+Perks: As victim
+Possibilities: As victim
+Special Abilities:
+• Sticky Tongue: Grappling attacks (see Torg
+Eternity) against Tiny or Very Small targets
+are Favored. The frog may not grapple targets
+more than one size larger than him.
+• Tiny: An enchanted frog is extremely difficult
+to hit and attacks against it take a -6 penalty.
+The frog can walk on two legs and use items,
+but only if they are appropriately sized (such
+as a tiny warhammer).
+• Ribbit: The frog can speak to other animals,
+but not to sentients. Unless the target can
+understand him, taunt or intimidation attacks
+are Disfavored.
+• Spellcasting: The frog still is able to cast
+spells, and invoke miracles, and manifest
+psionic or pulp powers.
+• Transformed Equipment: Any equipment
+the character was wearing continue to affect
+him as normal, but powers or abilities cannot
+be activated. After the duration all items return
+to normal with the character."}
+{:name "Mage Retreat"
+ "Axiom Level" 20
+ :Skill "Conjuration 16"
+ "Casting Time" "1 minute"
+ :DN "Hard (14)"
+ :Range "Touch"
+ :Duration "1 day"
+ :description 
+ "The caster opens a portal to a cube of
+extradimensional space 50 meters on a side. It is
+furnished with enough supplies to house and feed
+10 people for a day. The space can have rooms,
+stairs, and other such features to make better use of
+the space. At the end of the day, or when the caster
+uses an action to dismiss the spell, the people inside
+reappear unharmed at the location where the spell
+was cast. If this spell is cast in or on something that
+is moving, the location does not move with that
+object.
+On the plane where the spell was cast, the caster
+places a hard-to-find (DN 14) glyph to mark the
+spot where people can cross between the space
+and the casting location. He may show the glyph
+to anyone he wants to enter. Those who find (or are
+shown) the glyph can cast spells from outside that
+affect the space.
+Success Levels
+• Good: The people inside the space can see
+into the casting location.
+• Outstanding: As Good, and the casting
+location moves with any object it was cast on
+or in."}
+{:name "Messenger Hawk"
+ "Axiom Level" 20
+ :Skill "Apportation 10"
+ "Casting Time" "1 minute"
+ :DN "Standard (10)"
+ :Range "1000 kilometers"
+ :Duration "1 hour"
+ :description 
+ "The caster summons a hawk which arrives
+instantly, and then speaks a message of up to 1
+minute long to it while thinking of the message’s
+intended recipient (person or location). At the end
+of the casting time, the hawk flies away at incredible
+speed and cannot be detected.
+The hawk circles out to the intended recipient,
+along a path that can’t be followed. At the end
+of the hour it lands next to the target (ignoring
+barriers) and repeats the message, whispering it
+into the person’s ear or standing at the location and
+speaking it in a loud voice.
+If the caster wishes to cancel the message, she may
+do so at will.
+Success Levels
+• Good: The hawk reaches the recipient in 30
+minutes.
+• Outstanding: The message is delivered in 10
+minutes."}
+{:name "Multiple Images"
+ "Axiom Level" 14
+ :Skill "Conjuration 12"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Self"
+ :Duration "1 minute"
+ :description 
+ "A false image of the caster appears adjacent to her,
+and appears to be identical in every way. The image
+speaks the same words, and moves in a similar
+fashion. Any attack against the caster suffers a
+–2 Multi-Target penalty. When an attack hits, the
+false image dives back into the caster and then
+separates again, leaving it unclear which is which.
+Any attack with a Blast radius doesn’t suffer the
+penalty, regardless of size, since the images must
+remain very close to one another.
+Success Levels:
+• Good: Two false images appear, so attacks are
+at –4.
+• Outstanding: Three false images appear, so
+attacks are at –6."}
+{:name "Mystic Darts"
+ "Axiom Level" 19
+ :Skill "Conjuration 12"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "10 meters"
+ :Duration "Instant"
+ :description 
+ "The caster creates three darts made of magical
+force energy and then fires them at one or more
+targets which automatically hit, dealing 1 Shock
+per dart unless she has a shield (physical item or
+any spell or power with shield in the name).
+Success Levels
+• Good: The spell creates a fourth dart.
+• Outstanding: The spell creates a fifth dart."}
+{:name "Mystic Shield"
+ "Axiom Level" 17
+ :Skill "Conjuration 10"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Self"
+ :Duration "1 minute (or see below)"
+ :description 
+ "The caster is surrounded by a magical barrier that
+blocks other spells from passing through.
+Any spell that targets the caster has a -2 penalty
+when determining if the test is successful. The
+penalty does not apply to other targets who may
+be included in the area of effect or as part of Multi-
+Targeting.
+If the spell succeeds anyway, the mystic shield
+ends.
+Success Levels
+• Good: The penalty increases to -4.
+• Outstanding: As Good, plus the foe’s casting
+test is Disfavored."}
+{:name "Peak Performance"
+ "Axiom Level" 20
+ :Skill "Alteration 16"
+ "Casting Time" "1 action"
+ :DN "Hard (–4) vs the target’s highest Attribute"
+ :Range "Touch"
+ :Duration "3 rounds"
+ :description 
+ "Prerequisite: Enhance spell
+The caster touches a creature, giving it +1 to all
+its attributes for the duration. The normal Stacking
+rules apply to each attribute, so only the highest
+bonus applies to any individual attribute.
+Success Levels
+• Good: The creature instead gets +2 to each
+attribute.
+• Outstanding: +3 to each attribute."}
+{:name "Plant Shackles"
+ "Axiom Level" 20
+ :Skill "Conjuration 12"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "15 meters"
+ :Duration "1 minute"
+ :description 
+ "An area with a Medium Blast radius is covered
+in writhing plants that capture any living creatures
+standing there. Any creature affected by the spell is
+restrained, and can only try to break free as normal.
+Attempting to break free requires an Easy (DN
+8) Strength test. If the victim succeeds this does not
+consume his action and he may act normally.
+Success Levels
+• Good: Attempts to break free are Standard
+(DN 10).
+• Outstanding: The difficulty to escape
+increases to Challenging (DN 12)"}
+{:name "Shrink"
+ "Axiom Level" 20
+ :Skill "Alteration 14"
+ "Casting Time" "1 action"
+ :DN "Target’s Strength"
+ :Range "Touch"
+ :Duration "Concentration"
+ :description 
+ "This spell makes a living creature one size category
+smaller.
+While the spell is in effect the target takes a -1
+penalty to its Strength. If the target was Large or
+Very Large his Wound Limit decreases by one, and
+his Shock Limit decreases by 2. Attacks against
+the target gain a penalty or bonus according to its
+new size category. Any equipment carried or worn
+shrinks as well, but does not change its statistics.
+If shrink is cast on a target with grow already cast
+on it, both spells are canceled and both end.
+Success Levels
+• Good: The target takes a -2 penalty to Strength.
+• Outstanding: The creature becomes two
+size categories smaller and takes a -2 penalty
+to Strength. If the target was Very Large his
+Wound Limit decreases by 2, and his Shock
+Limit by 4."}
+{:name "Silence"
+ "Axiom Level" 11
+ :Skill "Apportation 14"
+ "Casting Time" "1 action"
+ :DN "Target’s Mind or willpower."
+ :Range "10 meters"
+ :Duration "Concentration"
+ :description 
+ "This spell uses apportation to scatter the sound
+patterns in a Small Blast radius, making it
+more difficult to cast spells or invoke miracles.
+Additionally, attempts to communicate require a
+successful Mind or language test.
+On a success, casting spells or invoking miracles
+takes Challenging (-2) penalty.
+Success Levels:
+• Good: Casting and invoking attempts are
+Disfavored and take a Challenging (-2) penalty.
+• Outstanding: As Good and silence becomes
+nearly total and the penalty increases to Hard
+(-4)."}
+{:name "Skeletal Barrier"
+ "Axiom Level" 20
+ :Skill "Alteration 14"
+ "Casting Time" "1 action"
+ :DN "Hard (14)"
+ :Range "Self"
+ :Duration "1 minute"
+ :description 
+ "Prerequisite: Beta Clearance, armor spell
+  The caster must have a bone, preferably a human
+bone (which makes casting this spell Favored). The
+caster points the bone forward, to the right, to the
+left, then behind and throws it on the ground.
+On a success, the bones multiply into a whirling
+barrier around the caster that provides +3 armor
+with Full Body protection. The bones do not
+impair sight, other senses, or any actions including
+spellcasting.
+If a melee weapons or unarmed combat attack against
+the caster misses, the attacker takes 12 damage.
+Success Levels
+• Good: The skeletal barrier provides +4 armor,
+and retributive damage gains +1BD.
+• Outstanding:
+As Good but the armor
+provides +5 protection."}
+{:name "Sound Cloud"
+ "Axiom Level" 18
+ :Skill "Conjuration 14"
+ "Casting Time" "1 action"
+ :DN "Hard (-4) vs. the target’s Strength"
+ :Range "100 meters"
+ :Duration "Concentration"
+ :description 
+ "The spell creates a cloud of noise in a Large
+Blast radius. All targets inside the cloud capable
+of hearing become severely disoriented and are
+Stymied for the duration and must make a willpower
+or Spirit test as a free action, once per turn, to move.
+A Good or Outstanding success on this test ends
+the effect for the victim at the end of his turn.
+Success Levels
+• Good: Those affected are also Vulnerable for
+the duration.
+• Outstanding: As Good, and those affected
+can’t cast spells, or invoke miracles."}
+{:name "Sudden Burial"
+ "Axiom Level" 21
+ :Skill "Apportation 14"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "25 meters"
+ :Duration "Instant"
+ :description 
+ "The spell is cast on a patch of ground the size of a
+Medium Blast radius. The ground up to one meter
+deep (and anything on it) lifts 5 meters in the air,
+flips over, and then slams back into place. A living
+creature in the area takes 10 +1BD damage and is
+Stymied. T eleport
+Success Levels
+• Good: 10 + 2BD damage.
+• Outstanding: As Good and the target is
+restrained until they make a Strength test as an
+action to escape."}
+{:name "Summon Elemental"
+ "Axiom Level" 18
+ :Skill "Conjuration 16"
+ "Casting Time" "1 action"
+ :DN "Very Hard (16)"
+ :Range "10 meters"
+ :Duration "3 rounds"
+ :description 
+ "You summon an elemental of your choice: air (see
+Sprite, page 137), earth (see Troll, page 138), fire
+(see Barghest, page 132), metal (see Clanker, page
+133), plant (see Ghillie, page 135), or water (see
+Charyb, page 132) to any unoccupied space within
+range. The elemental attacks the nearest target each
+round, and acts at the end of the Heroes Conflict
+Line. At the end of the duration the elemental
+breaks apart and vanishes.
+The DN drops to Challenging (12) if the appropriate
+material for the element is already abundant at the
+location.
+Only one elemental can be summoned at a time.
+When the spell ends the elemental immediately
+dissipates and no additional elementals may be
+summoned until the start of the next scene.
+Success Levels
+• Good: The caster may control the elemental’s
+movement and attack each turn.
+• Outstanding: As Good and the duration
+increases to 1 minute, but the caster may
+dismiss the spell early as a simple action."}
+{:name "Teleport"
+ "Axiom Level" 24
+ :Skill "Apportation 18"
+ "Casting Time" "1 round"
+ :DN "Heroic (18)"
+ :Range "5 meters"
+ :Duration "Instant"
+ :description 
+ "Prerequisites: Beta Clearance, portal spell
+  The caster, and up to five willing targets in range
+may be moved up to 100 km to a place that the
+wizard has previously visited. Boundaries between
+realities cannot be crossed.
+If the chosen location is outside of the range
+(accounting for success levels), the spell fails and all
+who tried to teleport take backlash. If the location
+is within range but there is no place for the target to
+appear at the location, the target will appear at the
+nearest safe space.
+A Mishap on the roll means that the teleport fails
+dramatically and the GM is going to complicate
+the heroes’ lives by taking them somewhere
+“interesting”.
+When the teleportation is completed, all effects
+maintained via Concentration end automatically
+and the characters are Flat Footed for a minute.
+Teleporting is hard on the body and a creature
+who teleports again within 30 days must take a
+Disfavored Defeat test on arrival.
+Success Levels:
+• Good: The caster and any companions may
+teleport up to 500 km.
+• Outstanding: Anywhere on the same plane
+may be reached, as long as reality boundaries
+are not crossed."}
+{:name "Time Crunch"
+ "Axiom Level" 20
+ :Skill "Alteration 16"
+ "Casting Time" "1 action"
+ :DN "Hard (16)"
+ :Range "10 meters"
+ :Duration "1 round"
+ :description 
+ "The caster and allies within range can ignore up
+to 2 points of Multi-Action or Multi-Targeting
+penalties, and may take three simple actions on
+their turn. The duration ends directly after the
+caster acts on the next round.
+Success Levels:
+• Good: Affected allies may Rush without
+incurring a –2 penalty.
+• Outstanding: As Good and allies may
+ignore up to 4 points of Multi-Action or Multi-
+Targeting penalties."}
+{:name "True Darkness"
+ "Axiom Level" 17
+ :Skill "Conjuration 16"
+ "Casting Time" "1 action"
+ :DN "Hard (14)"
+ :Range "25 meters"
+ :Duration "1 minute"
+ :description 
+ "The spell is a more powerful version of mage dark
+that calls on the essential nature of darkness to a
+5-meter radius sphere centered on a point within
+range. It dispels all light in the area, resulting in
+Pitch Black Darkness, and even magical light, except
+for true light cannot shine. Any other magical light
+spell that would affect any part of the area covered
+by this spell fails, regardless of its success level.
+In addition, this spell hampers those with Light
+Perks and enhances those with Darkness Perks.
+Interaction attacks by heroes with at least one Light
+Perk are Disfavored. Characters with at least one
+Darkness Perk can see in the darkness without
+penalty and their interaction attacks are Favored
+when used from inside the darkness.
+If true light and true darkness overlap, the casters of
+each spell contest conjuration and the loser’s spell
+is dispelled.
+Success Levels
+• Good: Contests against a true light spell are
+Favored and Light Perks don’t function at all.
+• Outstanding: As Good and contests against a
+true light spell are Up."}
+{:name "True Light"
+ "Axiom Level" 17
+ :Skill "Conjuration 16"
+ "Casting Time" "1 action"
+ :DN "Hard (14)"
+ :Range "25 meters"
+ :Duration "1 minute"
+ :description 
+ "Prerequisites: Beta Clearance, mage light spell, at
+least one Light Perk
+The spell is a more powerful version of mage
+light that calls on the essential nature of light to
+illuminate a 5-meter radius sphere centered on
+a point within range. It dispels all darkness in
+the area, even magical darkness, except for true
+darkness. Any other magical darkness spell that
+would affect any part of the area covered by this
+spell fails, regardless of its success level.
+In addition, this spell hinders those with Darkness
+Perks and enhances those with Light Perks.
+Interaction attacks by heroes with at least one
+Darkness Perk are Disfavored. Heroes with at least
+one Light Perk recover 1 Shock automatically at the
+end of their turn, and their interaction attacks are
+Favored when done inside the area of effect.
+If true light and true darkness overlap, the casters of
+each spell contest using conjuration and the loser’s
+spell is dispelled.
+Success Levels
+• Good: Contests against a true darkness spell
+are Favored and Darkness Perks don’t function
+at all.
+• Outstanding: Contests against a true darkness
+spell are Up."}
+{:name "Vision of Doom"
+ "Axiom Level" 23
+ :Skill "Divination 10"
+ "Casting Time" "1 free action (see below)"
+ :DN "Standard (10)"
+ :Range "Self"
+ :Duration "1 round"
+ :description 
+ "This spell can be cast once per scene, as a free
+action, immediately after a failed test for a Dramatic
+Skill Resolution. On a success, the Storm Knights
+gain an extra round to complete the Dramatic Skill
+Resolution.
+Success Levels
+• Good: As Standard and any effects from a
+Dilemma are reversed.
+• Outstanding: As Good, plus the test for the
+current step or steps is Up."}
+{:name "Vision of Harm"
+ "Axiom Level" 24
+ :Skill "Divination 18"
+ "Casting Time" "1 action"
+ :DN "Hard (-4) vs. target’s willpower or Spirit"
+ :Range "5 meters"
+ :Duration "Instant"
+ :description 
+ "Prerequisite: Beta Clearance, vision of doom spell
+To cast this spell, the wizard utters a pronouncement
+of doom: “I foresee harm in your immediate future.”
+If the caster has a unique object belonging to the
+intended target, on that has been owned for at least
+a year and a day, the divination test is Favored.
+On a success, the target’s attempts to Soak damage
+have a Hard (-4) penalty.
+Success Levels
+• Good: As Standard and the target’s attempts
+to Soak damage are Disfavored.
+• Outstanding: As Good and when the target
+spends a Possibility to Soak Damage, the caster
+may spend a Possibility and contest reality as a
+free action to entirely cancel the attempt."}
+{:name "Wall of Force"
+ "Axiom Level" 18
+ :Skill "Conjuration"
+ "Casting Time" "1 action"
+ :DN "Hard (14)"
+ :Range "40 meters"
+ :Duration "Concentration"
+ :description 
+ "The caster conjures a shimmering wall of force up
+to 10 meters long, 3 meters high, and 30 centimeters
+thick at a place within range. The wall repels all
+attempts to penetrate it until it is dismissed or
+beaten down. It has Toughness 18, is immune to
+Shock damage, and can take 1 Wound.
+Success Levels
+• Good: The wall’s Toughness increases to 23.
+• Outstanding: As Good and the wall’s Wound
+limit increases to two."}
+{:name "Whirlwind"
+ "Axiom Level" 17
+ :Skill "Apportation 14"
+ "Casting Time" "1 action"
+ :DN "Standard (10) or target’s dodge or Dexterity"
+ :Range "25 meters"
+ :Duration "1 minute"
+ :description 
+ "As an action, the caster may direct the whirlwind
+as long as it remains in range. It may attack targets
+in a Medium Blast radius with an apportation test
+vs. the target’s dodge or Dexterity.
+Those hit, or those who are forced into the vortex
+(such as by a Player’s Call) take 10 damage and
+those who take at least 1 Shock are pushed 4 meters
+along the whirlwind’s path, or 2 meters if Large.
+If a target is pushed into a dangerous area, it may
+make a Dexterity test to prevent it. Larger creatures
+suffer the damage but are not moved.
+Good or Outstanding results on the apportation
+test apply as if the spell was just cast.
+Success Levels
+• Good: +1BD damage, and hit targets are
+pushed 10 meters, or 5 meters if Large.
+• Outstanding: +2BD damage, and hit targets
+are pushed 15 meters, 10 meters if Large, and 5
+meters if Very Large."}
+{:name "Cantrip - Animal Sense"
+ "Axiom Level" 22
+ :Skill "Divination 10"
+ "Casting Time" "1 action"
+ :DN "Easy (8)"
+ :Range "Touch"
+ :Duration "Concentration"
+ :description "The caster must have the sense organ of an animal
+associated with a particular sense, such as the nose
+of a bloodhound, the eye of an eagle, or the ear of
+a fox. The caster’s find tests using that sense are
+Favored."}
+{:name "Cantrip - Booming Voice"
+ "Axiom Level" 22
+ :Skill "Apportation 10"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Self"
+ :Duration "Concentration"
+ :description "When the caster shouts, his voice can be heard
+clearly up to 1 kilometer away."}
+{:name "Cantrip - Detect Fake Currency"
+ "Axiom Level" 22
+ :Skill "Divination 8"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Touch"
+ :Duration "1 day"
+ :description "The spell is cast on a metal plate. When fake
+currency is dropped onto the plate, it makes an
+unnatural sound."}
+{:name "Cantrip - Distraction"
+ "Axiom Level" 22
+ :Skill "Apportation 10"
+ "Casting Time" "1 action"
+ :DN "willpower or Spirit"
+ :Range "10 meters"
+ :Duration "1 round"
+ :description "The caster motions as if tickling the nose of the
+target, and the target becomes Stymied."}
+{:name "Cantrip - Dropsy"
+ "Axiom Level" 22
+ :Skill "Apportation 12"
+ "Casting Time" "1 action"
+ :DN "Contest with the target’s Strength or the skill
+most applicable with the item (whichever is higher)"
+ :Range "10 meters"
+ :Duration "Instant"
+ :description "The target drops one equipped item held in a
+hand. Picking up the item is only a simple action—
+as long as someone else doesn’t pick it up first!"}
+{:name "Cantrip - Earth Barrier"
+ "Axiom Level" 22
+ :Skill "Apportation 10"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Touch"
+ :Duration "1 minute"
+ :description "You can raise a small barrier that provides 2 points
+Concealment and Toughness 5 Cover"}
+{:name "Cantrip - Find Things"
+ "Axiom Level" 22
+ :Skill "Divination 8"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "10 meters"
+ :Duration "Instant"
+ :description "The caster gets a vision of where a missing object
+is, provided it is within range. The caster must be
+familiar with the object."}
+{:name "Cantrip - Fix Object"
+ "Axiom Level" 22
+ :Skill "Alteration 10"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Touch"
+ :Duration "Permanent"
+ :description "The spell repairs a small broken object (no more
+than 10 kg) so long as all its pieces are present."}
+{:name "Cantrip - Focus"
+ "Axiom Level" 22
+ :Skill "Alteration 10"
+ "Casting Time" "1 action"
+ :DN "Very Hard (16)"
+ :Range "Self"
+ :Duration "1 round"
+ :description "The caster’s next test becomes Favored, as long as
+that test does not involve Multi-Actions or Multi-
+Targeting."}
+{:name "Cantrip - Hold Animal"
+ "Axiom Level" 22
+ :Skill "Apportation 12"
+ "Casting Time" "1 action"
+ :DN "Target’s Strength"
+ :Range "10 meters"
+ :Duration "Concentration or until attacked"
+ :description "This spell can only target a single animal (no
+Multi-Targeting) with Mind 5 or lower. The target
+is Restrained. At the start of the target’s turn, it can
+make a Strength test to end the spell."}
+{:name "Cantrip - Inspire"
+ "Axiom Level" 22
+ :Skill "Alteration 12"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "10 meters"
+ :Duration "Instant"
+ :description "The caster may remove one condition affecting a
+single target (no Multi-Targeting)."}
+{:name "Cantrip - Light"
+ "Axiom Level" 22
+ :Skill "Conjuration 12"
+ "Casting Time" "1 action"
+ :DN "Easy (8)"
+ :Range "Self"
+ :Duration "1 hour"
+ :description "Standard torchlight emanates from an object in
+the caster’s hand for the duration. The light only
+shines as long as the object is in his hand."}
+{:name "Cantrip - Playful Wind"
+ "Axiom Level" 22
+ :Skill "Apportation"
+ "Casting Time" "1 action"
+ :DN "Easy (8)"
+ :Range "10 meters"
+ :Duration "Concentration"
+ :description "The caster gathers nearby air and channel it into a
+wind that can move a single unattended object 1 kg
+or less up to 10 meters slowly in a direction of the
+caster’s choice."}
+{:name "Cantrip - Foresight"
+ "Axiom Level" 24
+ :Skill "Divination 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "Instant"
+ :description "This cantrip may be cast once per day.
+The spellcaster thinks of a person, item, area, or
+course of action, and receives an indication about
+the situation.
+On a success, the diviner may look at the top card
+on the Drama deck and then return it to the top of
+the deck.
+At the GM’s option she may also give the diviner
+a vision of a possible future."}
+{:name "Cantrip - Start Fire"
+ "Axiom Level" 22
+ :Skill "Conjuration 8"
+ "Casting Time" "1 action"
+ :DN "Easy (8)"
+ :Range "1 meters"
+ :Duration "Instant"
+ :description "This spell starts a fire at a point within range. The
+fire ends immediately unless it can ignite nearby
+material. It begins too small to damage creatures."}
+{:name "Cantrip - Water Breathing"
+ "Axiom Level" 22
+ :Skill "Alteration 10"
+ "Casting Time" "1 minute"
+ :DN "Standard (10)"
+ :Range "Touch"
+ :Duration "1 hour"
+ :description "The target can breathe water as well as air."}]

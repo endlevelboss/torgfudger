@@ -1,0 +1,241 @@
+[{:name "Bless Missile"
+  "Axiom Level" 12
+  :Skill "Faith 14"
+  "Casting Time" "30 minutes"
+  :DN "Standard (DN 10)"
+  :Range "5 meters"
+  :Duration "1 day"
+  :description
+  "One of the most important miracles invoked by a
+Sacellum chaplain is Bless Missile. Usually done in
+the morning, the Quartermaster gathers ammunition
+that is to be distributed that day and presents it to
+the chaplain. The chaplain then sprinkles holy water
+on the ammunition and blesses it.
+Bless Missile increases the damage value against
+supernatural evil by +1. Up to 100 bullets are blessed.
+An arrow counts as 10 bullets and an artillery shell
+counts as the full 100. Special ammo which already
+carries a blessing, such as Holy Water Shells for the
+Slayer’s gun, gain no additional benefit.
+Missiles blessed with this miracle counts as
+magical for purposes of affecting foes with the
+Ethereal or similar abilities that generally ignore
+normal weapons.
+Success Levels:
+• Good: Up to 500 bullets can be blessed.
+• Outstanding: As Good and the damage against
+supernatural evil is increased to +2."}
+ {:name "Blind"
+  "Axiom Level" 12
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Spirit"
+  :Range "100 meters"
+  :Duration "3 rounds"
+  :description
+  "This miracle robs the target of the ability of sight
+by shrouding his eyes in shades of unrelenting gray.
+On a success the target suffers the −2 penalty for
+Dim lighting on find tests and ranged attacks. The
+penalty applies even to targets who can normally
+see in the dark and ignore such modifiers.
+Success Levels:
+• Good: The Darkness penalty increases to -4
+• Outstanding: The Darkness penalty increases
+to the maximum -6"}
+ {:name "Crisis of Faith"
+  "Axiom Level" 12
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Target’s faith or Spirit"
+  :Range "10 meters"
+  :Duration "1 round"
+  :description
+  "The invoker of this miracle calls out and rebukes
+another person of faith. On a Success, the target’s
+faith skill is disfavored.
+Success Levels:
+• Good: Duration increases to 3 rounds
+• Outstanding: On the first round, the target
+cannot actively use the faith skill. Miracles
+can be cast if the target’s Spirit is high enough."}
+ {:name "Crucifixion"
+  "Axiom Level" 16
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Target’s dodge or Dexterity"
+  :Range "10 meters"
+  :Duration "Instant"
+  :description
+  "Crucifixion is a powerful miracle in which steel
+spikes shoot out of the priest’s hands and pierce
+the target’s hands and feet doing 16 damage, AP
+4. If there is a hard, vertical surface (a tree would
+count, a person would not) within a meter behind
+the target, the spikes impale him to the surface in
+a manner of a crucifixion and he is restrained (see
+Grappling in Torg Eternity). Breaking free is a Very
+Hard (DN 16) Strength test.
+Success Levels:
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD."}
+ {:name "Fear of God"
+  "Axiom Level" 12
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Spirit"
+  :Range "50 meters"
+  :Duration "Instant"
+  :description
+  "The invoker causes an intense fear of judgment in
+all enemies within a Large Blast (see Torg Eternity).
+Affected targets become Vulnerable. Note that as
+an Area Effect attack there’s no Multi-Targeting
+penalty, but also no option to add extra targets.
+Targets immune to fear effects are also immune
+to this spell.
+Success Levels
+• Good: Affected targets become Very
+Vulnerable.
+• Outstanding: Affected targets become Very
+Vulnerable and suffer 2 Shock."}
+ {:name "Infernal Judgment"
+  "Axiom Level" 16
+  :Skill "Faith 16"
+  "Casting Time" "1 action"
+  :DN "Target’s dodge or Dexterity"
+  :Range "25 meters"
+  :Duration "3 rounds"
+  :description
+  "Prereq: Beta Clearance, Hellfire miracle
+With infernal judgment, the priest calls up a hellish
+pillar of fire from under the ground to strike up at a
+target. A target up to 25 meters in the air may be hit
+by the miracle. The base damage for the miracle is
+the priest’s faith. The pillar of fire will burn anyone
+who comes in contact with it, but it cannot move.
+Success Levels
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD."}
+ {:name "Paralyze"
+  "Axiom Level" 12
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Spirit"
+  :Range "Touch"
+  :Duration "3 rounds"
+  :description
+  "This miracle paralyzes the victim upon a touch,
+affecting the target’s ability to move even though
+she is aware.
+Any physical actions are at a –2 penalty and base
+movement is reduced by 2 as well. This does affect
+magic and miracles that require speech, but not
+psionic powers and other abilities that do not.
+Success Levels:
+• Good: Penalty to physical actions as Standard
+and additionally the target cannot move but
+is not restrained.
+• Outstanding: As Good and the penalty to
+physical actions is increased to –4."}
+ {:name "Part the Sea"
+  "Axiom Level" 10
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Hard (DN 14)"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :description
+  "With this miracle, the priest calls upon her god
+to cause a body of water to part and allow passage.
+The liquid separates, leaving a corridor of solid
+ground. One a Standard success, a volume of water
+equivalent to a small pool or stream may be parted.
+When the miracle ends, the water rushes back,
+doing 10 damage (ignores armor) to anyone left
+standing in the area that was parted.
+Success Levels
+• Good: Water volume can be equivalent to a
+pond or small river. Damage +1BD.
+• Outstanding: Water volume can be a deep
+river or small lake. Damage +2BD."}
+ {:name "Pillar of Salt"
+  "Axiom Level" 17
+  :Skill "Faith 16"
+  "Casting Time" "1 action"
+  :DN "Hard (–4) vs. the target’s willpower or Spirit"
+  :Range "5 meters"
+  :Duration "3 rounds"
+  :description
+  "This powerful miracle is only able to be invoked
+on holy ground and other areas where the Spirit
+axiom is 17 or higher without contradiction. The
+priest calls upon the wrath of the Sacellum God to
+turn the target into a pillar of salt. On a success, the
+target becomes Stymied and Vulnerable. At the start
+of the target’s following turn, the target becomes
+Very Stymied and Very Vulnerable. At the start
+of the target’s subsequent turn, Restrained, Very
+Stymied, and Very Vulnerable.
+The target may sacrifice their entire turn to make
+a Very Hard (DN 14) faith or Spirit test to end the
+miracle early. If the target is KO’ed due to Shock,
+they must immediately make a Defeat test.
+Success Levels:
+• Good: As Standard, plus the target takes 1
+Shock per round.
+• Outstanding: As Standard, plus the target
+takes 2 Shock per round."}
+ {:name "Sins of the Flesh"
+  "Axiom Level" 14
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Target’s faith or Spirit"
+  :Range "Touch"
+  :Duration "1 Scene"
+  :description
+  "The effect of this miracle produces a curse which
+causes rips and tears to appear on the target’s body.
+The open sores cause pain and discomfort. The
+target takes 2 points of Shock that does not go away
+unless healed or the duration passes. The damage
+can be healed through mundane or magical means
+such as the healing skill or various abilities, spells,
+and miracles that heal damage, but the appearance
+of the flesh can only be repaired with by removing
+the curse or allowing the duration to end on its own.
+The target’s Charisma and Dexterity based skill tests
+are at a –4 penalty as long as the sores are present.
+Spells and miracles such as Repel Curse and
+Break Curse end this miracle as presented in their
+descriptions.
+Success Levels:
+• Good: Shock is increased to 4 points
+• Outstanding: As a Good success, but the
+duration increases to an Act."}
+ {:name "Thrice Cursed"
+  "Axiom Level" 10
+  :Skill "Faith 16"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Spirit"
+  :Range "50 meters"
+  :Duration "One day"
+  :description
+  "The target suffers three different conditions as a
+within the next 24 hours. Each round the invoker can
+choose one of the conditions to apply as a free action.
+No more than one of these conditions can affect the
+target at the same time. The invoker chooses which
+conditions affects the target, and may choose them
+in any order desired.
+The same condition cannot affect the target more
+than once from this miracle, and the target cannot be
+affected by this miracle more than once in 24 hours.
+The conditions can be: Disfavored, Very Stymied,
+Very Vulnerable, Confused, or Fatigued.
+Success Levels
+• Good: Up to two of the conditions may be
+applied to the target on the same round.
+• Outstanding: All three conditions may be
+applied to the target on the same round."}]

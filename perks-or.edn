@@ -1,0 +1,853 @@
+[{:name "Anchored"
+  :Cosm "*Orrorsh"
+  :type "CORRUPTION"
+  :Prereq "Transform within Orrorsh."
+  :description
+  "Orrorsh’s reality is pervasive, and winds its why into
+the character’s very soul. When the character would
+transform (to or from the Orrorsh reality) the whisper
+emerges to offer a dark bargain. The Storm Knight
+connects to Orrorsh now and forever. In the future
+when he Disconnects he automatically reconnects to
+Orrorsh—but makes a Corruption test each time."}
+ {:name "Doomed"
+  :Cosm "Orrorsh"
+  :type "CORRUPTION"
+  :Prereq "Spirit 10+, fail a Defeat test within Orrorsh."
+  :description
+  "When some heroes die in Orrorsh, dark spirits
+whisper to their souls and offer them a new chance to
+live, but be forever bound to the forces of darkness. If
+the character accepts, she gains this Perk for free and
+returns to life as though the Defeat test had been an
+Outstanding success. There is no other apparent effect."}
+ {:name "Martyr"
+  :Cosm "Orrorsh"
+  :type "CORRUPTION"
+  :Prereq "Activate a Martyr card in Orrorsh"
+  :description
+  "When a hero would sacrifice herself with a Martyr
+card, a honey sweet voice whispers that death
+isn’t the only way. She may ignore the voice,
+of course, and score a minor reprieve for those
+who survive her, but the effects of Martyrdom
+in Orrorsh are seldom strong. If the hero agrees
+to the voice’s bargain she gains the usual benefit
+of playing the card, possibly an even better
+result, and survives unharmed—with this
+Corruption Perk.
+If anyone activates a Martyr card in the
+future this character becomes the one who dies.
+Unfortunately converting Martyr to Possibilities
+does count as activating it, so warn teammates
+to be careful!"}
+ {:name "Cloak of Darkness"
+  :Cosm "*Orrorsh"
+  :type "CURSED"
+  :Prereq "Beta, at least one other
+Cursed Perk"
+  :description
+  "The creatures of the night are
+stronger away from the light. Gain
+a bonus to Toughness equal to the
+current Darkness penalty, up to a +6
+bonus in total darkness. Illumination
+of any kind eliminates Toughness from
+Cloak of Darkness!"}
+ {:name "Ghost"
+  :Cosm "Any"
+  :type "CURSED"
+  :Prereq "Spirit 8+."
+  :description
+  "When some beings die in an especially
+tragic or emotional way, their spirits linger
+and haunt the living. Most ghosts are
+bound to a location—often the place they
+died — but some elect to follow specific
+people, and reality-rated spirits can range
+anywhere they choose. Ghosts have powerful traits
+that are treated like racial abilities:
+Ethereal: Ghosts are spirits rather than flesh, and
+have a hard time interacting with the physical
+world. They ignore physical attacks and damage,
+but can’t use equipment at all. Powers, or items
+affected by powers and their equivalents (such as
+magical weapons) may affect a ghost normally.
+Ghosts may use Interaction Attacks, but must
+spend 2 Shock to make a regular attack (including
+using powers such as Spells, Miracles, or Psionics).
+Float: Ghosts don’t walk, they float several inches
+off the ground. Many pretend to walk. Ghosts
+ignore penalties for terrain, but they cannot run.
+They must have some kind of ground or surface
+to float atop—although falling does no damage
+to a ghost.
+Uncanny: There’s something off-putting
+about a ghost’s appearance. It could be
+subtle things like not breathing or
+blinking, or more overt like a twisted
+neck or feet. Whatever the cause,
+living creatures (especially animals)
+instinctively abhor a ghost. Ghosts
+suffer a –4 on all persuasion and
+streetwise tests.
+Undead: The ghost does not
+breathe air, need to eat or drink,
+and is unaffected by poisons
+or effects that require living
+processes.
+The largest threat to a ghost‘s
+humanity is madness. Spirits
+are beings composed entirely
+of memories and emotions.
+When memories become
+muddled — or emotions
+too strong — ghosts risk
+losing themselves to rage or fear or
+revenge. Such lost souls exist only to
+terrify the living and push them towards
+their own deaths."}
+ {:name "Vampire"
+  :Cosm "Any"
+  :type "CURSED"
+  :Prereq "Dexterity 8+."
+  :description
+  "No one knows the true source of this curse, but
+it’s transmitted through the blood and spread
+through much of Gaea before coming to Earth
+with the Victorians. Those afflicted thirst for blood.
+Any blood will do for sustenance, but the blood of
+sapient species has a special draw.
+Allergies: Direct sunlight causes 10+1BD damage
+each Round a vampire is exposed to it. Clothing
+that offers Full Coverage counts as +5 Armor
+against this damage only. Any other kind of armor
+or clothing offers +2 Armor protection and nothing
+more.
+Blood Drain: Vampires have fangs that deal
+Strength +2 damage. They may only attack a
+Grappled opponent, but they automatically strike
+the target’s lowest Armor value. If the target is the
+same race then any Shock and Wounds dealt by the
+bite are simultaneously recovered by the vampire.
+The bite deals normal damage to other races, but
+has no restorative properties. Blood drain deals
+only Strength damage to a target with no blood or
+living processes.
+Mentalist: Vampires may take the Psionic Perk
+and any of the following powers: alter memory,
+clairvoyance, cloud mind, confusion, mind control,
+and psychic shield. An Orrorsh vampire may take
+powers that exceed his Social Axiom, but using
+such abilities risks Disconnection normally. The
+strange nature of these powers suggests that the
+vampire curse didn’t originate in Gaea.
+Undead: Vampires do not breathe air, do not need
+to eat or drink, and are not affected by poisons or
+effects that require living processes.
+The main threat to a vampire’s humanity is the
+same hunger that drives them. The temptation to
+feed upon the living, especially when injured, can
+be overwhelming. When a vampire loses himself he
+becomes a pure predator, thinking of all the living
+as nothing more than cattle ready for slaughter."}
+ {:name "Werewolf"
+  :Cosm "Any"
+  :type "CURSED"
+  :Prereq "Strength 8+"
+  :description
+  "Werewolves transform into beasts. The
+transformation can be triggered on purpose (taking
+a full turn), as a free reaction to suffering a Wound,
+or automatically during a full moon. The trick is
+returning to normal requires the beast to kill —
+which may mean a Corruption test. The victim
+killed may be an animal or an opponent, the curse
+isn’t particular. Reverting back to normal isn’t
+immediate; the werewolf chooses when to change,
+which also triggers the Corruption test.
+The curse is transmitted by attacks. Lore proposes
+that anyone severely injured by a werewolf who
+survives might become cursed, but in actuality it’s
+only those special cases who are slain but rise again
+under the power of the curse — appearing to have
+survived the attack when really they did not.
+Allergies: Silver weapons and bullets deal +4
+damage to lycanthropes. In addition, Wounds
+caused by silver don’t heal from the Regeneration
+ability below. Allergies apply whether the werewolf
+is in normal or beast form.
+Bite/Claws: In beast form only, the werewolf gains
+a Bite/Claws attack that deals Strength+2 damage.
+Regeneration: All Wounds and injuries
+automatically heal at the end of each scene—even
+death! Wounds caused by silver weapons only
+heal at the normal rate. Death caused by a silver
+weapon is permanent, and is death if such an
+attack is delivered after the werewolf is Defeated
+as a Coup de Gras. Regeneration applies to both
+the lycanthrope’s forms.
+Savagery: While in beast form only, the werewolf
+gains a +2 bonus to Strength. If a target, friend or
+foe, is within reach after movement the werewolf
+must All-Out Attack, and the Friendly Fire rules
+apply to melee attacks if multiple targets are within
+reach. If any target is within the werewolf’s Move
+he must end next to a target, but within those
+constraints he can move however he desires.
+If a failed Corruption test would eliminate the
+character, he transforms completely into a beast
+and never changes back. The beast may still
+transmit the curse!
+Werewolves are merely one strain of the curse.
+Bats, tigers, and other creatures are possible."}
+ {:name "Austere"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :type "FAITH"
+  :Prereq "Spirit 8+, at least two adds in faith."
+  :description
+  "Long practice at severe self-denial has granted the
+character physical resilience. Fatigue and Backlash
+cause one less Shock."}
+ {:name "Puritan"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :type "FAITH"
+  :Prereq "At least one add in faith."
+  :description
+  "A life lived in fear of sin allows the innocent
+soul to literally smell evil. When supernatural evil
+is present, including characters with Corruption
+Perks, the puritan smells unpleasant odors in the
+area—odors others can’t perceive. The smell doesn’t
+cling to any particular person, but it does serve as
+a warning. Tests to avoid ambush or detect evil
+forces are Favored."}
+ {:name "Righteous Staff"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :type "FAITH"
+  :Prereq "Orrorsh, Beta clearance, at least
+three adds in in faith. Access to the Sacellum
+Chaplain miracle list."
+  :description
+  "The Sacellum chaplain has proven herself pure.
+She acquires a simple black shepherd’s crook, which
+for most purposes function exactly as a normal
+staff. When fighting supernatural evil, the Storm
+Knight uses her faith value as the weapon’s base
+damage value. Ethereal beings are affected by the
+staff. Additionally, she may use her faith instead
+of willpower to resist a Corruption test. However,
+should she fail her test in this manner, she loses the
+benefits of this Perk until the end of the next act."}
+ {:name "Sacellum Chaplain"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :type "FAITH"
+  :Prereq "Orrorsh, faith 1+ adds. Cannot have
+Perks or access to miracle lists related to other
+religions."
+  :description
+  "The Sacellum priest’s dedication to destroying
+Orrorsh Horrors and using the faith of Sacellum
+miracles within the Victorian military has given
+them access to the Sacellum Chaplain list (see page
+31). A Sacellum chaplain may select two miracles
+from that list plus ward enemy. The Miracles Perk
+may be purchased for more miracles and grants the
+Sacellum Miracle list found in Torg Eternity."}
+ {:name "Spirit Nemesis"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :type "FAITH"
+  :Prereq "Spirit Bane"
+  :description
+  "Many spirits have a nonchalant attitude when
+inflicting pain or trying to kill corporeal beings,
+thinking that there is nothing that their victims can
+do to stop them. Unfortunately for them, when it
+comes to someone with this Perk, they quickly find
+they are very, very wrong. The hero’s physical
+attacks against ethereal creatures are Favored, and
+1s on bonus dice are re-rolled (but then the second
+roll stands)."}
+ {:name "Brighten the Fading Light"
+  :Cosm "*Core Earth, Orrorsh"
+  :type "HOPE"
+  :Prereq "At least 1 failed Corruption test, reality
+10+."
+  :description
+  "When a character fails a Corruption test, they may
+spend one Possibility at the end of each of the next
+three scenes to brighten the fading light of their
+Charisma, If they do, the Charisma loss from that
+failed Corruption test is negated."}
+ {:name "Divine Judgment"
+  :Cosm "*Core Earth, Orrorsh"
+  :type "HOPE"
+  :Prereq "At least 1 failed Corruption test, faith 10+."
+  :description
+  "Once a scene, the character may make a faith test
+against a Nightmare’s faith or Spirit. On success, the
+Nightmare loses its ability to refresh Possibilities
+for its next turn, two turns for a Good success, and
+three turns for an Outstanding success."}
+ {:name "Even in Death"
+  :Cosm "*Core Earth, Orrorsh"
+  :type "HOPE"
+  :Prereq "At least 1 failed Corruption test, reality
+10+."
+  :description
+  "When the character fails a Defeat test, she may
+affect the scene as if she had played a Martyr card. In
+addition she chooses one player to refill their hand."}
+ {:name "Steady On"
+  :Cosm "Any"
+  :type "LEADERSHIP"
+  :Prereq "Charisma 8+"
+  :description
+  "When a Fear test is called for, the leader rolls her
+test first. If she succeeds then all allies within 10
+meters are Favored on their own Fear tests. On a
+Good success that bonus extends to all allies within
+the sound of her voice. On an Outstanding result
+allies no longer even need to test."}
+ {:name "Alchemy • Liquid Light"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Alchemy"
+  :description
+  "A potion of liquid light may
+be held, unbroken, as a light source similar
+to a torch. When exposed to air (throwing or
+pouring out the contents) it becomes vastly
+brighter — eliminating all Darkness penalties
+within 20 meters — and counts as natural
+sunlight. Liquid light clings to the ground
+or the clothing of a target it hits in a Small
+Blast. The effect lasts for an hour. If a creature
+allergic to sunlight is forced to drink liquid
+light it is automatically destroyed."}
+ {:name "Alchemy • Dark Ointment"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Alchemy"
+  :description
+  "This soot-like concoction
+must be spread across every inch of skin or
+clothing as a Full Turn action. Once applied
+the character gains a +2 bonus to stealth so
+long as he’s in darkness. More importantly,
+he becomes invisible (–6 to opponent’s find
+or attacks) to all creatures with the Cloak of
+Darkness ability. The ointment remains potent
+for one day or until washed off."}
+ {:name "Alchemy • Dark Sight"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Alchemy"
+  :description
+  "This foul-smelling brew grants the
+drinker the ability to see in total darkness with
+no penalty for one hour. Each potion made has
+the equivalent of five doses, so the alchemist
+may drink all herself for five hours of Dark
+Sight or share with four other allies to all gain
+one hour of Dark Sight each."}
+ {:name "Alchemy • Natural Healing"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Alchemy"
+  :description
+  "This potion accelerates the
+drinker’s metabolism to a startling rate. The
+drinker may make a single natural healing
+roll, but then suffers Fatigue which may not be
+recovered until an entire day’s worth of food
+is consumed. An individual may quaff more
+than one Natural Healing potion, but can’t eat
+more than one day’s worth of food in a 24 hour
+period."}
+ {:name "Alchemy • Itching Powder"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Alchemy"
+  :description
+  "When the containing vial is
+shattered a cloud of powder sticks to everyone
+in a Medium Blast hit by the alchemist’s missile
+weapons attack. Each affected target suffers a
+penalty to all tests equal to their current Armor
+rating for an hour. Natural Armor and Armor
+from magical spells count. Reducing Armor
+level by stripping off items does likewise
+decrease the penalty!"}
+ {:name "Alchemy • Liquid Courage"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Alchemy"
+  :description
+  "Each dose imbibed grants the
+drinker Favored rolls for Fear tests, and if a
+Fear test fails the Very Stymied consequence
+is reduced to only Stymied. The effect lasts for
+one hour. One brewed potion holds five doses,
+which may be drunk all at once for five hours
+of protection or split among five people for one
+hour of protection each."}
+ {:name "Alchemy • Miasma"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Alchemy"
+  :description
+  "Breaking this vial releases a choking
+cloud of poison in a Large Blast. Each target
+hit must test Strength or suffer 2 Shock and
+test again on his next turn. On a success he
+only suffers 1 Shock, but must still test again
+next turn. A Good success avoids damage but
+still requires another test next turn. Only an
+Outstanding success or a minute of breathing
+clean air ends the effect."}
+ {:name "Bulletsmith • Freezing Shell"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Bulletsmith"
+  :description
+  "A hit deals
+14 damage and automatically
+Stymies a hit target. On the
+target’s next turn he must test
+Strength. On a failure he loses his
+entire turn breaking free of ice.
+Success allows the target to act, but
+not move. A Good success allows the
+target to move up to half his normal
+speed, and Outstanding allows him to
+move and act normally."}
+ {:name "Bulletsmith • Liquid Fire Shell"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Bulletsmith"
+  :description
+  "A hit coats targets in
+a Small Blast with sticky liquid which
+bursts into flames upon contact with
+air. The flames deal 14 damage +1BD
+to the target each round. If the Bonus
+Die rolls an ∞ the fuel is exhausted
+and stops burning rather than dealing
+additional damage."}
+ {:name "Bulletsmith • Phosphor Shell"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Bulletsmith"
+  :description
+  "The main purpose of this
+shell is to create light — where ever it hits it
+burns as a bright light source illuminating 10
+meters for one minute. A direct hit with the
+shell only deals 12 damage, but it burns for 12
+damage every round for one minute."}
+ {:name "Bulletsmith • Screamer Shell"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Bulletsmith"
+  :description
+  "Screamers are an odd
+construct designed to make a loud wailing
+noise while in flight. The first time a Screamer
+is fired all foes that can hear it must test Fear.
+A hit from a Screamer Shell deals 12 damage."}
+ {:name "Bulletsmith • Curse Shell"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Bulletsmith"
+  :description
+  "A hit deals 14 damage and makes
+the target Vulnerable. For the next Minute,
+attacks that hit the target gain +1BD damage
+while he’s Vulnerable or Very Vulnerable."}
+ {:name "Customized Slayer’s Gun"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Bulletsmith"
+  :description
+  "This Perk may be taken multiple
+times, each time adding a different
+customization to the Slayer’s
+Gun. Below are some of the latest
+modifications Slayers have incorporated
+into their weapons:"}
+ {:name "Customized Slayer’s Gun • Double Barrel"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Customized Slayer’s Gun"
+  :description
+  "The second
+barrel on this custom gun (and
+the extra shot loaded into it) isn’t
+meant to discharge with the other
+barrel — it’s a reserve shot in case an
+enemy charges while the slayer is
+reloading. When a foe moves into melee
+range the slayer may fire this barrel (and
+whatever round is loaded into it) at the
+attacker as a free action. When a slayer
+reloads his gun he can choose whether
+to reload the cylinder or the reserve
+barrel—but he can’t reload both in the
+same action."}
+ {:name "Customized Slayer’s Gun • Long Barrel"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Customized Slayer’s Gun"
+  :description
+  "The Slayer’s Gun
+loses the Carbine property, but its
+Range increases to 100/200/500 and it
+gains a telescopic sight that eliminates
+up to two points of Range penalties
+when the Slayer Aims. Basic shells
+fired from a Slayer’s Gun with this
+modification deal damage 15."}
+ {:name "Customized Slayer’s Gun • Pistol Stock"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Customized Slayer’s Gun"
+  :description
+  "The Slayer’s Gun is converted into
+two equal pistols. Each has Range 10/25/40, but
+its own cylinder of six Shots. Both pistols count
+as the same weapon for Trademark Weapon
+and other abilities."}
+ {:name "Customized Slayer’s Gun • Magazine"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Customized Slayer’s Gun"
+  :description
+  "The Shots on the Slayer’s Gun
+increases to 12. A Magazine may be loaded
+with up to two different kinds of shells, and
+either one fired via a selector. Other types of
+shells must be breach loaded and fired one per
+turn."}
+ {:name "Customized Slayer’s Gun • Reinforced Chamber"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Customized Slayer’s Gun"
+  :description
+  "A heavy but shorter
+smoothbore build on the Slayer’s Gun
+decreases its Range to 25/50/100, but increases
+the damage of every shell fired by +1."}
+ {:name "Customized Slayer’s Gun • Repeating Action"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Customized Slayer’s Gun"
+  :description
+  "The Slayer’s Gun gains the
+Short Burst property."}
+ {:name "Customized Slayer’s Gun • Blade"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Customized Slayer’s Gun"
+  :description
+  "The Slayer’s Gun gains a built in blade
+and extra grips to use it seamlessly as either
+a melee weapon or a range weapon. It deals
+Strength +3 damage. Trademark Weapon and
+other abilities apply to either of the weapon’s
+attack modes."}
+ {:name "Customized Slayer’s Gun • Potion Launcher"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Customized Slayer’s Gun"
+  :description
+  "Requires Alchemy. The
+Slayer’s Gun can load and launch a potion
+with a Range of 25/50/100, Shots 1. The attack
+uses fire combat in place of missile weapons."}
+ {:name "Demonic Form"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Demoniacal Frenzy."
+  :description
+  "When an Orrorshan calls upon Demoniacal Frenzy
+her physical body starts to change as well. She grows
+claws that add +2 damage to unarmed melee attacks
+and reddened, scabby skin that adds +2 natural
+armor. Each enhancement stacks with other similar
+abilities, such as existing natural claws or armor."}
+ {:name "Imp"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Diabolist"
+  :description
+  "Most Orrorshan sorcerers skirt the edges of the
+Abyss when they learn the arcane arts. Diabolists
+jump right into the inferno, entreating with demons,
+devils, and all manner of foul beings for additional
+power. The representative for these powers is the
+Diabolist’s imp.
+Imps may be various beasts: cats, dogs, even
+snakes! They are never bird or creatures of the air—
+the dark powers of Orrorsh dwell below, not above.
+Whatever the base creature is, it’s about half the size
+of a human and always jet black. Imps are strong for
+their size, but their most important characteristic is
+they can speak — although most prefer not to draw
+attention to themselves by doing so.
+In game terms, the player should control the
+imp most of the time, choosing its targets, rolling
+its attacks, and speaking for it. Imps don’t have
+knowledge beyond the sorcerer they are attached
+to. They represent the dark powers, but don’t have
+magic or powers of their own.
+Imps do not have Possibilities, but the sorcerer
+can spend his Possibilities (and Destiny cards) for
+the creature — even if they are separated. If slain
+the dark powers form a new beast to act as the
+Diabolist’s imp. They aren’t pleased at having to
+do so, and both they and the creature may find ways
+to express this displeasure and spur the sorcerer to
+employ more caution in the future.
+Attributes: Charisma 6, Dexterity 8, Mind 7, Spirit
+7, Strength 8
+Skills: Dodge 10, intimidation 9, maneuver 9, stealth
+10, taunt 8, trick 8, unarmed combat 9
+Move: 10; Tough: 8; Shock: 7; Wounds: 1
+Possibilities: Never
+Perks: —
+Special Abilities:
+• Bite/Claws: Strength +2 (10).
+• Small: Attacks against a Familiar suffer a –2
+penalty."}
+ {:name "Medals • Sole Survivor Medal"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Medals"
+  :description
+  "Awarded to the one
+person to return from an otherwise doomed
+expedition. The Sole Survivor medal cancels
+the effects of The Law of Perseverance and its
+recipient may Soak damage normally in Orrorsh."}
+ {:name "Medals • India Campaign Medal"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Medals"
+  :description
+  "Awarded to any
+Storm Knight who recovers an Eternity Shard
+inside Orrorsh. Once per act, the wearer may
+play a Destiny Card into her own Action Pool
+or the pool of an ally as a free reaction during
+any turn."}
+ {:name "Medals • Order Vestigium"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Medals"
+  :description
+  "Awarded to those who defeat
+a Nightmare. Evidence analysis tests become
+Favored, and the character is automatically
+aware if any clue to a Nightmare’s origin is
+nearby. This doesn’t tell them what the clue is
+or where it can be found, just that something
+is afoot."}
+ {:name "Medals • Order of the New Dawn"
+  :Cosm "*Orrorsh"
+  :type "OCCULT"
+  :Prereq "Medals"
+  :description
+  "This medal is
+awarded to those who have been cursed, but
+managed to eliminate the being or force that
+cursed them. This award is a mixed blessing,
+as its presence also alerts Victorians that the
+wearer is cursed, which may lead to trust
+issues. The wearer’s Corruption tests become
+Favored, and when a test fails the medal may
+be “burned” instead of losing Charisma. It still
+counts as a Perk when determining the cost for
+buying new ones, but no longer has any other
+effect if burned."}
+ {:name "Monster Slayer"
+  :Cosm "Orrorsh"
+  :type "OCCULT"
+  :Prereq "Beta Clearance, Occultist."
+  :description
+  "The academic’s occult learnings are applied
+to very practical results. Gain +1BD damage
+on any attack that hits a creature imbued with
+supernatural evil."}
+ {:name "Unstable Mixture"
+  :Cosm "Orrorsh"
+  :type "OCCULT"
+  :Prereq "Beta Clearance, Alchemy"
+  :description
+  "The alchemist can mix a vial that has all the effects
+of two different potions. Each such mixture counts
+as two active potions."}
+ {:name "Vial Bandoleer"
+  :Cosm "Orrorsh"
+  :type "OCCULT"
+  :Prereq "Alchemy."
+  :description
+  "Add three additional active potions to an
+Alchemist’s usual maximum. This Perk may be
+purchased multiple times, each adding another
+three active potions."}
+ {:name "Brave"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "None"
+  :description
+  "The character either has a stout heart or has
+become numbed to the constant terror that abounds.
+Fear tests are Favored, and if a Fear Test fails the
+character is only Stymied rather than Very Stymied."}
+ {:name "Guardian Angel"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "Beta Clearance, Bodyguard."
+  :description
+  "Allies within 5 meters may use the Guardian
+Angel’s current Defenses (dodge, melee combat,
+unarmed combat) instead of their own. Their own
+Conditions, such a Vulnerable, still apply."}
+ {:name "Pure"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "Charisma 8+"
+  :description
+  "There is something noble and incorruptible about
+the Storm Knight. Corruption tests are Favored, and
+when such a test fails the character may choose
+to be Defeated instead of automatically losing
+Charisma. A temporary Injury deals a Wound, and
+any Injury stemming from a Corruption test must
+be dealt to Charisma."}
+ {:name "Retaliation"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "Beta Clearance, Vengeful"
+  :description
+  "The warrior refuses to die quietly or alone! If
+forced to roll for Defeat, the character may take
+an immediate turn before the roll takes effect.
+Use it wisely!"}
+ {:name "Sacred Weapon"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "Trademark Weapon"
+  :description
+  "In the Storm Knight’s hands, the weapon counts
+as magical, dealing full damage to Ethereal foes.
+If a creature has an Allergy, the weapon counts as
+dealing damage of that type as well."}
+ {:name "Unyielding"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "Beta Clearance, Orrorsh, Survivor"
+  :description
+  "Perseverance runs in your blood. When you play
+an Orrorsh Cosm card you immediately recover 5
+Shock. You may play an Orrorsh Cosm card while
+KO’ed to regain consciousness."}
+ {:name "Macabre"
+  :Cosm "Any"
+  :type "SOCIAL"
+  :Prereq "Orrorsh, at least two adds in intimidation."
+  :description
+  "The character has embraced the dark and now fits
+in better with spooks and monsters. Creatures of
+supernatural evil or those with Cloak of Darkness
+won’t target the character so long as there’s another
+enemy within 10 meters to attack instead. A macabre
+Storm Knight gains a +2 bonus to persuasion against
+such monsters, but suffers a –2 penalty against
+everyone else."}
+ {:name "Tea Master"
+  :Cosm "Any"
+  :type "SOCIAL"
+  :Prereq "Orrorsh,
+Charisma 8+, and at least
+one add in scholar."
+  :description
+  "Anyone can steep a pot of tea
+and serve it to friends, but the true
+masters of tea-making can tap into
+Orrorsh’s Law of Perseverance and
+improve their chances at fighting the
+forces of Evil by serving afternoon
+tea for up to six people.
+Serving tea usually is an elaborate
+ritual, not all of which is necessarily
+possible when in the dark jungles.
+Afternoon tea must be done between
+the hour of four and five o’clock
+(spending a Possibility allows the
+ritual to take place anytime, but
+only once each day). After an hour
+of serving tea, the tea master makes a
+Charisma + scholar test. The guests may
+assist as a Combined Action.
+Tea and at least one “guest” are required
+but if the tea master serves tea with dainty
+sandwiches, scones, and pastries, the
+test is Favored. If the participants dress
+up in finery (at least semi-formal: day
+dresses, frock coats, hats, and gloves)
+the test is Up.
+The benefit depends on the Success Level:
+• Standard: The tea master and all guests draw
+a Destiny card.
+• Good: All guests draw a Destiny Card. The tea
+master draws two cards, then chooses one of
+them, and discards the other.
+• Outstanding: As Good but the tea master
+draws two cards and keeps both."}
+ {:name "Ritualist"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile
+Empire, Orrorsh, Tharkold"
+  :type "SPELLCRAFT"
+  :Prereq "At least one add in alteration, apportation,
+conjuration, or divination."
+  :description
+  "The caster gains access to the Dark Rituals
+starting on page 24. The caster may proceed
+without one of the listed material components
+at the cost of suffering a Wound. This Wound
+may not be Soaked, and may only be healed
+after the act ends."}
+ {:name "Twilight Magic"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile
+Empire, Orrorsh, Tharkold"
+  :type "SPELLCRAFT"
+  :Prereq "Orrorsh, at least one add
+in alteration, apportation, conjuration,
+or divination."
+  :description
+  "Magic in Orrorsh is dark and
+tainted. In the twilight, someone can
+steadily be in-between the light and
+darkness. Though the hour is short,
+much can be accomplished in an
+hour by a sure hand.
+Twilight Magic is one of the more
+dangerous schools of magic to
+master. More than half of the
+Occultists who have studied this
+genre of magic have succumbed
+to Corruption and become agents of the
+Gaunt Man or worse.
+If an Occultist is willing to risk the
+dangers of this school, she can wield
+powerful spells.
+Selecting this Perk gains three
+Spells from the Twilight Magic
+list on page 21."}]

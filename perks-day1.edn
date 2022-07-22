@@ -1,0 +1,484 @@
+[{:name "Conviction"
+  :type "FAITH"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :Prereq "Miracles, at least three adds in faith."
+  :description "The chosen true believers can better weather the
+trials and tribulations of failure. When a character
+with Conviction fails to invoke a miracle he suffers
+one less Shock than usual."}
+ {:name "Miracles"
+  :type "FAITH"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :Prereq "At least one add in faith."
+  :description "Some Storm Knights walk with the power of light
+on their side. Whether it comes from their god or
+the eternal forces of creation, the hero is blessed
+with the ability to call forth miracles.
+The character begins with the ward enemy miracle
+and two others chosen from the cosm-specific
+Miracles Lists on page 199. See Miracles on page 
+196 to find out how to cast them and what happens
+should the invocation fail.
+New Miracles: This Perk may be taken more than
+once. Each time after the first, it grants the user one
+additional miracle."}
+ {:name "Lay on Hands"
+  :type "FAITH"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :Prereq "At least three adds in faith."
+  :description "Those touched by divine forces bring relief to
+those in pain. By touching an ally and making a
+faith test as an action (−2 if the ally is of a different
+faith), a character removes 1 point of Shock with a
+Standard success, 2 with a Good success, and 3 for
+an Outstanding success.
+This may only be done once per character per
+scene. It may not be used on the chosen herself.
+Using this Perk causes a Contradiction if the local
+Spirit Axiom isn’t 8 or higher.
+ Unconscious characters restored in this way
+wake up immediately and may act that turn,
+though Stymied."}
+ {:name "Protected"
+  :type "FAITH"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :Prereq " At least one add in faith."
+  :description "Divine beings do not like to see their champions
+slain by the forces of evil. The chosen has +2
+Toughness against attacks made by supernatural
+evil creatures (Game Master’s call, but usually
+includes gospog, ghosts, demons, etc.)."}
+ {:name "Spirit Bane"
+  :type "FAITH"
+  :Cosm "Core Earth, Aysle, Cyberpapacy, Living
+Land, Nile Empire, Orrorsh"
+  :Prereq "At least one add in faith."
+  :description "The Storm Knight gains the ability to affect beings
+with the Ethereal Special Ability, such as ghosts,
+with unarmed combat or melee weapons."}
+ {:name "Bolster"
+  :type "LEADERSHIP"
+  :Cosm "Any"
+  :Prereq "Charisma 8+, at least one add in reality."
+  :description "A true leader can empower his allies with a stern
+gaze, a short speech, or some other act that steels
+their resolve against adverse circumstances.
+Characters with this Perk can spend a Possibility
+to counter any Disadvantage affecting his party
+on the current Drama card’s Conflict Line. This
+completely negates the Conflict Line for his side,
+but has no effect on the rivals’ result. It can be done
+at any time the card is still active."}
+ {:name "Followers"
+  :type "LEADERSHIP"
+  :Cosm "Any"
+  :Prereq "Charisma 8+, and the character must
+have successfully played a Glory card."
+  :description "Followers may be taken multiple times. The
+first time it’s taken, the Storm Knight has a single
+follower of some sort. The character is an Ord 
+created by the Game Master with 36 points of
+attributes and 12 points in skills. Each additional
+time this Perk is selected either add an additional
+follower, or an existing follower may gain a Perk
+(player’s choice).
+The player character controls these followers in
+most situations. They are loyal for the most part,
+but not suicidal. Losses are replaced at the start of
+the next act, or as soon as it makes sense in the story
+(Game Master’s decision). New followers don’t just
+show up in the middle of the Living Land looking
+for someone. But the group might stumble upon
+a settlement and find men and women willing to
+join the group after they’ve shared food and tales
+of the Storm Knights’ adventures."}
+ {:name "Natural Leader"
+  :type "LEADERSHIP"
+  :Cosm "Any"
+  :Prereq "Charisma 8+"
+  :description "The character may spend a Possibility to
+immediately play two cards from her hand into
+any other characters’ Action Pools. This may be
+done at any time as a free action."}
+ {:name "Rally"
+  :type "LEADERSHIP"
+  :Cosm "Any"
+  :Prereq "At least three adds in persuasion."
+  :description "A good leader can inspire those around her to
+overcome their wounds or exhaustion, carrying on
+no matter how difficult the odds.
+The leader may spend a Possibility to remove
+2 Shock from all allied characters in range of his
+voice (even remotely). This is a simple action, and
+requires a few encouraging words, gestures, or
+even supportive facial expressions to carry out."}
+ {:name "Bodyguard"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "At least two adds in maneuver."
+  :description "The character selflessly puts herself in
+harm’s way, protecting friends and allies
+with her own body. Once it’s determined
+a nearby ally has been hit by a physical
+attack (ranged or melee), the Bodyguard
+may redirect the attack to herself instead.
+The damage affects her normally. She may
+do this once per turn."}
+ {:name "Brawler"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "At least two adds in unarmed
+combat."
+  :description "The fighter hits hard thanks to anything from
+dirty tricks and a good uppercut to training in
+karate, jujitsu, tae kwon do, or similar hand-tohand fighting styles. Characters with this Perk
+cause Strength +2 damage with their bare
+hands when attacking with unarmed combat. This
+stacks with any other unarmed combat bonuses such
+as an edeinos’s claw attack.
+More advanced and exotic techniques are taught
+in Pan-Pacifica under the Ki Powers Perks."}
+ {:name "Brute"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "Strength 8+"
+  :description "The character can always use Strength when
+testing for Defeat, regardless of her Spirit."}
+ {:name "Double Tap"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "At least 2 adds in energy weapons or
+fire combat."
+  :description "Anyone can fire two shots from a weapon, but a
+well-trained marksman can make that extra shot
+really count. The character gains the option
+of firing two bullets at a target and gain a +1
+bonus to attack."}
+ {:name "Endurance"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "None"
+  :description "This Storm Knight doesn’t know how
+to quit. His Shock limit increases by +2."}
+ {:name "Hard to Kill"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "At least two other
+Prowess Perks."
+  :description "The warrior’s Wound limit
+ increases by +1."}
+ {:name "Indomitable"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "None"
+  :description "When the character attempts an
+Active Defense the test is Favored."}
+ {:name "Mastery"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "5 adds in the chosen skill."
+  :description "Player character Storm Knights
+cannot normally increase their skill
+adds to more than +5. But some are
+adept at very specific skills, such as a
+world class marksman, a top computer
+hacker, or a master swordsman.
+The Mastery Perk allows your hero
+to increase any one skill beyond +5
+adds to a maximum of +8. Skill adds
+are still purchased with Experience
+Points—the Perk simply allows you to do so."}
+ {:name "Relentless"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "Strength 10+"
+  :description "The most furious fighters put everything they
+have into their blows.
+When the character successfully uses the AllOut Attack option in melee, he can spend 3
+Shock to add an extra bonus die to the damage.
+This stacks with the usual bonus damage from
+Good and Outstanding results. The warrior must
+have the available Shock to spend or the ability
+doesn’t function."}
+ {:name "Situational Awareness"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "Mind 8+"
+  :description "Veteran Storm Knights become hyper-aware of
+their surroundings when danger nears, marking
+exits, reading their foes’ intent, and knowing when
+and where to maneuver next.
+Once per scene, a character with Situational
+Awareness may play a single card directly from her
+hand into her pool (and use it immediately if desired)."}
+ {:name "Sniper"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "At least 3 adds in energy weapons, fire
+combat, or missile weapons."
+  :description "When the character uses Aim (page 119) on a
+single ranged attack against a single foe, she adds
+an extra bonus die to the damage. This stacks
+with the usual bonus damage from Good and
+Outstanding results."}
+ {:name "Survivor"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "None"
+  :description "Whether she’s blessed by fate, destined for some
+greater end, or just tough as nails, this Storm Knight
+is hard to kill. She ignores all Wound penalties
+when testing for Defeat (page 117)."}
+ {:name "Strong-Willed"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "Spirit 8+"
+  :description "The character can always use Spirit when testing
+for Defeat, regardless of her Strength."}
+ {:name "Trademark Weapon"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "None"
+  :description "The Storm Knight is known for one particular
+weapon. When an attack with the weapon results
+in bonus damage, the player may reroll any 1s and
+accept the new result.
+If the weapon is ever lost, the Game Master
+should eventually allow him to replace it, usually
+at the start of the next act."}
+ {:name "Vengeful"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "Spirit 8+"
+  :description "Revenge isn’t always a bad thing. When a
+Vengeful character suffers a Wound, she gets an Up
+result on the next action taken against the offender
+in the same scene. This doesn’t stack with other Up
+results. The Wound must actually be sustained, not
+taken and then Soaked, for example."}
+ {:name "Whirlwind"
+  :type "PROWESS"
+  :Cosm "Any"
+  :Prereq "Dexterity 8+"
+  :description "The warrior has trained to hit a large number of
+foes in a single dance of death. He ignores the first
+two points of the Multi-Target penalty when using
+melee weapons (see Multi-Targeting on page 125)."}
+ {:name "Iron Will"
+  :type "PSIONICS"
+  :Cosm "Core Earth, Pan-Pacifica, Tharkold"
+  :Prereq "Psionic"
+  :description "This mentalist has learned to defend herself
+against rival psionicists. Psionic attacks against her
+suffer a −2 penalty."}
+ {:name "Multi-Tasker"
+  :type "PSIONICS"
+  :Cosm "Core Earth, Pan-Pacifica, Tharkold"
+  :Prereq "Knowledge of at least 5 powers."
+  :description "The most efficient psis learn to trigger multiple
+powers at once, perhaps erecting a psychic screen
+while launching a synaptic strike.
+A psi with this Perk may activate two different
+powers in a single turn as part of a Multi-Action."}
+ {:name "Overcharge"
+  :type "PSIONICS"
+  :Cosm "Core Earth, Pan-Pacifica, Tharkold"
+  :Prereq "Psionic, Spirit 10+"
+  :description "The character can boost her psionics ability at the
+risk of seriously damaging herself or possibly even
+dying. She may roll another d20 and add it to the
+die roll. This die roll is in addition to rolls from
+Ups or a spent Possibility. Once the test is resolved,
+the psi immediately suffers one Wound that may
+not be Soaked."}
+ {:name "Psionic"
+  :type "PSIONICS"
+  :Cosm "Core Earth, Pan-Pacifica, Tharkold"
+  :Prereq "At least one add in kinesis, precognition,
+or telepathy."
+  :description "Psionicists or “psis“ tap into the collective
+consciousness—represented by the Social Axiom—
+for incredible powers. They can use this to read
+minds, move matter and energy, and sometimes
+even see or predict aspects of the future.
+Psionics can develop anywhere the Social Axiom
+is high enough, but like magic or miracles, just
+because it can doesn’t mean it has yet.
+When the Psi takes this Perk, she may choose any
+three powers from her cosm’s Power List on page
+206. Power descriptions and how to manifest them
+are explained in Psionics on page 204.
+New Powers: This Perk may be taken more than
+once. Each time after the first, it grants the user one
+additional power."}
+ 
+ {:name "Adaptable"
+  :type "REALITY"
+  :Cosm "Core Earth"
+  :Prereq "Realm Runner"
+  :description "The Realm Runner doesn’t cause Contradictions
+when using equipment, spells, miracles, or powers
+supported by the local zone, even if the axioms are
+beyond his own personal reality."}
+ {:name "Axiom Increase"
+  :type "REALITY"
+  :Cosm "Core Earth"
+  :Prereq "None"
+  :description "This Perk may be taken multiple times. The Storm
+Knight may increase any one of her axioms by one 
+each time this Perk is chosen. See page 178 for
+more on axiom levels and Contradictions."}
+ {:name "Grant Possibilities"
+  :type "REALITY"
+  :Cosm "*Core Earth"
+  :Prereq "Charisma 8+"
+  :description "Storm Knights cannot normally give others
+their Possibilities, but those with this Perk can!
+Granting a Possibility is a free action that can be
+done at any time. The character must be in verbal
+or visual contact with the recipient somehow, but
+can otherwise cross any distance or barrier (except
+an invoked reality storm—see page 220)."}
+ {:name "Negation"
+  :type "REALITY"
+  :Cosm "Core Earth"
+  :Prereq "None"
+  :description "When an enemy attempts to spend a Possibility
+for an attribute or skill test, the Storm Knight may
+spend her own Possibility to instantly negate it.
+This is a free action she can perform as long as she’s
+aware of the rival’s action.
+Negation may not be used to stop a foe from
+Soaking Wounds with Possibilities."}
+ {:name "Prodigy"
+  :type "REALITY"
+  :Cosm "Core Earth"
+  :Prereq "None"
+  :description "The character is filled with Possibility Energy.
+She begins each act with an extra Possibility. This
+stacks with any other ability that grants additional
+Possibilities."}
+ {:name "Realm Runner"
+  :type "REALITY"
+  :Cosm "Core Earth"
+  :Prereq "None"
+  :description "The Storm Knight has a natural feel for
+manipulating reality. He ignores four points of
+reality penalties when attempting to reconnect,
+and may ignore disconnection the first time it
+happens in each act."}
+ {:name "Storm Caller"
+  :type "REALITY"
+  :Cosm "Core Earth"
+  :Prereq "At least three other Reality Perks."
+  :description "The Storm Knight can engage another reality-
+-rated character in a reality storm. See page 220
+for a complete description."}
+ {:name "Storyteller"
+  :type "REALITY"
+  :Cosm "Core Earth"
+  :Prereq "Charisma 8+"
+  :description "After a Glory card is played, the zone fills with
+ambient Possibility Energy. A Storm Knight with
+the Storyteller Perk can spread the tale of the deed
+and directly utilize that Possibility Energy.
+Telling the tale requires an audience, a
+performance of the teller’s choosing (narration, a
+song, etc.), and a persuasion test vs the standard
+zone modifiers (−4 in a Dominant Zone and –8 in
+a Pure Zone).
+Tales may be told once per act, and only in a zone
+where the Storyteller took part in playing a Glory
+card within the last month. The performer doesn’t
+have to have played the card himself, he just has
+to have been present at the event.
+The Storyteller gains a separate pool of Possibilities,
+one on a standard success, two on a Good, and
+three on an Outstanding. For the rest of the act,
+the Storm Knight can spend these Possibilities for
+himself or for anyone who heard the tale (GM’s
+call)—including Ords! This is a free action.
+Note that telling tales of the Storm Knights’ deeds
+almost always attracts attention from the High
+Lords and their minions. All the Reality Raiders
+are quick to hunt down such thorns in their sides."}
+ {:name "Tenacious"
+  :type "REALITY"
+  :Cosm "Core Earth"
+  :Prereq "Spirit 8+"
+  :description "Nothing seems to keep the hero down for long.
+Her tests to Soak damage become Favored."}
+ {:name "Helper"
+  :type "SOCIAL"
+  :Cosm "Any"
+  :Prereq "Charisma 8+"
+  :description "The character may take an action to speak a
+few encouraging words to an ally suffering from
+Stymied or Vulnerable conditions. She then makes a
+standard (DN 10) persuasion test. A Standard success
+eliminates one condition, Good eliminates two, and
+Outstanding removes all negative conditions. The
+affected ally decides which conditions to remove."}
+ {:name "Linguist"
+  :type "SOCIAL"
+  :Cosm "Any"
+  :Prereq "Mind 8+"
+  :description "Given a brief conversation with native speakers,
+study of written words, etc., the character can speak,
+read, and write basic concepts in a language he
+has no skill adds in. This isn’t as comprehensive as
+having an actual add in the relevant language, but
+it should be enough to help the translator and his
+party speak and negotiate with the locals."}
+ {:name "Wealthy"
+  :type "SOCIAL"
+  :Cosm "Any"
+  :Prereq "None"
+  :description "Some people are born into riches and prosperity,
+while others earn it the hard way. The character has
+$10,000 worth of starting gear instead of the usual
+$1,000, and persuasion or streetwise is Favored when
+testing to purchase an item or service."}
+ {:name "Magister"
+  :type "SPELLCRAFT"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile
+Empire, Orrorsh, Tharkold"
+  :Prereq "Spellcaster, knowledge of at least 5
+spells."
+  :description "The spellcaster has reached a level of mastery
+where she can cast two different spells in the same
+turn as part of a Multi-Action. She may also use
+the same skill when doing so (see Multi-Actions
+on page 124). Casting two different spells requires
+two empty hands."}
+ {:name "Resilient"
+  :type "SPELLCRAFT"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile
+Empire, Orrorsh, Tharkold"
+  :Prereq "Spellcaster"
+  :description "Spellcasters can eventually learn to dampen the
+effects of magical fatigue. When a Resilient sorcerer
+fails a spell he suffers one less Shock than usual."}
+ {:name "Spellcaster"
+  :type "SPELLCRAFT"
+  :Cosm "Aysle, Core Earth, Cyberpapacy, Nile
+Empire, Orrorsh, Tharkold"
+  :Prereq "At least one add in alteration, apportation,
+conjuration, or divination."
+  :description "Those who delve into the arcane arts go by many
+names—mage, wizard, witch, or warlock to name a
+few. Regardless of their particular background, all
+can cast spells using any of the four primary types
+of magical skill—alteration, apportation, conjuration,
+or divination magic.
+When this Perk is taken, the mage may choose
+any three spells from her cosm’s Spell List on page
+186 for which she meets the minimum skill. Spell
+details are explained in Magic on page 184.
+New Spells: This Perk may be taken more than
+once. Each time after the first, the character learns
+one additional spell."}]

@@ -1,0 +1,242 @@
+[{:name "Captivate"
+  "Axiom Level" 7
+  :Skill "Faith 10"
+  "Casting Time" "1 round"
+  :DN "The target’s Mind or willpower"
+  :Range "10 meters"
+  :Duration "Concentration"
+  :description "The cleric gains a supernatural ability to keep
+those who hear his voice focused on him, listening
+to his sermon. The priest invokes this miracle in
+a Huge Blast Radius centered on himself. Targets
+that do not understand the language the priest
+is speaking are immune to this miracle. This
+miracle can only be invoked outside of combat. If
+combat ever starts in the vicinity, the miracle ends
+immediately. Captivate requires the cleric to speak
+continuously. No other actions involving speech,
+including invoking other miracles, are allowed.
+Also, the priest cannot move more than a few
+meters from his initial location while this miracle
+is active.
+The faith test to invoke this miracle is Favored if all
+targets follow the same religion as the priest.
+On a success the targets listen atttentively to the
+preaching but may take non-hostile actions such as
+reporting unusual activity.
+Success Levels
+• Good: The target is enthralled and cannot
+take any action other than listening to the cleric.
+Find tests to notice unusual circumstances have
+a -2 penalty.
+• Outstanding: As Good, plus the target is
+Stymied and Vulnerable the first round after
+the miracle ends"}
+ {:name "Contort"
+  "Axiom Level" 8
+  :Skill "Faith 10"
+  "Casting Time" "1 round"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :description "This miracle allows the invoker to bend and even
+temporarily dislocate his arms, legs, and digits
+in ways that would otherwise be impossible or
+extremely painful. On a success the invoker’s tests
+to succeed at escaping bonds or fit through small
+spaces (large enough to fit the character’s head, at
+least) are Favored. The character can move only
+one meter per round while attempting these feats.
+Success Levels
+• Good: Tests to escape bonds or move through
+small spaces also gain a +4 bonus
+• Outstanding: The invoker’s bones soften
+and he can even squeeze between the bars of a
+typical jail cell"}
+ {:name "Control Animal"
+  "Axiom Level" 10
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Target’s Spirit or willpower, plus any Size Modifier"
+  :Range "Touch"
+  :Duration "Concentration"
+  :description "Some people are able to charm animals using
+music, either by playing an instrument or by
+singing or humming. While the invoker does not
+need to physically touch the target, he does need
+to be within touching distance. This miracle may
+only target one animal (for example, lizards, birds,
+dinosaurs, mammals, or fish, but not insects) with
+a Mind of 4 or less. Mindless animals are immune.
+The invoker automatically senses whether a target
+is eligible.
+On a success, the invoker takes spiritual control of
+the animal’s body. He may use his actions to move
+and act with the target’s body—or perform both
+using Multi-Actions. The animal may be made to
+perform actions using its own skills and abilities
+while within line of sight of its controller. The
+controller cannot use the animal’s senses directly.
+A controlled animal must sacrifice an entire turn
+to attempt to break free—it may take no other
+actions, whether or not it succeeds—by making a
+contest of willpower or Spirit against the invoker’s
+faith. If successful, the invoker’s Concentration is
+broken and the power ends.
+Once an animal breaks free, it may not be the
+subject of this miracle for the rest of the scene.
+Success Levels
+• Good: The animal’s attempts to break free
+have a -4 penalty
+• Outstanding: The animal is unable to break
+free of the control on its own—the invoker
+must lose Concentration (which automatically
+happens at the end of the scene)."}
+ {:name "Holy Water"
+  "Axiom Level" 10
+  :Skill "Faith 10"
+  "Casting Time" "30 minutes"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "The rest of the act"
+  :description "This ritual must be invoked on consecrated
+ground, such as a church, temple, or hallowed
+grove, and requires at least one glass vial (Value
+10 for 10 regular vials or one large vial) to hold the
+blessed water. The supplicant blesses a container
+of pure, clean water (not puddles, ponds, or any
+water that has been partially drunk). On a success,
+this miracle creates one vial of holy water. One vial
+of holy water can be thrown, using missile weapons,
+at a target, dealing 12 damage to a supernaturally-
+evil creature (plus the usual extra bonus dice for
+Good or Outstanding hits). If the creature is not
+supernaturally evil, it takes no damage. A large
+vial can hit up to three creatures within a Medium
+Blast Radius.
+Alternatively, a vial can be used to anoint a melee
+weapon as a simple action. A hit does +2 damage
+to supernaturally-evil creatures, but the weapon
+must be anointed again after a successful hit.
+When the duration expires, the vials of holy water
+revert to their original state.
+Success Levels
+• Good: Creates five vials’ worth of water
+• Outstanding: Blesses enough water to fill 10
+vials"}
+ {:name "Incognito"
+  "Axiom Level" 10
+  :Skill "Faith 12"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :description "Incognito allows the supplicant to walk among other
+people without being challenged or recognized.
+This miracle does not make the character invisible
+or allow the character to move soundlessly, nor
+does it change the character’s appearance. People
+who see the invoker merely think he’s supposed
+to be there.
+To invoke this miracle, the character mimes
+donning a cloak and says a prayer. On a success,
+as long as they are not specifically on guard,
+anyone observing the character automatically gets
+a +0 bonus on their evidence analysis tests against a
+Challenging (DN 12) difficulty.
+A character on guard may make an evidence
+analysis test as usual. Combined Actions cannot be
+made to improve the test. If the test succeeds, the
+viewer sees through the charade, the invoker loses
+Concentration, and the miracle ends.
+Success Levels
+• Good: The evidence analysis test is Hard (DN
+14)
+• Outstanding: The evidence analysis test is Very
+Hard (DN 16)"}
+ {:name "Meditation"
+  "Axiom Level" 6
+  :Skill "Faith 8"
+  "Casting Time" "30 minutes"
+  :DN "Easy (DN 8)"
+  :Range "Touch"
+  :Duration "24 hours"
+  :description "To meditate, the invoker must sit calmly on the
+ground and focus on senses and steady breathing.
+If the environment is not quiet and calm, the GM
+may assign a -2 or -4 penalty, as desired. Any
+combat immediately interrupts the invocation of
+this miracle.
+On a success, any one test the character makes in
+the next 24 hours is Favored.
+The character may make a test to invoke meditation
+only once every 24 hours.
+Success Levels
+• Good: The test is Favored and also gains a +2
+bonus
+• Outstanding: The test is Favored and also
+gains a +4 bonus"}
+ {:name "Pass Without Trace"
+  "Axiom Level" 8
+  :Skill "Faith 10"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "Concentration"
+  :description "The invoker touches each target and
+asks her deity to obscure their passage
+(using the Multi-Targeting rules if
+necessary). On a success anyone
+attempting a tracking test to follow
+takes a -4 penalty.
+• Success Levels
+• Good: The penalty is -6
+• Outstanding: The penalty is -8"}
+ {:name "Walk on Water"
+  "Axiom Level" 12
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "25 meters"
+  :Duration "30 seconds"
+  :description "Walk on water allows affected targets
+to move their normal speed (not run)
+atop liquids as if the surface were
+solid ground. A submerged target
+may climb up and out of the water,
+and those on the surface may dive
+under water if they choose. The invoker
+may attempt to affect multiple people
+by taking the usual Multi-Targeting
+penalties.
+Success Levels
+• Good: The duration increases to 1 minute
+• Outstanding: Affected targets may run atop
+liquid surfaces as well"}
+ {:name "Yin and Yang"
+  "Axiom Level" 8
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "the end of the scene"
+  :description "By invoking this miracle, the character taps into
+the belief that people, events, and things have
+complimentary aspects, and while bad luck may
+be ascendant, good luck may be just around the
+corner.
+On a success, the hero’s luck flattens out. For the
+rest of the scene, if the character rolls a 1 at any
+time, including after spending a Possibility or
+in an Up condition, he immediately re-rolls
+the die. However, if the character rolls a
+20 at any time, he immediately re-rolls
+as well.
+This miracle may only be attempted
+once every scene.
+Success Levels
+• Good: The character immediately
+rerolls on a 1-2, as well as 20
+• Outstanding: As Good, but the
+character rerolls on a 1-4, as well
+as 20"}]

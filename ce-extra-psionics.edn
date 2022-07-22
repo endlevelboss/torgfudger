@@ -1,0 +1,124 @@
+[{:name "Compelling Voice"
+  "Axiom Level" 23
+  :Skill "Telepathy 12"
+  "Casting Time" "1 action"
+  :DN "Hard (–4) vs. target’s willpower or Mind"
+  :Range "5 meters"
+  :Duration "1 round"
+  :description "Compelling voice may only be manifested at
+a single target, and the target must be able to
+understand the psi (i.e. it must be intelligent
+enough to understand commands and speak the
+same language).
+To manifest this power, the psi must speak a short
+command to a single target (no Multi-Targeting).
+The command may involve the victim undertaking
+any action using his own skills and abilities, but
+may not be forced to spend Possibilities. If the
+command involves making multiple actions,
+manifesting this power invokes a penalty equal to
+the usual Multi-Action penalty. If the command
+endangers the victim’s life (such as telling them to
+walk off a cliff) the telepathy test takes an additional
+Hard (–4) penalty.
+If the target is reality-rated, the test is instead a
+contest of telepathy vs. willpower or Spirit.
+On a success, the target resists but becomes
+Stymied and Vulnerable.
+Success Levels:
+• Good: The target must undertake the action,
+but any skill tests to resolve the action take a –2
+penalty.
+• Outstanding: As Good but without penalty."}
+ {:name "Heat Shield"
+  "Axiom Level" 23
+  :Skill "Kinesis 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "6 rounds"
+  :description "The psi creates a shimmering wave of heat that
+surrounds her, and incinerates projectiles (bullets,
+arrows, etc.) fired at her. This shield has no effect
+on melee or unarmed attacks, nor does it affect
+energy weapons attacks. On a success, the hero gains
++2 to her dodge defense and +2 Armor against fire
+combat and missile weapons attacks
+Success Levels:
+• Good: The bonuses increase to +3.
+• Outstanding: The bonuses increase to +4."}
+ {:name "Minor Telekinesis"
+  "Axiom Level" 23
+  :Skill "Kinesis 8"
+  "Casting Time" "1 action"
+  :DN "Easy (DN 8)"
+  :Range "10 meters"
+  :Duration "Concentration"
+  :description "Minor telekinesis allows the psi to grasp, move,
+and manipulate objects with a mass of up to five
+kilograms with her mind. This can include such
+actions as wielding a sword, flipping a switch,
+or punching a foe. Although the psi can only
+manipulate small objects (or barely push heavier
+ones) if he strikes with those objects (or just with
+his mind) it uses a base Strength equal to the psi’s
+Spirit.
+The psi must manifest this power to grasp or hold
+a single object but once successfully manifested, he
+may continue to manipulate that object as long as
+he maintains Concentration. He may manipulate
+other objects by manifesting the power additional
+times.
+The psi uses his own skills as normal (i.e. unarmed
+combat when hitting a foe, lockpicking when
+attempting to pick a lock).
+Success Levels:
+• Good: The psi may transfer focus to another
+object without manifesting minor telekinesis
+again.
+• Outstanding: The duration increases to 6
+rounds."}
+ {:name "Teleport"
+  "Axiom Level" 26
+  :Skill "Kinesis 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "10 meters"
+  :Duration "Instant"
+  :description "With this power, the psi may transport herself,
+her belongings and any small objects she holds
+(but not other beings) directly to another location
+within range. She can declare the target location
+either generally (e.g. to the other side of the door)
+or by direction and distance (e.g. 10 meters straight
+up).
+On a success, the psi teleports successfully but
+is disoriented upon arrival and is Stymied and
+Vulnerable.
+The psi may teleport to locations she cannot see,
+but the kinesis test takes a Hard (–4) penalty. If she
+would accidentally appear in a solid she teleports
+to the nearest safe location (within range, which
+may include her origin point) but all tests are
+Disfavored until the end of her next turn.
+Success Levels:
+• Good: The psi is not Stymied or Vulnerable
+after teleporting.
+• Outstanding: As Good and the psi’s next
+attack against enemies in the vicinity are
+Favored."}
+ {:name "Updraft"
+  "Axiom Level" 23
+  :Skill "Kinesis 12"
+  "Casting Time" "Simple action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Instant"
+  :description "The hero create gusts of air that lifts her a regular
+move straight up. Next turn she drifts back down
+along any path you desire as your walk move.
+Success Levels:
+• Good: The psi moves in the air without
+descending for an extra turn.
+• Outstanding: The psi moves in the air without
+descending for two extra turns."}]

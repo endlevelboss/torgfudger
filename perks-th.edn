@@ -1,0 +1,679 @@
+[{:name "Mutation"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Strength 8+ or Spirit 8+"
+  :description
+  "Many were killed by the destructive force of the
+nuclear fallout in the lands north of Moscow. Mixed
+with the infernal energies of the demons it slew, there
+was an unexpected impact on those who managed
+to survive. Twisted and scarred, they crawled back
+out of the blast zone dramatically altered.
+Some abominations have had their DNA
+recombined with that of a bear, cat, dog, or something
+far worse. Others have had their entire biological
+structure changed to where they resemble something
+barely humanoid. Over time, and with additional
+exposure to the hot spots in the Blasted Land, more
+mutations become apparent—both enhancing and
+debilitating. No two mutants are the same.
+The character is immune to environmental
+radiation (see Environmental Hazards in Torg
+Eternity), and heals one Wound when the Radiation
+Cosm Card is played. An attack based on hard
+radiation still does normal damage.
+The effects of the mutation cause some form of
+disfigurement: fur, scales, scars, etc. The character
+is considered an Outsider and suffers a –4 penalty
+to persuasion tests unless the disfigurement is
+concealed with heavy clothing or some other means.
+Additionally, the character must make a roll on the
+Debilitating Mutations table (see page 25).
+Additionally, the abomination selects one of the
+following mutations.
+New Enhancements: This Perk may be taken more
+than once. Each time after the first it grants another
+mutation. Unless it says otherwise, each mutation
+may only be taken once. Every odd Mutation Perk
+requires a new roll on the Debilitating Mutations
+table (see page 25)."}
+ {:name "Mutation • All Fours"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The character’s arms are double
+jointed, and her legs are shorter than usual.
+When she drops to all fours, she can run
+incredibly fast and becomes more agile like a
+dog, cat, or other quadruped. She may walk
+up to 3x her Dexterity without penalty, and
+may rush up to 5x her Dexterity. Additionally
+Dexterity tests during Chases on foot and when
+keeping balance are Up. The hero does not
+gain these benefits if both hands are holding
+objects or otherwise in use."}
+ {:name "Mutation • Dead to the Pain"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The abomination’s pain
+receptors do not work like they used to. She no
+longer feels any but the most extreme amount
+of pain and retains the ability to move even
+after suffering tremendous abuse. Her Shock
+Limit increases by +5."}
+ {:name "Mutation • Enhanced Reflexes"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The character’s fast
+twitch muscles and fibers have improved
+tremendously, and he gains a +1 to dodge,
+melee, unarmed, and maneuver defenses, and
+any tests to avoid hazards such as traps or
+falling rocks are Up."}
+ {:name "Mutation • Heightened Senses"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "All the character’s
+senses — hearing, smell, sight, taste, and
+touch — are greatly enhanced. The character
+can easily pick up on minor details such as
+smelling creatures that are upwind from her
+or hearing someone’s heartbeat increasing.
+The character’s find and tracking tests gain a
++4 bonus. Additionally, the hero may make a
+find test against her foes’ lowest stealth to avoid
+being surprised in a combat."}
+ {:name "Mutation • Metal Infused Skin"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The character was caught
+in the debris that rained down after the Moscow
+Gambit. Rather than killing her, it melded with
+her flesh. Shrapnel, barbed wire, and/or other
+metal juts out of the character’s skin over much
+of her body. The character is treated as having
+armor which has the following properties:
+Armor +5, Full Body, Max Dex 9."}
+ {:name "Mutation • Oily Perspiration"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The character produces a
+large amount of sweat from her glands on her
+limbs and torso. The sweat is dark and oil-like
+in consistency, making her difficult to grab or
+confine. She receives a +4 bonus to defenses
+against physical grappling or restraining
+effects, and is Up on attempts to break out
+of being physically restrained. If the test to
+escape the restrained condition succeeds the
+character may act normally, rather than the
+attempt costing an Action."}
+ {:name "Mutation • Oversized Arm"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "One of the characters arms is
+much larger than the others. Though typically
+grotesque, the arm has a significantly larger
+amount of muscle mass than any other part
+of the character’s body. Ignore the Unwieldy
+characteristic for all melee weapons wielded
+with this arm. The character also receives a
++4 bonus to Strength tests and Strength-based
+damage when the arm is used. This does not
+alter the character’s Toughness."}
+ {:name "Mutation • Spines"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The characters body is covered in
+massive bone or metal spikes that protrude
+from everywhere and at all angles. Armor is
+impossible and clothing is rapidly destroyed
+unless it’s specially modified (which makes
+it double the cost). However, the character
+gains +3 Full Body Armor with no Max Dex.
+When making an unarmed combat attack, the
+character does Strength +3 damage with Armor
+Piercing 2. A character making an unarmed
+attack (including a grapple) suffers their own
+Strength +3 AP 2 damage when they hit."}
+ {:name "Mutation • Springing Leap"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The abomination’s agility is
+strengthened, and she moves like lightning,
+allowing her to strike multiple opponents in a
+matter of seconds without sacrificing accuracy
+or power. The character ignores 4 points of
+penalties while taking the Multi-Target combat
+option with any melee weapons or unarmed
+combat attack."}
+ {:name "Mutation • Superior Vision"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The character’s eyes look
+drastically different from those of her species.
+Some mutants develop cats’ eyes and others
+have a discolored pupil. The character ignores
+the first 4 points of Darkness and range
+penalties."}
+ {:name "Mutation • Thick Fur"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The character’s body hair has
+grown into an exceptionally thick fur all over
+her body. This protects her from the elements
+and more. The character’s tests to avoid being
+affected by extreme cold (see Environmental
+Hazards in Torg Eternity) are Up, and she gains
+a +1 bonus to Toughness."}
+ {:name "Mutation • Regenerative Blood"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "The character’s blood
+has become more potent. Wounds clot
+exceptionally fast, and scabs wear away
+rapidly. At the end of each Scene, the character
+makes a Favored Strength test. If she succeeds,
+she immediately recovers one Wound, two on
+a Good Success, and three on an Outstanding
+result. This ability does not grant regeneration
+of limbs, organs, or Injuries caused by Defeat."}
+ {:name "Mutation • Wings"
+  :Cosm "Tharkold"
+  :type "ABOMINATION"
+  :Prereq "Mutation"
+  :description
+  "Wings sprout from the character’s back
+or from under her arms. The new growths take
+a variety of different forms (bat, bird, demon,
+etc.) depending on the mutant. The character
+gains the ability to fly at a movement speed
+equal to her Dexterity. She may rush up to
+three times that speed in the air at the expense
+of an Action. Armor must be modified to work
+the wings (double the base cost). The character
+may carry a normal amount of equipment
+while flying, but may not carry other people."}
+ {:name "Chains"
+  :Cosm "*Tharkold"
+  :type "ASPIRANT"
+  :Prereq "Aspirant, At least 2 adds in conjuration."
+  :description
+  "The Aspirant has reconnected with infernal magic
+and the Law of Domination enough to summon
+the chains that serve other demons. Chains may
+be summoned up to 25 meters away to attack a
+target using conjuration. They deal 10 damage on
+a hit, but may grapple instead, doing 2 points less
+damage on a hit but gain the chance to restrain a
+foe (see Grappling in Torg Eternity). The chains
+are Toughness 10 and can be broken by inflicting a
+Wound on the chains, or the character can attempt
+to break free by making a Strength or conjuration
+test vs. the character’s conjuration as the DN. Chains
+require Concentration if used to restrain."}
+ {:name "Extra Occultech"
+  :Cosm "Tharkold"
+  :type "ASPIRANT"
+  :Prereq "Aspirant and Occultech"
+  :description
+  "Tharkoldu are naturally able to install more
+Occultech than the Race, and this Perk allows another
+$10,000 in Occultech to be acquired. Any leftover
+allowance may be saved for future purchases."}
+ {:name "Flight"
+  :Cosm "Tharkold"
+  :type "ASPIRANT"
+  :Prereq "Aspirant"
+  :description
+  "The Aspirant’s wings strengthen and she recovers
+the ability to truly fly. She gains a flying move speed
+of 10 meters and may rush up to 30 meters per round.
+The technodemon can carry her personal equipment
+normally but may only glide (see page 20) while
+carrying another Medium sized creature."}
+ {:name "Pride Alpha"
+  :Cosm "Tharkold"
+  :type "ASPIRANT"
+  :Prereq "Aspirant, Beta Clearance, at least 5 adds
+in intimidation."
+  :description
+  "Although the Aspirant is a “better” creature, he
+feels the call to rule his own pride with dominance,
+ferocity, and pain to all those who cross him. Old
+habits die hard.
+The Aspirant gains the Fear Special Ability: when
+a foe first encounters him in battle in an Act
+they must test Spirit or willpower or become Very
+Stymied."}
+ {:name "Large"
+  :Cosm "Tharkold"
+  :type "ASPIRANT"
+  :Prereq "Aspirant"
+  :description
+  "Many Aspirants shrink or weren’t that large
+to begin with when they embraced the ways of
+empathy and kindness. This demon did not or has
+regained its size and presence.
+The Aspirant is three meters tall, and size Large
+like regular Tharkoldu. Opponents enjoy a +2 bonusto attacks against the demon, but his Shock Limit
+increases by +2 (which stacks with any other similar
+bonus), and his Strength directly increases by +1.
+This increase affects Toughness as well. Intimidation
+tests against anything that isn’t at least Large
+become Favored."}
+ {:name "Strong Chain"
+  :Cosm "*Tharkold"
+  :type "ASPIRANT"
+  :Prereq "Beta Clearance and Chains."
+  :description
+  "The Aspirant’s chains regain their full strength.
+The range increases to 50 meters, and the damage
+on a hit increases to 15."}
+ {:name "Fierce"
+  :Cosm "*Tharkold"
+  :type "DEPRAVITY"
+  :Prereq "Dexterity 8+."
+  :description
+  "This character is quick to react and meets most
+perceived threats with violence. Any time the Drama
+card indicates Heroes act first, and this character is
+the first Storm Knight to take a turn, she may play
+a Destiny card into her Action Pool before she acts
+instead of after."}
+ {:name "Masochist"
+  :Cosm "*Tharkold"
+  :type "DEPRAVITY"
+  :Prereq "Spirit 8+."
+  :description
+  "The character embraces pain inflicted by others.
+Once per scene, when the character takes one or
+more Wounds from a foe, and does not Soak
+Damage, she gains a Possibility for each Wound
+taken. The masochist may choose to activate this
+ability after knowing how many Wounds she will
+take. This only triggers when Wounds are actually
+taken, not if it is prevented in any way"}
+ {:name "One with Pain"
+  :Cosm "*Tharkold"
+  :type "DEPRAVITY"
+  :Prereq "Spirit 10+, Masochist."
+  :description
+  "The character has learned to do more than embrace
+pain. He welcomes it. The character reduces all
+wound penalties by one.
+This perk can be taken up to three times. Each time
+it increases the reduction in wound penalties by one."}
+ {:name "Sadist"
+  :Cosm "*Tharkold"
+  :type "DEPRAVITY"
+  :Prereq "Mind 8+."
+  :description
+  "Like the Masochist Perk, your character has
+embraced the Law of Pain. Your character
+understands there is power in pain – especially
+when she inflicts it on others. She draws power from
+the cosm when she harms her opponents.
+Once per turn, when she KO’s a foe, she recovers
+1 Shock. This ability stacks with the Law of Pain
+when in Tharkold."}
+ {:name "Vicious"
+  :Cosm "*Tharkold"
+  :type "DEPRAVITY"
+  :Prereq "Mind 10+, Sadist."
+  :description
+  "This character is ruthless in combat and knows
+how to hit where it hurts. When this character
+successfully deals any damage (Shock or Wounds)
+the target is also Stymied. Damage that is Soaked
+does not count."}
+ {:name "Cyborg"
+  :Cosm "Tharkold"
+  :type "OCCULTECH"
+  :Prereq "Tharkold, Occultech Implant, Strength
+10+"
+  :description
+  "There are some who push the bodies acceptance
+of occultech beyond the limit. The character
+elected to have most of his body replaced with
+occultech implants. The things he can do, and
+resist are extraordinary, but you are now more
+machine than man.
+When this Perk is taken, the character gains $15,000
+in occultech. As with the Occultech Implants Perk,
+these implants have been exorcised of all demonic
+influence. See page the Torg Eternity Core Rules
+Book for the list of Occultech or page 61.
+This over large amount of occultech installed has
+cost the character. He is now socially awkward and
+receives a -4 penalty on all persuasion tests. If the
+character already has a -4 penalty on persuasion
+tests (such as being an Aspirant) those tests are
+instead made Disfavored."}
+ {:name "Scrounged Implants"
+  :Cosm "Tharkold"
+  :type "OCCULTECH"
+  :Prereq "None"
+  :description
+  "Chop-Shops in Tharkold can install cybernetics
+into anyone, but non-natives of Tharkold are only
+able to install a limited amount of Occultech (even
+if cleansed) before being overwhelmed by the
+pain involved.
+A Storm Knight selecting this Perk may install up
+to $8000 worth of Occultech (though he does not
+have to install it all at once). This cyberware causes
+contradictions as normal. Remember this Perk can
+only be selected once.
+Special: This Perk may be selected by natives of
+cosms other than Tharkold"}
+ {:name "Drive Offensively"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "At least 3 adds in land vehicles."
+  :description
+  "The Storm Knight is adept at using
+vehicles as weapons. Tests to ram
+a target (see Ramming in Torg
+Eternity) are Favored, and the
+hero may reroll 1s on bonus dice
+when damage is inflicted on the
+defender and accept the new result."}
+ {:name "Demonbane"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "At least two adds in
+scholar."
+  :description
+  "The hero has studied the tactics and
+physiology of demons and knows how to
+hurt them hard. The Storm Knight may
+reroll 1s on bonus dice when damage is
+inflicted on a demon of any type (e.g.
+Tharkoldu, Cyberpapacy demons, and
+others the GM deems as “demonic”). The
+new result stands."}
+ {:name "Only the Strongest Survive"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "Tharkold, Beta Clearance,
+and Strength 8+"
+  :description
+  "The character’s Strength attribute
+increases by +1."}
+ {:name "Pain Tolerant"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "Tharkold, Beta Clearance, and Spirit 8+."
+  :description
+  "The character’s Spirit attribute increases by +1."}
+ {:name "Tortured Soul"
+  :Cosm "Any"
+  :type "PROWESS"
+  :Prereq "At least 1 add in willpower."
+  :description
+  "The character has experienced extreme torture
+and survived. It might have been at the hands of
+the technodemons as a former thrall. She might
+have escaped from the clutches of the Psychic
+Research Institute and their less than scrupulous
+experiments. No matter the source, this forced her
+to strengthen her will.
+Any willpower test is Favored, and willpower may
+be used as a defense against intimidation rather
+than the skill itself."}
+ {:name "Disciplined Mind"
+  :Cosm "Core Earth, Pan-Pacifica, or Tharkold"
+  :type "PSIONICS"
+  :Prereq "Psionic. Must have at
+least 3 adds in willpower."
+  :description
+  "Through meditation and intense
+mental exercises, this character has
+strengthened her mind. The character
+ignores the first 2 points of penalties (of any
+kind) when making a Concentration test."}
+ {:name "Embracing the Way"
+  :Cosm "Core Earth, Pan-Pacifica, or Tharkold"
+  :type "PSIONICS"
+  :Prereq "Tharkold. May not have access
+to any other list of psionic powers. May
+not be an Aspirant."
+  :description
+  "The hero gains access to The Way
+psionic power list (see page 45), and
+learns three powers.
+The Psionic Perk (see Torg Eternity) may
+be selected to gain additional powers,
+but does not grant access to any new
+psionic power lists."}
+ {:name "Institute Field Agent"
+  :Cosm "Core Earth, Pan-Pacifica, or Tharkold"
+  :type "PSIONICS"
+  :Prereq "Core Earth or Tharkold. At least one add
+in kinesis, precognition, or telepathy. May not have
+access to any other list of psionic powers."
+  :description
+  "The scientists and operatives in the Bureau of
+Psychic Research put the character through harsh
+conditions to expand her mind, but she endured.
+She “graduated” their programs or escaped after the
+invasion. The character gains access to The Institute
+list (see page 45) and learns three new powers.
+The Psionic Perk (see Torg Eternity) may be selected
+to gain additional powers, but does not grant access
+to any new psionic power lists."}
+ {:name "Mind Palace"
+  :Cosm "Core Earth, Pan-Pacifica, or Tharkold"
+  :type "PSIONICS"
+  :Prereq "Iron Will"
+  :description
+  "The hero extends her resistance against psionic
+attacks to those of an arcane and spiritual nature.
+Any ability that targets the Storm Knight’s willpower
+takes a –2 penalty to affect her. This penalty stacks
+with Iron Will."}
+ {:name "Psychic Riposte"
+  :Cosm "Core Earth, Pan-Pacifica, or Tharkold"
+  :type "PSIONICS"
+  :Prereq "Iron Will"
+  :description
+  "The Storm Knight is not just resistant to psionic
+attacks, but if the attack fails, she can psychically
+channel that energy back to her attacker.
+If a psionic attack against the hero fails to affect
+her, the attacker takes double the normal Shock from
+failing, or normal Shock if the attack did succeed
+against another target (while Multi-Targeting). If the
+attack was a Mishap, the attacker takes a Wound
+(which may be Soaked as normal)."}
+ {:name "Subtle Activation"
+  :Cosm "Core Earth, Pan-Pacifica, or Tharkold"
+  :type "PSIONICS"
+  :Prereq "Psionic, Mind 8+."
+  :description
+  "The psi has mastered using her powers without
+others taking immediate notice. Psionics are already
+a supernatural force that, unlike Magic or Miracles,
+does not require the psi to use hand gestures or
+speak words of power. This character has mastered
+activating them in such a subtle way that she can
+ambush others with her power.
+The DN of the power increases by +4, but it’s no
+longer obvious that the psionic is using a power or
+that a power has been used at all. The effect must
+be subtle or explainable by other means."}
+ {:name "Almost Human"
+  :Cosm "Tharkold"
+  :type "THE RACE"
+  :Prereq "None"
+  :description
+  "The hero is more human than most
+of his brethren and may select one
+Human Perk. He must meet any
+Prereqs as normal."}
+ {:name "Awakened to the Way"
+  :Cosm "Tharkold"
+  :type "THE RACE"
+  :Prereq "Psionic and Hardened Mind."
+  :description
+  "The Race has developed a secret
+tradition for expanding the breadth of
+their psionic knowledge. The Awakened
+learns three new psionic powers."}
+ {:name "Born in the Pens"
+  :Cosm "Tharkold"
+  :type "THE RACE"
+  :Prereq "Cannot have the Raised
+Free Perk."
+  :description
+  "The Storm Knight was
+born in the slave pens but
+managed to escape her
+chains of servitude.
+If the hero is restrained,
+tests to break free are Up.
+Additionally, tests to free
+an ally are Favored."}
+ {:name "Eternal War"
+  :Cosm "Tharkold"
+  :type "THE RACE"
+  :Prereq "Beta Clearance"
+  :description
+  "The hero has battled technodemons multiple
+times and survived. The warrior’s successful attacks
+against demons (including Tharkoldu and those
+from the Cyberpapacy) gain +1BD damage."}
+ {:name "Hardened Mind"
+  :Cosm "Tharkold"
+  :type "THE RACE"
+  :Prereq "Psionic and access to The Way psionic
+power list."
+  :description
+  "Those who follow the Way know that manifesting
+psionic powers can be dangerous, and so they
+developed a method to resist backlash when failing
+to manifest powers.
+The psi takes 1 less Shock when he fails to manifest
+a psionic power. This ability stacks with
+any other similar ability."}
+ {:name "Master of the Way"
+  :Cosm "Tharkold"
+  :type "THE RACE"
+  :Prereq "Beta Clearance and
+Awakened to the Way"
+  :description
+  "Those who reach the
+pinnacle of psionic
+knowledge of the Way
+sometimes manifest a
+hitherto unknown power. The
+Master may select a psionic power from
+any list, even those which would be
+contradictory. This power is treated
+as if it were part of the The Way list."}
+ {:name "Raised Free"
+  :Cosm "Tharkold"
+  :type "THE RACE"
+  :Prereq "Cannot have the
+Born in the Pens Perk."
+  :description
+  "Those who are raised
+among the Free are
+taught, early and often, the
+benefits of cooperating with
+fellow members of the Race
+when fighting the Tharkoldu.
+   When assisting a Combined Action, The hero’s
+Extra Effort attempts are Up. When leading
+a Combined Action, the effective number of
+participants is doubled."}
+ {:name "Intimidating Presence"
+  :Cosm "*Tharkold"
+  :type "SOCIAL"
+  :Prereq "Tharkold and at least 3 adds in
+intimidation."
+  :description
+  "Threats come easy to the character. When
+Intimidation is an Approved Action she may use
+intimidation as a defense against any attack or
+interaction."}
+ {:name "Freedom Adept"
+  :Cosm "Any"
+  :type "SPELLCRAFT"
+  :Prereq "The Race and access to the Tharkold -
+Acolyte Magic spell list. May not have access
+to any other spell list."
+  :description
+  "Though uncommon, there are certain factions of
+the Free who still observe the old traditions. These
+Adepts use some of the old magic of their people,
+re-purposed magic from the Tharkoldu, and new
+magic from the worlds they’ve managed to assist
+in fighting the technodemons back.
+A Storm Knight who takes this Perk gains
+access to the Freedom Magic spell list and learns
+three new spells.
+   Additionally, the adept ignores the first
+spellcasting Mishap in a scene with regards to
+attracting the attention of a technodemon."}
+ {:name "Demon Scholar"
+  :Cosm "Any"
+  :type "SPELLCRAFT"
+  :Prereq "Spellcaster, access to the Tharkold —
+Acolyte spell list (see page 35), and cannot have
+access to any other spell list."
+  :description
+  "The Tharkoldu mastered powerful magic over the
+eons since they were brought into existence. They
+developed spells that have horrifying effects on
+both friend and foe. Due to their laziness and the
+decline in the Magic Axiom of Tharkold, most of
+these spells have been lost. There are still those who
+are dedicated to keeping these traditions alive and
+using these powerful dark spells.
+   The character is one of the few Demon Scholars—
+those who have kept the dark magical traditions of
+the Tharkoldu alive. She gains access to the Demon
+Magic spell list on page 35 and selects three spells.
+Additionally, spells in the Demon Magic list that
+would be Four Case contradictions are treated as
+One Case contradictions instead."}
+ {:name "Painful Spell"
+  :Cosm "*Tharkold"
+  :type "SPELLCRAFT"
+  :Prereq "Tharkold, Spellcaster, at least 3 adds in
+alteration, apportation, conjuration, or divination."
+  :description
+  "The acolyte has spent extensive time studying the
+world laws of Tharkold and how they can shape the
+very nature of everything in the cosm, especially
+magic. The acolyte has deciphered a way to use
+this to her advantage by inflicting slight harm upon
+herself in order to give her magic more power.
+As part of casting the spell, the spellcaster inflicts 2
+points of Shock on herself, that cannot be prevented
+or Soaked, and the spellcasting test is Favored."}]
