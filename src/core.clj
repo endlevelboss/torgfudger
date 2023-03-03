@@ -198,11 +198,23 @@
        (json/write-str)
        (spit "creaturetest.json"))
 
-  (->> (slurp "core-miracles.edn")
+  (->> (slurp "magic.edn")
        (edn/read-string)
-       (spells-to-edn "Core miracles" "Miracle")
+       (spells-to-edn "Magic spells" "Magic")
        (json/write-str)
-       (spit "fudgerimport/core-miracles.json"))
+       (spit "fudgerimport/magic.json"))
+  
+  (->> (slurp "miracles.edn")
+       (edn/read-string)
+       (spells-to-edn "Miracles" "Miracle")
+       (json/write-str)
+       (spit "fudgerimport/miracles.json"))
+  
+  (->> (slurp "psionics.edn")
+       (edn/read-string)
+       (spells-to-edn "Psionics" "Psionics")
+       (json/write-str)
+       (spit "fudgerimport/psionics.json"))
 
   (->> (slurp "perks.edn")
        (edn/read-string)

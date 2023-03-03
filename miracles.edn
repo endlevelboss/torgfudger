@@ -1,0 +1,2865 @@
+[{:name "Banish"
+  "Axiom Level" 9
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN " Target’s willpower or Spirit"
+  :Range " 5-meter radius"
+  :Duration "Instant"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone, Exemplars of Light, Exemplars of Darkness, Cyberchurch, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Mysterians, Theomagicians, God's Champion, Sacellum Chaplain"
+  :Source "TE 199"
+  :description
+  " Banish repels spirits ghosts or other ethereal
+beings back to whatever nether realm they came
+from. The invoker should not linger in such haunted
+places however for even banished spirits can return!
+Compare the invoker’s faith total to the willpower
+or Spirit of every such entity within five meters
+of the caster. Creatures affected fade into nothing
+for 15 minutes.
+Success Levels:
+• Good: Affected entities are banished for one
+hour.
+• Outstanding: Affected entities are banished
+for one day."}
+
+
+ {:name "Bless"
+  "Axiom Level" 9
+  :Skill " Faith 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "5-meter radius"
+  :Duration "3 rounds"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone,
+          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
+          Keta Kalles Optant, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, God's Champion, Sacellum Chaplain, Palanism"
+  :Source "TE 199"
+  :description "Bless surrounds and infuses the caster and his
+allies with spiritual energy that boosts their physical
+or mental abilities. The priest chooses any one
+attribute and calls on his deity to enhance it. “May
+the Lord give us the might of Daniel in the Lion’s
+Den!“ increases Strength for example. Or “May
+Vishnu grant you clarity!“ might enhance Mind.
+If successful every ally in range adds +1 to that
+attribute. Increasing Strength or Spirit does not
+increase the derived statistics of Toughness and
+Shock however.
+Success Levels:
+• Good: Duration increases to 1 minute.
+• Outstanding: As Good and the attribute
+increases by +2."}
+
+
+ {:name "Bounty"
+  "Axiom Level" 10
+  :Skill "Faith 12"
+  "Casting Time" "3 Minutes"
+  :DN "Easy (DN 8)"
+  :Range "10 meters"
+  :Duration "Permanent"
+  :Lists "Christianity Prince of Peace,
+          Exemplars of Light, Cyberchurch,
+          Keta Kalles Optant, Amaatism, Sacellum, Neo Shaman, Mysterians, Theomagicians"
+  :Source "TE 200"
+  :description "Bounty multiplies a single meal of food and water
+so that more may partake. The food also becomes
+more succulent and nutritious. A Standard success
+doubles the available food.
+Invoking the bounty requires a prayer of about
+three minutes. Additional success increases the
+amount of food as shown below. Once the miracle
+is invoked the caster cannot invoke it again until
+that food is consumed.
+A caster with bounty virtually ensures survival
+tests for food and water but doesn’t help with
+shelter if that’s a concern.
+Success Levels:
+• Good: ×3 the available food.
+• Outstanding: ×5 the available food."}
+
+
+ {:name "Call Animals"
+  "Axiom Level" 8
+  :Skill "Faith 12"
+  "Casting Time" "1 minute"
+  :DN " Standard (DN 10)"
+  :Range "1 kilometer"
+  :Duration "1 hour"
+  :Lists "Exemplars of Light, Exemplars of Darkness,
+          Keta Kalles Optant, Amaatism, Neo Shaman, Yonders, Mysterians"
+  :Source "TE 200"
+  :description "The blessed of many religions find comfort in
+nature’s beasts. This miracle draws them from the
+area if they exist there (GM’s call) . Once completed
+the creatures arrive on the invoker’s next turn.
+Calling such creatures doesn’t mean control,
+however. That must be done via commune with
+animals (below) . Those who want to run with the
+beasts must take care that they are not eaten by them.
+A Standard success summons a flock of sparrows,
+a few foxes or cats etc. or a single large creature
+such as a wolf bear or crocodile. The miracle
+worker doesn’t have to see the animals to call them.
+Success Levels:
+• Good: The caster can summon one bonus die
+of crocodiles wolves lions or similar size
+creatures.
+• Outstanding: The caster can summon two
+bonus dice of the creatures listed under a
+Good success or a single Large or Very Large
+creature such as a dragon or tyrannosaurus
+rex (in the Living Land) . Remember call
+animals doesn’t grant control however!"}
+
+
+ {:name "Commune with Animals"
+  "Axiom Level" 6
+  :Skill " Faith 10"
+  "Casting Time" " 1 action"
+  :DN "Standard (DN 10)"
+  :Range "10 meters"
+  :Duration "5 minutes"
+  :Lists "Exemplars of Light, Exemplars of Darkness,
+          Keta Kalles Optant, Amaatism, Neo Shaman, Yonders, Mysterians"
+  :Source "TE 200"
+  :description "Speaking with beasts is a rare but ancient tradition
+in certain cultures. Most animals are very simpleminded and can only communicate basic ideas.
+Most can only count to about three and cannot
+understand human speech. They can communicate
+whether people they encountered spoke happily,
+calmly angrily etc. however.
+The miracle affects all animals of the same type
+in Range all wolves all ravens etc. Commune with
+animals doesn’t summon the beasts however. They
+must be present or attracted somehow such as by
+the call animals miracle.
+Success Levels:
+• Good: The animal also obeys basic commands
+if instructed as long as it doesn’t recklessly
+endanger its life.
+• Outstanding: The animal obeys basic
+commands even if it means danger or certain
+death."}
+
+
+ {:name "Commune with Spirits"
+  "Axiom Level" 5
+  :Skill " Faith 10"
+  "Casting Time" " 1 minute"
+  :DN "Challenging (DN 12)"
+  :Range "5 meters"
+  :Duration "5 minutes"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone,
+          Exemplars of Light, Exemplars of Darkness, Cyberchurch, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, Palanism"
+  :Source "TE 200"
+  :description "This miracle allows the invoker to talk to whatever
+spirits are appropriate to his mythos. A Christian
+might speak to the restless shades while a Sioux
+shaman communes with nature spirits.
+Invoking the dialogue assumes the character is
+in a place where the spirit should be present—a
+church for saints a stream for water spirits a great 
+tree for a nature spirit etc. If not and the mythos
+allows communication with the spirits outside their
+usual domain the caster suffers a −4 penalty. The
+Game Master may also decide it’s just not possible
+in certain situations—there are likely no earth
+spirits aboard an airplane for example.
+Spirits know different things depending on
+the type and see things from their perspective.
+They are not omniscient and generally only have
+knowledge of subjects directly connected to their
+former life for the dead or their local area for animal
+spirits and the like. Unlike the speak with dead spell,
+this miracle compels the spirit to tell only truth—
+though it may be vague or difficult to understand
+as the Game Master sees fit.
+The chosen may ask a single question with a
+Standard success. Once contacted spirits are
+unavailable again for a scene.
+Success Levels:
+• Good: Two questions.
+• Outstanding: Three questions."}
+
+
+
+ {:name "Cure Disease"
+  "Axiom Level" 10
+  :Skill "Faith 14"
+  "Casting Time" "1 minute"
+  :DN " Easy (DN 8)"
+  :Range "Touch"
+  :Duration "Instant"
+  :Lists "Christianity Prince of Peace,
+          Exemplars of Light, Cyberchurch,
+          Keta Kalles Optant, Amaatism, Sacellum, Los Asangrados, Neo Shaman, Yonders, Mysterians, Theomagicians"
+  :Source "TE 201"
+  :description "Cure disease eradicates any sort of malignant
+condition infection or malady. This doesn’t heal
+the victim of any damage she’s already sustained,
+it simply removes the disease or illness and stops
+any future symptoms.
+A character may only attempt to cure disease once
+for each particular malady per person. The same
+person may attempt to cure a new disease on the
+same patient should he contract one.
+A Standard success cures common ailments like
+colds. Additional successes are required for more
+advanced diseases.
+Success Levels:
+• Good: Flu pneumonia most infections
+caused by non-supernatural creatures.
+• Outstanding: AIDS cancer or infections
+caused by supernatural creatures."}
+
+
+
+
+ {:name "Curse"
+  "Axiom Level" 9
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "Target’s faith or Spirit"
+  :Range "25 meters"
+  :Duration "3 rounds"
+  :Lists "Christianity Fire and Brimstone,
+          Exemplars of Light, Exemplars of Darkness, Cyberchurch, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Theomagicians, Sacellum Chaplain"
+  :Source "TE 201"
+  :description "Curse diminishes a foe’s luck challenging his
+faith in the very forces that drive him whether they
+be religious personal or otherwise.
+A cursed individual suffers a −1 penalty to all
+skill or attribute totals. Powerful casters can MultiTarget to affect large numbers of the faithless.
+Success Levels:
+• Good: −2 penalty.
+• Outstanding: –3 penalty."}
+
+ {:name "Healing"
+  "Axiom Level" 10
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "Instant"
+  :Lists "Christianity Prince of Peace,
+          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
+          Keta Kalles Optant, Amaatism, Sacellum, Los Asangrados, Neo Shaman, Yonders, Mysterians, Theomagicians"
+  :Source "TE 201"
+  :description "Perhaps the most important ability a chosen one
+brings to a band of Storm Knights is her ability to
+heal. Whether she’s patching up her teammate’s
+wounds or winning over injured villagers healing
+is a critical skill.
+The invoker’s total is modified by the target’s
+Wound penalties (as well as the caster’s if he
+happens to be wounded) . A success heals 1 Wound,
+all Shock and removes KO.
+Healing may only be attempted on a single
+individual once per scene—choose wisely! If Maru
+is injured in a fight and healed by Father Damien,
+he won’t be able to heal her again until the next
+scene. He could still use first aid on her and may
+use healing on his other comrades.
+Success Levels:
+• Good: 2 Wounds are healed.
+• Outstanding: 3 Wounds are healed."}
+
+ {:name "Hellfire"
+  "Axiom Level" 16
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Target’s dodge or Dexterity"
+  :Range "5 meters"
+  :Duration "Instant"
+  :Lists "Christianity Fire and Brimstone, Exemplars of Darkness, Cyberchurch, Sacellum, Theomagicians, Sacellum Chaplain"
+  :Source "TE 201"
+  :description "Hellfire projects a gout of flame from the invoker’s
+outstretched palm. The flames deal 13 fire damage.
+Success Levels:
+• Good: Damage +1 BD.
+• Outstanding: Damage +2 BD."}
+ {:name "Lightning Strike"
+  "Axiom Level" 16
+  :Skill "Faith 14"
+  "Casting Time" "See below"
+  :DN "Target’s dodge or Dexterity"
+  :Range "100 meters"
+  :Duration "Instant"
+  :Lists "Exemplars of Light, Cyberchurch, Amaatism, Neo Shaman, Yonders, Mysterians, Theomagicians"
+  :Source "TE 202"
+  :description "Lightning strike is a rare display of divine wrath.
+To invoke it the blessed individual spends one
+entire turn doing nothing but castigating a single
+foe. The caller must be able to see his foe when the
+miracle begins and may only take simple actions
+during this turn.
+While the lightning builds tendrils of holy
+power storm clouds and arcs of electricity gather
+around the invoker. If he is injured during this
+time he must make a willpower or Spirit test see
+Concentration 197 .
+On his next turn he may use an action to complete
+the invocation and make his faith test. If successful,
+the target is struck by a bolt of lightning that causes
+20 damage AP 4 .
+There is no penalty for range cover or darkness.
+Perks and other spells miracles powers or
+supernatural abilities apply normally.
+Lightning strike may only be used once per scene—
+such forces do not lend their attention lightly!
+Success Levels:
+• Good: Damage +1 BD.
+• Outstanding: Damage +2 BD."}
+
+ {:name "Repel"
+  "Axiom Level" 10
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "5 meters"
+  :Duration "Instant"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone,
+          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
+          Keta Kalles Optant, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Mysterians, Theomagicians, Sacellum Chaplain"
+  :Source "TE 202"
+  :description "Sometimes a holy champion simply needs to clear
+a path through his foes or humble a nonbeliever
+with a visible display of otherworldly might.
+Repel summons an invisible force radiating out
+from the caster in a circle that pushes away all hostile
+characters and creatures (allies are unaffected) .
+The force has Strength equal to the invoker’s
+faith and affects those enemies of equal or lesser
+Strength. Those affected are pushed back five
+meters and Stymied.
+Success Levels:
+• Good: The effective Strength is equal to faith +2 .
+• Outstanding: As a Good result and the foes
+are Very Stymied."}
+
+
+
+
+ {:name "Soothe"
+  "Axiom Level" 7
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "5 meters"
+  :Duration "Instant"
+  :Lists "Christianity Prince of Peace,
+          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
+          Keta Kalles Optant, Amaatism, Los Asangrados, Neo Shaman, Yonders, Mysterians, Theomagicians, Palanism"
+  :Source "TE 203"
+  :description " Soothe sends out a refreshing wave of energy
+to the invoker and allies in range. Those affected
+instantly recover 2 Shock.
+Success Levels:
+• Good: The affected recover 3 Shock.
+• Outstanding: The affected recover 4 Shock."}
+ {:name "Strike"
+  "Axiom Level" 12
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "3 rounds"
+  :Lists "Christianity Fire and Brimstone, Exemplars of Light, Exemplars of Darkness, Cyberchurch,
+          Keta Kalles Optant, Amaatism, Sacellum, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, Palanism"
+  :Source "TE 203"
+  :description "Sometimes even the most peaceful of the chosen
+must pick up the staff. This powerful miracle makes
+sure that staff packs a punch. Strike affects a single
+weapon no Multi-Targeting is allowed.
+Strike increases the damage value of a weapon
+by +1 . It doesn’t matter if the weapon is ranged
+or designed for melee — its base damage is
+still increased. Strike must be cast on a weapon,
+not ammunition.
+A weapon blessed with strike counts as
+magical for purposes of affecting foes with the
+Ethereal or similar abilities that generally ignore
+normal weapons.
+Success Levels:
+• Good: Damage +2 .
+• Outstanding: Damage +3 ."}
+
+ {:name "Ward Enemy"
+  "Axiom Level" 8
+  :Skill "Faith 8"
+  " Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "5 meter radius"
+  :Duration " Concentration"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone,
+          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
+          Keta Kalles Optant, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, God's Champion, Palanism"
+  :Source "TE 203"
+  :description "Ward enemy protects the faithful from supernatural
+beings that prey on or seek to harm humanity.
+To cast the invoker must brandish a holy symbol,
+recite prayers or otherwise clearly call on the source
+of his power making him an obvious target for the
+taunts of spirits demons or other antagonists likely
+to be affected.
+While the ward is active all allies within five meters
+add +1 to their defenses versus supernaturally
+evil creatures and their attacks. The bonus counts
+toward both physical and interaction defenses.
+Special: This miracle may be attempted without
+the Miracles Perk if the faith prerequisite is met.
+Success Levels:
+• Good: Those protected add +2 to all defenses.
+• Outstanding: As the Good result and
+supernaturally evil creatures who fail an
+attack against any of the protected individuals
+are Stymied."}
+ {:name "Wither"
+  "Axiom Level" 16
+  :Skill "Faith 14"
+  "Casting Time" "1 action"
+  :DN "Target’s faith or Spirit"
+  :Range "5 meters"
+  :Duration "Instant"
+  :Lists "Exemplars of Darkness, Amaatism, Rec Stalek Gotak, Yonders"
+  :Source "TE 203"
+  :description "This dark miracle drains the life force of any
+living thing it touches.
+With a successful faith roll the invocation causes
+12 damage that ignores all physical armor. Wither
+works only on living things—it has no effect on
+objects constructs undead etc.
+Success Levels:
+• Good: Damage +1 BD.
+• Outstanding: Damage +2 BD."}
+ 
+ 
+ {:name "Ash Cloud"
+  "Axiom Level" 14
+  :Skill "Faith 12"
+  "Casting Time" "1 action"
+  :DN "Very Hard (DN 16)"
+  :Range "50-meter radius around the invoker"
+  :Duration "1 minute"
+  :Lists "Rec Stalek Gotak"
+  :Source "LL 20"
+  :description
+  "After the supplicant’s heartfelt prayers are
+answered, the ground rends open and hot ash
+billows into the air. The cloud spreads out from
+the invoker’s position, but doesn’t move if he does.
+Everyone inside the effect suffers 1 Shock each
+round for the duration unless they don’t need to
+breathe or have special protection. A filter mask or
+a cloth soaked in water can keep the ash at bay.
+Most heroes can fashion something appropriate
+with an action and a survival test. The thick cloud
+creates a −4 Darkness penalty for all attacks against
+targets within it.
+Success Levels:
+• Good: The invoker no longer suffers Shock
+each round from the cloud.
+• Outstanding: As a Good result, and the
+invoker doesn’t suffer the cloud’s Darkness
+penalty to attacks."}
+{:name "Blind"
+ "Axiom Level" 12
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "100 meters"
+ :Duration "3 rounds"
+ :Lists "Neo Shaman"
+ :Source "LL 21"
+ :description
+ "This miracle robs the target of the ability to
+experience the wonders of life by shrouding his
+eyes in shades of unrelenting gray. On a success
+the target suffers the −2 penalty for Dim lighting on
+find tests and ranged attacks. The penalty applies
+even to targets who can normally see in the dark
+and ignore such modifiers.
+Success Levels:
+• Good: The Darkness penalty increases to −4.
+• Outstanding: The Darkness penalty increases
+to the maximum –6."}
+{:name "Bloodlust"
+ "Axiom Level" 12
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "25 meters"
+ :Duration "One minute"
+ :Lists "Los Asangrados"
+ :Source "LL 21"
+ :description
+ "The miracle worker anoints herself with blood
+and calls for wrath to stir the hearts of the faithful.
+Affected living creatures gain +1BD to melee
+attacks, but are Very Vulnerable each round during
+the duration.
+Success Levels:
+• Good: Each affected target is only Vulnerable
+for the duration.
+• Outstanding: Affected targets aren’t more
+Vulnerable while under the influence of
+bloodlust."}
+{:name "Bone Blades"
+ "Axiom Level" 14
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "50 meters"
+ :Duration "3 rounds"
+ :Lists "Los Asangrados, Rec Stalek Gotak"
+ :Source "LL 21"
+ :description
+ "Sharp and spiky spurs grow from the target’s very
+bones. The target must have a skeleton, otherwise
+this miracle automatically fails. The process and
+effect is excruciating, dealing 2 Shock to the target
+each round. The spikes make a nasty weapon,
+however, allowing the target to deal Strength +2
+damage as a Bite/Claws attack and granting a +2
+bonus to defenses against Grapples.
+Gotaks of Rec Stalek often employ bone blades
+on their creations since the drawbacks don’t harm
+most undead.
+Success Levels:
+• Good: Strength +3 Bite/Claw damage and +3
+bonus to defenses against Grapples.
+• Outstanding: As a Good result and the
+duration increases to one minute."}
+{:name "Breathe Fire"
+ "Axiom Level" 14
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "25 meters"
+ :Duration "Instant"
+ :Lists "Keta Kalles Gotak"
+ :Source "LL 22"
+ :description
+ "Gouts of divine flame pour from the believer’s
+mouth, burning away sin and everything else! The
+flames deal 16 damage to a Medium Blast, which
+means adjacent allies and even the invoker herself
+may be affected. The damage applies to each
+target’s lowest Armor value, unless protected by
+full coverage.
+Success Levels:
+• Good: +1BD damage.
+• Outstanding: +2BD damage and the invoker
+may choose to miss specific targets who would
+normally be affected by the blast—including
+herself."}
+{:name "Conjure Poison"
+ "Axiom Level" 12
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10) or Target’s dodge or Dexterity"
+ :Range "Touch"
+ :Duration "1 minute"
+ :Lists "Los Asangrados"
+ :Source "LL 22"
+ :description
+ "Some deities bask in toxins and venom, and pass
+those gifts on to their faithful. This miracle may
+coat a weapon with dangerous poison, or be aimed
+at a foe to directly poison him. The base effect of
+the poison is to make the target Very Stymied, and
+it stops affecting any hit target immediately when
+the miracle’s duration ends.
+Success Levels:
+• Good: The poison also deals 1 Shock each
+round it affects a target.
+• Outstanding: The poison also deals 2 Shock
+each round it affects a target."}
+{:name "Cure Poison"
+ "Axiom Level" 12
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists "Keta Kalles Optant, Los Asangrados, Neo Shaman"
+ :Source "LL 22"
+ :description
+ "Cure poison is a particularly popular and useful
+miracle in the Living Land, since the infinite
+variety of the life found there sports an equally
+varied number of lethal venoms. Several poisonous
+dinosaurs have been discovered, multitudes of
+toxic plants (some carnivorous) have been found,
+and even a number of mammals are venomous.
+This miracle quickly flushes any toxins out of the
+target’s system. On a success the target makes a
+Strength test as if the full minute of the poison’s
+effects had expired. Any of the toxin’s modifiers for
+the test remain in place. If the test fails, the poison
+continues to affect the target normally.
+Success Levels:
+• Good: The poison ends its duration
+immediately without requiring a Strength test
+from the target. Conditions caused by the
+poison linger normally.
+• Outstanding: The poison ends its duration
+immediately without requiring a Strength test
+from the target and any conditions caused
+by the poison are removed. This includes
+conditions like Stymied and Vulnerable, but
+also the KO’ed condition."}
+{:name "Earthquake"
+ "Axiom Level" 20
+ :Skill "Faith 16"
+ "Casting Time" "10 minutes"
+ :DN "Heroic (DN 18)"
+ :Range "500 meters"
+ :Duration "1 minute"
+ :Lists "Keta Kalles Gotak, Rec Stalek Gotak"
+ :Source "LL 22"
+ :description
+ "The fury of the earth can be terrifying to behold
+when unleashed. This miracle forces the ground to
+shake, quiver, and tear itself apart. Everyone within
+a Large Blast suffers 15 damage +1BD each round
+they remain within the affected area. Objects fixed
+to the ground (such as buildings) suffer 30 damage
++2BD each round instead.
+Success Levels:
+• Good: The area of effect increases to affect
+everything within 100 meters of the targeted
+epicenter.
+• Outstanding: The area of effect increases
+to affect everything within 500 meters of the
+targeted epicenter."}
+{:name "Flame Aura"
+ "Axiom Level" 14
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Hard (DN 14)"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists "Neo Shaman"
+ :Source "LL 23"
+ :description
+ "A corona of bright
+flames surrounds the
+invoker and wards off
+foes. Once successfully
+activated all attacks against
+the character suffer a −2
+penalty. In addition, anyone
+who grapples or hits the
+character with an unarmed
+attack suffers 14 damage.
+Likewise the invoker’s own
+unarmed attacks deal at least 14
+damage thanks to the writhing
+flames.
+Success Levels:
+• Good: The duration increases to one
+minute.
+• Outstanding: As a Good result the
+flames grow stronger, increasing the
+damage they deal to 16."}
+{:name "Grasping Vines"
+ "Axiom Level" 14
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "25 meters"
+ :Duration "3 rounds"
+ :Lists "Keta Kalles Optant, Keta Kalles Gotak"
+ :Source "LL 23"
+ :description
+ "Vegetation in the area squirms to life and wraps
+around limbs or forms a net. The vines attack all
+targets within a Large Blast, and anyone affected
+may not run for the duration. If this miracle is cast
+during a chase, targets who can’t run may not test
+to gain Steps.
+Special: Within the Living Land, this miracle may
+be attempted without the Miracles Perk by jakatts
+so long as the faith prerequisite is met.
+Success Levels:
+• Good: Affected targets may not move at all
+for the duration.
+• Outstanding: As a Good result, plus targets
+are Very Stymied."}
+{:name "Hunter's Ear"
+ "Axiom Level" 10
+ :Skill "Faith 8"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "1 hour"
+ :Lists "Keta Kalles Optant, Keta Kalles Gotak, Neo Shaman"
+ :Source "LL 23"
+ :description
+ "This miracle invokes
+Lanala’s awareness and protection.
+For the duration, tracking becomes a
+Favored skill and the invoker doesn’t
+count as Surprised (see Torg Eternity)
+during any ambush.
+Success Levels:
+• Good: The duration increases to
+12 hours.
+• Outstanding:
+The
+duration
+increases to one day."}
+{:name "Invoke Lanala"
+ "Axiom Level" 24
+ :Skill "Faith 16"
+ "Casting Time" "1 minute"
+ :DN "Near Impossible (DN 20)"
+ :Range "See below"
+ :Duration "See below"
+ :Lists "Keta Kalles Optant, Keta Kalles Gotak"
+ :Source "LL 23"
+ :description
+ "One of the most potent miracles
+known to exist in the Living Land,
+invocation directly petitions Lanala
+for divine intervention. The
+miracle worker utters profound prayers and opens
+both hands toward the sky.
+If the test succeeds an Avatar of Lanala (page 80)
+appears on the scene and may grant a boon to the
+petitioner. Her powers are vast, but her mood is
+unpredictable. She might summon a huge storm or
+earthquake, transport the entire group to a distant
+location, or disconnect any “dead things“ within
+her sight. Any request inappropriate to her nature
+(for example, asking her to create an undead being)
+causes the miracle to fail.
+Lanala acts as she sees fit, battling abominations
+or judging those who have abused power in
+her name—including the Storm Knights. She
+wanders away after 30 seconds (three rounds)
+unless something in the area keeps her attention.
+Summoning Lanala too often (usually more than
+once per game year, GM’s call) or for purposes that
+anger her draw her direct wrath.
+Special: Within the Living Land, this miracle may
+be attempted without the Miracles Perk by jakatts
+if the faith prerequisite is met.
+Success Levels:
+• Good: The invoker isn’t affected by Lanala’s
+Awe special ability.
+• Outstanding: The invoker isn’t affected by
+Lanala’s Awe special ability. Lanala acts to
+grant a request within her nature and power,
+regardless of her mood."}
+{:name "Kill"
+ "Axiom Level" 14
+ :Skill "Faith 16"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "50 meters"
+ :Duration "Instant"
+ :Lists "Keta Kalles Gotak, Los Asangrados, Rec Stalek Gotak"
+ :Source "LL 24"
+ :description
+ "This dark miracle invokes the corrupting touch of
+Rec Stalek, bringing death where once there was
+life. When cast, the miracle causes flesh to decay
+into black, disgusting slime.
+The miracle inflicts 10 damage against living
+targets, and ignores Armor. The miracle has no
+effect at all against objects or unliving targets.
+Success Levels:
+• Good: +1BD damage, and the target becomes
+Vulnerable.
+• Outstanding: +2BD damage, and the target
+becomes Very Vulnerable."}
+{:name "Mend Corpse"
+ "Axiom Level" 12
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "50 meters"
+ :Duration "Instant"
+ :Lists "Keta Kalles Gotak, Rec Stalek Gotak"
+ :Source "LL 24"
+ :description
+ "Mend corpse stitches together rotting flesh and
+shattered bones, but it only works on a subject that’s
+already dead—or undead. It’s extremely useful
+for keeping Gospog and other undead creatures
+functional and fighting. Successfully invoking this
+miracle heals one Wound for such a creature, or
+restores a KO’ed corpse where it fell, though it still
+has any Wounds it suffered.
+Success Levels:
+• Good: Restores two Wounds, or two different
+fallen undead within range.
+• Outstanding: Restores three Wounds, or
+three different fallen undead within range."}
+{:name "Preserve"
+ "Axiom Level" 12
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Touch"
+ :Duration "1 day"
+ :Lists "Los Asangrados, Rec Stalek Gotak"
+ :Source "LL 24"
+ :description
+ "This miracle halts the decay of dead flesh on a
+single human-sized body. The most common use
+is to protect corpses until proper funerary customs
+can be observed, otherwise difficult in a land where
+a corpse decays to bare bones in less than a day.
+It’s also useful for preserving food which might
+otherwise spoil or rot too quickly.
+Success Levels:
+• Good: The duration extends one week.
+• Outstanding: The duration extends to one
+month."}
+{:name "Regenerate"
+ "Axiom Level" 16
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Very Hard (DN 16)"
+ :Range "Touch"
+ :Duration "3 rounds"
+ :Lists "Los Asangrados"
+ :Source "LL 24"
+ :description
+ "The miracle worker utters a prayer for mercy
+and touches the subject. The subject heals one
+Wound each round, until he has only one Wound.
+Regenerate can’t heal that last Wound, but the
+subject recovers one Shock each round for the rest
+of the duration when there isn’t a Wound it can
+affect.
+Success Levels:
+• Good: The duration increases to one minute.
+• Outstanding: The recovers two Shock each
+round if there’s no Wound to heal."}
+{:name "Resurrect"
+ "Axiom Level" 18
+ :Skill "Faith 16"
+ "Casting Time" "10 minutes"
+ :DN "Near Impossible (DN 20)"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists "Keta Kalles Optant, Rec Stalek Gotak"
+ :Source "LL 25"
+ :description
+ "The invoker petitions her deity to return the
+recently deceased back to life. The invoker
+must have a mostly intact corpse which may
+not have been dead for more than three days.
+If successful the target returns to life KO’ed, at
+his maximum Wounds, and with a permanent
+injury from Defeat (see Torg Eternity).
+Success Levels:
+• Good: The subject isn’t KO’ed and only has a
+temporary injury, eliminated once any Wounds
+heal.
+• Outstanding: The subject is returned to
+perfect health."}
+{:name "Ride Beast"
+ "Axiom Level" 10
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit plus any Size
+Modifier"
+ :Range "Touch"
+ :Duration "3 rounds"
+ :Lists "Keta Kalles Optant, Neo Shaman"
+ :Source "LL 25"
+ :description
+ "The invoker must calmly approach a beast and pray
+for acceptance. The DN is the creature’s willpower
+or Spirit. Larger animals are more difficult to affect
+so any Size modifier is added to the DN instead of
+the attack. If the invocation succeeds, the creature
+accepts the caster as a rider for the duration and
+obeys commands to move or attack. It only obeys
+so long as the rider is mounted, however. If the
+beast suffers any damage the duration ends. Range: Touch
+Duration: Permanent
+This miracle is known to most jakatts in the Living
+Land. Shape plant induces flora (living or dead) to
+bend, twist, or weave together to create various
+simple items. The ubiquitous hrockt plant is the
+most common subject of this miracle: light, fast-
+growing, and sturdy enough to retain a sharp point
+after the shaping has done its work.
+Success Levels:
+• Good: The duration increases to one minute.
+• Outstanding: The duration increases to a full
+scene."}
+{:name "Sculpt Bone"
+ "Axiom Level" 14
+ :Skill "Faith 12"
+ "Casting Time" "1 minute"
+ :DN "Easy (DN 8) or the Value of the item"
+ :Range "Touch"
+ :Duration "Permanent"
+ :Lists "Rec Stalek Gotak"
+ :Source "LL 26"
+ :description
+ "This miracle’s power allows the caster to shape
+dead bones as if they were made of clay, a process
+known as boneforging.
+The miracle worker may create weapons, armor,
+or other items from the bones of the dead, assuming
+there’s enough bone available to create the item—
+GM’s call. A single average-size skeleton has
+enough bone to create three clubs or two spears.
+Armor requires two skeletons or larger dinosaur
+bones.
+The DN is 8 for a simple object the invoker can
+hold in his hands. More complex objects are crafted
+using the item’s Value as the DN, with a minimum
+DN of 8. For example, creating a boneforged spear
+is DN 10.
+Success Levels:
+• Good: Up to two matching items are created,
+if there’s enough bone for each.
+• Outstanding: Up to three matching items are
+created, if enough bone is present for all three."}
+{:name "Shape Plant"
+ "Axiom Level" 14
+ :Skill "Faith 8"
+ "Casting Time" "1 minute"
+ :DN "Easy (DN 8) or the Value of the item"
+ :Range "Touch"
+ :Duration "Permanent"
+ :Lists "Keta Kalles Optant"
+ :Source "LL 26"
+ :description
+ "This miracle is known to most jakatts in the Living
+Land. Shape plant induces flora (living or dead) to
+bend, twist, or weave together to create various
+simple items. The ubiquitous hrockt plant is the
+most common subject of this miracle: light, fast-
+growing, and sturdy enough to retain a sharp point
+after the shaping has done its work.
+The invoker may create weapons, armor, or other
+items from nearby vegetation, assuming there’s
+enough plant matter available to create the item—
+GM’s call. This miracle affects only stationary and
+non-sentient plants. It doesn’t affect carnivorous
+plants or Living Land gospog.
+The DN is 8 for a simple object the invoker can
+hold in his hands. More complex objects are crafted
+using the item’s Value as the DN, with a minimum
+DN of 8. For example, creating a hrockt-shoot spear
+uses the minimum DN 8, but hrockt-root armor is
+DN 13 to shape.
+Special: Within the Living Land, this miracle may
+be attempted without the Miracles Perk by jakatts
+so long as the faith prerequisite is met.
+Success Levels:
+• Good: Up to two matching items are created,
+if there’s enough material for each.
+• Outstanding: Up to three matching items are
+created, if enough material is present for all
+three."}
+{:name "Touch of Time"
+ "Axiom Level" 12
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists "Keta Kalles Optant, Keta Kalles Gotak"
+ :Source "LL 26"
+ :description
+ "Touch of time invokes the same accelerated rot and
+decay that courses through the Living Land. This
+miracle may only target lifeless objects, but this
+includes undead such as gospog. Once invoked,
+touch of time deals 14 damage to the object, ignoring
+all Armor. An undead creature destroyed by
+damage from this miracle is rendered down to a
+clean pile of bones.
+Success Levels:
+• Good: +1BD damage.
+• Outstanding: +2BD damage."}
+{:name "Uncounted Spears"
+ "Axiom Level" 18
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists "Keta Kalles Optant"
+ :Source "LL 27"
+ :description
+ "This miracle requires two spears. The character
+may throw a single spear per turn, and it is replaced
+by an identical one. If both spears are thrown in
+a turn, the miracle ends and all spears vanish. If
+the duration expires normally, any thrown spears
+vanish, leaving the two originals in the invoker’s
+possession.
+Success Levels:
+• Good: The duration increases to one minute.
+• Outstanding: Spears appear quickly enough
+for the character to Multi-Target and throw up
+to three spears each round."}
+{:name "Unlife"
+ "Axiom Level" 16
+ :Skill "Faith 16"
+ "Casting Time" "1 minute"
+ :DN "Hard (DN 14)"
+ :Range "25 meters"
+ :Duration "Permanent"
+ :Lists "Rec Stalek Gotak"
+ :Source "LL 27"
+ :description
+ "This dark miracle transforms a corpse into a
+shambling undead creature. This miracle requires
+an intact skeleton or body of roughly human size to
+function. When the miracle is complete, the corpse
+is transformed into an undead creature: skeleton
+warriors for humans or edeinos, or skeleraptors for
+most medium-sized animals.
+Success Levels:
+• Good: Two standard-sized creatures are
+created or one large creature is created,
+depending on the corpses available.
+• Outstanding: Four standard-sized creatures
+or one very large creature is created, depending
+on the corpses available."}
+{:name "Ward Flames"
+ "Axiom Level" 12
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "25 meters"
+ :Duration "1 minute"
+ :Lists "Neo Shaman, Christianity Prince of Peace, Christianity Fire and Brimstone"
+ :Source "LL 27"
+ :description
+ "The supplicant beseeches the powers above for
+protection from the harmful effects of heat and fire.
+The invoker picks target within range to affect, and
+may attempt to protect multiple people by taking
+the usual Multi-Targeting penalties. Once activated,
+the target gains +6 Armor against any fire- or heat-
+based attack for the duration, and doesn’t suffer ill
+effects from smoke inhalation.
+Success Levels:
+• Good: The protection increases to +8 Armor
+against fire and heat damage.
+• Outstanding: The protection increases to +10
+Armor against fire and heat damage."}
+ 
+ 
+ 
+
+
+ {:name "Balancing Act"
+  "Axiom Level" 16
+  :Skill "Faith 18"
+  "Casting Time" "1 action"
+  :DN "Heroic (18) but see below"
+  :Range "Self"
+  :Duration "1 scene or until used"
+  :Lists "Yonders"
+  :Source "AY 43"
+  :description
+  "Prerequisite: Beta Clearance
+   The priest gains the effects of one Darkness or
+Light Perk. The miracle ends once the scene ends,
+or a test is attempted using that Perk’s effects. The
+priest can ask for a Perk for which he doesn’t meet
+the prerequisites, but the invocation is at –2 for each
+missing prerequisite. This miracle may not Multi-
+Target. Also if the priest has any Light or Darkness
+Perk (even if inactive), the test is Disfavored.
+If the priest last used this miracle to receive a Light
+Perk, invoking this miracle to receive a Light Perk
+is at –6. If the priest last used this miracle to receive
+a Darkness Perk, invoking this miracle to receive a
+Darkness Perk is at –6.
+This miracle can only be attempted once per scene,
+and a Mishap deals additional Shock equal to the
+total casting penalty.
+Success Levels
+• Good: The test that uses the acquired Perk is
+Favored.
+• Outstanding: As Good and this miracle may
+be attempted again this scene."}
+{:name "Break Curse"
+ "Axiom Level" 16
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Touch"
+ :Duration "1 scene"
+ :Lists "Exemplars of Light, Mysterians, Theomagicians"
+ :Source "AY 44"
+ :description
+ "One curse on a person, location, or item is
+suppressed for the duration.
+Success Levels
+• Good: Duration 1 act
+• Outstanding: The curse is permanently
+removed."}
+{:name "Break Storm"
+ "Axiom Level" 16
+ :Skill "Faith 16"
+ "Casting Time" "1 round"
+ :DN "Hard (14)"
+ :Range "100 meters"
+ :Duration "1 minute"
+ :Lists "Exemplars of Light, Yonders, Theomagicians"
+ :Source "AY 44"
+ :description
+ "Prerequisite: Beta Clearance
+   Natural storm activity within range dissipates.
+The storm may continue to rage in the surrounding
+area, but winds become light, seas become calm,
+and lightning strikes stop within the miracle’s
+range.
+Tests involving spells, miracles, and other effects
+which feature storms or lightning are Disfavored if
+attempted within the miracle’s range.
+Success Levels
+• Good: Duration 1 hour and spells, miracles,
+or other effects involving lightning cannot be
+cast or activated at all.
+• Outstanding: As Good and can even suppress
+a natural or invoked reality storm."}
+{:name "Command Undead"
+ "Axiom Level" 15
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "30 meters"
+ :Duration "Concentration"
+ :Lists "Exemplars of Darkness, Theomagicians"
+ :Source "AY 44"
+ :description
+ "The invoker can issue a command to a Mindless
+undead creature within range, which it will obey
+to the best of its ability. When the command is
+obeyed or rendered impossible, the undead makes
+a willpower or Spirit test. On a success, the miracle
+ends, otherwise the invoker can issue another
+command.
+Success Levels
+• Good: Tests to end this miracle are Hard (DN
+14).
+• Outstanding: As Good, plus the duration
+changes to the rest of the scene. This does not
+prevent the undead from attempting to break
+the miracle."}
+{:name "Doom"
+ "Axiom Level" 13
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s faith or Spirit"
+ :Range "50 meters"
+ :Duration "3 rounds"
+ :Lists "Exemplars of Light, Exemplars of Darkness, Yonders, Theomagicians, Cyberchurch"
+ :Source "AY 44"
+ :description
+ "Prerequisite: Beta Clearance, curse miracle
+   The target is Stymied or Vulnerable for the
+duration.
+Success Levels:
+• Good: The target is Stymied and Vulnerable
+for the duration.
+• Outstanding: As Good and the next test
+the character before the duration ends is
+Disfavored."}
+{:name "Elmiir's Assistance"
+ "Axiom Level" 18
+ :Skill "Faith 18"
+ "Casting Time" "1 action"
+ :DN "Heroic (18)"
+ :Range "Self"
+ :Duration "1 round"
+ :Lists "Mysterians"
+ :Source "AY 44"
+ :description
+ "Prerequisites: Elf, Beta Clearance
+  The invoker may use the faith skill for any one
+test that does not involve a Multi-Target or Multi-
+Action. This miracle may only be attempted once
+per scene.
+Success Levels:
+• Good: The test may involve Multi-Target or
+Multi-Actions (but not both).
+• Outstanding: The test may involve both
+Multi-Targets and Multi-Actions."}
+{:name "Penance"
+ "Axiom Level" 17
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s faith or Spirit"
+ :Range "25 meters"
+ :Duration "Instant"
+ :Lists "Exemplars of Light, Yonders"
+ :Source "AY 45"
+ :description
+ "This miracle fails against a target with no Darkness
+Perks. If the target has two or more Darkness Perks,
+the faith test to cast this miracle is Favored. An
+affected target takes damage value 13 that ignores
+all armor.
+Success Levels
+• Good: +1BD damage
+• Outstanding: +1BD damage plus another
+BD for every two Darkness Perks the target
+possesses (rounded up)."}
+{:name "Plague"
+ "Axiom Level" 17
+ :Skill "Faith 18"
+ "Casting Time" "1 action"
+ :DN "Disfavored vs. target’s willpower or Spirit"
+ :Range "10 meters"
+ :Duration "1 hour"
+ :Lists "Yonders"
+ :Source "AY 45"
+ :description
+ "Prerequisites: Beta Clearance, sicken miracle
+  This miracle can only be invoked on a living
+sentient being and has two stages. In the first stage,
+the target is Stymied for the duration. At the end of
+each round, she can make a willpower or Spirit test
+to end this stage and begin the second stage. If the
+target does not begin the second stage, she takes 12
+damage at the end of the duration.
+In the second stage, when the target first comes
+within 10 meters of a living creature other than the
+caster and her allies, the other creature makes a
+willpower or Spirit test. If it fails, the miracle takes
+effect on it as though it had been the original target.
+This stage lasts for the remaining duration of the
+miracle, and all effects of Good or Outstanding
+results apply to any subsequent victims infected
+during this stage.
+Targets immune to disease ignore this miracle’s
+effects. The invoker may revoke this miracle before
+the end of the duration, stopping the spread of the
+plague and eliminating any effects which would be
+suffered at the end of the second stage.
+Success Levels
+• Good: The target is Very Stymied during the
+first stage.
+• Outstanding: At the end of the second stage
+the target suffers 1 Wound."}
+{:name "Shali's Blessing"
+ "Axiom Level" 18
+ :Skill "Faith 18"
+ "Casting Time" "1 action"
+ :DN "Target’s highest magic skill"
+ :Range "Touch"
+ :Duration "1 scene"
+ :Lists "Theomagicians"
+ :Source "AY 45"
+ :description
+ "Prerequisite: Beta Clearance, at least one add in all
+four magic skills
+  This miracle may be attempted only once per
+scene. On a success the target’s spellcasting tests
+are Favored. If any target has no magic skills, the
+miracle fails.
+Success Levels:
+• Good: In addition, the first time the target
+rolls a 1 for a spellcasting test, ignore that test
+and try again.
+• Outstanding: As Good, plus all spell backlash
+is reduced by 1."}
+{:name "Sicken"
+ "Axiom Level" 15
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "Touch"
+ :Duration "Concentration"
+ :Lists "Exemplars of Darkness, Yonders"
+ :Source "AY 46"
+ :description
+ "The target becomes Stymied until the miracle
+ends.
+Success Levels
+• Good: The target becomes Very Stymied.
+• Outstanding: As Good, plus the target takes
+12 + 1BD damage that ignores armor when the
+miracle ends."}
+{:name "Summon Storm"
+ "Axiom Level" 16
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Self"
+ :Duration "1 minute"
+ :Lists "Exemplars of Light, Yonders, Mysterians, Theomagicians"
+ :Source "AY 46"
+ :description
+ "The area around the caster in a 100-meter radius
+erupts in a storm. The storm moves with the
+spellcaster but the spellcaster may end it at any
+time.
+Creatures (including the spellcaster) in the area
+moving more than half their movement speed
+must make a Strength test at the beginning of their
+turn or be Stymied. Missile weapons and fire combat
+attacks and attacks involving fire with the area are
+Disfavored. Lightning based attacks are Favored.
+Success Levels
+• Good: At the end of each round a random
+target in the area is hit by a lightning bolt
+dealing 13 +1BD damage, AP 4 unless they
+make a successful dodge test. A Mishap adds +1
+BD damage.
+• Outstanding: As Good but the lightning bolt
+targets a random foe of the caster."}
+{:name "Treeskin"
+ "Axiom Level" 10
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Invoker’s Strength"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists "Exemplars of Light, Yonders, Mysterians, Theomagicians"
+ :Source "AY 46"
+ :description
+ "This miracle transforms the invoker’s skin to
+wood. On a success she gains +2 Toughness but
+becomes Vulnerable to fire attacks.
+Success Levels:
+• Good: As Standard but no longer Vulnerable
+to fire attacks.
+• Outstanding: As Good, and instead gains +3
+Toughness."}
+{:name "Turn Undead"
+ "Axiom Level" 12
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "10 meters"
+ :Duration "Concentration"
+ :Lists "Exemplars of Light, Mysterians, Theomagicians"
+ :Source "AY 46"
+ :description
+ "This miracle targets all undead within 10 meters
+of the caster. This is an area effect miracle; no
+Multi-Targeting applies. Each affected undead is
+Very Stymied while it remains within 10 meters of
+the caster. The miracle’s effect ends on a specific
+undead once it is hit with an attack or interaction.
+Success Levels
+• Good: Mindless undead must rush directly
+away from the invoker on their turns while
+within range.
+• Outstanding: As Good, plus the Mindless
+undead take 14+1BD damage when initially
+affected."}
+{:name "Ward Cold"
+ "Axiom Level" 9
+ :Skill "Faith 10"
+ "Casting Time" "1 minute"
+ :DN "Standard (10)"
+ :Range "Touch"
+ :Duration "24 hours"
+ :Lists "Exemplars of Light, Yonders, Mysterians, Theomagicians, Palanism"
+ :Source "AY 46"
+ :description
+ "This miracle may be invoked once per day. The
+target is protected from natural cold up to –40°C
+(–40°F)
+  Success Levels
+• Good: The target gains +5 Armor vs. ice
+damage.
+• Outstanding: +8 Armor vs. ice damage."}
+{:name "Ward Magic"
+ "Axiom Level" 10
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Self"
+ :Duration "Concentration"
+ :Lists "Exemplars of Light, Exemplars of Darkness, Yonders, Mysterians, Theomagicians"
+ :Source "AY 47"
+ :description
+ "Spells targeting the caster take a Challenging (-2)
+penalty to affect her.
+Success Levels
+• Good: The penalty increases to Hard (-4).
+• Outstanding: Spells targeting the caster,
+including in an area of effect, are Disfavored."}
+{:name "Word of the Gods"
+ "Axiom Level" 10
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Standard (10)"
+ :Range "Self"
+ :Duration "Instant"
+ :Lists "Exemplars of Light, Exemplars of Darkness, Mysterians, Christianity Prince of Peace"
+ :Source "AY 47"
+ :description
+ "This miracle allows the caster to gain a flash of
+insight. On a success, the Storm Knight gains a clue
+or indicating the next course of action she should
+take, or she may choose to make the Approved
+Action of the Drama Deck “Any” just as if playing
+an Idea card.
+The gods do not like to be pestered, and so this
+miracle may only be attempted once per day.
+Success Levels:
+• Good: The player may instead search for an
+Idea card in the Destiny deck or discard, then
+shuffle the deck afterward.
+• Outstanding: As Good and the gods feel
+gracious and the cleric may invoke this miracle
+again."}
+ 
+
+
+
+ {:name "Animate Mummy"
+  "Axiom Level" 16
+  :Skill "Faith 12"
+  "Casting Time" "1 hour"
+  :DN "Challenging (DN 12)"
+  :Range "Touch"
+  :Duration "Permanent"
+  :Lists "Amaatist Hem-Netjer"
+  :Source "NE 45"
+  :description
+  "This ritual allows the invoker to animate and
+command a corpse which has been properly
+mummified. The supplicant can command the
+mummy to perform a specific task (“kill Rama
+Tut!” or “bring me the Possibility Chalice!”). The
+mummy remains animated until it performs the
+task or is destroyed. The mummy’s statistics are
+found on page 130.
+Success Levels:
+• Good: The mummy has 2 Wounds.
+• Outstanding: The mummy has Strength 15
+and Toughness 15."}
+{:name "Blinding Dust"
+ "Axiom Level" 14
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "50 meters"
+ :Duration "Concentration"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 45"
+ :description
+ "Blinding dust creates an area 10 meters in radius
+filled with blowing dust. Any physical attacks at
+targets within the the blowing dust, or by characters
+in the dust attacking out, are treated as having a
+Dim (–2) Darkness Penalty.
+If the miracle is invoked in a sandy area, the faith
+test has a +4 bonus.
+Success Levels:
+• Good: The Darkness Penalty is increased to
+Dark (-4).
+• Outstanding: The zone of dust is treated as
+Pitch Black (-6)."}
+{:name "Cure Poison"
+ "Axiom Level" 12
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists "Amaatist Hem-Netjer, Palanism"
+ :Source "NE 45"
+ :description
+ "This miracle quickly flushes any toxins out of the
+target’s system. On a success the target makes a
+Strength test as if the full minute of the poison’s
+effects had expired. Any of the toxin’s modifiers for
+the test remain in place. If the test fails, the poison
+continues to affect the target normally.
+Success Levels:
+• Good: The poison ends its duration
+immediately without requiring a Strength test
+from the target. Conditions caused by the
+poison linger normally.
+• Outstanding: The poison ends its duration
+immediately without requiring a Strength test
+from the target and any conditions caused
+by the poison are removed. This includes
+conditions like Stymied and Vulnerable, but
+also the KO’ed condition."}
+{:name "Death Shout"
+ "Axiom Level" 16
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "10 meters"
+ :Duration "Instant"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 45"
+ :description
+ "The invoker shouts at a target with such force it
+can actually kill a person. Death shout causes 12
+damage and attacks the target’s lowest Armor.
+If the target has Full Body armor, the damage
+increases by +1 BD.
+Success Levels:
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD. Additionally,
+the target is deafened for one minute."}
+{:name "Drain Life"
+ "Axiom Level" 18
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 46"
+ :description
+ "This miracle, only invoked by evil priests,
+particularly those who favor Anubis, Set, and
+Sebek, actually drains the life energy from the target
+grants it to the priest, possibly even regenerating
+the priest’s wounds.
+This miracle may only be invoked on a single
+target (no Multi-Targeting) and may not be
+invoked as a Multi-Action as it requires the priest's
+full attention. The target may choose to make this a
+contest after being declared the target, but becomes
+Vulnerable and Stymied after the contest.
+On a success, the target takes 12 damage which
+ignores all armor. Any Shock or Wounds drain life
+actually causes are recovered by the priest. The
+target may attempt to Soak Damage, but the test
+has a Hard (-4) penalty.
+Success Levels:
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD."}
+{:name "Dream"
+ "Axiom Level" 8
+ :Skill "Faith 10"
+ "Casting Time" "10 minutes"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "One act"
+ :Lists "Amaatist Hem-Netjer, Christianity Prince of Peace"
+ :Source "NE 46"
+ :description
+ "The priest invokes this miracle on herself as he
+goes to sleep. On a success, she has a dream in
+which she solves a future problem. She does not
+remember the particulars of the dream once she
+awakens, but when the problem presents itself in
+the form of a Dramatic Skill Resolution, the dream
+comes to her and enables her to help solve the
+problem for real.
+Success Levels:
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD.. Additionally,
+the target is deafened for one minute. The priest may declare that she is using the
+knowledge gained through her dream during
+any Dramatic Skill Resolution. She may make
+tests herself or assist others making tests through
+a Combined Action. All tests to solve steps of the
+Dramatic Skill Resolution the priest is involved
+with are Favored.
+The supplicant can only invoke this miracle once
+per act, and once the Dramatic Skill Resolution is
+complete, this miracle ends.
+Success Levels:
+• Good: As Standard, and the dreamer may
+cancel the negative consequence of failing a test
+that she attempted when a dilemma is showing
+on the Drama Deck.
+• Outstanding: As Good and once per Dramatic
+Skill Resolution the character automatically
+succeeds at one step associated with a dilemma."}
+{:name "Empower Ankh"
+ "Axiom Level" 14
+ :Skill "Faith 12"
+ "Casting Time" "10 minutes"
+ :DN "Standard (DN 10)"
+ :Range "Touch"
+ :Duration "1 week"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 46"
+ :description
+ "To invoke this miracle, the priest requires at least
+one ankh with a jewel assoicated with a particular
+variety of ankh (see the Gear chapter for some
+examples), which are relatively easily acquired in
+the Nile Empire (Value 10) but are otherwise Rare.
+The priest touches the ankh invoking the power of
+Wadjet to aid and protect the bearer.
+On a success this miracle infuses the ankh with
+spiritual energy.
+The ankh must be attuned to a target in a ritual
+that takes one hour to conduct. One attuned, the
+ankh has no effect if worn by another person.
+Additionally if the bearer is already attuned to
+another ankh, that ankh's power fades.
+Protective Ankhs: Protective ankhs normally only
+provide +1 Full Body Armor, but can be empowered
+to higher levels. The DN to infuse a protective ankh
+with enough energy to provide +2 Armor is Hard
+(DN 14), or Heroic (DN 18) for +3 Armor.
+Success Levels:
+• Good: The priest retains enough spiritual
+power to immediately empower a second ankh.
+• Outstanding: The priest can empower a total
+of three ankhs."}
+{:name "Pronouncement of Doom"
+ "Axiom Level" 18
+ :Skill "Faith 16"
+ "Casting Time" "10 minutes"
+ :DN "Target’s faith or Spirit"
+ :Range "Not Applicable"
+ :Duration "24 hours"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 47"
+ :description
+ "The pronouncement of doom is the most powerful
+curse that can be invoked by Amaatist priests.
+The priest invoking pronouncement of doom doesn’t
+even need to be in the vicinity of the target (but the
+target must be in the same cosm or stelae boundary
+as the invoker). He merely needs an object once
+possessed by the target for at least a week and an
+offering to a member of the Ennead worth at least
+Value Level 8.
+A character with a pronouncement of doom inflicted
+upon him is Stymied for the next 24 hours and
+cannot remove this condition until the duration
+ends.
+Success Levels:
+• Good: The character is also Vulnerable for the
+next 24 hours.
+• Outstanding: As Good, but if an additional
+offering of at least Value Level 15 is sacrificed
+by the invoker, the target must make a Defeat
+test at the end of the 24 hours."}
+{:name "Prophecy"
+ "Axiom Level" 10
+ :Skill "Faith 10"
+ "Casting Time" "1 hour"
+ :DN "Hard (DN 14)"
+ :Range "Self"
+ :Duration "One act"
+ :Lists "Amaatist Hem-Netjer, Christianity Fire and Brimstone"
+ :Source "NE 47"
+ :description
+ "Sacred texts are full of prophecies, some
+fulfilled, many that have not, and all are open to
+interpretation.
+The priest performs a ritual that involves prayer
+and symbolic sacrifices, and puts himself into an
+altered state of conciousness, hoping that he is
+blessed with a vision of the future. Preferably one
+that's useful and correct.
+On a success the priest receives a vision of the next
+Dramatic scene, and if the GM knows the details
+can she may provide vague details.
+Once in the next Dramatic scene, immediately
+after a Drama card is flipped the priest may choose
+to make the Standard Conflict Line in effect for the
+round instead of the Dramatic Conflict Line.
+Success Levels:
+• Good: The priest may choose twice in the next
+Dramatic scene instead of once.
+• Outstanding: The priest may choose the
+Standard Conflict line every round when the
+card is revealed."}
+{:name "Recall Spirit"
+ "Axiom Level" 18
+ :Skill "Faith 16"
+ "Casting Time" "10 minutes"
+ :DN "Very Hard (DN 16)"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 47"
+ :description
+ "Death isn’t permanent in the Nile Empire, and it
+is possible to resurrect certain individuals. A body
+which has been dead for longer than three days
+cannot be resurrected unless the miracle is invoked
+under special circumstances—certain planets must
+align and the body must have been mummified
+and the organs properly contained within nearby
+canopic jars(see page 51).
+The priest touches the corpse and asks his deity
+to return the spirit to the body. If the person was
+ever previously the target of this miracle (whether
+it succeeded or not), the invocation automatically
+fails.
+On a success, the corpse is reunited with its spirit
+and the body is reanimated as a Mummy. The
+character suffers a permanent Injury but gains the
+Mummy Perk (see page 16), which must be paid
+for with XP’s when possible.
+Success Levels:
+• Good: As Standard but the target suffers no
+Injury.
+• Outstanding: The person is truly returned
+to life with no Injury and does not gain the
+Mummy Perk."}
+{:name "Sandstorm"
+ "Axiom Level" 18
+ :Skill "Faith 16"
+ "Casting Time" "1 hour"
+ :DN "Very Hard (DN 16)"
+ :Range "100 kilometers"
+ :Duration "Concentration or 8 hours (see below)"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 48"
+ :description
+ "This miracle requires a large source of loose sand
+(like a desert) within 100 kilometers.
+The supplicant calls upon a sandstorm to inflict an
+area the size of a town. The storm begins to build
+immediately upon beginning the miracle, and one
+hour later takes effect.
+During the storm, the entire area is subject to
+Medium Concealment (–4) due to blowing sand.
+The invoker must continue to spend an action
+each round maintaining the sandstorm, and at the
+end of each hour must make a Very Hard (DN 16)
+Concentration test to maintain the storm.
+This miracle can be invoked only once per week.
+Success Levels:
+• Good: Each hour, those exposed to the
+sandstorm must make a survival test or suffer
+Fatigue. Those who are KO’ed automatically
+take 1 Wound every hour. Recovery of Shock is
+not possible while within the sandstorm for the
+duration of the miracle.
+• Outstanding: As Good, but the survival test is
+Hard (DN 14)."}
+{:name "Scarab Swarm"
+ "Axiom Level" 18
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Hard (DN 14)"
+ :Range "10 meters"
+ :Duration "Concentration"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 48"
+ :description
+ "The invoker summons a single massive swarm of
+scarab beetles, which can rapidly envelop a target and
+chew them down to bones in seconds. The priest can
+direct the beetles to move and attack telepathically as
+a simple action, out to a range of 25 meters.
+In addition to the damage a creature takes at the
+start of their turn, the scarab swarm may make a
+Shred attack to directly attack targets it is touching.
+Only one swarm can be summoned at a time.
+When the miracle ends the swarm immediately
+dissipates and no additional swarms may be
+summoned until the start of the next scene. The
+scarab swarm otherwise uses the insect swarm
+statistics are found on page 130.
+Success Levels:
+• Good: The scarab swarm’s speed becomes 10.
+• Outstanding: The swarm’s speed increases to
+10 and it may fly at a speed of 10 meters per
+round."}
+{:name "Snake Staff"
+ "Axiom Level" 14
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Touch"
+ :Duration "1 minute"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 48"
+ :description
+ "The invoker transforms her staff into a dangerous
+asp (see page 124). The priest can telepathically
+direct the asp to move and attack as a simple action.
+If the asp is KO’ed, the miracle ends and the snake
+transforms back into a staff. If the asp is killed, it
+transforms into a staff, broken into several pieces.
+The invoker may only have one staff transformed
+into a snake at a time.
+Success Levels:
+• Good: The asp’s fangs do Strength +2 damage.
+• Outstanding: As Good plus the asp's poison
+deals 3 Shock each round instead of 2."}
+{:name "Sundew"
+ "Axiom Level" 12
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Hard (DN 14)"
+ :Range "Self"
+ :Duration "Instant"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 49"
+ :description
+ "Sundew can only be invoked when the targets are
+outside or otherwise exposed to the sky. When this
+miracle is invoked, a burst of sunlight descends
+from the sky and strikes the invoker and those
+around him in a Medium Burst Radius. A success
+heals one Wound.
+An individual may only be the target of sundew
+once per day.
+Success Levels:
+• Good: Heals 2 Wounds.
+• Outstanding: Heals 3 Wounds."}
+{:name "Wings of the Hawk"
+ "Axiom Level" 14
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Challenging (DN 12)"
+ :Range "Self"
+ :Duration "Concentration"
+ :Lists "Amaatist Hem-Netjer"
+ :Source "NE 49"
+ :description
+ "When this miracle is invoked, the supplicant grows
+hawk wings from her back, and is temporarily able
+to fly, with a speed of 50 meters per round. Flying
+faster than Dexterity meters counts as running
+(see page 114). The invoker may haul whatever
+weight she normally carries. A heavy load drops
+the maximum speed by half and causes her 1 Shock
+each round.
+Success Levels:
+• Good: The invoker may move at maximum
+speed without suffering a –2 penalty.
+• Outstanding: Maximum speed is increased to
+100 meters per round."}
+ 
+
+
+
+{:name "Battle Vigil"
+ "Axiom Level" 8
+ :Skill "Faith 10"
+ "Casting Time" "6 hours and see below"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "24 hours"
+ :Lists "God's Champion"
+ :Source "CY 52"
+ :description
+ "When a holy warrior knows a battle will occur
+the next day, he must spend the night constantly
+praying to God. He may not interrupt this praying
+for any reason, including traveling, eating, or
+sleeping, unless it is to fend off an attack, but once
+that is done, he must go back to praying. At least 6
+hours must be spent praying, and then the miracle
+is invoked at sunrise. This miracle may only be
+attempted once per day.
+On a success the Templar reduces any damage
+during any Dramatic Scene by 1 Shock.
+Fatigue: If the holy warrior fails to invoke this
+miracle, he is Fatigued and takes 2 Shock that he
+may not recover in any manner until he defeats an
+enemy in battle.
+Success Levels:
+• Good: Damage and Fatigue is reduced by 1
+Shock.
+• Outstanding: Damage or Fatigue is reduced by
+2 Shock."}
+{:name "Computer Empathy"
+ "Axiom Level" 6
+ :Skill "Faith 8"
+ "Casting Time" "1 minute"
+ :DN "Easy (DN 8)"
+ :Range "Self"
+ :Duration "10 minute"
+ :Lists "Cyberchurch"
+ :Source "CY 53"
+ :description
+ "The priest feels the touch of God and gains an
+otherworldly understanding of using computers or
+other high technology. When successfully invoked,
+the priest’s computers tests are Favored.
+Success Levels:
+• Good: The duration increases to one hour.
+• Outstanding: As Good, but once during the
+duration the priest may declare a test Up
+instead of Favored. He must declare this before
+rolling."}
+{:name "Cleanse"
+ "Axiom Level" 16
+ :Skill "Faith 16"
+ "Casting Time" "See below"
+ :DN "Very Hard (-6) vs. target’s dodge or Dexterity"
+ :Range "100 meters"
+ :Duration "Instant"
+ :Lists "Cyberchurch"
+ :Source "CY 53"
+ :description
+ "Prerequisite: Beta Clearance, lightning strike
+miracle
+Cleanse is a powerful and demanding miracle
+capable of striking down large numbers of enemies
+of the faith. The cleric invokes the name of God to
+strike down the heretics. As the priest invokes the
+miracle, a thunder and lightning storm develops
+around him. This uses up the priest’s action, but he
+can still take simple actions.
+On his next turn, he may use an action to complete
+the invocation and attacks all targets within range
+in a Very Large Blast Radius with a faith test. There
+is no penalty for range, concealment, or darkness.
+A hit does 18 damage, AP4.
+Allies of the invoker are not hit by this attack nor
+are they counted as targets.
+This miracle may only be attempted once per
+scene. If cleanse or lightning strike is invoked,
+the other miracle can be invoked on the cleric’s
+immediate next turn rather than preparing for a
+turn, as the storm already exists.
+Success Levels:
+• Good: +1BD damage.
+• Outstanding: +2BD damage."}
+{:name "Cybercommunion"
+ "Axiom Level" 8
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Touch"
+ :Duration "1 minute"
+ :Lists "Cyberchurch"
+ :Source "CY 54"
+ :description
+ "This miracle may only be invoked by consuming a
+CyberEucharist, a communion wafer that appears
+to be made of circuitry, and is frequently carried
+by cyberpriests when on missions in other realities.
+This miracle may only be invoked on one target at
+a time.
+Once the CyberEucharist is consumed, the target
+may access the GodNet remotely, without physical
+connection, as long as a route to a Holy Exchange
+can be drawn from his location through realities
+that either have at least a Spirit Axiom of 8, or a
+Tech Axiom of 23. This route may not cross a
+maelstrom bridge, but may cross reality storms
+without penalty.
+The blessed person cannot access the GodNet
+through virtual reality but can download and
+upload information and contact others in or
+connected to the GodNet. Additionally, this
+prevents GodNet withdrawal (see page 129).
+Success Levels:
+• Good: The duration increases to 5 minutes.
+• Outstanding: The duration increases to 30
+minutes."}
+{:name "Fanaticism"
+ "Axiom Level" 8
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "25 meters"
+ :Duration "1 minute"
+ :Lists "Cyberchurch, God's Champion"
+ :Source "CY 55"
+ :description
+ "Fanaticism whips up the cleric’s allies into a
+religious fervor, making them fearless and able to
+ignore minor injuries—for a brief period.
+On a Standard Success the target’s defense against
+intimidation attacks is increased by +2 and tests to
+avoid fear effects are Favored.
+Success Levels:
+• Good: As Standard and the target takes two
+less Shock when damaged. However, the
+target becomes Fatigued and takes 2 Shock at
+the end of the spell’s duration, which cannot
+be removed until he sleeps for at least 8 hours.
+• Outstanding: As Good but the target is immune
+to Shock for the duration."}
+{:name "First Strike"
+ "Axiom Level" 13
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "3 round"
+ :Lists "God's Champion"
+ :Source "CY 55"
+ :description
+ "This miracle allows the invoker to take (and keep)
+the momentum of the battle and keep his opponents
+on the defensive. While this miracle is in effect the
+warrior appears to move slightly quicker than one
+would expect. It’s obvious he has some sort of
+supernatural assistance.
+On a success the holy warrior (and only he) takes
+his actions each round before anyone else acts. This
+overrides the initiative line on the Drama card. If
+characters from both the Hero and Villain side
+have an ability that allows them to go first, those
+characters act according to the Initiative Line, and
+then the rest of the combatants act.
+Success Levels:
+• Good: The duration increases to one minute.
+• Outstanding: As Good and melee attacks are
+Favored."}
+{:name "Net Damnation"
+ "Axiom Level" 13
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s faith or Spirit"
+ :Range "25 meters"
+ :Duration "1 minute"
+ :Lists "Cyberchurch"
+ :Source "CY 55"
+ :description
+ "Net damnation can only be invoked within the
+GodNet. The priest calls upon God to sunder the
+target’s soul and send it to Purgatory.
+On a success the target takes 12 non-lethal damage
+that ignores armor unless it is holy or has some
+divine origin. If the target is KO’ed from Wounds
+by this attack he must make a Defeat test using
+Spirit (not Strength). If the target fails the test, his
+soul breaks from his body and is sent to Purgatory.
+Additionally, for the duration of this miracle, if
+the character is Defeated and fails the Defeat test,
+his soul is sundered from his avatar and sent to
+Purgatory (see page 96).
+Success Levels:
+• Good: The target must make a Defeat test even
+if he is KO’ed by this attack.
+• Outstanding: As Good and the target’s Defeat
+test is Disfavored."}
+{:name "Node Scrambler"
+ "Axiom Level" 16
+ :Skill "Faith 12"
+ "Casting Time" "1 round"
+ :DN "Very Hard (DN 16)"
+ :Range "One GodNet sector"
+ :Duration "10 minute"
+ :Lists "Cyberchurch"
+ :Source "CY 55"
+ :description
+ "This miracle may only be invoked within the
+GodNet. This miracle is actually capable of
+affecting an entire GodNet region and makes it
+more difficult, or even nearly impossible, to create
+and use teleport nodes and exit nodes anywhere
+within the local Holy Exchange. The existence of
+the scrambler field is apparent, and adds a bit of a
+sparkle to the air in the area.
+On a success any attempts create or use transfer
+or exit nodes are Disfavored. This includes tests
+involving a Dramatic Skill Resolution or the casting
+of a spell or other ability that can create nodes. If
+a device can create nodes without a test, the user
+must now make a computers test to do so.
+Success Levels:
+• Good: Tests to create or use teleport or exit
+nodes are Disfavored and have a –2 penalty.
+• Outstanding: As Good but the penalty
+increases to –4."}
+{:name "Purge Magic"
+ "Axiom Level" 11
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "The caster’s willpower or Spirit"
+ :Range "25 meters"
+ :Duration "Instant"
+ :Lists "Cyberchurch"
+ :Source "CY 56"
+ :description
+ "Purge magic is a useful miracle for Inquisitors and
+cyberpriests to know, as it allows them to cancel the
+effects of spells cast on their allies (or their flock). It
+only works on cast spells, not magic items, mystical
+artifacts, or any other type of arcane device. This
+miracle targets the recipient of the spell, not the
+caster, but the DN is based on the spellcaster’s
+willpower or Spirit.
+On a success, one spell effect of the priest’s
+choosing ends.
+Success Levels:
+• Good: The effects of two spells on the target
+end.
+• Outstanding: All spells on the target end."}
+{:name "Reboot Device"
+ "Axiom Level" 9
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Easy (DN 8)"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists "Cyberchurch"
+ :Source "CY 56"
+ :description
+ "As a counter to cyberwitch and white witch
+proclivities to mess with cyberware and other
+electronics, this miracle allows electronic devices
+which are shut down to return to life, as long as
+they are not physically damaged or destroyed.
+This miracle does not affect Tech Constructs.
+If the target is an electronic device, on a success
+it recovers and begins functioning normally. If the
+target is a living being with cyberware or Occultech,
+a single install of shut down cyberware recovers.
+Success Levels:
+• Good: The priest reboots all devices within 5
+meters, or the target living being regains the
+use of two installs of cyberware or Occultech.
+• Outstanding: All electronics within 20 meters
+recovers, or all of the target’s cyberware or
+Occultech begins to function normally."}
+{:name "Rood Awakening"
+ "Axiom Level" 14
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "10 meters"
+ :Duration "Concentration"
+ :Lists "Cyberchurch"
+ :Source "CY 56"
+ :description
+ "Inquisitors don’t always need to smite heretics
+who are battling them, sometimes it’s more
+important to capture and interrogate them so as to
+gather more heretics to be burned. Rood awakening
+is particularly effective at entrapping spellcasters
+(those who know at least one spell). The priest
+may only target a single character (Multi-Targeting
+cannot be used), and once affected, he cannot
+invoke this miracle again unless he releases his first
+target.
+With a prayer, the inquisitor manifests a glowing
+white cross. On a success, the cross affixes itself
+to the target. The target loses some control of her
+body and becomes Stymied or Vulnerable at the
+end of the cleric’s turn until the miracle ends.
+Escaping uses the same rules as grappling, but
+instead is a contest of the target’s willpower vs. the
+cleric’s faith. If she gets a Standard Success, she
+escapes but it expends her action. On a Good or
+Outstanding Success she can act normally. In all
+cases where the victim escapes, the miracle ends.
+This miracle only affects sentient, living
+humanoids. Animals, tech constructs, and targets
+that are mindless are immune.
+Success Levels:
+• Good: The target becomes Stymied and
+Vulnerable at the end of the invoker’s turn.
+• Outstanding: As Good and the target is
+wracked with pain and takes 2 Shock. If the
+target is a spellcaster, her body is elevated just
+off the ground and restrained (see Grappling
+in Torg Eternity)."}
+{:name "Strength of the Righteous"
+ "Axiom Level" 8
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "1 minute"
+ :Lists "God's Champion"
+ :Source "CY 57"
+ :description
+ "Strength of the righteous grants the strength of
+angels to God’s holy warriors when they are in
+desperate need. The character points her melee
+weapon to the sky and shouts out a petition for
+God to grant her strength against the heretics. On
+a success, a bolt of lightning harmlessly strikes the
+weapon and the faithful glows faintly. She gains a
+bonus to melee and unarmed damage equal to her
+Wound penalties.
+Success Levels:
+• Good: The damage bonus is twice the warrior’s
+Wound penalties.
+• Outstanding: As Good, and the hero gains +2
+damage even if she has no Wounds."}
+{:name "Thrice Damned"
+ "Axiom Level" 12
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s faith or Spirit"
+ :Range "25 meters"
+ :Duration "Instant"
+ :Lists "Cyberchurch"
+ :Source "CY 57"
+ :description
+ "This miracle is invoked with the priest pointing
+at one (and only one) target, and calling upon God
+to curse her, including the loud pronouncement of
+You are thrice damned! On a Standard Success,
+the target becomes Vulnerable. If the character is
+already Very Vulnerable, she becomes Stymied
+instead.
+Success Levels:
+• Good: As Standard and the victim becomes
+Fatigued as well.
+• Outstanding: As Good and the target becomes
+Confused, or Disfavored if invoked on a Game
+Master character."}
+
+ 
+
+ 
+
+ {:name "Bless Missile"
+  "Axiom Level" 12
+  :Skill "Faith 14"
+  "Casting Time" "30 minutes"
+  :DN "Standard (DN 10)"
+  :Range "5 meters"
+  :Duration "1 day"
+  :Lists "Sacellum Chaplain"
+  :Source "OR 33"
+  :description
+  "One of the most important miracles invoked by a
+Sacellum chaplain is Bless Missile. Usually done in
+the morning, the Quartermaster gathers ammunition
+that is to be distributed that day and presents it to
+the chaplain. The chaplain then sprinkles holy water
+on the ammunition and blesses it.
+Bless Missile increases the damage value against
+supernatural evil by +1. Up to 100 bullets are blessed.
+An arrow counts as 10 bullets and an artillery shell
+counts as the full 100. Special ammo which already
+carries a blessing, such as Holy Water Shells for the
+Slayer’s gun, gain no additional benefit.
+Missiles blessed with this miracle counts as
+magical for purposes of affecting foes with the
+Ethereal or similar abilities that generally ignore
+normal weapons.
+Success Levels:
+• Good: Up to 500 bullets can be blessed.
+• Outstanding: As Good and the damage against
+supernatural evil is increased to +2."}
+{:name "Blind"
+ "Axiom Level" 12
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "100 meters"
+ :Duration "3 rounds"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 33"
+ :description
+ "This miracle robs the target of the ability of sight
+by shrouding his eyes in shades of unrelenting gray.
+On a success the target suffers the −2 penalty for
+Dim lighting on find tests and ranged attacks. The
+penalty applies even to targets who can normally
+see in the dark and ignore such modifiers.
+Success Levels:
+• Good: The Darkness penalty increases to -4
+• Outstanding: The Darkness penalty increases
+to the maximum -6"}
+{:name "Crisis of Faith"
+ "Axiom Level" 12
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s faith or Spirit"
+ :Range "10 meters"
+ :Duration "1 round"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 33"
+ :description
+ "The invoker of this miracle calls out and rebukes
+another person of faith. On a Success, the target’s
+faith skill is disfavored.
+Success Levels:
+• Good: Duration increases to 3 rounds
+• Outstanding: On the first round, the target
+cannot actively use the faith skill. Miracles
+can be cast if the target’s Spirit is high enough."}
+{:name "Crucifixion"
+ "Axiom Level" 16
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "10 meters"
+ :Duration "Instant"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 34"
+ :description
+ "Crucifixion is a powerful miracle in which steel
+spikes shoot out of the priest’s hands and pierce
+the target’s hands and feet doing 16 damage, AP
+4. If there is a hard, vertical surface (a tree would
+count, a person would not) within a meter behind
+the target, the spikes impale him to the surface in
+a manner of a crucifixion and he is restrained (see
+Grappling in Torg Eternity). Breaking free is a Very
+Hard (DN 16) Strength test.
+Success Levels:
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD."}
+{:name "Fear of God"
+ "Axiom Level" 12
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "50 meters"
+ :Duration "Instant"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 34"
+ :description
+ "The invoker causes an intense fear of judgment in
+all enemies within a Large Blast (see Torg Eternity).
+Affected targets become Vulnerable. Note that as
+an Area Effect attack there’s no Multi-Targeting
+penalty, but also no option to add extra targets.
+Targets immune to fear effects are also immune
+to this spell.
+Success Levels
+• Good: Affected targets become Very
+Vulnerable.
+• Outstanding: Affected targets become Very
+Vulnerable and suffer 2 Shock."}
+{:name "Infernal Judgment"
+ "Axiom Level" 16
+ :Skill "Faith 16"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "25 meters"
+ :Duration "3 rounds"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 34"
+ :description
+ "Prereq: Beta Clearance, Hellfire miracle
+With infernal judgment, the priest calls up a hellish
+pillar of fire from under the ground to strike up at a
+target. A target up to 25 meters in the air may be hit
+by the miracle. The base damage for the miracle is
+the priest’s faith. The pillar of fire will burn anyone
+who comes in contact with it, but it cannot move.
+Success Levels
+• Good: Damage +1BD.
+• Outstanding: Damage +2BD."}
+{:name "Paralyze"
+ "Axiom Level" 12
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "Touch"
+ :Duration "3 rounds"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 34"
+ :description
+ "This miracle paralyzes the victim upon a touch,
+affecting the target’s ability to move even though
+she is aware.
+Any physical actions are at a –2 penalty and base
+movement is reduced by 2 as well. This does affect
+magic and miracles that require speech, but not
+psionic powers and other abilities that do not.
+Success Levels:
+• Good: Penalty to physical actions as Standard
+and additionally the target cannot move but
+is not restrained.
+• Outstanding: As Good and the penalty to
+physical actions is increased to –4."}
+{:name "Part the Sea"
+ "Axiom Level" 10
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Hard (DN 14)"
+ :Range "50 meters"
+ :Duration "Concentration"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 34"
+ :description
+ "With this miracle, the priest calls upon her god
+to cause a body of water to part and allow passage.
+The liquid separates, leaving a corridor of solid
+ground. One a Standard success, a volume of water
+equivalent to a small pool or stream may be parted.
+When the miracle ends, the water rushes back,
+doing 10 damage (ignores armor) to anyone left
+standing in the area that was parted.
+Success Levels
+• Good: Water volume can be equivalent to a
+pond or small river. Damage +1BD.
+• Outstanding: Water volume can be a deep
+river or small lake. Damage +2BD."}
+{:name "Pillar of Salt"
+ "Axiom Level" 17
+ :Skill "Faith 16"
+ "Casting Time" "1 action"
+ :DN "Hard (–4) vs. the target’s willpower or Spirit"
+ :Range "5 meters"
+ :Duration "3 rounds"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 35"
+ :description
+ "This powerful miracle is only able to be invoked
+on holy ground and other areas where the Spirit
+axiom is 17 or higher without contradiction. The
+priest calls upon the wrath of the Sacellum God to
+turn the target into a pillar of salt. On a success, the
+target becomes Stymied and Vulnerable. At the start
+of the target’s following turn, the target becomes
+Very Stymied and Very Vulnerable. At the start
+of the target’s subsequent turn, Restrained, Very
+Stymied, and Very Vulnerable.
+The target may sacrifice their entire turn to make
+a Very Hard (DN 14) faith or Spirit test to end the
+miracle early. If the target is KO’ed due to Shock,
+they must immediately make a Defeat test.
+Success Levels:
+• Good: As Standard, plus the target takes 1
+Shock per round.
+• Outstanding: As Standard, plus the target
+takes 2 Shock per round."}
+{:name "Sins of the Flesh"
+ "Axiom Level" 14
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Target’s faith or Spirit"
+ :Range "Touch"
+ :Duration "1 Scene"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 35"
+ :description
+ "The effect of this miracle produces a curse which
+causes rips and tears to appear on the target’s body.
+The open sores cause pain and discomfort. The
+target takes 2 points of Shock that does not go away
+unless healed or the duration passes. The damage
+can be healed through mundane or magical means
+such as the healing skill or various abilities, spells,
+and miracles that heal damage, but the appearance
+of the flesh can only be repaired with by removing
+the curse or allowing the duration to end on its own.
+The target’s Charisma and Dexterity based skill tests
+are at a –4 penalty as long as the sores are present.
+Spells and miracles such as Repel Curse and
+Break Curse end this miracle as presented in their
+descriptions.
+Success Levels:
+• Good: Shock is increased to 4 points
+• Outstanding: As a Good success, but the
+duration increases to an Act."}
+{:name "Thrice Cursed"
+ "Axiom Level" 10
+ :Skill "Faith 16"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "50 meters"
+ :Duration "One day"
+ :Lists "Sacellum Chaplain"
+ :Source "OR 35"
+ :description
+ "The target suffers three different conditions as a
+within the next 24 hours. Each round the invoker can
+choose one of the conditions to apply as a free action.
+No more than one of these conditions can affect the
+target at the same time. The invoker chooses which
+conditions affects the target, and may choose them
+in any order desired.
+The same condition cannot affect the target more
+than once from this miracle, and the target cannot be
+affected by this miracle more than once in 24 hours.
+The conditions can be: Disfavored, Very Stymied,
+Very Vulnerable, Confused, or Fatigued.
+Success Levels
+• Good: Up to two of the conditions may be
+applied to the target on the same round.
+• Outstanding: All three conditions may be
+applied to the target on the same round."}
+ 
+
+
+ {:name "Contort"
+  "Axiom Level" 8
+  :Skill "Faith 10"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :Lists "Palanism"
+  :Source "PP 58"
+  :description
+  "This miracle allows the invoker to bend and even
+temporarily dislocate his arms, legs, and digits
+in ways that would otherwise be impossible or
+extremely painful. On a success, the invoker’s tests
+to succeed at escaping bonds or fit through small
+spaces (at least big enough for the character’s head
+to fit) are Favored. The character can only move
+one meter per round while attempting these feats.
+   
+   Success Levels:
+•Good: Tests to escape bonds or move through
+small spaces also gain a +4 bonus.
+•Outstanding: The invoker’s bones soften and he
+can even move through the bars of a typical
+jail cell."}
+ {:name "Incognito"
+  "Axiom Level" 8
+  :Skill "Faith 8"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :Lists "Palanism"
+  :Source "PP 58"
+  :description
+  "Incognito allows the supplicant to walk amongst
+other people without being challenged or
+recognized. This miracle does not actually make
+the character invisible or step without sound, nor
+does it actually change his appearance. People who
+see the invoker subconsciously think he’s supposed
+to be there.
+   To invoke this miracle, the character acts as if
+he is putting on a cloak and says a prayer. On a
+success, a non-suspicious character observing the
+invoker automatically accepts there isn’t anything
+unusual about them.
+If someone on guard sees the invoker, they may
+make a Challenging (DN 12) evidence analysis test as
+usual. Combined Actions cannot be made to improve
+the test. If the test succeeds, the viewer realizes the
+   invoker is an interloper, which causes the invoker
+to lose Concentration and the miracle to end.
+Retry: The first time invoking this miracle fails, it
+cannot be invoked again until the next scene.
+Success Levels:
+• Good: The evidence analysis test is Hard (DN
+14).
+• Outstanding: The evidence analysis test is Very
+Hard (DN 16)."}
+ {:name "Meditation"
+  "Axiom Level" 6
+  :Skill "Faith 8"
+  "Casting Time" "30 minute"
+  :DN "Easy (DN 8)"
+  :Range "Self"
+  :Duration "24 hours"
+  :Lists "Palanism"
+  :Source "PP 59"
+  :description
+  "To meditate, the invoker must sit calmly on the
+floor and become in-tune with their body and soul
+by breathing steadily and becoming mindful of
+their senses. If the environment is not quiet and
+calm, a –2 or –4 penalty may be assessed at the
+GM’s option. Any combat immediately interrupts
+the invocation of this miracle.
+On a success, once in the next 24 hours the
+character may declare any test they make is Favored.
+The character may only make a test to invoke
+meditation once every 24 hours.
+Success Levels:
+• Good: The test is Favored and also gains a +2
+bonus.
+• Outstanding: The test is Favored and gains a
++4 bonus."}
+ {:name "Palan’s Staff"
+  "Axiom Level" 8
+  :Skill "Faith 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "1 minute"
+  :Lists "Palanism"
+  :Source "PP 59"
+  :description
+  "The priest speaks a teaching of Palan which imbues
+her staff with spiritual power for a short time. On
+a success the staff may damage Ethereal beings, as
+well as gain a +1 bonus to attacks and a +1 bonus
+to damage.
+   Success Levels:
+• Good: As Standard but the bonuses increase to +2.
+• Outstanding: As Standard but the bonuses
+increase to +3."}
+ {:name "Pass Without Trace"
+  "Axiom Level" 8
+  :Skill "Faith 10"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "Concentration"
+  :Lists "Palanism"
+  :Source "PP 59"
+  :description
+  "The invoker touches each target to obscure
+their passage (using the Multi-Targeting rules
+if necessary). On a success anyone attempting a
+tracking test to follow takes a –4 penalty.
+Success Levels:
+• Good: The penalty is –6.
+• Outstanding: The penalty is –8."}
+ 
+
+
+ {:name "Captivate"
+  "Axiom Level" 7
+  :Skill "Faith 10"
+  "Casting Time" "1 round"
+  :DN "The target’s Mind or willpower"
+  :Range "10 meters"
+  :Duration "Concentration"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone"
+  :Source "MoCE 22"
+  :description "The cleric gains a supernatural ability to keep
+those who hear his voice focused on him, listening
+to his sermon. The priest invokes this miracle in
+a Huge Blast Radius centered on himself. Targets
+that do not understand the language the priest
+is speaking are immune to this miracle. This
+miracle can only be invoked outside of combat. If
+combat ever starts in the vicinity, the miracle ends
+immediately. Captivate requires the cleric to speak
+continuously. No other actions involving speech,
+including invoking other miracles, are allowed.
+Also, the priest cannot move more than a few
+meters from his initial location while this miracle
+is active.
+The faith test to invoke this miracle is Favored if all
+targets follow the same religion as the priest.
+On a success the targets listen atttentively to the
+preaching but may take non-hostile actions such as
+reporting unusual activity.
+Success Levels
+• Good: The target is enthralled and cannot
+take any action other than listening to the cleric.
+Find tests to notice unusual circumstances have
+a -2 penalty.
+• Outstanding: As Good, plus the target is
+Stymied and Vulnerable the first round after
+the miracle ends"}
+{:name "Contort"
+ "Axiom Level" 8
+ :Skill "Faith 10"
+ "Casting Time" "1 round"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "MoCE 22"
+ :description "This miracle allows the invoker to bend and even
+temporarily dislocate his arms, legs, and digits
+in ways that would otherwise be impossible or
+extremely painful. On a success the invoker’s tests
+to succeed at escaping bonds or fit through small
+spaces (large enough to fit the character’s head, at
+least) are Favored. The character can move only
+one meter per round while attempting these feats.
+Success Levels
+• Good: Tests to escape bonds or move through
+small spaces also gain a +4 bonus
+• Outstanding: The invoker’s bones soften
+and he can even squeeze between the bars of a
+typical jail cell"}
+{:name "Control Animal"
+ "Axiom Level" 10
+ :Skill "Faith 14"
+ "Casting Time" "1 action"
+ :DN "Target’s Spirit or willpower, plus any Size Modifier"
+ :Range "Touch"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "MoCE 22"
+ :description "Some people are able to charm animals using
+music, either by playing an instrument or by
+singing or humming. While the invoker does not
+need to physically touch the target, he does need
+to be within touching distance. This miracle may
+only target one animal (for example, lizards, birds,
+dinosaurs, mammals, or fish, but not insects) with
+a Mind of 4 or less. Mindless animals are immune.
+The invoker automatically senses whether a target
+is eligible.
+On a success, the invoker takes spiritual control of
+the animal’s body. He may use his actions to move
+and act with the target’s body—or perform both
+using Multi-Actions. The animal may be made to
+perform actions using its own skills and abilities
+while within line of sight of its controller. The
+controller cannot use the animal’s senses directly.
+A controlled animal must sacrifice an entire turn
+to attempt to break free—it may take no other
+actions, whether or not it succeeds—by making a
+contest of willpower or Spirit against the invoker’s
+faith. If successful, the invoker’s Concentration is
+broken and the power ends.
+Once an animal breaks free, it may not be the
+subject of this miracle for the rest of the scene.
+Success Levels
+• Good: The animal’s attempts to break free
+have a -4 penalty
+• Outstanding: The animal is unable to break
+free of the control on its own—the invoker
+must lose Concentration (which automatically
+happens at the end of the scene)."}
+{:name "Holy Water"
+ "Axiom Level" 10
+ :Skill "Faith 10"
+ "Casting Time" "30 minutes"
+ :DN "Standard (DN 10)"
+ :Range "Touch"
+ :Duration "The rest of the act"
+ :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone"
+ :Source "MoCE 24"
+ :description "This ritual must be invoked on consecrated
+ground, such as a church, temple, or hallowed
+grove, and requires at least one glass vial (Value
+10 for 10 regular vials or one large vial) to hold the
+blessed water. The supplicant blesses a container
+of pure, clean water (not puddles, ponds, or any
+water that has been partially drunk). On a success,
+this miracle creates one vial of holy water. One vial
+of holy water can be thrown, using missile weapons,
+at a target, dealing 12 damage to a supernaturally-
+evil creature (plus the usual extra bonus dice for
+Good or Outstanding hits). If the creature is not
+supernaturally evil, it takes no damage. A large
+vial can hit up to three creatures within a Medium
+Blast Radius.
+Alternatively, a vial can be used to anoint a melee
+weapon as a simple action. A hit does +2 damage
+to supernaturally-evil creatures, but the weapon
+must be anointed again after a successful hit.
+When the duration expires, the vials of holy water
+revert to their original state.
+Success Levels
+• Good: Creates five vials’ worth of water
+• Outstanding: Blesses enough water to fill 10
+vials"}
+{:name "Incognito"
+ "Axiom Level" 10
+ :Skill "Faith 12"
+ "Casting Time" "1 minute"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "MoCE 24"
+ :description "Incognito allows the supplicant to walk among other
+people without being challenged or recognized.
+This miracle does not make the character invisible
+or allow the character to move soundlessly, nor
+does it change the character’s appearance. People
+who see the invoker merely think he’s supposed
+to be there.
+To invoke this miracle, the character mimes
+donning a cloak and says a prayer. On a success,
+as long as they are not specifically on guard,
+anyone observing the character automatically gets
+a +0 bonus on their evidence analysis tests against a
+Challenging (DN 12) difficulty.
+A character on guard may make an evidence
+analysis test as usual. Combined Actions cannot be
+made to improve the test. If the test succeeds, the
+viewer sees through the charade, the invoker loses
+Concentration, and the miracle ends.
+Success Levels
+• Good: The evidence analysis test is Hard (DN
+14)
+• Outstanding: The evidence analysis test is Very
+Hard (DN 16)"}
+{:name "Meditation"
+ "Axiom Level" 6
+ :Skill "Faith 8"
+ "Casting Time" "30 minutes"
+ :DN "Easy (DN 8)"
+ :Range "Touch"
+ :Duration "24 hours"
+ :Lists ""
+ :Source "MoCE 24"
+ :description "To meditate, the invoker must sit calmly on the
+ground and focus on senses and steady breathing.
+If the environment is not quiet and calm, the GM
+may assign a -2 or -4 penalty, as desired. Any
+combat immediately interrupts the invocation of
+this miracle.
+On a success, any one test the character makes in
+the next 24 hours is Favored.
+The character may make a test to invoke meditation
+only once every 24 hours.
+Success Levels
+• Good: The test is Favored and also gains a +2
+bonus
+• Outstanding: The test is Favored and also
+gains a +4 bonus"}
+{:name "Pass Without Trace"
+ "Axiom Level" 8
+ :Skill "Faith 10"
+ "Casting Time" "1 minute"
+ :DN "Standard (DN 10)"
+ :Range "Touch"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "MoCE 25"
+ :description "The invoker touches each target and
+asks her deity to obscure their passage
+(using the Multi-Targeting rules if
+necessary). On a success anyone
+attempting a tracking test to follow
+takes a -4 penalty.
+• Success Levels
+• Good: The penalty is -6
+• Outstanding: The penalty is -8"}
+{:name "Walk on Water"
+ "Axiom Level" 12
+ :Skill "Faith 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "25 meters"
+ :Duration "30 seconds"
+ :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone"
+ :Source "MoCE 25"
+ :description "Walk on water allows affected targets
+to move their normal speed (not run)
+atop liquids as if the surface were
+solid ground. A submerged target
+may climb up and out of the water,
+and those on the surface may dive
+under water if they choose. The invoker
+may attempt to affect multiple people
+by taking the usual Multi-Targeting
+penalties.
+Success Levels
+• Good: The duration increases to 1 minute
+• Outstanding: Affected targets may run atop
+liquid surfaces as well"}
+{:name "Yin and Yang"
+ "Axiom Level" 8
+ :Skill "Faith 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "the end of the scene"
+ :Lists ""
+ :Source "MoCE 25"
+ :description "By invoking this miracle, the character taps into
+the belief that people, events, and things have
+complimentary aspects, and while bad luck may
+be ascendant, good luck may be just around the
+corner.
+On a success, the hero’s luck flattens out. For the
+rest of the scene, if the character rolls a 1 at any
+time, including after spending a Possibility or
+in an Up condition, he immediately re-rolls
+the die. However, if the character rolls a
+20 at any time, he immediately re-rolls
+as well.
+This miracle may only be attempted
+once every scene.
+Success Levels
+• Good: The character immediately
+rerolls on a 1-2, as well as 20
+• Outstanding: As Good, but the
+character rerolls on a 1-4, as well
+as 20"}
+
+ ]

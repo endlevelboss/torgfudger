@@ -1,0 +1,1912 @@
+[{:name "Alter Memory"
+  "Axiom Level" 23
+  :Skill "Telepathy 14"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range " 10 meters"
+  :Duration "Permanent"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 207"
+  :description "Worse than reading an unwilling target’s mind is
+rearranging the memories inside. Most psis use it to
+make a guard forget they saw them or even remove
+a traumatic incident from a battle-scarred mind.
+A Standard success can alter memories from
+within the last five minutes. Additional successes
+can affect earlier thoughts (see below) .
+The psi can implant false memories as well but
+if an event is implausible the victim gets a new
+chance to resist by making a willpower or Mind test
+against the psi’s telepathy. If successful he sees the
+implanted memory for what it is. This may only be
+attempted once per memory.
+See restoration to recover altered memories.
+Success Levels:
+• Good: The psi can alter memories from the
+last hour.
+• Outstanding: The psi can alter memories
+from the last week."}
+
+
+ {:name "Awareness"
+  "Axiom Level" 19
+  :Skill "Precognition 8"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "10-meter radius"
+  :Duration "Concentration"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 207"
+  :description "Awareness senses strong impressions of future
+danger increasing her and her allies’ defenses
+while she maintains concentration. A success
+adds +1 to the psi’s physical defenses and those
+of all her companions in range. It does not increase
+interaction defenses.
+Success Levels:
+• Good: The allies’ physical defenses are
+increased by +2 .
+• Outstanding: As a Good result plus the
+Range is increased to 20 meters."}
+
+
+
+ {:name "Clairvoyance"
+  "Axiom Level" 23
+  :Skill "Telepathy 12"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "100 kilometers"
+  :Duration "Concentration"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 207"
+  :description "Clairvoyance allows a psychic to see through
+another’s eyes. The psi must have line of sight to
+the target when the power is activated but doesn’t
+need visibility to maintain the connection. With a
+standard success the victim knows she’s being
+observed. Those unfamiliar with psionics may not
+understand that there’s a voyeur in their minds but
+definitely know they’re being observed.
+• Good: The psi can hear through the target’s
+ears.
+• Outstanding: The target doesn’t realize the
+power is active."}
+
+
+
+
+ {:name "Clarity"
+  "Axiom Level" 23
+  :Skill "Telepathy 10"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "5 meters"
+  :Duration "Instant"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 207"
+  :description "Clarity removes all harmful psionic influences
+from a subject effectively acting as dispel magic for
+psychic effects. It can be used to eject a clairvoyant
+or mind controller clear confusion or restore
+altered memories.
+Success Levels:
+• Good: The recipient’s willpower increases by
++2 for the next minute.
+• Outstanding: The recipient’s willpower
+increases by +4 for the next hour."}
+
+
+ {:name "Cloud Mind"
+  "Axiom Level" 23
+  :Skill "Telepathy 12"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "10 meters"
+  :Duration "Concentration"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 207"
+  :description "Much like the old Shadow character from the pulp
+serials a psi with this ability can alter others’
+brainwaves so that she is essentially invisible.
+Once activated the character is unseen to the
+target or targets as long as she remains silent or
+doesn’t otherwise attract attention.
+Anyone with reason to believe a hidden individual
+is present may make a willpower or Mind test as a
+simple action to detect them. The DN is the psi’s
+telepathy skill. If successful the psionicist becomes
+visible to that particular target.
+Success Levels:
+• Good: Even if the psionicist is revealed,
+affected targets suffer a −4 visibility penalty
+against the character so long as the power is
+maintained.
+• Outstanding: The character cannot be seen
+by affected targets even if they realize she’s
+there. Attacks against her suffer a –6 penalty."}
+
+ {:name "Confusion"
+  "Axiom Level" 23
+  :Skill "Telepathy 10"
+  "Casting Time:" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "50 meters"
+  :Duration "3 rounds"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 208"
+  :description "Confusion sends out a wave of psychic energy
+that confounds foes. If successful the power affects
+everyone within a Large Blast area who then suffer
+a –1 penalty to all actions.
+Success Levels:
+• Good: Those affected suffer a −2 penalty.
+• Outstanding: The victims are Vulnerable as
+well."}
+
+
+ {:name "Copycat"
+  "Axiom Level" 23
+  :Skill "Telepathy 10"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "25 meters"
+  :Duration "3 rounds"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 208"
+  :description "When a psi needs to learn something in a hurry,
+she can simply take it from someone else’s mind!
+Copycat allows her to borrow a number of skill adds
+from a target either willing or unwilling.
+The psi must choose a target and the skill to be
+copied before making her telepathy roll. If the target
+doesn’t happen to have that skill there’s no effect.
+A Standard success grants her one skill add and she
+is no longer considered unskilled.
+Success Levels:
+• Good: The psi can copy up to 3 adds.
+• Outstanding: The psi can copy up to 5 adds."}
+
+
+
+ {:name "Energize"
+  "Axiom Level" 20
+  :Skill "Kinesis 10"
+  "Casting Time" "1 action"
+  :DN "Challenging (DN 12)"
+  :Range "Self"
+  :Duration "3 rounds"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 208"
+  :description "The psi builds up psychic energy and channels
+it through his nervous system granting him
+increased Strength and Dexterity for the Duration
+of the power.
+This ability is highly taxing however. As soon
+as the power ends the psi suffers 2 Shock and a −2
+penalty to Strength and Dexterity for the next minute.
+A Standard success increases Strength and
+Dexterity by +1 .
+Success Levels:
+• Good: Strength and Dexterity increase +2 .
+• Outstanding: Strength and Dexterity increase
++2 and the psionicist doesn’t suffer a penalty
+after the duration ends."}
+
+
+ {:name " Foreshadow"
+  "Axiom Level" 21
+  :Skill "Precognition 14"
+  "Casting Time" "1 action"
+  :DN "Very Hard (DN 16)"
+  :Range "Self"
+  :Duration "Instant"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 208"
+  :description "The psychically sensitive witness constant possible
+futures. Sorting through them in a world rich in
+Possibilities is difficult but occasionally useful—
+and life-saving—information can be gleaned.
+If foreshadow is successful the psi may look at the
+next three cards in the Drama Deck but may not
+rearrange them.
+Success Levels:
+• Good: The character may look at and
+rearrange the top three cards of the Drama
+Deck.
+• Outstanding: The character may look at and
+rearrange the top three cards. He may also
+discard one of them if he chooses."}
+
+
+ {:name "Mind Sense"
+  "Axiom Level" 21
+  :Skill "Telepathy 10"
+  "Casting Time" "1 action"
+  :DN "Easy (DN 8)"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 209"
+  :description "Mind sense reveals the presence of any and all
+sapient creatures within the psi’s range. A basic
+success reveals the number of contacts and whether
+they are of human or animal intelligence. Additional
+successes increase the Range and the information
+provided. Subjects don’t need to be within line of
+sight only within range.
+Success Levels:
+• Good: Range of 100 meters and the subject’s
+general status: excited passive or hostile.
+• Outstanding: The subjects’ general intentions
+or surface thoughts are detected as well. This
+includes any psionic potential or activity."}
+ {:name "Mend"
+  "Axiom Level" 24
+  :Skill "Kinesis 12"
+  "Casting Time" "1 hour"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Instant"
+  :Lists "Psionic Mutation, Awakened"
+  :Source "TE 209"
+  :description "Psionics with this power can increase their
+biological self-awareness to such a point that they
+can actually heal injuries they’ve suffered.
+An hour of rest and a successful test of kinesis
+removes a Wound. If the test is failed or the psi
+doesn’t heal all of her Wounds she may simply
+try again though each test requires the full hour.
+Success Levels:
+• Good: The psi heals 2 Wounds.
+• Outstanding: The psi heals 3 Wounds."}
+ {:name "Mind Blast"
+  "Axiom Level" 25
+  :Skill "Telepathy 14"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "50 meters"
+  :Duration "Instant"
+  :Lists "Awakened"
+  :Source "TE 209"
+  :description "Those who specialize in kinesis are best known
+for carnage and mayhem but telepaths are not
+to be trifled with either. Mind blast casts a wave
+of psychic energy at the psi’s foes that can stun
+the weak-willed. The power is unaffected by
+armor unless it has psychic protection somehow—
+consider only the target’s basic Toughness.
+Success causes 10 non-lethal damage.
+Success Levels:
+• Good: +1 BD damage.
+• Outstanding: +2 BD damage."}
+ {:name "Mind Control"
+  "Axiom Level" 25
+  :Skill "Telepathy 16"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :Lists "Awakened"
+  :Source "TE 209"
+  :description "Mind control is a sinister power that allows the
+psionicist to inhabit and control another person’s
+body. After establishing control the psi may use
+her actions to move and act with the target’s body—
+or both by using Multi-Actions. The victim may
+be made to perform actions using his own skills
+and abilities but may not be forced to spend
+Possibilities.
+A controlled target must sacrifice an entire turn
+to attempt to break free—he may take no other
+actions whether he’s successful or not. To break
+free the target tests willpower or Mind against the
+psionicist’s telepathy skill. If successful the psi’s
+Concentration is broken and the power ends.
+Once a victim breaks free she may not be subject
+to any other mind control for the rest of the scene.
+Success Levels:
+• Good: The target suffers a −1 penalty on
+attempts to break free.
+• Outstanding: The target suffers a –2 penalty
+on attempts to break free."}
+
+ {:name "Psychic Shield"
+  "Axiom Level" 23
+  :Skill "Telepathy 10"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 210"
+  :description "Psychic shield protects the psi and anyone else he
+chooses within a five-meter radius from psionic
+attacks. Psionic abilities attempting to affect the
+shielded minds suffer a –2 penalty.
+Psychic shield only works against direct attacks or
+effects such as pyrokinesis or mind blast. It cannot
+stop a bench thrown with telekinesis from harming
+someone inside but it does protect them from
+being grabbed by telekinesis itself.
+Success Levels:
+• Good: The penalty is increased to –4.
+• Outstanding: The penalty is increased to –6."}
+
+
+ {:name "Psychometry"
+  "Axiom Level" 22
+  :Skill "Precognition 12"
+  "Casting Time" "1 minute"
+  :DN "Standard (DN 10)"
+  :Range "Touch"
+  :Duration "Concentration"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 210"
+  :description "The psychic can read strong emotions or mental
+images that cling to an object. She must handle
+the object and concentrate for a minute to get any
+impressions at all.
+On a Standard success the psionicist sees images
+of how the object was generally used in the past.
+Note that this provides the combination for keypads
+or safes and shows an unfamiliar psi how to use
+otherwise alien devices.
+• Good: The psi sees images of any unusual or
+intense uses of the object especially crimes.
+• Outstanding: The psi gains a clear picture of all
+the object’s notable owners and how each used it."}
+
+
+ {:name "Pyrokinesis"
+  "Axiom Level" 22
+  :Skill "Kinesis 12"
+  "Casting Time" "1 action"
+  :DN "Target’s dodge or Dexterity"
+  :Range "25 meters"
+  :Duration "Instant"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 210"
+  :description "“Firestarters“ cause the very air itself to burst into
+flame and can channel it into destructive blasts.
+The attack doesn’t suffer any Range penalties,
+but concealment Multi-Targeting and the like are
+considered normally. If the kinesis total equals or
+exceeds the target’s dodge or Dexterity he’s hit for
+14 fire damage.
+Success Levels:
+• Good: +1 BD damage.
+• Outstanding: +2 BD damage."}
+
+ {:name "Read Mind"
+  "Axiom Level" 23
+  :Skill "Telepathy 10"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "50 meters"
+  :Duration "1 minute"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 210"
+  :description "All psis consider this an intrusive power and a
+violation of sentient rights. Whether one actually
+cares about that or not is another matter and of
+course some Storm Knights may feel they have no
+choice in the most dire situations.
+A Standard success detects surface thoughts
+and emotions but the target knows something is
+happening. If he’s familiar with psionic powers he
+knows his thoughts are being read.
+Success Levels:
+• Good: Important memories are detected and
+the target doesn’t know he’s being scanned.
+• Outstanding: The target’s mind is an open
+book. If the target doesn’t know something,
+however due to a repressed memory or even
+brain damage the psi only picks up that
+something is missing."}
+
+
+ {:name "Strangle"
+  "Axiom Level" 22
+  :Skill "Kinesis 14"
+  "Casting Time" "1 action"
+  :DN "Target’s willpower or Mind"
+  :Range "50 meters"
+  :Duration "Concentration"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 210"
+  :description "Invisible but deadly strangle is a frightening
+technique where a telekinetic squeezes blood
+vessels or organs inside a foe.
+Victims of the attack suffer 2 Shock.
+Success Levels:
+• Good: The attack causes 3 Shock.
+• Outstanding: The attack causes 4 Shock and
+the target is Stymied."}
+
+
+ 
+
+ {:name "Telekinetic Barrier"
+  "Axiom Level" 23
+  :Skill "Kinesis 12"
+  "Casting Time" "1 action"
+  :DN "Standard (DN 10)"
+  :Range "Self"
+  :Duration "Concentration"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 211"
+  :description "The psionicist wards off incoming
+attacks with a barrier of raw
+telekinetic energy.
+Successful activation adds +1 to all the
+caster’s defenses (dodge, melee, combat, and
+unarmed combat) . The bonus follows normal
+Stacking rules so a character with an actual
+shield inside a telekinetic barrier benefits only
+from whichever is highest.
+Success Levels:
+• Good: The bonus is increased to +2 .
+• Outstanding: The bonus is increased to +3 ."}
+
+
+ {:name "Telepathy"
+  "Axiom Level" 22
+  :Skill "Telepathy 8"
+  "Casting Time" "1 action"
+  :DN "Easy (DN 8)"
+  :Range "1 kilometer"
+  :Duration "Concentration"
+  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Source "TE 211"
+  :description "Sending and receiving thoughts is considered
+the most basic power of any officially trained
+psi such as those who work for Core Earth’s
+government agencies.
+A Standard success allows the psi to keep up
+to four other minds in contact as long as she
+continues to concentrate. It may not use the MultiTarget option.
+The psi must be able to see those she wants to
+contact if they are unfamiliar to her.
+Unconscious characters cannot be reached.
+If the target is unwilling to be contacted
+via telepathy the DN is his willpower or
+Mind instead. Even if communication is
+established with an unwilling target,
+it doesn’t allow the psi to read
+thoughts only to communicate and
+hear thoughts intentionally projected
+by the target.
+Success Levels:
+• Good: The psi can connect up
+to 10 minds (including her own) .
+• Outstanding: The psi can
+connect up to 20 minds (including
+her own) ."}
+
+
+
+
+{:name "Alter Object"
+ "Axiom Level" 24
+ :Skill "Telepathy 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "25 meters"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "TH 44"
+ :description
+ "The agent focuses on a single inanimate object
+and then changes how others perceive it. The object
+looks, feels, and smells like whatever the psi chooses.
+The object can be no larger than an average sized
+person and must be perceived approximately the
+same size, weight, and shape of the old object, but
+otherwise it can appear however the psi chooses,
+but it must remain inanimate. A green backpack
+can become blue, an opened wallet can appear to
+be the badge and identification of a police officer,
+or fatigues can look like a fashionable tuxedo.
+If the object is Large, the test takes a Hard (-4)
+penalty or if the object is Very Large then penalty
+is Heroic (-8).
+On a success, one target visible to the psi perceives
+the object differently. Should other targets see the
+object, they perceive it normally. If the initial target
+leaves the area, and another arrives, the new target
+will also perceive the object differently.
+This power cannot make the object appear invisible.
+The psi’s persuasion, intimidation, and trick tests
+that employ the item are Favored.
+Despite appearances, the object itself isn’t changed.
+Living beings perceiving the illusion believe it unless
+they interact with it in some manner (e.g.touching
+or shooting it), or if an interaction with the object
+indicates that something is amiss. To disbelieve the
+illusion, the character makes an evidence analysis or
+Mind contest vs. the psi’s telepathy as a free action.
+If multiple beings attempt to disbelieve the illusion
+at the same time, they may do so as a Combined
+Action. Once anyone disbelieves the illusion, the
+illusion is broken and fades away.
+Success Levels:
+• Good: Up to three targets perceive the object
+differently.
+• Outstanding: Up to five targets perceive the
+object differently."}
+{:name "Anticipate"
+ "Axiom Level" 24
+ :Skill "Precognition 14"
+ "Casting Time" "1 action"
+ :DN "Very Hard (DN 16)"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "TH 45"
+ :description
+ "Prerequisite: Beta Clearance and foreshadow power
+This power allows reactions fast enough to react to
+imminent events. The psychic may test precognition
+each time a new Drama card is revealed. If successful,
+at the start of each round, the psi may choose to act
+before or after the Villains for that round. If another
+effect allows a Villain to always act first, roll a Bonus
+die. On a ∞ the psi acts first.
+Anticipate only effects the psi and does not allow
+his fellow Storm Knights to act when he does.
+Success Levels:
+• Good: The psi may play a Destiny card into
+his Action Pool before acting instead of after
+acting.
+• Outstanding: As a Good result, plus the psi
+gains a normal action during the Heroes phase
+in addition to acting before or after the villains."}
+{:name "Atrophy"
+ "Axiom Level" 22
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "Touch"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "TH 46"
+ :description
+ "The psi builds up psychic energy then touches
+a target and channels that energy through their
+nervous system. This slows down the target’s
+reaction time and power. A success reduces the
+target’s Dexterity and Strength by –1. This does not
+modify Toughness.
+Success Levels:
+• Good: Dexterity and Strength are reduced by
+–2.
+• Outstanding: Dexterity and Strength are
+reduced by –2 and the target suffers 2 points
+of Shock."}
+{:name "Aversion"
+ "Axiom Level" 23
+ :Skill "Telepathy 12"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Mind"
+ :Range "50 meters"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "TH 46"
+ :description
+ "Aversion creates an overwhelming desire in the
+target (or targets) to avoid the psychic at all costs.
+This does not give the agent control over the target.
+The target will do anything he can to avoid coming
+within 5 meters of the target or looking at him. The
+target may attack the psychic, but suffers the –6
+penalty for Blind Fire.
+Once a target is no longer under the effect of
+aversion, he may not be subject to any other aversion
+for the rest of the scene.
+Success Levels:
+• Good: If able, the target moves away from
+the agent on his action at his walking speed.
+The target won’t harm himself to get away, or
+suffer extra effects if there’s nowhere to go.
+• Outstanding: As Good but the target moves
+away at maximum speed (usually running)."}
+{:name "Awakened Mind"
+ "Axiom Level" 25
+ :Skill "Precognition 16"
+ "Casting Time" "1 action"
+ :DN "Heroic (DN 18)"
+ :Range "Self"
+ :Duration "Instant"
+ :Lists ""
+ :Source "TH 46"
+ :description
+ "Awakened Mind is a powerful ability that very
+few followers of the Way master. Using ancient
+meditative techniques passed down by members of
+the Race for generations, the psi expands his mind.
+This allows him to see things in different dimensions,
+timelines, and realities. During this brief awakening,
+the psi can share this psychic knowledge of different
+possibilities with fellow Storm Knights.
+If successfully activated, Awakened Mind allows
+the psi to immediately and freely trade any number
+of Possibilities with one reality-rated ally.
+Success Levels:
+• Good: The psi can connect an extra reality-
+rated person, allowing two other people to
+trade with one another or all three to exchange
+any number of Possibilities. This may include
+granting Ords Possibilities (which disappear
+at the end of the scene).
+• Outstanding: As Good plus one ally gains an
+additional Possibility."}
+{:name "Change Sound"
+ "Axiom Level" 21
+ :Skill "Kinesis 8"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "50 meters"
+ :Duration "1 round"
+ :Lists ""
+ :Source "TH 46"
+ :description
+ "The agent manipulates noises so they are
+completely altered, or create sound where none
+existed. A squeaky hinge on a door sounds like
+someone laughing, gun fire sounds like dogs
+barking, or a car backfiring sounds like people
+cheering. The volume of the noise may even be
+muffled or amplified, but only up to the equivalent
+of a gun shot (i.e. it cannot damage hearing).
+Change sound cannot create intelligible speech, but
+only indistinct sounds that cannot be understood—
+chatter, a crowd roaring, or indistinct whispers.
+Additionally, while someone talking can be
+changed to sound like a horse neighing or tires
+squealing, or even suppressed, it does change the
+words projected from someone’s mouth. Change
+sound can be used to mimic words, Note this doesn’t
+hamper casting, the words of invocation are still
+spoken even if others can’t hear them correctly.
+Success Levels:
+• Good: Intelligible speech can be created.
+• Outstanding: As Good and the sound can be
+made loud enough or confusing enough that it
+Stymies anyone who hears it. Allies can cover
+their ears with warning as a free action."}
+{:name "Clairsentience"
+ "Axiom Level" 23
+ :Skill "Precognition 10"
+ "Casting Time" "1 minute"
+ :DN "Challenging (DN 12)"
+ :Range "Touch"
+ :Duration "10 minutes"
+ :Lists ""
+ :Source "TH 47"
+ :description
+ "The psi can use an object recently (within the past
+24 hours) in the possession of someone to track that
+person. The psi smells, touches, and then focuses
+on the object.
+On a success, the psi gets a general sense of where
+the person is currently located. The psi can use this
+ability to track the target. He does not know the
+target’s exact location but can home in on it as he
+gets closer to the target. Within 50 meters of the
+target, the psi can pinpoint the target.
+If the object’s owner is dead or across a reality
+boundary the power automatically fails.
+Success Levels:
+• Good: Duration increases to 1 hour and if the
+object’s owner is dead the psi can feel it, and
+gains directions towards the body.
+• Outstanding: As Good, plus if the object’s
+owner is in another realm but still within the
+same cosm the power functions normally. The
+duration increases to 1 day."}
+{:name "Deja Vu"
+ "Axiom Level" 24
+ :Skill "Precognition 12"
+ "Casting Time" "1 action"
+ :DN "Easy (DN 8)"
+ :Range "Self"
+ :Duration "1 round"
+ :Lists ""
+ :Source "TH 47"
+ :description
+ "The psi gets a glimpse into the future getting a
+vague sense what will take place in his immediate
+surroundings. This foresight allows her to take
+advantage of any actions she takes in the present.
+During her turn, the psi chooses one skill test to
+become Favored for that turn.
+Success Levels:
+• Good: The duration increases to 3 rounds.
+• Outstanding: As Good and the psi may choose
+to make an ally’s skill Favored for their turn
+instead of her own."}
+{:name "Dissipate Energy"
+ "Axiom Level" 24
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Challenging (DN 12)"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "TH 47"
+ :description
+ "Dissipate energy creates an invisible shield
+around the psi. This shield deflects and absorbs
+energy attacks that target the psi. The psi gains +3
+to defenses against all energy weapons, fire, and
+electricity-based attacks. If the psi makes an Active
+Defense she gains a +3 Armor bonus as well.
+Success Levels:
+• Good: As Standard but the bonus increases
+to +5.
+• Outstanding: As Good plus the psi may grant
+the bonuses to one adjacent ally. If the psi
+makes an Active Defense, any attacks on the
+ally use the psi’s defense instead (as well as
+granting the Armor bonus)."}
+{:name "Empower Id"
+ "Axiom Level" 22
+ :Skill "Telepathy 12"
+ "Casting Time" "1 action"
+ :DN "Challenging (DN 12)"
+ :Range "25 meters"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "TH 47"
+ :description
+ "The psi reaches out and touches the mind of a
+willing target. He grasps at a lower and more primal
+part of the brain. The psi brings it to the forefront
+of the mind increasing the subject’s senses and
+athleticism at the expense of comprehension and
+higher intellect. The target receives a +1 to Strength
+and Dexterity (including defenses and skills based
+on Dexterity but Toughness is not changed) but
+at the expense of a –1 penalty to Mind (and skills
+based on Mind). The target must willingly accept the
+changes this power brings. Otherwise, Empower Id
+immediately fails.
+Success Levels:
+• Good: The bonus to Dexterity and Strength
+increases to +2, and the penalty to Mind
+increases to –2.
+• Outstanding: As Good, plus the penalty to
+Mind is is only –1."}
+{:name "Environmental Adaptation"
+ "Axiom Level" 21
+ :Skill "Kinesis 8"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Touch"
+ :Duration "8 hours"
+ :Lists ""
+ :Source "TH 48"
+ :description
+ "The psi manipulates the air around a target,
+warming or cooling it and increasing the target’s
+resistance to the elements. On a success, the target
+automatically passes the first survival or Strength test
+due to extreme cold or heat every 8 hours.
+This power does not give the target resistance to
+cold or heat damage.
+This power may only be attempted once per day.
+Success Levels:
+• Good: The target automatically passes all
+survival or Strength tests due to extreme cold
+or heat.
+• Outstanding: As Good, plus the target gains
++2 Toughness to cold or fire damage."}
+{:name "Flash Freeze"
+ "Axiom Level" 24
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity"
+ :Range "50 meters"
+ :Duration "Instant"
+ :Lists ""
+ :Source "TH 48"
+ :description
+ "The psi greatly slows down the molecules moving
+around the target. The air feels thicker and the
+temperature rapidly drops. The air immediately
+around the target freezes, forming small ice crystals.
+If successful, flash freeze deals 14 points of
+cold damage.
+If the target is immersed at least up to their knees
+in water, the kinesis test gains a +4 bonus.
+Success Levels:
+Good: +1 BD damage. If the target is at least
+partially immersed in water, the target becomes
+immobilized (but not restrained).
+Outstanding: +2 BD damage. If the target is at least
+partially immersed in water, the target becomes
+restrained."}
+{:name "Inflict Joy"
+ "Axiom Level" 23
+ :Skill "Telepathy 12"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Spirit"
+ :Range "25 meters"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "TH 49"
+ :description
+ "The psi mentally touches the target’s cerebral
+cortex, stimulating the brain to focus on feelings that
+make the subject feel happy and joyful. The subject
+is overwhelmed with positive emotions, causing
+uncontrollable laughter.
+On a success the laughter causes the character
+to become Stymied for the duration. The target
+may also not attempt any taunt attacks during
+the laughter.
+Success Levels:
+• Good: The target also becomes Vulnerable for
+the Duration.
+• Outstanding: The target also becomes Very
+Stymied for the Duration."}
+{:name "Mind Surge"
+ "Axiom Level" 22
+ :Skill "Telepathy 12"
+ "Casting Time" "1 action"
+ :DN "Higher of psi’s Mind or Spirit"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "TH 49"
+ :description
+ "The psi cycles psychic energy into his own
+brain, increasing memory, speed of thought, and
+resistance to mental intrusion. If the psi makes a
+standard success on his telepathy test, he increases
+his Mind and Spirit by +1. This does not alter the
+psi’s Shock Limit.
+Success Levels
+• Good: Mind and Spirit increase by +2.
+• Outstanding: As Good, plus psi’s Shock Limit
+increases by 2."}
+
+{:name "Psychic Blade"
+ "Axiom Level" 25
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Challenging (DN 12)"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "TH 49"
+ :description
+ "The psi focuses and forms mental energy into
+a single melee weapon of his own design. The
+manifested weapon of pure psychic energy cuts
+through armor without difficulty. On a Standard
+Success the psychic blade deals Strength +3 damage
+with AP 2. The blade uses melee weapons to hit, and
+if dropped, handed off, or disarmed, the power
+duration immediately ends.
+Success Levels:
+• Good: Damage increases to Strength +4.
+• Outstanding: Damage increases to Strength +4
+and AP 4."}
+{:name "Psychic Deception"
+ "Axiom Level" 23
+ :Skill "Telepathy 10"
+ "Casting Time" "1 action"
+ :DN "Target’s willpower or Mind"
+ :Range "25 meters"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "TH 50"
+ :description
+ "Psychic deception enhances the user’s ability to
+deceive even the most skilled diplomats. By tapping
+into the target’s mind, they are made more receptive
+to the user’s ideas. Ideas the target would normally
+think were repulsive seem completely reasonable.
+The target will even believe blatant lies.
+If successful, the psi's intimidation, persuasion, and
+taunt tests that deal with deception (GMs call) are
+favored against the target. Psychic deception cannot
+be used to control the target. It only influences and
+does not command.
+Success Levels:
+• Good: All of the psi's intimidation, persuasion,
+and taunt tests against the target are Favored.
+• Outstanding: As Good and the user can pick
+one skill (intimidation, persuasion, or taunt), and
+that skill gets a +4 bonus against the target for
+the duration."}
+{:name "Pyrokinetic Storm"
+ "Axiom Level" 25
+ :Skill "Kinesis 16"
+ "Casting Time" "1 action"
+ :DN "Hard (DN 14) or Hard (-4) vs target’s. dodge
+or Dexterity"
+ :Range "50 meters"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "TH 50"
+ :description
+ "Prerequisites: Beta Clearance, pyrokinesis power
+Pyrokinetic storm is a closely guarded power by
+the Awakened. It has a destructive potential that
+terrifies those with the wisdom to wield it.
+This power creates a blazing fire tornado, affecting
+targets in a Large Blast radius. This spell may also
+be used to block a door or hallway no more than
+5 meters wide.
+Targets hit take 16 fire damage, which targets the
+lowest armor rating.
+Those who are in the raging fire at the end of their
+turn, or enter the fire takes damage again (plus any
+bonus damage). Targets may escape the firestorm
+easily unless they are immobilized.
+Success Levels
+• Good: +1 BD damage
+• Outstanding: +2 BD damage."}
+{:name "Read Mind"
+ "Axiom Level" 23
+ :Skill "Telepathy 10"
+ "Casting Time" "1 round"
+ :DN "Target’s willpower or Mind"
+ :Range "10 meters"
+ :Duration "1 minute"
+ :Lists ""
+ :Source "TH 50"
+ :description
+ "All psis consider this an intrusive power and a
+violation of sentient rights. Whether one actually
+cares about that or not is another matter, and of
+course some Storm Knights may feel they have no
+choice in the most dire situations.
+A Standard success detects surface thoughts
+and emotions, but the target knows something is
+happening. If he’s familiar with psionic powers, he
+knows his thoughts are being read. Only one read
+mind may be be attempted on a particular target per
+scene. Additionally, if the target is reality-rated they
+always know that someone is trying to read their
+mind and the test is a contest instead.
+Success Levels:
+• Good: Important memories are detected and
+the target doesn’t know he’s being scanned.
+• Outstanding: The target’s mind is an open
+book. If the target doesn’t know something,
+however, due to a repressed memory or even
+brain damage, the psi only picks up that
+something is missing."}
+
+{:name "Reshape Reality"
+ "Axiom Level" 25
+ :Skill "Precognition 18"
+ "Casting Time" "1 action"
+ :DN "Very Hard (DN 16)"
+ :Range "Self"
+ :Duration "Instant"
+ :Lists ""
+ :Source "TH 51"
+ :description
+ "Only the most powerful psi’s can bend the laws
+of reality. The cosms are a powerful force that
+have a will of their own. Those who master reshape
+reality can influence and even make minor changes
+to world laws.
+With a successful test, the psi may draw two
+Cosm Cards instead of one. He chooses one Cosm
+Card to keep, resolving its effects normally, and
+discards the other.
+Additional success levels allow the user to
+influence other players Cosm cards.
+This power may only be manifested at the start of
+an Act and only for a single attempt.
+Success Levels:
+• Good: The psi can allow one other player to
+also draw two Cosm Cards, keep one and
+discard the second.
+• Outstanding: The psi can allow two other players
+to also draw two Cosm Cards, keep one and
+discard the second."}
+{:name "Shift Fate"
+ "Axiom Level" 25
+ :Skill "Precognition 16"
+ "Casting Time" "1 action"
+ :DN "Very Hard (DN 16)"
+ :Range "Self"
+ :Duration "1 round"
+ :Lists ""
+ :Source "TH 51"
+ :description
+ "With endless Possibilities come unlimited potential
+futures. Though it can be risky, some have learned
+to make minor adjustments to the present in order
+to change their fate.
+If this power is attempted in a Dramatic scene, the
+test is Disfavored.
+On a successful test, during the next initiative
+phase after the new Drama Card is revealed, shift
+fate allows the psi to add one of the following to
+the Approved Action line: Defend, Intimidate,
+Maneuver, Taunt, or Trick.
+Success Levels:
+• Good: The psi replaces the Approved Action
+line with Any.
+• Outstanding: As Good, plus the psi may
+exchange the Hero and Villain Conflict Lines."}
+{:name "Stall in Time"
+ "Axiom Level" 25
+ :Skill "Precognition 18"
+ "Casting Time" "1 action"
+ :DN "Target’s dodge or Dexterity or target’s reality
+(see below)"
+ :Range "Touch"
+ :Duration "2 rounds"
+ :Lists ""
+ :Source "TH 51"
+ :description
+ "Although precogs mainly are capable of
+supernatural senses, and can even see the future, the
+most powerful of this discipline can actually alter
+the flow of time itself.
+The psi touches a single target (no Multi-Targeting
+is allowed), and on a success the target experiences
+a severe slowing in her rate of time. She is Very
+Stymied and Very Vulnerable for the duration.
+Reality-rated foes have an instinctive defense
+against this power, and any attack is a contest vs
+the target’s reality instead of a test.
+When this power ends, the target may not be
+affected by stall in time until the next scene.
+Success Levels:
+• Good: The target is frozen in time for one
+round. Until this power ends, the target cannot
+act at all, and is immune to all damage and
+effects.
+• Outstanding: As Good and the duration is 2
+rounds."}
+{:name "Swap Consciousness"
+ "Axiom Level" 25
+ :Skill "Telepathy 18"
+ "Casting Time" "1 minute"
+ :DN "Hard (–4) vs the target’s willpower or Mind"
+ :Range "Touch"
+ :Duration "8 hours"
+ :Lists ""
+ :Source "TH 51"
+ :description
+ "Prerequisite: Beta Clearance and mind control
+power.
+The Institute was designed with espionage in mind,
+and even this short time has developed one of the
+most insidious methods of infiltration, even beyond
+what followers of the Way have accomplished.
+Swap conciousness may only be attempted against
+those of the same species as the psi. The Race count
+as humans in this case, but the telepathy test takes
+a -2 penalty.
+The psi makes physical contact with the target’s
+head. If he can maintain this physical connection, he
+begins a battle of wills against the target to force his
+mind into the target’s body. If successful, the target
+and the psi swap consciousnesses.
+For the duration of this power, the psi possesses
+the target’s body, while the target posseses the psi’s.
+The psi has the same attributes and skills as the
+body he now possesses, and vice versa. However,
+abilities that require Perks (such as spells, miracles,
+pulp powers, etc.) cannot be used.
+The target also immediately possess the psi’s body
+if the transfer is successfully completed. The target is
+free to act in the psi’s body with the exact same rules
+as described above. It is not uncommon for a target
+to be restrained before use of swap consciousness
+is attempted.
+Using this power has risks. If the psi is killed
+while in the body of the target, the psi still dies, and
+the target’s mind returns to the body and makes a
+new Defeat test. Likewise, if the target dies while
+inhabiting the psi’s body, the psi must test Defeat
+when he returns. A penalty of –2 or more may be
+applied (GM’s call) based on the condition of the
+body when the mind returns.
+The target of this power may initiate a contest of
+willpower or Mind once each hour, and the duration
+ends if the target wins. If the target's body is KOed
+for any reason he gains an extra chance to initiate
+the contest. If the activation fails or the target wins
+a contest to break free swap consciousness may not be
+used on that target again, any further attempt ends
+in automatic failure.
+Success Levels:
+• Good: The psi may use the target's Perks and
+Special Abilities that require knowledge and
+skill to use (GM's call).
+• Outstanding: As Good and the psi may use his
+own Charisma, Mind, and Spirit attributes, as
+well as associated skills, instead of using the
+target's. No mixing is possible though (such as
+using the target's Mind attribute with the psi's
+Mind-based skill adds)."}
+{:name "Telekinesis"
+ "Axiom Level" 25
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Easy (DN 8)"
+ :Range "25 meters"
+ :Duration "Concentration"
+ :Lists "Anomaly, Psionic Mutation, Awakened"
+ :Source "TH 52, TE 211"
+ :description
+ "Telekinesis allows a psi to move objects with her
+mind. The psi’s Spirit is her Strength once activated,
+but she continues to use her own skills as usual.
+If she wishes to grab a creature, she must use the
+Grappling rules as normal.
+A psi can move up to two objects at one time
+(including herself to “fly“). She must be able to lift
+the combined weight of the objects, and they move
+up to her walking speed. In Good and Outstanding
+results replace Mind with Spirit.
+Success Levels:
+• Good: Range of 50 meters and add +2 to the
+power’s effective Strength.
+• Outstanding: Range of 50 meters and add +4
+to the power’s effective Strength."}
+
+
+{:name "Thicken Air"
+ "Axiom Level" 24
+ :Skill "Kinesis 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "25 meters"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "TH 53"
+ :description
+ "The psi focuses on the ether in a targeted area.
+He empowers it with psychic energy, causing the
+air to become unnaturally viscous. Those affected
+discover that this viscous air moves with them.
+Thicken air ether targets all within a Medium Blast
+Radius, and on a successful kinesis test, affected
+targets any physical action that the target takes is
+considered two actions (i.e taking 2 actions would
+count as 4 actions for Multi-Action penalties.
+Purely mental actions or those that only require
+speech are not affected.
+Success Levels:
+• Good: As Standard and their movement is
+halved. Simple actions are treated as a single
+full action.
+• Outstanding: As Standard and physical
+actions count as three actions each."}
+
+
+
+{:name "Ancestral Weapon"
+ "Axiom Level" 24
+ :Skill "Precognition 12"
+ "Casting Time" "30 minutes"
+ :DN "Hard (DN 14)"
+ :Range "Self"
+ :Duration "24 hours"
+ :Lists ""
+ :Source "PP 49"
+ :description
+ "To use this power, the psychic must possess a melee
+weapon. He holds the weapon and meditates,
+while reaching out to all the weapon masters
+who lived prior to him. On a success, the psychic
+gains intimate understanding of the techniques
+legendary weapon masters before him used.
+He gains a bonus of +1 to his melee weapons tests
+while wielding the weapon. Additionally, his attacks
+gain AP 1. This stacks with any AP the weapon
+inherently has.
+Success Levels:
+• Good: The melee weapons bonus increases to +2
+and the attacks gain AP 2 instead of AP 1.
+• Outstanding: As Good, and the hero deals
++1BD damage when using the weapon. This
+stacks with any bonus die for damage the
+wielder gains."}
+{:name "Biodensity"
+ "Axiom Level" 21
+ :Skill "Kinesis 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "PP 49"
+ :description
+ "By focusing the energies within one’s body and
+using breathing techniques, the psychic can
+  increase the bone density and overall toughness of
+his body to offer some protection. Biodensity grants
+the manifester a +1 Toughness bonus.
+Success Levels:
+• Good: The Toughness bonus increases to +2.
+• Outstanding: The Toughness bonus increases
+to +3."}
+{:name "Celerity"
+ "Axiom Level" 20
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "PP 49"
+ :description
+ "The psychic floods his fast twitch muscle fibers
+with energy to increase his reaction time and
+overall speed. This allows him to rapidly switch his
+focus from action to action.
+On a success, the psychic ignores 2 points of
+Multi-Action penalties and may take an additional
+simple action.
+Success Levels:
+• Good: As Standard and the psychic also gains a
++1 bonus to his dodge defense.
+• Outstanding: As Good, but the psychic ignores
+4 points of Multi-Action penalties."}
+{:name "Compelling Voice"
+ "Axiom Level" 23
+ :Skill "Telepathy 12"
+ "Casting Time" "1 action"
+ :DN "Hard (-4) vs. target's willpower or Mind"
+ :Range "5 meters"
+ :Duration "1 round"
+ :Lists ""
+ :Source "PP 49"
+ :description
+ "Compelling voice may only be manifested at a single
+target, and the target must be able to understand the
+psi (i.e., it must be intelligent enough to understand
+commands and speak the same language).
+To manifest this power, the psi must speak a short
+command to a single target (no Multi-Targeting).
+The command may involve the victim undertaking
+any action using his own skills and abilities, but
+they may not be forced to spend Possibilities. If
+the command involves making multiple actions,
+manifesting this power invokes a penalty equal to
+the usual Multi-Action penalty. If the command
+endangers the victim’s life (such as telling them
+  to walk off a cliff) the telepathy test is Heroic
+(–8) instead.
+If the target is reality-rated, the test is instead a
+contest of telepathy vs. willpower or Spirit. The Hard
+or Heroic penalties still apply.
+On a success, the target resists but becomes
+Stymied and Vulnerable.
+Success Levels:
+• Good: The target must undertake the action,
+but any skill tests to resolve the action take a
+–2 penalty.
+• Outstanding: As Good but without penalty."}
+{:name "Datakinesis"
+ "Axiom Level" 24
+ :Skill "Kinesis 10"
+ "Casting Time" "1 action"
+ :DN "Challenging (DN 12)"
+ :Range "Touch"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "PP 50"
+ :description
+ "By manipulating the electrical currents that run
+through a smart phone, desktop, tablet, or other
+smart device, the psychic can operate the device,
+bypassing passwords, firewalls, and other barriers
+by touching the object and maintaining his focus.
+To manifest datakinesis, the psychic touches the
+object that he is attempting to gain access to and
+concentrates. On a success, the psychic can use his
+kinesis skill instead of computers.
+If the psychic loses contact with the device or
+Concentration, the power immediately ends.
+Success Levels:
+• Good: As Standard, and the duration increases
+to 1 hour. Access can be reestablished after
+losing physical contact with the device.
+• Outstanding: As Good and kinesis tests used to
+manipulate computers are Favored."}
+{:name "Disguise Reality"
+ "Axiom Level" 24
+ :Skill "Telepathy 12"
+ "Casting Time" "10 minutes"
+ :DN "Hard (DN 14)"
+ :Range "Touch"
+ :Duration "24 hours"
+ :Lists ""
+ :Source "PP 50"
+ :description
+ "The psychic projects the image and feeling that he
+and targeted allies belong to a different reality than
+their own. While their clothing, possessions, and
+  abilities do not actually change, their appearance
+changes in the minds of all who view them.
+On a success, the psychic can conceal the cosm(s)
+he and his allies are from. For as long as he maintains
+Concentration, he and his allies appear and act in
+a way that seems natural for the cosm they are in.
+This does not actually change their reality, axioms,
+or anything else.
+If an affected character does something or uses
+an ability not supported by the cosm’s axioms or
+World Laws, the psychic must test telepathy against
+the observers’ willpower or Mind, or the power ends.
+Multi-Targeting penalties apply.
+Success Levels:
+• Good: The telepathy test to maintain the illusion
+is Favored.
+• Outstanding: As Good and no Multi-Targeting
+penalties apply."}
+{:name "Dissipate energy"
+ "Axiom Level" 24
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Challenging (DN 12)"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "PP 50"
+ :description
+ "Dissipate energy creates an invisible shield
+around the psi. This shield deflects and absorbs
+energy attacks that target the psi. The psi gains
++3 to defenses against all energy weapons, fire, and
+electricity-based attacks. If the psi makes an Active
+Defense the bonus applies to Armor as well.
+Success Levels:
+• Good: As Standard but the bonus increases to
++5.
+• Outstanding: As Good plus the psi may grant
+the bonuses to one adjacent ally. If the psi
+makes an Active Defense, any attacks on the
+ally use the psi’s defense instead (as well as
+granting the Armor bonus)."}
+{:name "Fulgurkinesis"
+ "Axiom Level" 22
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Target's dodge or Dexterity"
+ :Range "50 meters"
+ :Duration "Instant"
+ :Lists ""
+ :Source "PP 50"
+ :description
+ "Though less common than “firestarters,” there are
+psychics who manipulate the electrical currents
+running through machinery or static charges
+within the air.
+The manifester empowers the static in the air,
+causing electricity to arc towards targets within
+a Medium Blast Radius. Those hit suffer 12
+(AP4) damage.
+If there is high-voltage machinery nearby (GM’s
+call) the manifester may choose to use this as the
+source of fulgurkinesis, dealing +4 damage, but the
+machinery is destroyed in the process.
+Success Levels:
+• Good: +1BD damage.
+• Outstanding: +2BD damage."}
+{:name "Heat Shield"
+ "Axiom Level" 23
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "6 rounds"
+ :Lists ""
+ :Source "PP 51"
+ :description
+ "The psi creates a shimmering wave of heat that
+surrounds her and incinerates projectiles (bullets,
+arrows, etc.) fired at her. This shield has no effect
+on melee or unarmed attacks, nor does it affect
+energy weapons attacks. On a success, the hero gains
++2 to her dodge defense and +2 Armor against fire
+combat and missile weapons attacks.
+Success Levels:
+• Good: The bonuses increase to +3.
+• Outstanding: The bonuses increase to +4."}
+{:name "Invigorate"
+ "Axiom Level" 21
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Hard (DN 14)"
+ :Range "Self"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "PP 51"
+ :description
+ "Prerequisite: Beta Clearance and energize power
+  
+  The psychic draws energy from everything around
+him and adds it to his own, increasing his Strength
+and Dexterity.
+On a success, the psychic gains a +2 bonus to
+Strength and Dexterity. Invigorate pushes the
+  psychic beyond the limits of what his body should
+be able to handle.
+Success Levels:
+• Good: The bonus to Strength and Dexterity
+increases to +3.
+• Outstanding: The bonus to Strength and
+Dexterity increases to +4."}
+{:name "Manipulate Possibilities"
+ "Axiom Level" 24
+ :Skill "Precognition 10"
+ "Casting Time" "1 minute"
+ :DN "Hard (DN 14)"
+ :Range "10 meters"
+ :Duration "Instant"
+ :Lists ""
+ :Source "PP 51"
+ :description
+ "The psychic can change one Possibility, of his own or
+an ally’s within range, to that of another cosm with a
+success. The new Possibility must be one which the
+psychic is in or to the psychic’s home cosm.
+This power may only be manifested once per scene.
+Success Levels:
+• Good: Two Possibilities may be changed, and
+may be changed to any reality from reality-
+rated allies within range.
+• Outstanding: Three Possibilities may be
+changed, and may be changed to any reality
+from reality-rated characters within range."}
+{:name "Minor Telekinesis"
+ "Axiom Level" 23
+ :Skill "Kinesis 8"
+ "Casting Time" "1 action"
+ :DN "Easy (DN 8)"
+ :Range "10 meters"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "PP 52"
+ :description
+ "Minor telekinesis allows the psi to grasp, move,
+and manipulate objects, with a mass of up to five
+kilograms, with her mind. This can include such
+actions as wielding a sword, flipping a switch,
+or punching a foe. Although the psi can only
+manipulate small objects (or barely push heavier
+ones), if he strikes with those objects (or just with
+his mind) it uses a base Strength equal to the psi’s
+Spirit.
+The psi must manifest this power to grasp or hold
+a single object. Once successfully manifested, he
+may continue to manipulate that object as long as he
+maintains Concentration. He may manipulate other
+objects by manifesting the power additional times.
+The psi uses his own skills as normal (i.e.
+unarmed combat when hitting a foe, lockpicking when
+attempting to pick a lock).
+  Success Levels:
+• Good: The psi may transfer focus to another
+object without manifesting the power again.
+• Outstanding: The duration increases to 6
+rounds."}
+{:name "Mnemonist"
+ "Axiom Level" 20
+ :Skill "Precognition 8"
+ "Casting Time" "1 round"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "Instant"
+ :Lists ""
+ :Source "PP 53, TH 49"
+ :description
+ "The psi causes the synapses in the hippocampus to
+fire rapidly. The psi can commit incredible details
+of smells, sounds, and sights to memory. Frequently
+used for espionage, mnemonist allows the psi to recall
+this short memory, vividly, as if watching a movie.
+After the psi successfully tests precognition, he
+may spend one round looking over his immediate
+surroundings. The psi need not be obvious when he
+does this and can do so discreetly. He can memorize
+all pictures, writing, and smells that are within a 5
+meter radius with a success.
+Evidence analysis tests in subsequent scenes
+involving the memorized features become Favored.
+Success Levels:
+• Good: The area increases to a 10 meter radius.
+• Outstanding: As Good and future tests gain a
++4 bonus instead of Favored."}
+{:name "Psionic Static"
+ "Axiom Level" 24
+ :Skill "Telepathy 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "10 meters"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "PP 53"
+ :description
+ "Intrusion into the mind is a legitimate concern
+in realities where the axioms and World Laws
+support psychic abilities. Clever psychics have
+devised ways to produce a psychic interference to
+those who would read their thoughts.
+With a moment of focus, the psychic can generate
+a psychic aegis, targeting himself and up to 5 allies.
+On a success, the psychic and his allies within
+range gain a +2 to their willpower to resist any
+attempts to read or control their minds.
+  Success Levels:
+• Good: The bonus increases to +4.
+• Outstanding: As Good, and any attempts to
+read or control a protected mind causes 1BD
+Shock to the attacker. The enemy psi is aware
+of this before attacking."}
+{:name "Relieve Pain"
+ "Axiom Level" 21
+ :Skill "Telepathy 8"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "5 meters"
+ :Duration "Instant"
+ :Lists ""
+ :Source "PP 53, TH 50"
+ :description
+ "Relieve pain sends out a refreshing wave of energy to
+the psi and allies in range. Those affected instantly
+recover 2 Shock.
+Success Levels:
+• Good: The affected recover 3 Shock.
+• Outstanding: The affected recover 4 Shock."}
+{:name "Restoration"
+ "Axiom Level" 24
+ :Skill "Kinesis 14"
+ "Casting Time" "10 minutes"
+ :DN "Challenging (DN 12)"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists ""
+ :Source "PP 53"
+ :description
+ "Prerequisites: Beta Clearance and the mend power.
+  
+  Though more challenging to master than mend,
+restoration is a more advanced power which allows
+psychics to heal allies in addition to themselves in
+a much shorter amount of time.
+The psychic and target of restoration must
+meditate together for 10 minutes and then the
+psychic tests kinesis.
+If the test is a success the target recovers a Wound.
+Restoration may only be manifested on an
+individual once per day.
+Success Levels:
+• Good: The target recovers 2 Wounds.
+• Outstanding: The target recovers 3 Wounds."}
+{:name "Restore Spirit"
+ "Axiom Level" 23
+ :Skill "Precognition 12"
+ "Casting Time" "1 action"
+ :DN "Challenging (DN 12)"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists ""
+ :Source "PP 53"
+ :description
+ "This power allows the psi to heal recent emotional
+afflictions.
+On a success, restore spirit allows a psychic to
+restore a target’s psyche and removes one level of
+Stymied or Vulnerable which was caused by an
+effect that targeted Spirit, intimidation, or willpower
+in the last round.
+Success Levels:
+• Good: The psychic removes two levels of
+Stymied or Vulnerable.
+• Outstanding: As Good, and the manifester
+gains a +2 bonus to willpower for
+the rest of the scene."}
+{:name "Sonic Scream"
+ "Axiom Level" 23
+ :Skill "Kinesis 14"
+ "Casting Time" "1 action"
+ :DN "Target's dodge or Dexterity"
+ :Range "25 meters"
+ :Duration "Instant"
+ :Lists ""
+ :Source "PP 54"
+ :description
+ "The psychic opens
+his mouth and lets
+out a deafening wail. The psi
+targets all within a Medium
+Blast Radius. Those affected
+take 12 damage which ignores Armor.
+Fragile objects within the blast radius
+may break at the GM’s discretion.
+Success Levels:
+• Good: +1BD damage.
+• Outstanding: +2BD damage."}
+{:name "Synergy"
+ "Axiom Level" 24
+ :Skill "Telepathy 12"
+ "Casting Time" "1 action"
+ :DN "Challenging (DN 12)"
+ :Range "25 meters"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "PP 54"
+ :description
+ "Synergy allows the psychic to
+mentally connect to his allies
+and enhance coordination of
+their actions. Each ally within
+  range making Extra Effort to aid in a Combined
+Action gains +4 bonus to that test.
+Success Levels:
+• Good: Attempts to make Extra Effort
+automatically get an Outstanding Success.
+• Outstanding: As Good, but also allies within
+range of the psi gain Favored to one test each
+round, as long as they are using it to accomplish
+the same goal (e.g. defeating the same group of
+Ords, a stormer, or defusing a bomb). The goal
+must be something immediate and specific, not
+a grand goal."}
+{:name "Telekinetic Blast"
+ "Axiom Level" 24
+ :Skill "Kinesis 14"
+ "Casting Time" "1 action"
+ :DN "Target's dodge or Dexterity"
+ :Range "5 meters"
+ :Duration "Instant"
+ :Lists ""
+ :Source "PP 54, TH 52"
+ :description
+ "The psi unleashes a shockwave
+of telekinetic energy to blast
+nearby targets away. The wave
+always emanates from the
+character and affects targets
+in a Medium Blast Radius.
+Targets hit take 14 damage and
+are pushed back five meters and
+Stymied. If this would push the target
+off a cliff or otherwise into a dangerous
+area, they stop just short but become Very
+Stymied.
+Success Levels:
+• Good: +1BD damage.
+• Outstanding: +2BD damage."}
+{:name "Telekinetic Strike"
+ "Axiom Level" 22
+ :Skill "Kinesis 10"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "3 rounds"
+ :Lists ""
+ :Source "PP 54, TH 53"
+ :description
+ "The psi enhances the momentum of his
+limbs by increasing the kinetic energy
+  around them and “thinning” the air in his path. The
+psi’s punches, kicks, elbows, knees, and all other
+attacks move faster and have a slightly visible aura
+of energy around them.
+When successfully activated, the psi gets a +2
+bonus to all damage from unarmed combat. Telekinetic
+strike cannot be used to enhance weapons but does
+work with natural weapons like bites or claws.
+This is a bonus to damage, not Strength, so if the
+character’s Strength was increased by Energize or
+another source, both would apply to increase the
+overall damage!
+Success Levels:
+• Good: The damage bonus increases to +3.
+• Outstanding: The damage bonus increases to +4."}
+{:name "Updraft"
+ "Axiom Level" 23
+ :Skill "Kinesis 12"
+ "Casting Time" "Simple action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "1 rounds"
+ :Lists ""
+ :Source "PP 55, WGtT 32"
+ :description
+ "The hero creates a gust of air that lifts her straight
+up at walking speed. Next round, she drifts back
+down at walking speed along any path desired.
+Success Levels:
+• Good: The psi moves in the air without
+descending for up to 2 rounds.
+• Outstanding: The psi moves in the air without
+descending for up to 3 rounds."}
+{:name "Wallrunner"
+ "Axiom Level" 22
+ :Skill "Kinesis 8"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "PP 55"
+ :description
+ "Telekinesis allows those who master it to move
+objects or even themselves with their psychic
+talent. Wallrunner is a more limited and focused
+power that allows the psychic’s mind to assist in
+his physical movements, performing physical feats
+that seem impossible.
+On a Standard Success, wallrunner grants the
+psychic a +2 to Dexterity-based tests involving
+  movement (including maneuver), and allows the psi
+to walk and run on walls (but not stay still).
+Success Levels:
+• Good: The duration increases to 3 rounds.
+• Outstanding: As Good and the tests are also
+Favored."}
+{:name "Wipe Memory"
+ "Axiom Level" 24
+ :Skill "Telepathy 16"
+ "Casting Time" "5 minutes"
+ :DN "Target's willpower or Mind"
+ :Range "Touch"
+ :Duration "Instant"
+ :Lists ""
+ :Source "PP 55"
+ :description
+ "Due to its insidiousness, Storm Knight psychics
+only use this power when something incredibly
+secretive must be hidden from those who have
+seen or heard of things they should not have.
+Many others, however, do not consider ethics
+when using this power.
+A success allows the psi to remove particular
+memories from the last hour. The victim is not
+immediately aware of the memory loss, but
+conversations and circumstances may allow them
+to realize they’re missing memories.
+Memories erased by mind wipe can be recovered by
+the clarity power, but the difficulty is equal to the psi’s
+telepathy skill, and only one attempt may be made.
+Reality-rated individuals are immune to this power.
+Success Levels:
+• Good: The psychic can remove memories from
+the last day and memories erased by mind
+wipe cannot be recovered in any way. They are
+lost forever.
+• Outstanding: The psychic can remove
+memories from the last week."}
+
+
+
+{:name "Compelling Voice"
+ "Axiom Level" 23
+ :Skill "Telepathy 12"
+ "Casting Time" "1 action"
+ :DN "Hard (–4) vs. target’s willpower or Mind"
+ :Range "5 meters"
+ :Duration "1 round"
+ :Lists ""
+ :Source "WGtT 31"
+ :description "Compelling voice may only be manifested at
+a single target, and the target must be able to
+understand the psi (i.e. it must be intelligent
+enough to understand commands and speak the
+same language).
+To manifest this power, the psi must speak a short
+command to a single target (no Multi-Targeting).
+The command may involve the victim undertaking
+any action using his own skills and abilities, but
+may not be forced to spend Possibilities. If the
+command involves making multiple actions,
+manifesting this power invokes a penalty equal to
+the usual Multi-Action penalty. If the command
+endangers the victim’s life (such as telling them to
+walk off a cliff) the telepathy test takes an additional
+Hard (–4) penalty.
+If the target is reality-rated, the test is instead a
+contest of telepathy vs. willpower or Spirit.
+On a success, the target resists but becomes
+Stymied and Vulnerable.
+Success Levels:
+• Good: The target must undertake the action,
+but any skill tests to resolve the action take a –2
+penalty.
+• Outstanding: As Good but without penalty."}
+{:name "Heat Shield"
+ "Axiom Level" 23
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "Self"
+ :Duration "6 rounds"
+ :Lists ""
+ :Source "WGtT 31"
+ :description "The psi creates a shimmering wave of heat that
+surrounds her, and incinerates projectiles (bullets,
+arrows, etc.) fired at her. This shield has no effect
+on melee or unarmed attacks, nor does it affect
+energy weapons attacks. On a success, the hero gains
++2 to her dodge defense and +2 Armor against fire
+combat and missile weapons attacks
+Success Levels:
+• Good: The bonuses increase to +3.
+• Outstanding: The bonuses increase to +4."}
+{:name "Minor Telekinesis"
+ "Axiom Level" 23
+ :Skill "Kinesis 8"
+ "Casting Time" "1 action"
+ :DN "Easy (DN 8)"
+ :Range "10 meters"
+ :Duration "Concentration"
+ :Lists ""
+ :Source "WGtT 31"
+ :description "Minor telekinesis allows the psi to grasp, move,
+and manipulate objects with a mass of up to five
+kilograms with her mind. This can include such
+actions as wielding a sword, flipping a switch,
+or punching a foe. Although the psi can only
+manipulate small objects (or barely push heavier
+ones) if he strikes with those objects (or just with
+his mind) it uses a base Strength equal to the psi’s
+Spirit.
+The psi must manifest this power to grasp or hold
+a single object but once successfully manifested, he
+may continue to manipulate that object as long as
+he maintains Concentration. He may manipulate
+other objects by manifesting the power additional
+times.
+The psi uses his own skills as normal (i.e. unarmed
+combat when hitting a foe, lockpicking when
+attempting to pick a lock).
+Success Levels:
+• Good: The psi may transfer focus to another
+object without manifesting minor telekinesis
+again.
+• Outstanding: The duration increases to 6
+rounds."}
+{:name "Teleport"
+ "Axiom Level" 26
+ :Skill "Kinesis 12"
+ "Casting Time" "1 action"
+ :DN "Standard (DN 10)"
+ :Range "10 meters"
+ :Duration "Instant"
+ :Lists ""
+ :Source "WGtT 32"
+ :description "With this power, the psi may transport herself,
+her belongings and any small objects she holds
+(but not other beings) directly to another location
+within range. She can declare the target location
+either generally (e.g. to the other side of the door)
+or by direction and distance (e.g. 10 meters straight
+up).
+On a success, the psi teleports successfully but
+is disoriented upon arrival and is Stymied and
+Vulnerable.
+The psi may teleport to locations she cannot see,
+but the kinesis test takes a Hard (–4) penalty. If she
+would accidentally appear in a solid she teleports
+to the nearest safe location (within range, which
+may include her origin point) but all tests are
+Disfavored until the end of her next turn.
+Success Levels:
+• Good: The psi is not Stymied or Vulnerable
+after teleporting.
+• Outstanding: As Good and the psi’s next
+attack against enemies in the vicinity are
+Favored."}
+
+
+]
