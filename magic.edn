@@ -5,7 +5,7 @@
   :DN "Standard (DN 10)"
   :Range "Self"
   :Duration "1 day"
-  :Lists "Mage, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Cyberwitch, Sorcerer, Occultist, Acolyte, Elemental Magic, Necromancy, Engineering, White Witch, Mythomancer"
   :Source "TE 187"
   :description "Alarm creates an immobile and invisible 10 -meter
 diameter circle around the wizard who also
@@ -30,7 +30,7 @@ been triggered no matter how far away he is."}
   :DN "Standard (DN 10)"
   :Range "Touch"
   :Duration "Concentration"
-  :Lists "Mage, Witch/Warlock"
+  :Lists "Mage, Cyberwitch, Necromancy, Mathematics, White Witch, Mythomancer"
   :Source "TE 187"
   :description "Armor infuses the caster’s skin (or an ally's if
 desired) with protective energies that grants her
@@ -47,7 +47,7 @@ Success Levels:
   :DN "Targets dodge or Dexterity"
   :Range "100 meters"
   :Duration " Instant"
-  :Lists "Mage, Dabbler, Witch/Warlock, Sorcerer, Acolyte"
+  :Lists "Mage, Dabbler, Cyberwitch, Sorcerer, Acolyte, Elemental Magic, Engineering, Mythomancer"
   :Source "TE 187"
   :description " This spell hurls a small but dangerous projectile,
 such as a slug of metal or a coin at a target for 13
@@ -69,7 +69,7 @@ Success Levels:
   :DN " Standard (DN 10)"
   :Range "25 meters"
   :Duration " Concentration"
-  :Lists "Mage, Dabbler, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Dabbler, Cyberwitch, Sorcerer, Occultist, Acolyte, Principle Magic, Engineering, Mathematics, White Witch, Mythomancer"
   :Source "TE 187"
   :description
   "The caster sees a faint outline or aura around
@@ -97,7 +97,7 @@ Concentration on detect magic."}
   :DN "Target’s willpower or Spirit"
   :Range "40 meters"
   :Duration "3 rounds"
-  :Lists "Mage, Witch/Warlock, Sorcerer, Occultist, Acolyte, Arcane Investigator"
+  :Lists "Mage, Cyberwitch, Sorcerer, Occultist, Acolyte, Arcane Investigator, Kindred Magic, Necromancy, Mythomancer"
   :Source "TE 188"
   :description "Diminish reduces one of the opponent’s attributes
 (chosen when the spell is cast) and related skills by
@@ -119,7 +119,7 @@ attribute and all its related skills."}
   :DN "Standard (DN 10)"
   :Range "Touch"
   :Duration "10 minutes"
-  :Lists "Mage, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Cyberwitch, Sorcerer, Occultist, Acolyte, Kindred Magic, Necromancy"
   :Source "TE 188"
   :description "Disguise gives a caster (or an ally if desired) the
 physical appearance of another including clothing,
@@ -149,7 +149,7 @@ languages however!"}
   :DN "The caster’s willpower or Spirit"
   :Range "25 meters"
   :Duration "Instant"
-  :Lists "Mage, Dabbler, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Dabbler, Cyberwitch, Sorcerer, Occultist, Acolyte, Principle Magic, Engineering, Mathematics, White Witch"
   :Source "TE 188"
   :description " Dispel magic ends one or more spell effects
 currently affecting a target. It works only on
@@ -174,7 +174,7 @@ target end."}
   :DN "Standard (DN 10)"
   :Range "50 meters"
   :Duration "Instant"
-  :Lists "Witch/Warlock, Arcane Investigator"
+  :Lists "Cyberwitch, Arcane Investigator, White Witch"
   :Source "TE 189"
   :description "EMP was developed by the rebels of the
 Cyberpapacy to thwart Malraux’s ubiquitous agents.
@@ -197,7 +197,7 @@ duration of the Scene."}
   :DN "Target’s attribute"
   :Range "40 meters"
   :Duration "3 rounds"
-  :Lists "Mage, Witch/Warlock, Sorcerer, Occultist, Acolyte, Arcane Investigator"
+  :Lists "Mage, Cyberwitch, Sorcerer, Occultist, Acolyte, Arcane Investigator, Kindred Magic, White Witch, Mythomancer"
   :Source "TE 189"
   :description "This spell enhances a single attribute of the caster
 or an ally by +1 . Multiple allies may be enhanced at
@@ -222,7 +222,7 @@ Success Levels:
   :DN "Target’s willpower or Spirit"
   :Range "50 meters"
   :Duration "Instant"
-  :Lists "Mage, Witch/Warlock, Sorcerer, Occultist, Acolyte, Arcane Investigator"
+  :Lists "Mage, Cyberwitch, Sorcerer, Occultist, Acolyte, Arcane Investigator, Principle Magic, Necromancy, Twilight Magic, Mythomancer"
   :Source "TE 189"
   :description "The fear spell creates a wave of terror affecting
 enemies within a Large Blast (see Area Effect, page
@@ -242,7 +242,7 @@ Stymied and suffer 2 Shock."}
   :DN "Target’s dodge or Dexterity"
   :Range "50 meters"
   :Duration "Instant"
-  :Lists "Mage, Arcane Investigator"
+  :Lists "Mage, Arcane Investigator, Elemental Magic"
   :Source "TE 189"
   :description "Fireball conjures a sphere of white-hot magical
 flame. The caster shapes and controls the fireball,
@@ -261,7 +261,7 @@ Success Levels:
   :DN " Challenging (DN 12)"
   :Range "Self"
   :Duration "Concentration"
-  :Lists "Mage, Witch/Warlock, Sorcerer"
+  :Lists "Mage, Cyberwitch, Sorcerer, Kindred Magic, White Witch"
   :Source "TE 190"
   :description "While this spell does not allow a mage to soar
 like a hawk it does provide slow if reliable flight
@@ -284,7 +284,7 @@ increased to 100 meters per round."}
   :DN "Easy (DN 8)"
   :Range "Touch"
   :Duration "Concentration"
-  :Lists "Mage, Sorcerer, Occultist, Arcane Investigator"
+  :Lists "Mage, Sorcerer, Occultist, Arcane Investigator, Kindred Magic, Mathematics, White Witch"
   :Source "TE 190"
   :description "Gain language allows the wizard to read write,
 and speak any language she chooses as if she had
@@ -299,7 +299,7 @@ Success Levels:
   :DN "Standard (DN 10)"
   :Range "Touch"
   :Duration "3 rounds"
-  :Lists "Mage, Witch/Warlock, Sorcerer, Acolyte"
+  :Lists "Mage, Cyberwitch, Sorcerer, Acolyte, Kindred Magic, Mathematics, White Witch, Mythomancer"
   :Source "TE 190"
   :description "Haste increases the ability of the target to
 maximize his actions effectively letting him do or
@@ -319,7 +319,7 @@ penalties."}
   :DN "Challenging (DN 12)"
   :Range "Self"
   :Duration "Concentration"
-  :Lists "Mage"
+  :Lists "Mage, Principle Magic, Pulp Sorcery"
   :Source "TE 191"
   :description "Invisibility not only protects a mage from angry
 foes but is also useful for spies and saboteurs. This
@@ -347,7 +347,7 @@ the penalty to hit becomes –4.
   :DN "Target’s dodge or Dexterity"
   :Range "100 meters"
   :Duration "Instant"
-  :Lists "Mage, Witch/Warlock, Sorcerer"
+  :Lists "Mage, Cyberwitch, Sorcerer, Principle Magic"
   :Source "TE 191"
   :description "This powerful attack spell calls forth a bolt of
 lightning strong enough to harm even the great
@@ -364,7 +364,7 @@ Success Levels:
   :DN "Standard (DN 10)"
   :Range "50 meters"
   :Duration "Concentration"
-  :Lists "Mage, Witch/Warlock, Occultist, Acolyte"
+  :Lists "Mage, Cyberwitch, Occultist, Acolyte, Essence Magic, Principle Magic, Necromancy, Demon Magic, Freedom Magic, Mythomancer"
   :Source "TE 191"
   :description "Mage dark fills a five-meter radius with total
 darkness. Everything within the affected area is
@@ -384,7 +384,7 @@ ignore darkness penalties are affected as well."}
   :DN " Standard (DN 10) or a target’s dodge or Dexterity"
   :Range "25 meters"
   :Duration "Concentration"
-  :Lists "Mage, Dabbler, Witch/Warlock, Sorcerer, Acolyte"
+  :Lists "Mage, Dabbler, Cyberwitch, Sorcerer, Acolyte, Principle Magic, Necromancy, Engineering, White Witch"
   :Source "TE 191"
   :description
   "The wizard can manipulate items as if she had
@@ -408,9 +408,10 @@ her Spirit +2."}
   :DN "Easy (DN 8)"
   :Range "50 meters"
   :Duration "Concentration"
-  :Lists "Mage, Witch/Warlock, Sorcerer, Occultist"
+  :Lists "Mage, Cyberwitch, Sorcerer, Occultist, Essence Magic, Principle Magic, Engineering, White Witch, Mythomancer"
   :Source "TE 192"
-  :description "The converse of mage dark mage light fills a fivemeter radius with bright scintillating light. All
+  :description "The converse of mage dark mage light fills a five
+                meter radius with bright scintillating light. All
 darkness penalties within the radius are negated,
 including any existing instances of mage dark.
 Any characters or creatures who were in Dark or
@@ -427,7 +428,7 @@ Stymied."}
   :DN "Easy (DN 8)"
   :Range "Touch"
   :Duration "Instant"
-  :Lists "Mage, Dabbler, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Dabbler, Cyberwitch, Sorcerer, Occultist, Acolyte, Elemental Magic, Necromancy, Engineering"
   :Source "TE 192"
   :description
   "Merchants and others with riches to protect
@@ -451,7 +452,7 @@ necessarily “locks “ however."}
   :DN "Standard (DN 10)"
   :Range "50 meters"
   :Duration "Concentration"
-  :Lists "Mage, Dabbler, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Dabbler, Cyberwitch, Sorcerer, Occultist, Acolyte, Elemental Magic, Engineering, Mathematics, White Witch"
   :Source "TE 192"
   :description "Pathfinder allows a magician to sense the direction
 and distance to an object location or being. The
@@ -467,7 +468,7 @@ Success Levels:
   :DN "Hard (DN 14)"
   :Range "50 meters"
   :Duration "Instant"
-  :Lists "Mage, Witch/Warlock, Sorcerer"
+  :Lists "Mage, Cyberwitch, Sorcerer, Essence Magic, White Witch"
   :Source "TE 192"
   :description "With a brisk incantation and a broad gesture the
 mage opens two connected portals. One appears
@@ -506,7 +507,7 @@ the foe Flat-Footed."}
   :DN "Target’s willpower or Spirit"
   :Range "Touch"
   :Duration "Instant"
-  :Lists "Mage, Occultist"
+  :Lists "Mage, Occultist, Essence Magic, Necromancy, Reality Mage"
   :Source "TE 193"
   :description "The rare offensive use of divination this spell scans
 through a single target’s possible futures and
@@ -526,7 +527,7 @@ Vulnerable caster’s choice.
   :DN "Challenging (DN 12)"
   :Range "Touch"
   :Duration "5 minutes"
-  :Lists "Mage, Occultist"
+  :Lists "Mage, Occultist, Essence Magic, Reality Mage"
   :Source "TE 193"
   :description "Possibility shadows allows a caster to ask reality
 itself a question. To do so he must first cast a deep
@@ -554,7 +555,7 @@ questions."}
   :Range "A two-meter diameter circle"
   :Duration " Concentration or when the circle is
 crossed or broken"
-  :Lists "Mage, Dabbler, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Dabbler, Cyberwitch, Sorcerer, Occultist, Acolyte, Essence Magic, Kindred Magic, Necromancy, White Witch, Twilight Magic"
   :Source "TE 193"
   :description
   "Occultists in Orrorsh and treacherous thralls in
@@ -584,7 +585,7 @@ abilities cannot cross the boundary."}
   :DN "Standard (DN 10)"
   :Range "50-meter radius"
   :Duration "10 minutes"
-  :Lists "Dabbler, Witch/Warlock, Acolyte"
+  :Lists "Dabbler, Cyberwitch, Acolyte"
   :Source "TE 194"
   :description
   "Used primarily in the watchdog regime of the
@@ -609,7 +610,7 @@ to an last hour."}
   :DN "Target’s willpower or Spirit"
   :Range "500 kilometers"
   :Duration "Concentration"
-  :Lists "Mage, Dabbler, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Dabbler, Cyberwitch, Sorcerer, Occultist, Acolyte, Kindred Magic, White Witch"
   :Source "TE 194"
   :description
   "Scry allows a prying caster to peek in on a subject
@@ -640,7 +641,7 @@ no longer aware of being observed."}
   :DN "Standard (DN 10)"
   :Range "Self"
   :Duration "Concentration"
-  :Lists "Mage, Witch/Warlock, Sorcerer"
+  :Lists "Mage, Cyberwitch, Sorcerer, Essence Magic, Principle Magic, White Witch, Mythomancer"
   :Source "TE 194"
   :description "The shield spell helps Storm Knight spellcasters
 survive their battles with the High Lords’ minions.
@@ -659,7 +660,7 @@ Success Levels:
   :DN "Target’s willpower or Spirit"
   :Range "20 meters"
   :Duration "3 rounds"
-  :Lists "Mage, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Cyberwitch, Sorcerer, Occultist, Acolyte, Kindred Magic, Mythomancer"
   :Source "TE 195"
   :description "Slow decreases a living being’s speed and makes
 it more difficult for him to do multiple things at
@@ -683,7 +684,7 @@ however) ."}
   :DN "Standard (DN 10)"
   :Range "Touch"
   :Duration "5 minutes"
-  :Lists "Mage, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Sorcerer, Occultist, Acolyte, Necromancy"
   :Source "TE 195"
   :description "To cast this loathsome spell the occultist
 manipulates the corpse’s jaws while beseeching the
@@ -705,7 +706,7 @@ knowledge."}
   :DN "Target’s willpower or Spirit"
   :Range "50 meters"
   :Duration "Instant"
-  :Lists "Mage, Witch/Warlock, Sorcerer, Occultist, Acolyte"
+  :Lists "Mage, Cyberwitch, Sorcerer, Occultist, Acolyte, Principle Magic"
   :Source "TE 195"
   :description "A wave of arcane energy overwhelms a group of
 foes. It affects everyone within a Large Blast area
@@ -719,6 +720,12 @@ Success Levels:
 next turn.
 • Outstanding: Affected targets lose their entire
 next turn."}
+ 
+
+
+
+
+
  {:name "Absorb Magic"
   "Axiom Level" 22
   :Skill "Alteration 14"
@@ -729,7 +736,7 @@ is taking an Active Defense."
 total."
   :Range "Self"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Principle Magic"
   :Source "AY 24"
   :description "The next spell targeting the caster is absorbed and
 has no effect on the caster. The spell still affects
@@ -749,7 +756,7 @@ may be captured."}
   :DN "Standard (10)"
   :Range "1 kilometer"
   :Duration "1 hour"
-  :Lists ""
+  :Lists "Mage, Kindred Magic"
   :Source "AY 24"
   :description
   "This spell allows the caster to possess and take
@@ -781,7 +788,7 @@ above."}
   :DN "Heroic (18)"
   :Range "1,500 km (but see below)"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Kindred Magic"
   :Source "AY 24"
   :description
   "Prerequisite: Beta Clearance, one of birdswarm,
@@ -822,7 +829,7 @@ tests as normal."}
   :DN "Very Hard (16)"
   :Range "10 meters"
   :Duration "24 hours"
-  :Lists ""
+  :Lists "Mage, Necromancy"
   :Source "AY 25"
   :description
   "This spell must be cast in the presence of nearly
@@ -848,7 +855,7 @@ Dexterity and Strength."}
   :DN "The target’s willpower or Spirit"
   :Range "10 meters"
   :Duration "See below."
-  :Lists ""
+  :Lists "Mage, Essence Magic, Kindred Magic, Necromancy"
   :Source "AY 25"
   :description
   "Prerequisite: Beta Clearance, protective circle spell
@@ -880,7 +887,7 @@ the spell ends."}
   :DN "Hard (DN 14)"
   :Range "100 meters"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Kindred Magic, Mythomancer"
   :Source "AY 26"
   :description
   "This spell gathers nearby birds (within 10
@@ -907,7 +914,7 @@ increases to one minute."}
   :DN "Standard (10)"
   :Range "Touch"
   :Duration "1 day"
-  :Lists ""
+  :Lists "Mage, Essence Magic, Kindred Magic"
   :Source "AY 26"
   :description
   "This spell may be attempted once per day. When
@@ -932,7 +939,7 @@ the spy."}
   :DN "Difficult (12)"
   :Range "Touch"
   :Duration "1 act"
-  :Lists ""
+  :Lists "Mage, Necromancy, Mythomancer"
   :Source "AY 26"
   :description
   "This spell may only be cast once per day and only
@@ -953,7 +960,7 @@ Limit."}
   :DN "Standard (10)"
   :Range "50 meters"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Elemental Magic, Mythomancer"
   :Source "AY 26"
   :description
   "The spell is cast on a sword (or other one-handed
@@ -980,7 +987,7 @@ with the sword is Favored."}
   :DN "Standard (10)"
   :Range "Self"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Essence Magic, Necromancy"
   :Source "AY 27"
   :description
   "The caster detects the presence of any affected
@@ -1000,7 +1007,7 @@ knows the type of each affected undead."}
   :DN "Target’s willpower or Spirit"
   :Range "5 meters"
   :Duration "1 minute (see below)"
-  :Lists ""
+  :Lists "Mage, Kindred Magic"
   :Source "AY 27"
   :description
   "The caster must use a personal item of the target. If
@@ -1026,7 +1033,7 @@ about."}
   :DN "Standard (10)"
   :Range "Touch"
   :Duration "Concentration"
-  :Lists "Arcane Investigator"
+  :Lists "Arcane Investigator, Mage, Elemental Magic, Mythomancer"
   :Source "AY 27"
   :description
   "Choose an energy type, such as fire, lightning, or
@@ -1043,7 +1050,7 @@ energy type."}
   :DN "Target’s Strength"
   :Range "Touch"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Kindred Magic, Mythomancer"
   :Source "AY 27"
   :description
   "This spell makes a living creature and any
@@ -1069,7 +1076,7 @@ Wounds and +4 Shock."}
   :DN "Hard (-4) vs. dodge or Dexterity"
   :Range "50 meters"
   :Duration "3 rounds"
-  :Lists ""
+  :Lists "Mage, Elemental Magic"
   :Source "AY 28"
   :description
   "Prerequisite: Beta Clearance and ice burst spell.
@@ -1096,7 +1103,7 @@ tests in the maelstrom to escape are Disfavored."}
   :DN "Target’s willpower or Spirit"
   :Range "100 meters"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Principle Magic"
   :Source "AY 28"
   :description
   "The caster targets another spellcaster.
@@ -1118,7 +1125,7 @@ making a casting test."}
   :DN "Target’s dodge or Dexterity"
   :Range "25 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Mage, Elemental Magic, Mythomancer"
   :Source "AY 28"
   :description
   "The caster conjures an intense spray of super
@@ -1141,7 +1148,7 @@ Eternity)."}
   :DN "Standard (10)"
   :Range "Touch"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Mage, Principle Magic"
   :Source "AY 28"
   :description
   "This spell only has an effect on magic items.
@@ -1162,7 +1169,7 @@ gained from obtaining more pieces of that set."}
 or Dexterity"
   :Range "50 meters"
   :Duration "3 rounds"
-  :Lists ""
+  :Lists "Mage, Elemental Magic"
   :Source "AY 28"
   :description
   "Prerequisites: Beta Clearance, fireball spell
@@ -1186,7 +1193,7 @@ Success Levels
   :DN "Standard (10)"
   :Range "Self"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Mage, Kindred Magic, Mythomancer"
   :Source "AY 29"
   :description
   "The caster suspends his normal reasoning ability
@@ -1208,7 +1215,7 @@ increase by 4."}
   :DN "Larger of target’s Strength or Dexterity"
   :Range "Touch"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Mage, Kindred Magic"
   :Source "AY 29"
   :description
   "Prerequisite: Beta Clearance, inner barbarian spell
@@ -1237,7 +1244,7 @@ Toughness each increase by 4."}
   :DN "Standard (10)"
   :Range "Touch"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Mage, Elemental Magic, Dabbler, Geomancer"
   :Source "AY 29"
   :description
   "This spell is cast on a bladed metallic weapon.
@@ -1253,7 +1260,7 @@ Piercing 4."}
   :DN "Hard (–4) vs. the target’s highest attribute."
   :Range "10 meters"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Essence Magic"
   :Source "AY 29"
   :description
   "Prerequisites: Beta Clearance, shrink spell
@@ -1318,7 +1325,7 @@ to normal with the character."}
   :DN "Hard (14)"
   :Range "Touch"
   :Duration "1 day"
-  :Lists ""
+  :Lists "Mage, Essence Magic"
   :Source "AY 30"
   :description
   "The caster opens a portal to a cube of
@@ -1352,7 +1359,7 @@ or in."}
   :DN "Standard (10)"
   :Range "1000 kilometers"
   :Duration "1 hour"
-  :Lists ""
+  :Lists "Mage, Kindred Magic"
   :Source "AY 30"
   :description
   "The caster summons a hawk which arrives
@@ -1381,7 +1388,7 @@ minutes."}
   :DN "Standard (10)"
   :Range "Self"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Mage, Principle Magic"
   :Source "AY 31"
   :description
   "A false image of the caster appears adjacent to her,
@@ -1406,7 +1413,7 @@ attacks are at –6."}
   :DN "Standard (10)"
   :Range "10 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Mage, Principle Magic"
   :Source "AY 31"
   :description
   "The caster creates three darts made of magical
@@ -1424,7 +1431,7 @@ Success Levels
   :DN "Standard (10)"
   :Range "Self"
   :Duration "1 minute (or see below)"
-  :Lists ""
+  :Lists "Mage, Principle Magic"
   :Source "AY 31"
   :description
   "The caster is surrounded by a magical barrier that
@@ -1447,7 +1454,7 @@ test is Disfavored."}
   :DN "Hard (–4) vs the target’s highest Attribute"
   :Range "Touch"
   :Duration "3 rounds"
-  :Lists ""
+  :Lists "Mage, Kindred Magic"
   :Source "AY 31"
   :description
   "Prerequisite: Enhance spell
@@ -1466,7 +1473,7 @@ attribute.
   :DN "Target’s dodge or Dexterity"
   :Range "15 meters"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Mage, Elemental Magic"
   :Source "AY 32"
   :description
   "An area with a Medium Blast radius is covered
@@ -1488,7 +1495,7 @@ increases to Challenging (DN 12)"}
   :DN "Target’s Strength"
   :Range "Touch"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Essence Magic, Kindred Magic, Mythomancer"
   :Source "AY 32"
   :description
   "This spell makes a living creature one size category
@@ -1516,7 +1523,7 @@ Limit by 4."}
   :DN "Target’s Mind or willpower."
   :Range "10 meters"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Principle Magic"
   :Source "AY 32"
   :description
   "This spell uses apportation to scatter the sound
@@ -1539,7 +1546,7 @@ nearly total and the penalty increases to Hard
   :DN "Hard (14)"
   :Range "Self"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Mage, Necromancy"
   :Source "AY 32"
   :description
   "Prerequisite: Beta Clearance, armor spell
@@ -1567,7 +1574,7 @@ provides +5 protection."}
   :DN "Hard (-4) vs. the target’s Strength"
   :Range "100 meters"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Principle Magic, Mythomancer"
   :Source "AY 33"
   :description
   "The spell creates a cloud of noise in a Large
@@ -1589,7 +1596,7 @@ can’t cast spells, or invoke miracles."}
   :DN "Target’s dodge or Dexterity"
   :Range "25 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Mage, Elemental Magic, Necromancy, Geomancer"
   :Source "AY 33"
   :description
   "The spell is cast on a patch of ground the size of a
@@ -1610,7 +1617,7 @@ action to escape."}
   :DN "Very Hard (16)"
   :Range "10 meters"
   :Duration "3 rounds"
-  :Lists ""
+  :Lists "Mage, Elemental Magic, Geomancer"
   :Source "AY 33"
   :description
   "You summon an elemental of your choice: air (see
@@ -1642,7 +1649,7 @@ dismiss the spell early as a simple action."}
   :DN "Heroic (18)"
   :Range "5 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Mage, Essence Magic"
   :Source "AY 33"
   :description
   "Prerequisites: Beta Clearance, portal spell
@@ -1679,7 +1686,7 @@ are not crossed."}
   :DN "Hard (16)"
   :Range "10 meters"
   :Duration "1 round"
-  :Lists ""
+  :Lists "Mage, Essence Magic"
   :Source "AY 34"
   :description
   "The caster and allies within range can ignore up
@@ -1700,7 +1707,7 @@ Targeting penalties."}
   :DN "Hard (14)"
   :Range "25 meters"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Mage, Essence Magic, Necromancy"
   :Source "AY 34"
   :description
   "The spell is a more powerful version of mage dark
@@ -1733,7 +1740,7 @@ true light spell are Up."}
   :DN "Hard (14)"
   :Range "25 meters"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Mage, Essence Magic"
   :Source "AY 34"
   :description
   "Prerequisites: Beta Clearance, mage light spell, at
@@ -1769,7 +1776,7 @@ spell are Up."}
   :DN "Standard (10)"
   :Range "Self"
   :Duration "1 round"
-  :Lists ""
+  :Lists "Mage, Essence Magic"
   :Source "AY 35"
   :description
   "This spell can be cast once per scene, as a free
@@ -1789,7 +1796,7 @@ current step or steps is Up."}
   :DN "Hard (-4) vs. target’s willpower or Spirit"
   :Range "5 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Mage, Essence Magic"
   :Source "AY 35"
   :description
   "Prerequisite: Beta Clearance, vision of doom spell
@@ -1814,7 +1821,7 @@ free action to entirely cancel the attempt."}
   :DN "Hard (14)"
   :Range "40 meters"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Mage, Principle Magic"
   :Source "AY 35"
   :description
   "The caster conjures a shimmering wall of force up
@@ -1834,7 +1841,7 @@ limit increases to two."}
   :DN "Standard (10) or target’s dodge or Dexterity"
   :Range "25 meters"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Mage, Elemental Magic"
   :Source "AY 35"
   :description
   "As an action, the caster may direct the whirlwind
@@ -1856,55 +1863,55 @@ pushed 10 meters, or 5 meters if Large.
 • Outstanding: +2BD damage, and hit targets
 are pushed 15 meters, 10 meters if Large, and 5
 meters if Very Large."}
- {:name "Cantrip - Animal Sense"
+ {:name "Animal Sense"
   "Axiom Level" 22
   :Skill "Divination 10"
   "Casting Time" "1 action"
   :DN "Easy (8)"
   :Range "Touch"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 36"
   :description "The caster must have the sense organ of an animal
 associated with a particular sense, such as the nose
 of a bloodhound, the eye of an eagle, or the ear of
 a fox. The caster’s find tests using that sense are
 Favored."}
- {:name "Cantrip - Booming Voice"
+ {:name "Booming Voice"
   "Axiom Level" 22
   :Skill "Apportation 10"
   "Casting Time" "1 action"
   :DN "Standard (10)"
   :Range "Self"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 36"
   :description "When the caster shouts, his voice can be heard
 clearly up to 1 kilometer away."}
- {:name "Cantrip - Detect Fake Currency"
+ {:name "Detect Fake Currency"
   "Axiom Level" 22
   :Skill "Divination 8"
   "Casting Time" "1 action"
   :DN "Standard (10)"
   :Range "Touch"
   :Duration "1 day"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 36"
   :description "The spell is cast on a metal plate. When fake
 currency is dropped onto the plate, it makes an
 unnatural sound."}
- {:name "Cantrip - Distraction"
+ {:name "Distraction"
   "Axiom Level" 22
   :Skill "Apportation 10"
   "Casting Time" "1 action"
   :DN "willpower or Spirit"
   :Range "10 meters"
   :Duration "1 round"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 36"
   :description "The caster motions as if tickling the nose of the
 target, and the target becomes Stymied."}
- {:name "Cantrip - Dropsy"
+ {:name "Dropsy"
   "Axiom Level" 22
   :Skill "Apportation 12"
   "Casting Time" "1 action"
@@ -1912,114 +1919,114 @@ target, and the target becomes Stymied."}
 most applicable with the item (whichever is higher)"
   :Range "10 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 36"
   :description "The target drops one equipped item held in a
 hand. Picking up the item is only a simple action—
 as long as someone else doesn’t pick it up first!"}
- {:name "Cantrip - Earth Barrier"
+ {:name "Earth Barrier"
   "Axiom Level" 22
   :Skill "Apportation 10"
   "Casting Time" "1 action"
   :DN "Standard (10)"
   :Range "Touch"
   :Duration "1 minute"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 36"
   :description "You can raise a small barrier that provides 2 points
 Concealment and Toughness 5 Cover"}
- {:name "Cantrip - Find Things"
+ {:name "Find Things"
   "Axiom Level" 22
   :Skill "Divination 8"
   "Casting Time" "1 action"
   :DN "Standard (10)"
   :Range "10 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 36"
   :description "The caster gets a vision of where a missing object
 is, provided it is within range. The caster must be
 familiar with the object."}
- {:name "Cantrip - Fix Object"
+ {:name "Fix Object"
   "Axiom Level" 22
   :Skill "Alteration 10"
   "Casting Time" "1 action"
   :DN "Standard (10)"
   :Range "Touch"
   :Duration "Permanent"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 36"
   :description "The spell repairs a small broken object (no more
 than 10 kg) so long as all its pieces are present."}
- {:name "Cantrip - Focus"
+ {:name "Focus"
   "Axiom Level" 22
   :Skill "Alteration 10"
   "Casting Time" "1 action"
   :DN "Very Hard (16)"
   :Range "Self"
   :Duration "1 round"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 37"
   :description "The caster’s next test becomes Favored, as long as
 that test does not involve Multi-Actions or Multi-
 Targeting."}
- {:name "Cantrip - Hold Animal"
+ {:name "Hold Animal"
   "Axiom Level" 22
   :Skill "Apportation 12"
   "Casting Time" "1 action"
   :DN "Target’s Strength"
   :Range "10 meters"
   :Duration "Concentration or until attacked"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 37"
   :description "This spell can only target a single animal (no
 Multi-Targeting) with Mind 5 or lower. The target
 is Restrained. At the start of the target’s turn, it can
 make a Strength test to end the spell."}
- {:name "Cantrip - Inspire"
+ {:name "Inspire"
   "Axiom Level" 22
   :Skill "Alteration 12"
   "Casting Time" "1 action"
   :DN "Standard (10)"
   :Range "10 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 37"
   :description "The caster may remove one condition affecting a
 single target (no Multi-Targeting)."}
- {:name "Cantrip - Light"
+ {:name "Light"
   "Axiom Level" 22
   :Skill "Conjuration 12"
   "Casting Time" "1 action"
   :DN "Easy (8)"
   :Range "Self"
   :Duration "1 hour"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 37"
   :description "Standard torchlight emanates from an object in
 the caster’s hand for the duration. The light only
 shines as long as the object is in his hand."}
- {:name "Cantrip - Playful Wind"
+ {:name "Playful Wind"
   "Axiom Level" 22
   :Skill "Apportation"
   "Casting Time" "1 action"
   :DN "Easy (8)"
   :Range "10 meters"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 37"
   :description "The caster gathers nearby air and channel it into a
 wind that can move a single unattended object 1 kg
 or less up to 10 meters slowly in a direction of the
 caster’s choice."}
- {:name "Cantrip - Foresight"
+ {:name "Foresight"
   "Axiom Level" 24
   :Skill "Divination 10"
   "Casting Time" "1 action"
   :DN "Standard (DN 10)"
   :Range "Self"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 37"
   :description "This cantrip may be cast once per day.
 The spellcaster thinks of a person, item, area, or
@@ -2030,27 +2037,27 @@ on the Drama deck and then return it to the top of
 the deck.
 At the GM’s option she may also give the diviner
 a vision of a possible future."}
- {:name "Cantrip - Start Fire"
+ {:name "Start Fire"
   "Axiom Level" 22
   :Skill "Conjuration 8"
   "Casting Time" "1 action"
   :DN "Easy (8)"
   :Range "1 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 37"
   :description "This spell starts a fire at a point within range. The
 fire ends immediately unless it can ignite nearby
 material. It begins too small to damage creatures."}
  
- {:name "Cantrip - Water Breathing"
+ {:name "Water Breathing"
   "Axiom Level" 22
   :Skill "Alteration 10"
   "Casting Time" "1 minute"
   :DN "Standard (10)"
   :Range "Touch"
   :Duration "1 hour"
-  :Lists ""
+  :Lists "Cantrip"
   :Source "AY 37"
   :description "The target can breathe water as well as air."}
  
@@ -2061,7 +2068,7 @@ material. It begins too small to damage creatures."}
   :DN "Hard (DN 14)"
   :Range "Self"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Pulp Sorcery"
   :Source "NE 35"
   :description
   "Parallel to our physical existence is an immaterial
@@ -2115,7 +2122,7 @@ familiar with that location)."}
  :DN "Target’s dodge or Dexterity"
  :Range "20 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Pulp Sorcery"
  :Source "NE 36"
  :description
  "The sorcerer yells out the name of this spell while
@@ -2138,7 +2145,7 @@ keep the target restrained is Favored."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Engineering, Mathematics"
  :Source "NE 36"
  :description
  "Calculate weakness is cast on one (and only one)
@@ -2165,7 +2172,7 @@ the target an additional +1BD damage."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "Instant"
- :Lists ""
+ :Lists "Mathematics"
  :Source "NE 36"
  :description
  "To be able to cast this spell at all, the spellcaster
@@ -2197,7 +2204,7 @@ characters get a +4 bonus to the reattempt."}
  :DN "Hard (DN 14)"
  :Range "Self"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Mathematics"
  :Source "NE 36"
  :description
  "By calculating his own vibrational frequency, the
@@ -2232,7 +2239,7 @@ larger."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "6 hours"
- :Lists ""
+ :Lists "Engineering"
  :Source "NE 37"
  :description
  "The engineer touches the walls of an individual
@@ -2257,7 +2264,7 @@ player may discard it for the full benefit."}
  :DN "Hard (DN 14) or target's dodge or Dexterity"
  :Range "50 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Engineering"
  :Source "NE 37"
  :description
  "The engineer points at an inanimate object or a part
@@ -2290,7 +2297,7 @@ artifact."}
  :DN "Standard (DN 10)"
  :Range "50 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Pulp Sorcery, Mythomancer"
  :Source "NE 37"
  :description
  "The illusionist closes his eyes briefly and imagines
@@ -2323,7 +2330,7 @@ does not apply for this attack."}
  :DN "Standard (DN 10)"
  :Range "50 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Pulp Sorcery"
  :Source "NE 38"
  :description
  "The caster closes his eyes and briefly imagines an
@@ -2358,7 +2365,7 @@ this attack."}
  :DN "Target’s dodge or Dexterity"
  :Range "10 meters"
  :Duration "Instant"
- :Lists ""
+ :Lists "Mathematics"
  :Source "NE 38"
  :description
  "Mathematicians are familiar with the concept that
@@ -2385,7 +2392,7 @@ Success Levels:
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Pulp Sorcery"
  :Source "NE 38"
  :description
  "Images of Isis is cast by the
@@ -2416,7 +2423,7 @@ the duration increases to one minute."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "6 hours"
- :Lists ""
+ :Lists "Engineering"
  :Source "NE 39"
  :description
  "The engineer touches the walls of a single
@@ -2448,7 +2455,7 @@ through the building."}
  :DN "Hard (DN 14)"
  :Range "5 meters"
  :Duration "Until the next sunrise"
- :Lists ""
+ :Lists "Engineering"
  :Source "NE 39"
  :description
  "This spell is cast upon an unoccupied location
@@ -2479,7 +2486,7 @@ Success Levels:
  :DN "Standard (DN 10)"
  :Range "Touch"
  :Duration "Until the next sunrise"
- :Lists ""
+ :Lists "Engineering"
  :Source "NE 39"
  :description
  "Mechanical trap must be cast inside a structure or
@@ -2516,7 +2523,7 @@ Success Levels:
  :DN "Standard (DN 10)"
  :Range "10 meters"
  :Duration "6 hours"
- :Lists ""
+ :Lists "Engineering"
  :Source "NE 40"
  :description
  "The engineer touches the walls of an individual
@@ -2546,7 +2553,7 @@ deathtrap."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "Until the next sunrise"
- :Lists ""
+ :Lists "Mathematics"
  :Source "NE 40"
  :description
  "Numbers have power, and one, four, and nine
@@ -2586,7 +2593,7 @@ or Possibilities) starts the 1-4-9 sequence."}
  :DN "Hard (DN 14)"
  :Range "25 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Pulp Sorcery, Mythomancer"
  :Source "NE 41"
  :description
  "Prerequisite: Knowledge of figment or glamor
@@ -2616,7 +2623,7 @@ armor."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "Instant"
- :Lists ""
+ :Lists "Mathematics, Dabbler, Mythomancer"
  :Source "NE 41"
  :description
  "The spellcaster thinks of a person, item, area, or
@@ -2642,7 +2649,7 @@ back on top of the Drama deck."}
   :DN "Standard (DN 10)"
   :Range "Touch"
   :Duration "10 minutes"
-  :Lists ""
+  :Lists "Cyberwitch, White Witch"
   :Source "CP 44"
   :description
   "This spell may only be attempted once per day.
@@ -2670,7 +2677,7 @@ Disfavored."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "Until the next sunrise"
- :Lists ""
+ :Lists "White Witch"
  :Source "CP 45"
  :description "Calling the Quarters may only be attempted once
 per day.
@@ -2712,7 +2719,7 @@ Success Levels:
  :DN "Target controller’s willpower or Spirit"
  :Range "Touch"
  :Duration "Instant"
- :Lists ""
+ :Lists "White Witch"
  :Source "CP 45"
  :description
  "Cast out ends the temporary control or possession
@@ -2737,7 +2744,7 @@ a Wound."}
  :DN "Standard (DN 10)"
  :Range "Touch"
  :Duration "Instant"
- :Lists ""
+ :Lists "Cyberwitch"
  :Source "CP 46"
  :description
  "This spell activates transfer or exit nodes in the
@@ -2760,7 +2767,7 @@ Success Levels:
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "24 hours"
- :Lists ""
+ :Lists "Cyberwitch"
  :Source "CP 46"
  :description
  "The cyberwitch intones programming statements
@@ -2791,7 +2798,7 @@ contest instead."}
  :DN "Target’s dodge or Dexterity"
  :Range "Self"
  :Duration "Instant"
- :Lists ""
+ :Lists "Cyberwitch"
  :Source "CP 46"
  :description "Prerequisite: Beta Clearance, electromagnetic pulse
 spell
@@ -2828,7 +2835,7 @@ the effect to Good."}
  :DN "Target’s willpower or Spirit"
  :Range "10 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Cyberwitch"
  :Source "CP 47"
  :description
  "Casting this spell allows the cyberwitch to
@@ -2856,7 +2863,7 @@ Favored for the rest of the scene."}
  :DN "Standard (DN 10)"
  :Range "Touch"
  :Duration "10 minutes"
- :Lists ""
+ :Lists "Cyberwitch"
  :Source "CP 47"
  :description
  "Hack security feed allows the cyberwitch to quickly
@@ -2887,7 +2894,7 @@ spoof the feed is Favored."}
  :DN "Target’s dodge or Dexterity"
  :Range "10 meters"
  :Duration "Instant"
- :Lists ""
+ :Lists "White Witch"
  :Source "CP 48"
  :description "Kill machine is a spell intended to directly damage
 and destroy robots, GodNet entities, and other
@@ -2918,7 +2925,7 @@ armor."}
  :DN "Target’s dodge or Dexterity"
  :Range "50 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "White Witch"
  :Source "CP 48"
  :description "A principle white witches hold is that whatever
 harm a person causes will be returned to that
@@ -2953,7 +2960,7 @@ spirit's attacks."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "1 hour"
- :Lists ""
+ :Lists "Cyberwitch"
  :Source "CP 48"
  :description
  "The lifehacker spell increases the productivity and
@@ -2976,7 +2983,7 @@ single test be Up instead of Favored."}
  :DN "Standard (DN 10)"
  :Range "Touch"
  :Duration "24 hours but see below"
- :Lists ""
+ :Lists "White Witch"
  :Source "CP 49"
  :description "The white witch casts this spell on a small object,
 like a gemstone or rabbit’s foot. This attracts a
@@ -3001,7 +3008,7 @@ failed."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "Instant"
- :Lists ""
+ :Lists "White Witch"
  :Source "CP 49"
  :description
  "The spellcaster thinks of a person, item, area, or
@@ -3025,7 +3032,7 @@ placed back on top of the Drama deck."}
  :DN "Standard (10)"
  :Range "Touch"
  :Duration "1 scene"
- :Lists ""
+ :Lists "White Witch"
  :Source "CP 49"
  :description
  "One curse on a person, location, or item is
@@ -3040,7 +3047,7 @@ Success Levels
  :DN "Target’s willpower or Spirit"
  :Range "25 meters"
  :Duration "1 minute"
- :Lists ""
+ :Lists "White Witch"
  :Source "CP 49"
  :description "White witches believe fighting is a last resort to
 solving disagreements, and this spell dampens
@@ -3064,7 +3071,7 @@ dealt by her, rounded up."}
   :DN "Standard (DN 10)"
   :Range "Self"
   :Duration "Concentration"
-  :Lists ""
+  :Lists "Demon Magic"
   :Source "TH 35"
   :description
   "The power of dominance radiates from the
@@ -3090,7 +3097,7 @@ persuasion tests are Up."}
  :DN "Target’s willpower or Spirit"
  :Range "Touch"
  :Duration "Instant"
- :Lists ""
+ :Lists "Freedom Magic"
  :Source "TH 36"
  :description
  "The spellcaster reaches out and physically touches
@@ -3110,7 +3117,7 @@ and takes 2 Shock."}
  :DN "Target’s intimidation or Spirit"
  :Range "25 meter radius, centered on caster"
  :Duration "1 round"
- :Lists ""
+ :Lists "Demon Magic, Freedom Magic"
  :Source "TH 36"
  :description
  "A cold shadow extends from the caster,
@@ -3134,7 +3141,7 @@ Success Levels:
  :DN "Target’s willpower or Spirit"
  :Range "Touch"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Demon Magic"
  :Source "TH 36"
  :description
  "Flesh link is a defensive spell devised by Tharkoldu
@@ -3160,7 +3167,7 @@ Wounds the caster suffers."}
  :DN "Challenging (DN 12)"
  :Range "Touch"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Demon Magic, Freedom Magic"
  :Source "TH 36"
  :description
  "Elemental bullets allows the acolyte to infuse bullets
@@ -3210,7 +3217,7 @@ Success Levels:
  :DN "Standard (DN 10)"
  :Range "Touch"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Demon Magic"
  :Source "TH 37"
  :description
  "This spell allows the acolyte to drastically enhance
@@ -3238,7 +3245,7 @@ trait and the Malfunction range decreases to 1."}
  :DN "Target’s willpower or Spirit"
  :Range "Touch"
  :Duration "1 minute"
- :Lists ""
+ :Lists "Demon Magic"
  :Source "TH 38"
  :description
  "Impaling limb is a spell created when Tharkold’s
@@ -3269,7 +3276,7 @@ Success Levels:
  :DN "Target’s willpower or Spirit"
  :Range "Touch"
  :Duration "1 minute"
- :Lists ""
+ :Lists "Demon Magic"
  :Source "TH 38"
  :description
  "Flesh armor was discovered hundreds of years
@@ -3304,7 +3311,7 @@ Success Levels:
  :DN "Target’s willpower or Spirit"
  :Range "25 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Freedom Magic"
  :Source "TH 38"
  :description
  "The acolyte points at a target, looking through
@@ -3331,7 +3338,7 @@ to 1 minute."}
  :DN "Target’s dodge or Dexterity"
  :Range "Self"
  :Duration "Instant"
- :Lists ""
+ :Lists "Demon Magic"
  :Source "TH 39"
  :description
  "This spell was originally developed by the
@@ -3355,7 +3362,7 @@ Success Levels:
  :DN "Vehicle’s Top Speed"
  :Range "Touch"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Demon Magic, Freedom Magic"
  :Source "TH 39"
  :description
  "The acolyte places her hand on a vehicle and
@@ -3383,7 +3390,7 @@ Challenging (–2) against the target’s
 willpower or Spirit"
  :Range "Touch"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Demon Magic"
  :Source "TH 39"
  :description
  "The acolyte quickly draws
@@ -3432,7 +3439,7 @@ Disfavored."}
  :DN "Challenging (DN 12)"
  :Range "50 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Demon Magic"
  :Source "TH 40"
  :description
  "Axiom Level: 12 or 14 (see below)
@@ -3501,7 +3508,7 @@ effects that require breathing, eating, or other
  :DN "Heroic (DN 18) or see below"
  :Range "10 meters"
  :Duration "1 minute"
- :Lists ""
+ :Lists "Demon Magic, Freedom Magic"
  :Source "TH 41"
  :description
  "This is an exceptionally risky ancient (and
@@ -3565,7 +3572,7 @@ Success Levels:
   :DN "Target’s Strength"
   :Range "25 meters"
   :Duration "Instant"
-  :Lists ""
+  :Lists "Twilight Magic"
   :Source "OR 20"
   :description
   "The occultist needs an open flame, at least the size
@@ -3596,7 +3603,7 @@ Success Levels:
  :DN "Challenging (DN 12)"
  :Range "Self"
  :Duration "1 minute"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 21"
  :description
  "The occultist produces a small vial that is
@@ -3629,7 +3636,7 @@ Ethereal (as the Special Ability in Torg Eternity)."}
  :DN "Target’s willpower or Mind"
  :Range "50 meters"
  :Duration "1 round"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 21"
  :description
  "The occultist thinks of the most horrible,
@@ -3657,7 +3664,7 @@ Medium Blast Area."}
  :DN "Challenging (DN 12)"
  :Range "5 meters"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "Occultist"
  :Source "OR 22"
  :description
  "The casters eyes become extremely bright beacons
@@ -3687,7 +3694,7 @@ Success Levels:
  :DN "Target’s unarmed combat or Dexterity"
  :Range "25 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Occultist, Twilight Magic"
  :Source "OR 22"
  :description
  "Those who have studied the mysteries of Orrorsh
@@ -3716,7 +3723,7 @@ grapple tests)."}
  :DN "Target’s Strength"
  :Range "Touch"
  :Duration "Special"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 22"
  :description
  "This spell is one that has been re-purposed from
@@ -3759,7 +3766,7 @@ is Disfavored."}
  :DN "Target’s willpower or Spirit"
  :Range "50 meters"
  :Duration "Instant"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 23"
  :description
  "Prerequisites: Beta clearance and Fear.
@@ -3786,7 +3793,7 @@ action and suffer 4 Shock."}
  :DN "Very Hard (DN 16)"
  :Range "Special"
  :Duration "8 hours"
- :Lists ""
+ :Lists "Occultist"
  :Source "OR 24"
  :description
  "Prerequisites: Beta clearance.
@@ -3841,7 +3848,7 @@ hours."}
  :DN "Heroic (DN 18)"
  :Range "Self"
  :Duration "Special"
- :Lists ""
+ :Lists "Occultist, Twilight Magic"
  :Source "OR 24"
  :description
  "Prerequisites: Beta clearance and Protective Circle.
@@ -3875,7 +3882,7 @@ increased by two for the rest of the Act."}
  :DN "Target’s willpower or Spirit"
  :Range "See below"
  :Duration "1 hour"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 25"
  :description
  "Death Haunt allows the caster to haunt the target’s
@@ -3903,7 +3910,7 @@ increases to 8 hours."}
  :DN "Target’s willpower or Spirit"
  :Range "Unlimited"
  :Duration "Instant"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 25"
  :description
  "This ritual requires some of the targets blood, hair,
@@ -3936,7 +3943,7 @@ unaware of the intrusion."}
  :DN "Standard (DN 10)"
  :Range "See below"
  :Duration "2 hours"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 26"
  :description
  "This gruesome ritual requires the occultist to
@@ -4029,7 +4036,7 @@ or pieces of information."}
  :DN "Hard (DN 14)"
  :Range "Special"
  :Duration "Special"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 27"
  :description
  "This macabre ritual requires the occultist to have
@@ -4067,7 +4074,7 @@ made at a +4."}
  :DN "Target’s willpower or Spirit"
  :Range "Special"
  :Duration "24 hours"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 27"
  :description
  "Nightmares are powerful monsters which stalk
@@ -4114,7 +4121,7 @@ hours."}
  :DN "Hard (DN 14)"
  :Range "500 meters"
  :Duration "Special"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 28"
  :description
  "Pestilence is a risky ritual that can wreak great
@@ -4173,7 +4180,7 @@ the disease she creates.
 an object"
  :Range "Touch"
  :Duration "24 hours"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 29"
  :description
  "Those who have suffered the effects of Corruption
@@ -4225,7 +4232,7 @@ penalty to Charisma for the duraction."}
  :DN "Target’s willpower or Spirit"
  :Range "Touch"
  :Duration "1 hour"
- :Lists ""
+ :Lists "Twilight Magic"
  :Source "OR 29"
  :description
  "Orrorsh is a cosm full of mysteries where Storm
@@ -4262,7 +4269,7 @@ rendered unconscious."}
   :DN "Very Hard (DN 16)"
   :Range "Touch"
   :Duration "3 rounds"
-  :Lists ""
+  :Lists "Dabbler, Geomancer, Mythomancer, Reality Mage"
   :Source "ToT 29"
   :description "This spell aids those who face insurmountable
 odds. This spell may only be cast on a single
@@ -4320,7 +4327,7 @@ or perpetrators can be identified."}
  :DN "Hard (DN 14)"
  :Range "100 meters"
  :Duration "The rest of the scene"
- :Lists ""
+ :Lists "Mythomancer, Reality Mage"
  :Source "ToT 31"
  :description "Prerequisite: Beta Clearance and Reality Mage OR
 Storyteller
@@ -4358,7 +4365,7 @@ reality skill with one add."}
  :DN "Challenging (DN 12)"
  :Range "Self"
  :Duration "Rest of scene"
- :Lists ""
+ :Lists "Geomancer"
  :Source "ToT 31"
  :description "The wizard can tap into the arcane energy of nearby
 ley lines to temporarily enhance his Magic Axiom
@@ -4381,7 +4388,7 @@ increases to 18."}
  :DN "Challenging (DN 12)"
  :Range "40 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Geomancer"
  :Source "ToT 31"
  :description "The geomancer lifts the rock, stone, and earth to
 form a wall up to 10 meters long, 3 meters high,

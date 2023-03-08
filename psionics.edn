@@ -5,7 +5,7 @@
   :DN "Target’s willpower or Mind"
   :Range " 10 meters"
   :Duration "Permanent"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Mutant, The Way, Institute, Disciplined Psychic, Telepathic Anomaly"
   :Source "TE 207"
   :description "Worse than reading an unwilling target’s mind is
 rearranging the memories inside. Most psis use it to
@@ -35,7 +35,7 @@ from the last week."}
   :DN "Standard (DN 10)"
   :Range "10-meter radius"
   :Duration "Concentration"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic, Precog Anomaly"
   :Source "TE 207"
   :description "Awareness senses strong impressions of future
 danger increasing her and her allies’ defenses
@@ -58,7 +58,7 @@ Range is increased to 20 meters."}
   :DN "Target’s willpower or Mind"
   :Range "100 kilometers"
   :Duration "Concentration"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic"
   :Source "TE 207"
   :description "Clairvoyance allows a psychic to see through
 another’s eyes. The psi must have line of sight to
@@ -83,7 +83,7 @@ power is active."}
   :DN "Target’s willpower or Mind"
   :Range "5 meters"
   :Duration "Instant"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic"
   :Source "TE 207"
   :description "Clarity removes all harmful psionic influences
 from a subject effectively acting as dispel magic for
@@ -104,7 +104,7 @@ increases by +4 for the next hour."}
   :DN "Target’s willpower or Mind"
   :Range "10 meters"
   :Duration "Concentration"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic"
   :Source "TE 207"
   :description "Much like the old Shadow character from the pulp
 serials a psi with this ability can alter others’
@@ -133,7 +133,7 @@ there. Attacks against her suffer a –6 penalty."}
   :DN "Target’s willpower or Mind"
   :Range "50 meters"
   :Duration "3 rounds"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute"
   :Source "TE 208"
   :description "Confusion sends out a wave of psychic energy
 that confounds foes. If successful the power affects
@@ -152,7 +152,7 @@ well."}
   :DN "Target’s willpower or Mind"
   :Range "25 meters"
   :Duration "3 rounds"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic"
   :Source "TE 208"
   :description "When a psi needs to learn something in a hurry,
 she can simply take it from someone else’s mind!
@@ -176,7 +176,7 @@ Success Levels:
   :DN "Challenging (DN 12)"
   :Range "Self"
   :Duration "3 rounds"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic"
   :Source "TE 208"
   :description "The psi builds up psychic energy and channels
 it through his nervous system granting him
@@ -201,7 +201,7 @@ after the duration ends."}
   :DN "Very Hard (DN 16)"
   :Range "Self"
   :Duration "Instant"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic, Precog Anomaly"
   :Source "TE 208"
   :description "The psychically sensitive witness constant possible
 futures. Sorting through them in a world rich in
@@ -226,7 +226,7 @@ discard one of them if he chooses."}
   :DN "Easy (DN 8)"
   :Range "50 meters"
   :Duration "Concentration"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic"
   :Source "TE 209"
   :description "Mind sense reveals the presence of any and all
 sapient creatures within the psi’s range. A basic
@@ -248,7 +248,7 @@ includes any psionic potential or activity."}
   :DN "Standard (DN 10)"
   :Range "Self"
   :Duration "Instant"
-  :Lists "Psionic Mutation, Awakened"
+  :Lists "Psychic Mutant, The Way, Disciplined Psychic, Telekinetic Anomaly"
   :Source "TE 209"
   :description "Psionics with this power can increase their
 biological self-awareness to such a point that they
@@ -267,7 +267,7 @@ Success Levels:
   :DN "Target’s willpower or Mind"
   :Range "50 meters"
   :Duration "Instant"
-  :Lists "Awakened"
+  :Lists "The Way, Telepathic Anomaly"
   :Source "TE 209"
   :description "Those who specialize in kinesis are best known
 for carnage and mayhem but telepaths are not
@@ -287,7 +287,7 @@ Success Levels:
   :DN "Target’s willpower or Mind"
   :Range "50 meters"
   :Duration "Concentration"
-  :Lists "Awakened"
+  :Lists "The Way, Institute"
   :Source "TE 209"
   :description "Mind control is a sinister power that allows the
 psionicist to inhabit and control another person’s
@@ -318,7 +318,7 @@ on attempts to break free."}
   :DN "Standard (DN 10)"
   :Range "Self"
   :Duration "Concentration"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic"
   :Source "TE 210"
   :description "Psychic shield protects the psi and anyone else he
 chooses within a five-meter radius from psionic
@@ -341,7 +341,7 @@ Success Levels:
   :DN "Standard (DN 10)"
   :Range "Touch"
   :Duration "Concentration"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic, Precog Anomaly"
   :Source "TE 210"
   :description "The psychic can read strong emotions or mental
 images that cling to an object. She must handle
@@ -365,7 +365,7 @@ the object’s notable owners and how each used it."}
   :DN "Target’s dodge or Dexterity"
   :Range "25 meters"
   :Duration "Instant"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Firestarter"
   :Source "TE 210"
   :description "“Firestarters“ cause the very air itself to burst into
 flame and can channel it into destructive blasts.
@@ -378,32 +378,7 @@ Success Levels:
 • Good: +1 BD damage.
 • Outstanding: +2 BD damage."}
 
- {:name "Read Mind"
-  "Axiom Level" 23
-  :Skill "Telepathy 10"
-  "Casting Time" "1 action"
-  :DN "Target’s willpower or Mind"
-  :Range "50 meters"
-  :Duration "1 minute"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
-  :Source "TE 210"
-  :description "All psis consider this an intrusive power and a
-violation of sentient rights. Whether one actually
-cares about that or not is another matter and of
-course some Storm Knights may feel they have no
-choice in the most dire situations.
-A Standard success detects surface thoughts
-and emotions but the target knows something is
-happening. If he’s familiar with psionic powers he
-knows his thoughts are being read.
-Success Levels:
-• Good: Important memories are detected and
-the target doesn’t know he’s being scanned.
-• Outstanding: The target’s mind is an open
-book. If the target doesn’t know something,
-however due to a repressed memory or even
-brain damage the psi only picks up that
-something is missing."}
+ 
 
 
  {:name "Strangle"
@@ -413,7 +388,7 @@ something is missing."}
   :DN "Target’s willpower or Mind"
   :Range "50 meters"
   :Duration "Concentration"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic"
   :Source "TE 210"
   :description "Invisible but deadly strangle is a frightening
 technique where a telekinetic squeezes blood
@@ -434,7 +409,7 @@ the target is Stymied."}
   :DN "Standard (DN 10)"
   :Range "Self"
   :Duration "Concentration"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Telekinetic Anomaly"
   :Source "TE 211"
   :description "The psionicist wards off incoming
 attacks with a barrier of raw
@@ -457,7 +432,7 @@ Success Levels:
   :DN "Easy (DN 8)"
   :Range "1 kilometer"
   :Duration "Concentration"
-  :Lists "Anomaly, Psionic Mutation, Awakened"
+  :Lists "Psychic Anomaly, Psychic Mutant, The Way, Disciplined Psychic"
   :Source "TE 211"
   :description "Sending and receiving thoughts is considered
 the most basic power of any officially trained
@@ -494,7 +469,7 @@ her own) ."}
  :DN "Standard (DN 10)"
  :Range "25 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Institute, Telepathic Anomaly"
  :Source "TH 44"
  :description
  "The agent focuses on a single inanimate object
@@ -542,7 +517,7 @@ object differently."}
  :DN "Very Hard (DN 16)"
  :Range "Self"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "The Way, Institute, Precog Anomaly"
  :Source "TH 45"
  :description
  "Prerequisite: Beta Clearance and foreshadow power
@@ -569,7 +544,7 @@ in addition to acting before or after the villains."}
  :DN "Target’s willpower or Spirit"
  :Range "Touch"
  :Duration "Concentration"
- :Lists ""
+ :Lists "The Way, Telekinetic Anomaly"
  :Source "TH 46"
  :description
  "The psi builds up psychic energy then touches
@@ -591,7 +566,7 @@ of Shock."}
  :DN "Target’s willpower or Mind"
  :Range "50 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Institute, Telepathic Anomaly"
  :Source "TH 46"
  :description
  "Aversion creates an overwhelming desire in the
@@ -618,10 +593,10 @@ away at maximum speed (usually running)."}
  :DN "Heroic (DN 18)"
  :Range "Self"
  :Duration "Instant"
- :Lists ""
+ :Lists "The Way, Precog Anomaly"
  :Source "TH 46"
  :description
- "Awakened Mind is a powerful ability that very
+ "The Way, Institute Mind is a powerful ability that very
 few followers of the Way master. Using ancient
 meditative techniques passed down by members of
 the Race for generations, the psi expands his mind.
@@ -629,7 +604,7 @@ This allows him to see things in different dimensions,
 timelines, and realities. During this brief awakening,
 the psi can share this psychic knowledge of different
 possibilities with fellow Storm Knights.
-If successfully activated, Awakened Mind allows
+If successfully activated, The Way, Institute Mind allows
 the psi to immediately and freely trade any number
 of Possibilities with one reality-rated ally.
 Success Levels:
@@ -648,7 +623,7 @@ additional Possibility."}
  :DN "Standard (DN 10)"
  :Range "50 meters"
  :Duration "1 round"
- :Lists ""
+ :Lists "Institute, Telekinetic Anomaly"
  :Source "TH 46"
  :description
  "The agent manipulates noises so they are
@@ -682,7 +657,7 @@ their ears with warning as a free action."}
  :DN "Challenging (DN 12)"
  :Range "Touch"
  :Duration "10 minutes"
- :Lists ""
+ :Lists "Institute, Precog Anomaly"
  :Source "TH 47"
  :description
  "The psi can use an object recently (within the past
@@ -712,7 +687,7 @@ duration increases to 1 day."}
  :DN "Easy (DN 8)"
  :Range "Self"
  :Duration "1 round"
- :Lists ""
+ :Lists "The Way, Institute, Precog Anomaly"
  :Source "TH 47"
  :description
  "The psi gets a glimpse into the future getting a
@@ -733,7 +708,7 @@ instead of her own."}
  :DN "Challenging (DN 12)"
  :Range "Self"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "The Way, Telekinetic Anomaly"
  :Source "TH 47"
  :description
  "Dissipate energy creates an invisible shield
@@ -757,7 +732,7 @@ granting the Armor bonus)."}
  :DN "Challenging (DN 12)"
  :Range "25 meters"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "The Way, Institute, Telepathic Anomaly"
  :Source "TH 47"
  :description
  "The psi reaches out and touches the mind of a
@@ -785,7 +760,7 @@ Mind is is only –1."}
  :DN "Standard (DN 10)"
  :Range "Touch"
  :Duration "8 hours"
- :Lists ""
+ :Lists "The Way, Institute, Telekinetic Anomaly"
  :Source "TH 48"
  :description
  "The psi manipulates the air around a target,
@@ -809,7 +784,7 @@ or heat.
  :DN "Target’s dodge or Dexterity"
  :Range "50 meters"
  :Duration "Instant"
- :Lists ""
+ :Lists "The Way, Institute, Telekinetic Anomaly"
  :Source "TH 48"
  :description
  "The psi greatly slows down the molecules moving
@@ -834,7 +809,7 @@ restrained."}
  :DN "Target’s willpower or Spirit"
  :Range "25 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Institute, Telepathic Anomaly"
  :Source "TH 49"
  :description
  "The psi mentally touches the target’s cerebral
@@ -858,7 +833,7 @@ Stymied for the Duration."}
  :DN "Higher of psi’s Mind or Spirit"
  :Range "Self"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "The Way, Institute, Telepathic Anomaly"
  :Source "TH 49"
  :description
  "The psi cycles psychic energy into his own
@@ -879,7 +854,7 @@ increases by 2."}
  :DN "Challenging (DN 12)"
  :Range "Self"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "The Way"
  :Source "TH 49"
  :description
  "The psi focuses and forms mental energy into
@@ -901,7 +876,7 @@ and AP 4."}
  :DN "Target’s willpower or Mind"
  :Range "25 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Institute"
  :Source "TH 50"
  :description
  "Psychic deception enhances the user’s ability to
@@ -930,12 +905,12 @@ the duration."}
 or Dexterity"
  :Range "50 meters"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "The Way, Firestarter"
  :Source "TH 50"
  :description
  "Prerequisites: Beta Clearance, pyrokinesis power
 Pyrokinetic storm is a closely guarded power by
-the Awakened. It has a destructive potential that
+the The Way, Institute. It has a destructive potential that
 terrifies those with the wisdom to wield it.
 This power creates a blazing fire tornado, affecting
 targets in a Large Blast radius. This spell may also
@@ -957,7 +932,7 @@ Success Levels
  :DN "Target’s willpower or Mind"
  :Range "10 meters"
  :Duration "1 minute"
- :Lists ""
+ :Lists "Psychic Anomaly, Psychic Mutant, The Way, Institute, Disciplined Psychic"
  :Source "TH 50"
  :description
  "All psis consider this an intrusive power and a
@@ -989,7 +964,7 @@ something is missing."}
  :DN "Very Hard (DN 16)"
  :Range "Self"
  :Duration "Instant"
- :Lists ""
+ :Lists "The Way"
  :Source "TH 51"
  :description
  "Only the most powerful psi’s can bend the laws
@@ -1019,7 +994,7 @@ discard the second."}
  :DN "Very Hard (DN 16)"
  :Range "Self"
  :Duration "1 round"
- :Lists ""
+ :Lists "The Way, Institute"
  :Source "TH 51"
  :description
  "With endless Possibilities come unlimited potential
@@ -1046,7 +1021,7 @@ exchange the Hero and Villain Conflict Lines."}
 (see below)"
  :Range "Touch"
  :Duration "2 rounds"
- :Lists ""
+ :Lists "The Way"
  :Source "TH 51"
  :description
  "Although precogs mainly are capable of
@@ -1076,7 +1051,7 @@ rounds."}
  :DN "Hard (–4) vs the target’s willpower or Mind"
  :Range "Touch"
  :Duration "8 hours"
- :Lists ""
+ :Lists "Institute"
  :Source "TH 51"
  :description
  "Prerequisite: Beta Clearance and mind control
@@ -1139,7 +1114,7 @@ Mind-based skill adds)."}
  :DN "Easy (DN 8)"
  :Range "25 meters"
  :Duration "Concentration"
- :Lists "Anomaly, Psionic Mutation, Awakened"
+ :Lists "Anomaly, Psychic Mutant, The Way, Institute, Telekinetic Anomaly"
  :Source "TH 52, TE 211"
  :description
  "Telekinesis allows a psi to move objects with her
@@ -1166,7 +1141,7 @@ to the power’s effective Strength."}
  :DN "Standard (DN 10)"
  :Range "25 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Institute"
  :Source "TH 53"
  :description
  "The psi focuses on the ether in a targeted area.
@@ -1196,7 +1171,7 @@ actions count as three actions each."}
  :DN "Hard (DN 14)"
  :Range "Self"
  :Duration "24 hours"
- :Lists ""
+ :Lists "Disciplined Psychic"
  :Source "PP 49"
  :description
  "To use this power, the psychic must possess a melee
@@ -1223,7 +1198,7 @@ wielder gains."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "Disciplined Psychic, Psychic Mutant"
  :Source "PP 49"
  :description
  "By focusing the energies within one’s body and
@@ -1242,7 +1217,7 @@ to +3."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "Disciplined Psychic, Psychic Mutant"
  :Source "PP 49"
  :description
  "The psychic floods his fast twitch muscle fibers
@@ -1264,8 +1239,8 @@ Success Levels:
  :DN "Hard (-4) vs. target's willpower or Mind"
  :Range "5 meters"
  :Duration "1 round"
- :Lists ""
- :Source "PP 49"
+ :Lists "Disciplined Psychic, Psychic Mutant, Telepathic Anomaly"
+ :Source "PP 49, WGtT 31"
  :description
  "Compelling voice may only be manifested at a single
 target, and the target must be able to understand the
@@ -1299,7 +1274,7 @@ but any skill tests to resolve the action take a
  :DN "Challenging (DN 12)"
  :Range "Touch"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Disciplined Psychic, Psychic Mutant"
  :Source "PP 50"
  :description
  "By manipulating the electrical currents that run
@@ -1326,7 +1301,7 @@ manipulate computers are Favored."}
  :DN "Hard (DN 14)"
  :Range "Touch"
  :Duration "24 hours"
- :Lists ""
+ :Lists "Disciplined Psychic"
  :Source "PP 50"
  :description
  "The psychic projects the image and feeling that he
@@ -1357,7 +1332,7 @@ penalties apply."}
  :DN "Challenging (DN 12)"
  :Range "Self"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "Disciplined Psychic"
  :Source "PP 50"
  :description
  "Dissipate energy creates an invisible shield
@@ -1381,7 +1356,7 @@ granting the Armor bonus)."}
  :DN "Target's dodge or Dexterity"
  :Range "50 meters"
  :Duration "Instant"
- :Lists ""
+ :Lists "Psychic Mutant"
  :Source "PP 50"
  :description
  "Though less common than “firestarters,” there are
@@ -1406,8 +1381,8 @@ Success Levels:
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "6 rounds"
- :Lists ""
- :Source "PP 51"
+ :Lists "Disciplined Psychic, Psychic Mutant, Firestarter"
+ :Source "PP 51, WGtT 31"
  :description
  "The psi creates a shimmering wave of heat that
 surrounds her and incinerates projectiles (bullets,
@@ -1426,7 +1401,7 @@ Success Levels:
  :DN "Hard (DN 14)"
  :Range "Self"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Disciplined Psychic"
  :Source "PP 51"
  :description
  "Prerequisite: Beta Clearance and energize power
@@ -1450,7 +1425,7 @@ Dexterity increases to +4."}
  :DN "Hard (DN 14)"
  :Range "10 meters"
  :Duration "Instant"
- :Lists ""
+ :Lists "Disciplined Psychic"
  :Source "PP 51"
  :description
  "The psychic can change one Possibility, of his own or
@@ -1472,8 +1447,8 @@ from reality-rated characters within range."}
  :DN "Easy (DN 8)"
  :Range "10 meters"
  :Duration "Concentration"
- :Lists ""
- :Source "PP 52"
+ :Lists "Psychic Anomaly, Disciplined Psychic, Psychic Mutant, Telekinetic Anomaly"
+ :Source "PP 52, WGtT 31"
  :description
  "Minor telekinesis allows the psi to grasp, move,
 and manipulate objects, with a mass of up to five
@@ -1504,7 +1479,7 @@ rounds."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "Instant"
- :Lists ""
+ :Lists "Institute, Disciplined Psychic, Precog Anomaly"
  :Source "PP 53, TH 49"
  :description
  "The psi causes the synapses in the hippocampus to
@@ -1531,7 +1506,7 @@ Success Levels:
  :DN "Standard (DN 10)"
  :Range "10 meters"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Disciplined Psychic, Psychic Mutant"
  :Source "PP 53"
  :description
  "Intrusion into the mind is a legitimate concern
@@ -1557,7 +1532,7 @@ of this before attacking."}
  :DN "Standard (DN 10)"
  :Range "5 meters"
  :Duration "Instant"
- :Lists ""
+ :Lists "The Way, Institute, Disciplined Psychic, Telepathic Anomaly"
  :Source "PP 53, TH 50"
  :description
  "Relieve pain sends out a refreshing wave of energy to
@@ -1573,7 +1548,7 @@ Success Levels:
  :DN "Challenging (DN 12)"
  :Range "Touch"
  :Duration "Instant"
- :Lists ""
+ :Lists "Psychic Mutant"
  :Source "PP 53"
  :description
  "Prerequisites: Beta Clearance and the mend power.
@@ -1598,7 +1573,7 @@ Success Levels:
  :DN "Challenging (DN 12)"
  :Range "Touch"
  :Duration "Instant"
- :Lists ""
+ :Lists "Disciplined Psychic, Psychic Mutant"
  :Source "PP 53"
  :description
  "This power allows the psi to heal recent emotional
@@ -1621,7 +1596,7 @@ the rest of the scene."}
  :DN "Target's dodge or Dexterity"
  :Range "25 meters"
  :Duration "Instant"
- :Lists ""
+ :Lists "Psychic Mutant"
  :Source "PP 54"
  :description
  "The psychic opens
@@ -1642,7 +1617,7 @@ Success Levels:
  :DN "Challenging (DN 12)"
  :Range "25 meters"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "Disciplined Psychic, Psychic Mutant"
  :Source "PP 54"
  :description
  "Synergy allows the psychic to
@@ -1668,7 +1643,7 @@ a grand goal."}
  :DN "Target's dodge or Dexterity"
  :Range "5 meters"
  :Duration "Instant"
- :Lists ""
+ :Lists "The Way, Psychic Mutant, Telekinetic Anomaly"
  :Source "PP 54, TH 52"
  :description
  "The psi unleashes a shockwave
@@ -1693,7 +1668,7 @@ Success Levels:
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "3 rounds"
- :Lists ""
+ :Lists "The Way, Institute, Disciplined Psychic, Telekinetic Anomaly"
  :Source "PP 54, TH 53"
  :description
  "The psi enhances the momentum of his
@@ -1713,6 +1688,12 @@ overall damage!
 Success Levels:
 • Good: The damage bonus increases to +3.
 • Outstanding: The damage bonus increases to +4."}
+
+
+
+
+
+
 {:name "Updraft"
  "Axiom Level" 23
  :Skill "Kinesis 12"
@@ -1720,7 +1701,7 @@ Success Levels:
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "1 rounds"
- :Lists ""
+ :Lists "Disciplined Psychic, Psychic Mutant, Telekinetic Anomaly"
  :Source "PP 55, WGtT 32"
  :description
  "The hero creates a gust of air that lifts her straight
@@ -1738,7 +1719,7 @@ descending for up to 3 rounds."}
  :DN "Standard (DN 10)"
  :Range "Self"
  :Duration "Concentration"
- :Lists ""
+ :Lists "Disciplined Psychic"
  :Source "PP 55"
  :description
  "Telekinesis allows those who master it to move
@@ -1762,7 +1743,7 @@ Favored."}
  :DN "Target's willpower or Mind"
  :Range "Touch"
  :Duration "Instant"
- :Lists ""
+ :Lists "Disciplined Psychic, Psychic Mutant"
  :Source "PP 55"
  :description
  "Due to its insidiousness, Storm Knight psychics
@@ -1790,92 +1771,9 @@ memories from the last week."}
 
 
 
-{:name "Compelling Voice"
- "Axiom Level" 23
- :Skill "Telepathy 12"
- "Casting Time" "1 action"
- :DN "Hard (–4) vs. target’s willpower or Mind"
- :Range "5 meters"
- :Duration "1 round"
- :Lists ""
- :Source "WGtT 31"
- :description "Compelling voice may only be manifested at
-a single target, and the target must be able to
-understand the psi (i.e. it must be intelligent
-enough to understand commands and speak the
-same language).
-To manifest this power, the psi must speak a short
-command to a single target (no Multi-Targeting).
-The command may involve the victim undertaking
-any action using his own skills and abilities, but
-may not be forced to spend Possibilities. If the
-command involves making multiple actions,
-manifesting this power invokes a penalty equal to
-the usual Multi-Action penalty. If the command
-endangers the victim’s life (such as telling them to
-walk off a cliff) the telepathy test takes an additional
-Hard (–4) penalty.
-If the target is reality-rated, the test is instead a
-contest of telepathy vs. willpower or Spirit.
-On a success, the target resists but becomes
-Stymied and Vulnerable.
-Success Levels:
-• Good: The target must undertake the action,
-but any skill tests to resolve the action take a –2
-penalty.
-• Outstanding: As Good but without penalty."}
-{:name "Heat Shield"
- "Axiom Level" 23
- :Skill "Kinesis 12"
- "Casting Time" "1 action"
- :DN "Standard (DN 10)"
- :Range "Self"
- :Duration "6 rounds"
- :Lists ""
- :Source "WGtT 31"
- :description "The psi creates a shimmering wave of heat that
-surrounds her, and incinerates projectiles (bullets,
-arrows, etc.) fired at her. This shield has no effect
-on melee or unarmed attacks, nor does it affect
-energy weapons attacks. On a success, the hero gains
-+2 to her dodge defense and +2 Armor against fire
-combat and missile weapons attacks
-Success Levels:
-• Good: The bonuses increase to +3.
-• Outstanding: The bonuses increase to +4."}
-{:name "Minor Telekinesis"
- "Axiom Level" 23
- :Skill "Kinesis 8"
- "Casting Time" "1 action"
- :DN "Easy (DN 8)"
- :Range "10 meters"
- :Duration "Concentration"
- :Lists ""
- :Source "WGtT 31"
- :description "Minor telekinesis allows the psi to grasp, move,
-and manipulate objects with a mass of up to five
-kilograms with her mind. This can include such
-actions as wielding a sword, flipping a switch,
-or punching a foe. Although the psi can only
-manipulate small objects (or barely push heavier
-ones) if he strikes with those objects (or just with
-his mind) it uses a base Strength equal to the psi’s
-Spirit.
-The psi must manifest this power to grasp or hold
-a single object but once successfully manifested, he
-may continue to manipulate that object as long as
-he maintains Concentration. He may manipulate
-other objects by manifesting the power additional
-times.
-The psi uses his own skills as normal (i.e. unarmed
-combat when hitting a foe, lockpicking when
-attempting to pick a lock).
-Success Levels:
-• Good: The psi may transfer focus to another
-object without manifesting minor telekinesis
-again.
-• Outstanding: The duration increases to 6
-rounds."}
+
+
+
 {:name "Teleport"
  "Axiom Level" 26
  :Skill "Kinesis 12"

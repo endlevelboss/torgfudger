@@ -30,9 +30,7 @@ for one day."}
   :DN "Standard (DN 10)"
   :Range "5-meter radius"
   :Duration "3 rounds"
-  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone,
-          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
-          Keta Kalles Optant, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, God's Champion, Sacellum Chaplain, Palanism"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone, Exemplars of Light, Exemplars of Darkness, Cyberchurch, Keta Kalles Optant, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, God's Champion, Sacellum Chaplain, Palanism"
   :Source "TE 199"
   :description "Bless surrounds and infuses the caster and his
 allies with spiritual energy that boosts their physical
@@ -58,9 +56,7 @@ increases by +2."}
   :DN "Easy (DN 8)"
   :Range "10 meters"
   :Duration "Permanent"
-  :Lists "Christianity Prince of Peace,
-          Exemplars of Light, Cyberchurch,
-          Keta Kalles Optant, Amaatism, Sacellum, Neo Shaman, Mysterians, Theomagicians"
+  :Lists "Christianity Prince of Peace, Exemplars of Light, Cyberchurch, Keta Kalles Optant, Amaatism, Sacellum, Neo Shaman, Mysterians, Theomagicians"
   :Source "TE 200"
   :description "Bounty multiplies a single meal of food and water
 so that more may partake. The food also becomes
@@ -86,8 +82,7 @@ Success Levels:
   :DN " Standard (DN 10)"
   :Range "1 kilometer"
   :Duration "1 hour"
-  :Lists "Exemplars of Light, Exemplars of Darkness,
-          Keta Kalles Optant, Amaatism, Neo Shaman, Yonders, Mysterians"
+  :Lists "Exemplars of Light, Exemplars of Darkness, Keta Kalles Optant, Amaatism, Neo Shaman, Yonders, Mysterians"
   :Source "TE 200"
   :description "The blessed of many religions find comfort in
 nature’s beasts. This miracle draws them from the
@@ -120,8 +115,7 @@ animals doesn’t grant control however!"}
   :DN "Standard (DN 10)"
   :Range "10 meters"
   :Duration "5 minutes"
-  :Lists "Exemplars of Light, Exemplars of Darkness,
-          Keta Kalles Optant, Amaatism, Neo Shaman, Yonders, Mysterians"
+  :Lists "Exemplars of Light, Exemplars of Darkness, Keta Kalles Optant, Amaatism, Neo Shaman, Yonders, Mysterians"
   :Source "TE 200"
   :description "Speaking with beasts is a rare but ancient tradition
 in certain cultures. Most animals are very simpleminded and can only communicate basic ideas.
@@ -150,8 +144,7 @@ death."}
   :DN "Challenging (DN 12)"
   :Range "5 meters"
   :Duration "5 minutes"
-  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone,
-          Exemplars of Light, Exemplars of Darkness, Cyberchurch, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, Palanism"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone, Exemplars of Light, Exemplars of Darkness, Cyberchurch, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, Palanism"
   :Source "TE 200"
   :description "This miracle allows the invoker to talk to whatever
 spirits are appropriate to his mythos. A Christian
@@ -191,9 +184,7 @@ Success Levels:
   :DN " Easy (DN 8)"
   :Range "Touch"
   :Duration "Instant"
-  :Lists "Christianity Prince of Peace,
-          Exemplars of Light, Cyberchurch,
-          Keta Kalles Optant, Amaatism, Sacellum, Los Asangrados, Neo Shaman, Yonders, Mysterians, Theomagicians"
+  :Lists "Christianity Prince of Peace, Exemplars of Light, Cyberchurch, Keta Kalles Optant, Amaatism, Sacellum, Los Asangrados, Neo Shaman, Yonders, Mysterians, Theomagicians"
   :Source "TE 201"
   :description "Cure disease eradicates any sort of malignant
 condition infection or malady. This doesn’t heal
@@ -223,8 +214,7 @@ caused by supernatural creatures."}
   :DN "Target’s faith or Spirit"
   :Range "25 meters"
   :Duration "3 rounds"
-  :Lists "Christianity Fire and Brimstone,
-          Exemplars of Light, Exemplars of Darkness, Cyberchurch, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Theomagicians, Sacellum Chaplain"
+  :Lists "Christianity Fire and Brimstone, Exemplars of Light, Exemplars of Darkness, Cyberchurch, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Theomagicians, Sacellum Chaplain"
   :Source "TE 201"
   :description "Curse diminishes a foe’s luck challenging his
 faith in the very forces that drive him whether they
@@ -242,9 +232,7 @@ Success Levels:
   :DN "Standard (DN 10)"
   :Range "Touch"
   :Duration "Instant"
-  :Lists "Christianity Prince of Peace,
-          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
-          Keta Kalles Optant, Amaatism, Sacellum, Los Asangrados, Neo Shaman, Yonders, Mysterians, Theomagicians"
+  :Lists "Christianity Prince of Peace, Exemplars of Light, Exemplars of Darkness, Cyberchurch, Keta Kalles Optant, Amaatism, Sacellum, Los Asangrados, Neo Shaman, Yonders, Mysterians, Theomagicians"
   :Source "TE 201"
   :description "Perhaps the most important ability a chosen one
 brings to a band of Storm Knights is her ability to
@@ -319,9 +307,7 @@ Success Levels:
   :DN "Standard (DN 10)"
   :Range "5 meters"
   :Duration "Instant"
-  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone,
-          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
-          Keta Kalles Optant, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Mysterians, Theomagicians, Sacellum Chaplain"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone, Exemplars of Light, Exemplars of Darkness, Cyberchurch, Keta Kalles Optant, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Mysterians, Theomagicians, Sacellum Chaplain"
   :Source "TE 202"
   :description "Sometimes a holy champion simply needs to clear
 a path through his foes or humble a nonbeliever
@@ -348,9 +334,7 @@ are Very Stymied."}
   :DN "Standard (DN 10)"
   :Range "5 meters"
   :Duration "Instant"
-  :Lists "Christianity Prince of Peace,
-          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
-          Keta Kalles Optant, Amaatism, Los Asangrados, Neo Shaman, Yonders, Mysterians, Theomagicians, Palanism"
+  :Lists "Christianity Prince of Peace, Exemplars of Light, Exemplars of Darkness, Cyberchurch, Keta Kalles Optant, Amaatism, Los Asangrados, Neo Shaman, Yonders, Mysterians, Theomagicians, Palanism"
   :Source "TE 203"
   :description " Soothe sends out a refreshing wave of energy
 to the invoker and allies in range. Those affected
@@ -365,8 +349,7 @@ Success Levels:
   :DN "Standard (DN 10)"
   :Range "Touch"
   :Duration "3 rounds"
-  :Lists "Christianity Fire and Brimstone, Exemplars of Light, Exemplars of Darkness, Cyberchurch,
-          Keta Kalles Optant, Amaatism, Sacellum, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, Palanism"
+  :Lists "Christianity Fire and Brimstone, Exemplars of Light, Exemplars of Darkness, Cyberchurch, Keta Kalles Optant, Amaatism, Sacellum, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, Palanism"
   :Source "TE 203"
   :description "Sometimes even the most peaceful of the chosen
 must pick up the staff. This powerful miracle makes
@@ -392,9 +375,7 @@ Success Levels:
   :DN "Standard (DN 10)"
   :Range "5 meter radius"
   :Duration " Concentration"
-  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone,
-          Exemplars of Light, Exemplars of Darkness, Cyberchurch,
-          Keta Kalles Optant, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, God's Champion, Palanism"
+  :Lists "Christianity Prince of Peace, Christianity Fire and Brimstone, Exemplars of Light, Exemplars of Darkness, Cyberchurch, Keta Kalles Optant, Amaatism, Sacellum, Keta Kalles Gotak, Los Asangrados, Neo Shaman, Rec Stalek Gotak, Yonders, Mysterians, Theomagicians, God's Champion, Palanism"
   :Source "TE 203"
   :description "Ward enemy protects the faithful from supernatural
 beings that prey on or seek to harm humanity.
@@ -2509,7 +2490,7 @@ jail cell."}
   :Range "Self"
   :Duration "Concentration"
   :Lists "Palanism"
-  :Source "PP 58"
+  :Source "PP 58, MoCE 24"
   :description
   "Incognito allows the supplicant to walk amongst
 other people without being challenged or
@@ -2735,38 +2716,7 @@ Success Levels
 • Good: Creates five vials’ worth of water
 • Outstanding: Blesses enough water to fill 10
 vials"}
-{:name "Incognito"
- "Axiom Level" 10
- :Skill "Faith 12"
- "Casting Time" "1 minute"
- :DN "Standard (DN 10)"
- :Range "Self"
- :Duration "Concentration"
- :Lists ""
- :Source "MoCE 24"
- :description "Incognito allows the supplicant to walk among other
-people without being challenged or recognized.
-This miracle does not make the character invisible
-or allow the character to move soundlessly, nor
-does it change the character’s appearance. People
-who see the invoker merely think he’s supposed
-to be there.
-To invoke this miracle, the character mimes
-donning a cloak and says a prayer. On a success,
-as long as they are not specifically on guard,
-anyone observing the character automatically gets
-a +0 bonus on their evidence analysis tests against a
-Challenging (DN 12) difficulty.
-A character on guard may make an evidence
-analysis test as usual. Combined Actions cannot be
-made to improve the test. If the test succeeds, the
-viewer sees through the charade, the invoker loses
-Concentration, and the miracle ends.
-Success Levels
-• Good: The evidence analysis test is Hard (DN
-14)
-• Outstanding: The evidence analysis test is Very
-Hard (DN 16)"}
+
 {:name "Meditation"
  "Axiom Level" 6
  :Skill "Faith 8"

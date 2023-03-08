@@ -218,9 +218,9 @@
 
   (->> (slurp "perks.edn")
        (edn/read-string)
-       (perks-to-edn "Core perks")
+       (perks-to-edn "Perks")
        (json/write-str)
-       (spit "fudgerimport/core-perks.json"))
+       (spit "fudgerimport/perks.json"))
 
   (->> (slurp "core-armor.edn")
        (edn/read-string)
