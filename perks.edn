@@ -31,9 +31,9 @@
  opponent and declares it to be a Critical Strike he
  may play Destiny cards from his hand that directly
  affect the attack."}
- {:name "Frightening Aspect"
+ {:name "Frightening Aspect*"
   :Type "Darkness"
-  :Cosm "*Aysle"
+  :Cosm "Aysle"
   :Prereq "No Light Perks"
   :Source "TE 84"
   :description "
@@ -47,18 +47,18 @@
  the Approved Action grants the player two Destiny
  cards instead of one. Choose one to keep as usual
  and discard the other."}
- {:name "Shadow Step"
+ {:name "Shadow Step*"
   :Type "Darkness"
-  :Cosm "*Aysle"
+  :Cosm "Aysle"
   :Prereq "At least two adds in stealth."
   :Source "TE 85"
   :description "The character’s stealth tests become Favored.
  If attacking a Flat-Footed foe the backstabber
  may declare he’s using Shadow Step to cause an
  additional +2 damage."}
- {:name "Smiling Deceiver"
+ {:name "Smiling Deceiver*"
   :Type "Darkness"
-  :Cosm "*Aysle"
+  :Cosm "Aysle"
   :Prereq "Frightening Aspect"
   :Source "TE 85"
   :description "The character knows how to hide his Frightening
@@ -3477,8 +3477,8 @@ stealth tests a +2 bonus."}
  "The character may take six Darkness Perks instead
 of three (including this one) before succumbing to
 Darkness forever."}
-{:name "Blood Magic"
- :Cosm "*Aysle"
+{:name "Blood Magic*"
+ :Cosm "Aysle"
  :Type "Darkness"
  :Source "AY 12"
  :Prereq "Spellcaster"
@@ -3703,8 +3703,7 @@ Elven Archer"
  "The archer may do a Short Burst with his bow,
 which requires 3 arrows per target."}
 {:name "Exemplar of Darkness"
- :Cosm "Aysle, Core Earth, Cyberpapacy, Living
-Land, Nile Empire, Orrorsh"
+ :Cosm "Aysle"
  :Type "Faith"
  :Source "AY 15"
  :Prereq "One or more adds in faith, no other Perk
@@ -3714,8 +3713,7 @@ of Miracles itself."
  "Gain access to the Exemplars of Darkness list and
 select two miracles, plus the curse miracle."}
 {:name "Exemplar of Light"
- :Cosm "Aysle, Core Earth, Cyberpapacy, Living
-Land, Nile Empire, Orrorsh"
+ :Cosm "Aysle"
  :Type "Faith"
  :Source "AY 15"
  :Prereq "One or more adds in faith, no other Perk
@@ -3725,8 +3723,7 @@ of Miracles itself."
  "Gain access to the Exemplars of Light list and
 select two miracles, plus the bless miracle."}
 {:name "Mysterian"
- :Cosm "Aysle, Core Earth, Cyberpapacy, Living
-Land, Nile Empire, Orrorsh"
+ :Cosm "Aysle"
  :Type "Faith"
  :Source "AY 15"
  :Prereq "Elf, one or more adds in faith, no other
@@ -3736,8 +3733,7 @@ exception of Miracles itself."
  "Gain access to the Mysterian list and select two
 miracles, plus the ward magic miracle."}
 {:name "Yonder"
- :Cosm "Aysle, Core Earth, Cyberpapacy, Living
-Land, Nile Empire, Orrorsh"
+ :Cosm "Aysle"
  :Type "Faith"
  :Source "AY 15"
  :Prereq "At least one Outsider Perk, one or more
@@ -3747,8 +3743,7 @@ miracles with the exception of Miracles itself."
  "Gain access to the Yonder list and select two
 miracles, plus the ward cold miracle."}
 {:name "Theomagician"
- :Cosm "Aysle, Core Earth, Cyberpapacy, Living
-Land, Nile Empire, Orrorsh"
+ :Cosm "Aysle"
  :Type "Faith"
  :Source "AY 16"
  :Prereq "Spellcaster, one or more adds in faith,
@@ -5933,8 +5928,8 @@ A hit from a Screamer Shell deals 12 damage."}
 the target Vulnerable. For the next Minute,
 attacks that hit the target gain +1BD damage
 while he’s Vulnerable or Very Vulnerable."}
-{:name "Customized Slayer’s Gun"
- :Cosm "*Orrorsh"
+{:name "Customized Slayer’s Gun*"
+ :Cosm "Orrorsh"
  :Type "Occult"
  :Source "OR 16"
  :Prereq "Bulletsmith"
@@ -5945,9 +5940,9 @@ customization to the Slayer’s
 Gun. Below are some of the latest
 modifications Slayers have incorporated
 into their weapons:"}
-{:name "Customized Slayer’s Gun • Double Barrel"
- :Cosm "*Orrorsh"
- :Type "Occult"
+{:name "Double Barrel*"
+ :Cosm "Orrorsh"
+ :Type "Customized Slayer’s Gun"
  :Source "OR 16"
  :Prereq "Customized Slayer’s Gun"
  :description
