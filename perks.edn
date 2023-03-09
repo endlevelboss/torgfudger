@@ -293,104 +293,9 @@ Edeinos with Stone Skin are evidence of such a
  their tails into long whip-like weapons. Unarmed
  combat becomes Favored when an edeinos attacks
  in this manner."}
- {:name "Ion Gusoku"
-  :Type "Electric Samurai"
-  :Cosm "Pan-Pacifica"
-  :Prereq "Spirit 8+, at least two adds in melee
-weapons."
-  :Source "TE 87"
-  :description "The distinctive armor of the Electric Samurai
- is the Ion Gusoku. The first suits were adapted
- from the armor worn by Kanawa’s elite security
- forces but many adaptations and improvements
-were added as the samurai reverse-engineered
- Kanawa’s technology.
- The armor itself is highly advanced and built
-specifically for the samurai intended to wear it. A
- bio-scan lock shuts down functions and seizes up
- when anyone else puts it on. It limits its wearer’s
-Dexterity to 10 is Tech Axiom 24 provides +4 Armor
- and causes Fatigue.
- New Enhancements: This Perk may be taken
- more than once. Each additional Perk enhances
- the armor with one of the systems below. Unless
- it says otherwise each enhancement may only
- be taken once."}
- {:name "Ion Gusoku • Chameleon Plates"
-  :Type "Electric Samurai"
-  :Cosm "Pan-Pacifica"
-  :Prereq "Ion Gusoku"
-  :Source "TE 87"
-  :description "The entire outer layer of
-the gusoku is covered in sensors and LEDs
-that shift color and brightness to mimic the
-surrounding area when the samurai stands
-still. So long as she remains completely still
-(no actions or movement) she is effectively
-invisible, and opponents suffer a –6 penalty
-on attempts to find her or hit her with ranged
-attacks."}
- {:name "Ion Gusoku • Flash Burst"
-  :Type "Electric Samurai"
-  :Cosm "Pan-Pacifica"
-  :Prereq "Ion Gusoku"
-  :Source "TE 87"
-  :description "Once per scene the armor
-may unleash a blinding flash of light as a
-free action. The light momentarily dazzles
-individuals within a Medium Blast around
-the character, rendering each Very Stymied.
-• Kabuto HUD: The armor’s helmet features
-an integrated display that removes the first
-two points of penalties from the samurai’s
-ranged attacks."}
- {:name "Ion Gusoku • Lightning Sheath"
-  :Type "Electric Samurai"
-  :Cosm "Pan-Pacifica"
-  :Prereq "Ion Gusoku"
-  :Source "TE 87"
-  :description "Electric samurai quickly
-learned the dangers of being overwhelmed
-by hordes of infected or the jiangshi’s deadly
-grappling attack. Once a scene, the armor
-may discharge an electric blast as a free
-action, causing 12 damage +1BD to anything
-touching the armor. Anything grabbing the
-samurai automatically releases its hold."}
- {:name "Ion Gusoku • Ultra-Light Alloys"
-  :Type "Electric Samurai"
-  :Cosm "Pan-Pacifica"
-  :Prereq "Ion Gusoku"
-  :Source "TE 87"
-  :description "The armor’s low weight
-and perfect fit combine to eliminate the suit’s
-Fatigue penalty."}
- {:name "Speed Demon"
-  :Type "Electric Samurai"
-  :Cosm "Pan-Pacifica"
-  :Prereq "At least two adds in land vehicles."
-  :Source "TE 88"
-  :description "Motorcycles are the preferred mode of
- transportation for most Electric Samurai thanks
- to the combination of speed maneuverability
- and the lack of an outer frame to hamper sword
- use! When a Speed Demon makes a melee attack
- from a motorcycle (or from any vehicle that allows
-unrestrained attacks, such as riding in an opentopped vehicle) he gains a +2 bonus to damage."}
- {:name "Unflinching"
-  :Type "Electric Samurai"
-  :Cosm "Pan-Pacifica"
-  :Prereq "Spirit 8+"
-  :Source "TE 88"
-  :description "A true samurai puts her mission first even above
-her own personal safety. She pushes her body to
- the limits of its endurance to accomplish her goals.
- An Unflinching samurai may eliminate one or
-more levels of Stymied or Vulnerable by taking one
- Shock per condition removed. For one Shock for
- example she could reduce Very Stymied to Stymied.
- For two Shock she could eliminate both or negate
- a Stymied and Vulnerable condition and so on."}
+ 
+ 
+ 
  {:name "Elven Archer"
   :Type "Elf"
   :Cosm "Aysle"
@@ -539,37 +444,9 @@ includes gospog, ghosts, demons, etc.)."}
   :description "The Storm Knight gains the ability to affect beings
 with the Ethereal Special Ability, such as ghosts,
 with unarmed combat or melee weapons."}
- {:name "Block Strike*"
-  :Type "Vitality Powers"
-  :Cosm "Pan-Pacifica"
-  :Source "TE 90"
-  :Prereq "Spirit 8+, at least three adds in unarmed
-combat."
-  :description "When a foe misses the martial artist with a melee
-attack, she may take one Shock to immediately make
-a melee attack of her own against that opponent."}
- {:name "Focused Strike*"
-  :Type "Vitality Powers"
-  :Cosm "Pan-Pacifica"
-  :Source "TE 90"
-  :Prereq "Spirit 8+, at least three adds in melee
-weapons or unarmed combat."
-  :description "The hero summons all his concentration and
-strikes at a foe’s most vulnerable point. After
-generating a melee weapons or unarmed combat
-damage total, she may take one Shock to give her
-attack Armor Piercing 4. This stacks with any other
-applicable Armor Piercing ability."}
- {:name "Ki Strike*"
-  :Type "Vitality Powers"
-  :Cosm "Pan-Pacifica"
-  :Source "TE 90"
-  :Prereq "Spirit 8+, at least three adds in melee
-weapons or unarmed combat."
-  :description "The warrior can focus her ki energy into a
-devastating blow. After generating a melee damage
-total (melee weapons or unarmed combat), she may
-take one Shock to increase the final amount by +2."}
+ 
+ 
+ 
  {:name "Bolster"
   :Type "Leadership"
   :Source "TE 90"
@@ -1279,15 +1156,7 @@ result on the next action taken against the offender
 in the same scene. This doesn’t stack with other Up
 results. The Wound must actually be sustained, not
 taken and then Soaked, for example."}
- {:name "Whirlwind"
-  :Type "Prowess"
-  :Source "TE 98"
-  :Cosm "Core Earth, Aysle, Cyberpapacy, Living Land, Nile Empire, Orrorsh, Tharkold, Pan-Pacifica"
-  :Prereq "Dexterity 8+"
-  :description "The warrior has trained to hit a large number of
-foes in a single dance of death. He ignores the first
-two points of the Multi-Target penalty when using
-melee weapons (see Multi-Targeting on page 125)."}
+ 
  {:name "Iron Will"
   :Type "Psionics"
   :Source "TE 98"
@@ -1840,7 +1709,7 @@ and her body begins to change to accommodate
 Lanala’s will. The character now counts as an
 edeinos for purposes of Perk prerequisites."}
 {:name "Fortified by Faith"
- :Cosm "Living Land"
+ :Cosm "Living Land, Core Earth"
  :Type "Faith"
  :Source "LL 16"
  :Prereq "At least one add in faith"
@@ -6471,4 +6340,2217 @@ powerful spells.
 Selecting this Perk gains three
 Spells from the Twilight Magic
 list on page 21."}
+
+{:name "GeneMod Injections"
+ :Cosm "Pan-Pacifica"
+ :Type "Biotech"
+ :Source "PP 18"
+ :Prereq "None"
+ :description
+ "This Perk allows the character to install $10,000
+worth of GeneMods (see page 26). Unspent
+budget can be allocated towards the cost of new
+GeneMods at a later date.
+New Implants: This Perk can be selected more
+than once. Each purchase after the first grants the
+character an additional $5,000 worth of GeneMods."}
+{:name "Third Generation GeneMods"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh"
+ :Type "Biotech"
+ :Source "PP 19"
+ :Prereq "None"
+ :description
+ "Following the introduction of Second Generation
+GeneMods half way through the first year of the
+invasion, Panama Genetec scientists investigated the
+installation of existing GeneMods into test subjects
+from other realities. The initial experiments were
+all failures, causing rapid tissue degradation in
+the “volunteers.” However these failures provided
+insight, allowing the modification of existing
+GeneMods so they remain stable within reality-rated
+individuals, regardless of their home cosm. However
+the technique is imperfect, and the results only
+partially stable. Even subjects from Pan-Pacifica’s
+reality suffer the cataclysmic cell degradation if too
+much Third Generation GeneMod tissue is installed.
+These flaws, along with the cost, mean Kanawa only
+uses this technology where there’s a clear business
+need. However, some underground biotech labs
+have enough information about Third Generation
+research to replicate the processes involved.
+Taking this Perk allows a character to select $8,000
+of GeneMods. Unused budget may be spent at
+a later date.
+Special: This Perk may be selected by natives of
+cosms other than Pan-Pacifica."}
+{:name "Pacifist"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Faith"
+ :Source "PP 19"
+ :Prereq "Vow of Nonviolence"
+ :description
+ "The character is a pacifist. The character may
+not, under any circumstances, make physical
+attacks (e.g. those which can cause Shock or
+Wounds). In exchange, the character’s interaction
+attacks are Favored.
+Making any attack that can physically harm a
+target constitutes a major violation of the pacifist’s
+vow, and the sinner loses the use of this Perk as
+well as Vow of Nonviolence for the remainder of
+the act. No violation occurs if the target is injured
+by accident, such as by tripping and falling over a
+  ledge or by jumping into an oncoming train while
+attacking the pacifist."}
+{:name "Priest of Palan"
+ :Cosm "Pan-Pacifica"
+ :Type "Faith"
+ :Source "PP 19"
+ :Prereq "At least one add in faith. May not have
+access to any miracles list other than Palanism."
+ :description
+ "Priests of Palan believe a simple life leads to
+spiritual perfection and stand in direct opposition
+to the megacorporations of Marketplace.
+A priest’s equipment consists of a set of robes,
+sandals, and a quarterstaff. She may procure items
+from the Delphi Council (since they do not belong
+to her and will be returned), but she may not make
+streetwise tests to gain equipment using personal
+resources (for she has none).
+A priest of Palan’s supernatural abilities (i.e.
+miracles, spells, psionic powers, pulp powers, etc.)
+  may only target themselves. The range of any such
+ability is automatically reduced to Range: Self.
+The priest gains +3 Armor (Full Body, Spirit 10)
+which is sustained by her faith.
+The priest gains access to the Palanism miracles list
+(see page 59). She learns the ward enemy miracle,
+and may select two additional miracles.
+The priest of Palan gains access to the Faith Perk
+category, but may not select Miracles. However, this
+Perk counts as Miracles for the purpose of prereqs.
+Additional Miracles: The priest may
+select this Perk multiple times, each
+time learning one miracle."}
+{:name "Vow of Nonviolence"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Faith"
+ :Source "PP 20"
+ :Prereq "At least one add in faith."
+ :description
+ "The faithful takes a vow of nonviolence,
+but not true pacifism. After an opponent
+rolls a bonus for an attack targeting the
+hero, the Storm Knight may spend a
+Possibility to roll another bonus and force
+the attacker to take the lowest action total.
+If the attacker spent any Possibilities
+to Boost Action, the hero must also
+Boost Action, spending an equal
+amount of Possibilities.
+Any test the hero takes to
+make a physical attack suffers a
+–2 penalty.
+Making an attack that can
+physically harm (e.g. can cause Shock
+or Wounds) against a target who has
+not made a physical attack against the
+hero, an ally, or an innocent bystander in the
+current scene is a major violation of this vow,
+and the character loses the use of this Perk for
+the remainder of the act. In any case, the hero
+cannot inflict lethal damage."}
+{:name "Communications Cracker"
+ :Cosm "Core Earth, Cyberpapacy, Tharkold, Pan-Pacifica"
+ :Type "Hacker"
+ :Source "PP 20"
+ :Prereq "At least three adds in computers."
+ :description
+ "Communications are critical for control,
+and tapping those lines are vital intel ahead
+of — or during — operations. Attempts to hack
+communications (e.g. a locked smartphone or
+Zuzu, intercept emails, or tapping into a hardline)
+gain a +4 bonus."}
+{:name "Digital Forger"
+ :Cosm "Core Earth, Cyberpapacy, Tharkold, Pan-Pacifica"
+ :Type "Hacker"
+ :Source "PP 20"
+ :Prereq "At least three adds in computers."
+ :description
+ "The hacker is an expert at creating a
+false online presence for a person or a
+company. The fake profile can be
+made anew, or by “borrowing”
+another company’s website
+temporarily. The hacker may
+spend a Possibility to create
+or modify an online presence
+for himself or his allies on
+a network he currently
+has access to. Any ally’s
+persuasion tests using that
+profile gain a +4 bonus."}
+{:name "Meatspace Manipulator"
+ :Cosm "Core Earth, Cyberpapacy, Tharkold, Pan-Pacifica"
+ :Type "Hacker"
+ :Source "PP 20"
+ :Prereq "At least three adds in computers."
+ :description
+ "These hackers are adept at
+using computer networks to
+manipulate the environment they’re
+connected to (e.g. turning on the
+fire suppression system, halting
+or starting elevators, or locking
+doors). Any computers tests made
+to hack into or manipulate such
+systems gain a +4 bonus."}
+{:name "Comrade"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Leadership"
+ :Source "PP 21"
+ :Prereq "Natural Leader"
+ :description
+ "The hero excels at working in conjunction with a
+group of allies at the same task.
+If the Storm Knight takes the exact same action
+as an ally, (e.g. attacking using melee weapons,
+intimidating a Kanawa Security Trooper, or testing
+telepathy to manifest a Power) the test is considered
+Favored for you. The action must use the same skills
+(e.g. Multi-Action), and have the same targets."}
+{:name "Mastermind"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Leadership"
+ :Source "PP 21"
+ :Prereq "Mind 10+"
+ :description
+ "The Storm Knight can anticipate problems
+during a complicated operation, creating multiple
+contingencies.
+Once per act, during a Dramatic scene, the
+mastermind may spend a Possibility to begin
+a Flashback (see page 115). Any allies in
+communication with you may also spend a
+Possibility to join the Flashback."}
+{:name "Simplify the Environment"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Leadership"
+ :Source "PP 21"
+ :Prereq "Mind 8+"
+ :description
+ "Some leaders are able to take a quick look at
+the situation and realize things have gotten too
+complicated and it’s necessary to simplify the
+circumstances. Immediately after a Drama card is
+flipped, the character may spend a Possibility as a
+free action to cancel the Situation Line (the extra line
+on cosm-specific Drama cards) in its entirety."}
+{:name "Power Suit"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit"
+ :Source "PP 21"
+ :Prereq "At least two adds in a skill determined by
+the armor’s manufacturer."
+ :description
+ "When a Storm Knight first selects this Perk, she
+chooses a manufacturer from the list below to
+determine the baseline abilities of her core suit.
+  Anyong Security: Requires 2 adds in air vehicles.
+Flying hardsuit.
+Baihu Arms: Requires 2 adds in unarmed combat.
+Hardsuit with integrated electroclaws which attack
+using unarmed combat.
+Electric Samurai: At least two adds in melee
+weapons. Modified Kanawa power suits. Replaces
+Ion Gosuku Perk from Torg Eternity.
+Gekko: Requires 2 adds in maneuver. Softsuit,
+very customizable.
+Lorde Military: Requires 2 adds in melee weapons.
+Hardsuit with strength-enhancing servos.
+Patriot Arms: Requires 2 adds in fire combat.
+Hardsuit for those who love big guns.
+Upgrades: This Perk may be selected multiple
+times, each time gaining a new power suit
+Enhancement (see page 38). Unless otherwise
+stated, an individual upgrade may only be selected
+once."}
+{:name "Beguiling"
+ :Cosm "Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 22"
+ :Prereq "Pan-Pacifica, Beta Clearance, and
+Charisma 8+."
+ :description
+ "The character’s Charisma increases by +1."}
+{:name "Brutal Ambush"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 22"
+ :Prereq "At least three adds in stealth."
+ :description
+ "When attacking surprised targets (see
+Surprise in Torg Eternity) any damage the hero
+inflicts gains +1BD."}
+{:name "Escape Artist"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 22"
+ :Prereq "Dexterity 10+"
+ :description
+ "The hero is difficult to contain. Escaping from a
+Restrained condition is a simple action, which may
+be attempted once per turn. Tests to escape from the
+  Restrained condition gain a +4 bonus and may use
+Dexterity instead of Strength."}
+{:name "Gun Fu"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 22"
+ :Prereq "At least three adds in fire combat and unarmed combat"
+ :description
+ "When the hero’s sole action is to attack a single
+target in close combat with an unarmed combat
+and fire combat attack, if he hits with both attacks
+he may spend 3 Shock to apply the damage from
+each attack separately instead of only applying the
+highest damage."}
+{:name "Ingenious"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 22"
+ :Prereq "Mind 10+"
+ :description
+ "Not only is the hero incredibly smart, but she
+knows how to use her brains in creative ways.
+Once per scene, as a simple action, the character
+may spend a Possibility to draw a Destiny card
+and then take a Mind test. On a success, she may
+immediately draw another Destiny card and put
+it into any player’s hand. On a Good Success she
+  may draw two cards, and select one to put into any
+player’s hand. On an Outstanding Success she may
+instead draw three cards, and select one."}
+{:name "Improvised Weapon"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 23"
+ :Prereq "At least one add in melee weapons"
+ :description
+ "Although most close combatants prefer to use
+weapons which are well designed for taking out
+their opponent, some are just fine using whatever
+is laying around. It could be a frying pan, a rock,
+or even a step ladder. The hero uses melee weapons
+to attack, or missile weapons if thrown. A Small
+weapon does Strength+2 damage (Range 10/20/30).
+A one-handed weapon does Strength +3 damage
+(Range 5/10/15) and a two-handed weapon is
+Strength +4 damage, Stagger but cannot be thrown."}
+{:name "Killshot"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 23"
+ :Prereq "Double Tap"
+ :description
+ "On an attack where Double Tap was applied, roll
+the Bonus Dice for damage (if any) two separate
+times and apply the larger result. These dice may
+not be re-rolled."}
+{:name "Kneecap"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 23"
+ :Prereq "At least three adds in fire combat."
+ :description
+ "Although they are proficient with a deadly
+weapon, some are ace shots at shooting to disable
+rather than kill. When shooting to disable the hero
+may make a Called Shot (–2) against the legs. The
+attack gains a +2 bonus to damage, but the damage
+becomes non-lethal."}
+{:name "Master Thief"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 23"
+ :Prereq "At least three adds in trick and two adds in lockpicking."
+ :description
+ "Attempting to lift an object someone possesses
+(but does not hold in their hands) or plant a small
+object (e.g. wallet, ID card, cellphone) into one of
+their pockets without them noticing, requires a
+Dexterity + trick test against the target’s trick.
+As long as there is no combat occurring, the
+pickpocket may do a lift or plant on an Ord, and
+as long as his Dexterity + trick is at least equal to the
+target’s trick, it automatically succeeds.
+Additionally, lockpicking tests are Favored."}
+{:name "Scientific Method"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 23"
+ :Prereq "At least three adds in science and two adds in scholar."
+ :description
+ "Once per act, the Storm Knight may use science
+adds instead of the usual skill adds for a test. The
+test counts as skilled and as an Approved action.
+The test can’t activate spells, miracles, or psionic
+powers. The player must explain or roleplay how
+science is useful for the task at hand (GM’s call)."}
+{:name "Speed Demon"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 23"
+ :Prereq "At least two adds in land vehicles."
+ :description
+ "Motorcycles are the preferred mode of
+transportation for most Electric Samurai thanks to
+the combination of speed, maneuverability, and the
+lack of an outer frame to hamper sword use! When a
+speed demon makes a melee attack from any vehicle
+moving Fast (Speed Value 11) or faster, he gains a +2
+bonus to damage. If the vehicle is also open-topped,
+the damage bonus is +4.
+This Perk replaces that described in Torg Eternity."}
+{:name "Trademark Vehicle"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 24"
+ :Prereq "At least two adds in air vehicles, land vehicles, or water vehicles."
+ :description
+ "The hero gains a vehicle worth Value 25 or less—
+or Value 30 or less if it’s unarmed. Tests for that
+vehicle, including repairs, are Favored."}
+{:name "Trenchcoat Warfare"
+ :Cosm "Core Earth, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 24"
+ :Prereq "Aysle, Core Earth, Cyberpapacy, Nile
+Empire, Orrorsh, Pan-Pacifica, or Tharkold AND
+at least two adds in fire combat or energy weapons."
+ :description
+ "Whether it’s a bag of guns, or firearms held in
+holsters and slings, the bottom line is that some
+people just love lots of guns.
+The gun enthusiast gains a bag of guns based on
+his home cosm, from the options below. Once per
+act, he may swap out the guns in his bag for those
+from the local cosm, as long as he’s in a position to
+do so. Starting with the first weapon (or weapons)
+on the list, after attacking an enemy with the weapon
+at least once, the hero may grab the next gun on the
+list as a simple action.
+All guns have one magazine of
+standard ammunition.
+• Aysle: Twin Ayslish wheel-lock pistols,
+arquebus, blunderbuss, experimental
+blunderbuss (+2 damage), dwarven
+blunderbuss (+4 damage but any Malfunction
+deals 14 damage against the character and
+destroys the gun).
+• Core Earth: Twin Glock 9mm pistols, twin
+Uzis, Atchisson 12 shotgun, M4 carbine, GM-
+94 grenade launcher (with frag grenades).
+• Cyberpapacy: Twin GWI GodMeeter pistols,
+GWI Godbeam laser rifle, MAS Storm shotgun,
+MAS God’s Wrath grenade launcher (with
+MAS AP grenades), GWI God’s Fire plasma
+rifle.
+• Nile Empire: Twin Webley revolvers, twin
+Schmiesser MP-40 machine pistols, Thompson
+1928 submachine gun, hunting shotgun, 7.92
+KAR assault rifle.
+• Orrorsh: Twin Webley revolvers, twin
+pepperbox pistols, sawed-off coach gun, Lee-
+Enfield Mk1 rifle, .450 Nitro Express rifle.
+A Bulletsmith may include his Slayer’s Gun
+anywhere in this sequence.
+• Pan-Pacifica: Twin Sinosec Viper 9mm pistols,
+twin Chunyokai 13mm pistols, twin SC Kyogo
+144 SMGs, Arlington Terminator shotgun, SC
+Kyogo T11.
+• Tharkold: Twin MP-443 Grach pistols, twin
+Thav-9 submachine guns, Saiga-12 shotgun,
+Alph Sprayer assault gun, RPG-32.
+Some of these
+other sourcebooks."}
+{:name "Whirlwind"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 24"
+ :Prereq "Dexterity 8+"
+ :description
+ "The warrior has trained to hit a large number of
+foes in a single dance of death. He ignores the first
+two points of the Multi-Target penalty when using
+melee weapons or unarmed combat.
+This Perk replaces the Torg Eternity version."}
+{:name "Wrestler"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Prowess"
+ :Source "PP 24"
+ :Prereq "At least two adds in unarmed combat."
+ :description
+ "The hero’s Grapple attacks (see Grappling in
+Torg Eternity) are Favored, and do not incur the –2
+damage penalty on a Standard success."}
+{:name "Disciplined Psychic"
+ :Cosm "Pan-Pacifica"
+ :Type "Psionics"
+ :Source "PP 24"
+ :Prereq "Pan-Pacifica, at least 1 add in kinesis,
+precognition, or telepathy, no access to any Powers
+lists other than Disciplined Psychic."
+ :description
+ "Through meditation and practice, deep self-
+awareness can be achieved. Those who become
+enlightened in this way can become masters of many
+psychic talents.
+Selecting this perk gains access to the Disciplined
+Psychic list (see page 51), and the psi may choose
+three powers. Additional powers can be acquired by
+taking the Path of Unification Perk (see page 47).
+  The Psionic Perk may not be selected, but this Perk
+counts as Psionic for prereqs.
+Additional Powers: This Perk may be selected
+multiple times, gaining a new psionic power each
+time."}
+{:name "Psychic Mutant"
+ :Cosm "Pan-Pacifica"
+ :Type "Psionics"
+ :Source "PP 25"
+ :Prereq "Pan-Pacifica, at least one add in kinesis,
+precognition, or telepathy, no access to any other
+psionic powers lists other than Psychic Mutant."
+ :description
+ "Some are just born with it. Others develop these
+powers after being exposed to chemicals, radiation,
+or it is rumored, the Contagion. Regardless of how,
+mutated humans exist in Pan-Pacifica who can wield
+psychic energy. Though typically not as refined as
+the disciplined psychics, mutant psychics tend to
+be capable of wielding more raw psychic energy.
+Psis can choose three powers from the Psychic
+Mutant list (see page 51) when taking this Perk.
+Additional powers can be acquired by taking the
+Psionic Perk (see Torg Eternity)."}
+{:name "Wild Mind"
+ :Cosm "Pan-Pacifica"
+ :Type "Psionics"
+ :Source "PP 25"
+ :Prereq "At least one add in kinesis, precognition, or
+telepathy. May not have Iron Will or Disciplined
+Psychic Perks."
+ :description
+ "The psychic is untrained and raw. He has a natural
+talent for psychic abilities, but can’t protect his mind
+from overloads. Whenever testing for a psychic skill
+he suffers 2 Shock but the roll is Favored. The Shock
+cannot be prevented by any means. He rerolls 1s on
+any bonus dice applied to psychic powers.
+The psi may never take the Iron Will or Disciplined
+Psychic Perks."}
+{:name "Always Prepared"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Social"
+ :Source "PP 25"
+ :Prereq "At least two adds in persuasion."
+ :description
+ "Once per scene you may spend a Possibility to
+make a new Requisition test. The item that results
+was previously arranged for delivery, or you
+simply had it all along!"}
+{:name "Arms Dealer"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Social"
+ :Source "PP 25"
+ :Prereq "At least two adds in streetwise."
+ :description
+ "When Requisitioning items, test first and then
+choose a weapon with a Value equal to or less than
+the action total. Ignore rarity and restrictions on
+military weapons.
+Instead of choosing a single weapon, the arms
+dealer may choose to take two identical weapons
+at Value +2 or 10 identical weapons at Value +5."}
+{:name "Con Artist"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Social"
+ :Source "PP 25"
+ :Prereq "Charisma 8+, at least 3 adds in persuasion."
+ :description
+ "The grifter is an expert at the art of the con, and
+any of the hero’s persuasion tests involving deceit
+gains a bonus equal to half her trick adds (rounded
+up). The same bonus applies to her defense against
+attempts to deceive her."}
+{:name "Dark Past"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Social"
+ :Source "PP 25"
+ :Prereq "Charisma 8+"
+ :description
+ "When their Moment of Crisis came the character
+made the wrong choice, but since then they’ve
+switched sides and mostly been accepted.
+The player’s hand size is reduced by one (and they
+start an act with one fewer Destiny card) but the
+hero gains one extra Possibility at the start of acts.
+Once per act, the Storm Knight may play a
+Connection card to invoke this past and collect a
+favor from a villain — perhaps he’ll let you go, offer
+a piece of information, or retreat early (GM’s call)
+for “Old Times’ Sake.”"}
+{:name "Fake It Til You Make It"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Social"
+ :Source "PP 25"
+ :Prereq "At least two adds in persuasion."
+ :description
+ "Spend a Possibility to gain 1 add in a skill you
+don’t have, or go from +1 to +2 adds in a skill you
+do until you choose to “fake” a different skill. When
+you Play for the Critical Moment the test never
+counts as untrained."}
+{:name "Famous"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Type "Social"
+ :Source "PP 25"
+ :Prereq "Charisma 8+"
+ :description
+ "Storied heroes may gain a reputation of being
+honorable, true, and gracious. There’s just something
+about them that makes people gosh darn like them.
+Persuasion tests are Favored as long as the character
+is open about his identity, and once per act, the
+character may search the Destiny deck or discard
+pile for a Connection card and add it to his hand."}
+{:name "Aquatic Package (Anyong, Baihu, Gekko)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq ""
+ :description
+ "The suit includes a built-in re-breather and
+fins which automatically deploy and retract
+when the suit is wet or dry. The suit acts as
+a high-tech SCUBA suit when in the water,
+and can submerge to a depth of 30 meters for
+up to one hour. When immersed in water, the
+suit can swim with speed equal to the pilot’s
+walking speed but can rush as normal. The
+re-breathers do not release bubbles, so this is
+perfect for stealth operations underwater."}
+{:name "Armor Upgrade (Any)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq ""
+ :description
+ "The power suit’s armor
+is increased by +1, but reduces maximum
+Dexterity by 1. If the Gekko suit is upgraded
+in this fashion, it becomes a hardsuit, now
+causes Fatigue, and can mount an Integrated
+Weapons Package."}
+{:name "Chaingun Upgrade (Patriot Arms)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq "Integrated Minigun"
+ :description
+ "The
+power suit minigun is upgraded to an Impala
+Chaingun and is mounted to the back. This
+weapon cannot be disarmed except under
+very unusual circumstances. Requires the
+Integrated Minigun upgrade."}
+{:name "Chameleon Plates (Gekko, Kanawa)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq ""
+ :description
+ "The
+entire outer layer of the armor is covered
+with sensors and LEDs which shift color and
+brightness to mimic the surrounding area
+when stationary. So long as the pilot remains
+completely still (no actions or movement)
+she is effectively invisible and gains Full
+Concealment (–6 penalty to find tests or ranged
+attacks)."}
+{:name "Dynamic Armor Plating (Kanawa)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq ""
+ :description
+ "The suit’s
+armor plating pivots and moves, allowing
+its user to better utilize their natural agility.
+Increase the suit’s Max Dex by one."}
+{:name "Electric Lance (Lorde Military)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq ""
+ :description
+ "The electric
+halbard is connected directly to the power
+supply of the suit. This allows the melee
+weapon to fire a single bolt of electricity each
+turn, which causes Damage 14 (AP 4), Range
+20/50/100, and use energy weapons to fire."}
+{:name "Electric Shield (Lorde Military)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq ""
+ :description
+ "The armor
+is equipped with a tower shield (+3 defense
+bonus to dodge and melee defenses) which
+may extend and retract with a simple action.
+The shield grants the pilot’s electric halberd
+the Painful quality, and a shield bash does
+Strength +1, Dazing, AP 2 damage."}
+{:name "Enhanced Mobility (Baihu, Gekko)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq ""
+ :description
+ "Artificial
+muscles in the legs of the suit, combined with
+AI-controlled servos and (sometimes) wheels
+in the boots, allow for near-superhuman
+running speeds. Allows the pilot to rush on
+the ground up to 160 meters in a round (Value
+11) and also allows the pilot to leap up to 10
+meters horizontally (20 meters with a running
+start) and 3 meters vertically without requiring
+a test."}
+{:name "Enhanced Servos (Lorde Military)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq ""
+ :description
+ "Strength
+tests are Favored and +2 damage bonus to
+Strength-based attacks."}
+{:name "Flash Burst (Any)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 38"
+ :Prereq ""
+ :description
+ "Once per scene the armor
+may unleash a blinding flash of light as a
+free action. The light momentarily dazzles
+individuals within a Medium Blast around
+the character, rendering each Very Stymied."}
+{:name "Glider Wings (Anyong, Gekko)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "The pilot
+can deploy a set of wings, allowing them to
+glide. There is no propulsion, so the wings
+allow for stealthy approaches, but need
+altitude or a Jetpack upgrade to take initial
+flight. The power suit falls 10 meters for
+every 100 meters distance they glide, but can
+descend faster if desired. Gliding is up to 100
+meters in a round, but any distance further
+than 10 meters is considered rushing, and
+the suit drops 20 meters for each 100 meters
+horizontal. Uses air vehicles skill."}
+{:name "Integrated Minigun (Patriot Arms)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "Power
+suit now includes a shoulder-mounted Patriot
+Arms minigun (see page 63)."}
+{:name "Integrated Weapons Package (Anyong, Baihu, Gekko, Patriot Arms)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "Three hardpoints are
+installed on the power suit, one under each
+forearm, and one located on the shoulder. This
+option is available to Gekko suits only if the
+Armor Upgrade Enhancement is also selected.
+Three firearms or energy weapons, each up to
+$1000, may be installed, with 5 reloads each.
+If the same weapon is installed in both arms,
+it fires using the Two Weapons combat option
+(see Torg Eternity)."}
+{:name "Jetpack (Anyong, Gekko, Patriot Arms)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "This
+bulky flight pack is mounted onto the back
+and consists of omni-directional thrusters.
+These thrusters are not quiet, and impose –6
+to stealth attempts, but allow a pilot to fly at 20
+meters per round, or can rush 160 meters per
+round (Value 11). The jetpack can also hover.
+Comes standard on Anyong Security suits.
+Uses air vehicles skill."}
+{:name "Kabuto HUD (Any)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "The armor’s helmet
+features an integrated display that removes the
+first two points of penalties from the samurai’s
+ranged attacks."}
+{:name "Lightning Sheath (Kanawa)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "Electric Samurai
+(among others) quickly learned the dangers of
+being overwhelmed by hordes of infected or
+the jiangshi’s deadly grappling attack. Once
+per scene, the armor may discharge an electric
+blast as a free action, causing Damage 12+1BD
+to anything touching the exterior of the armor.
+  Anything grabbing the pilot automatically
+releases its hold."}
+{:name "Prosthetic Extension Servos (Anyong, Lorde Military, Patriot Arms)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "This upgrade is
+designed to enable soldiers who had lost limbs
+to continue using power suits. After any Soak
+Damage attempts, for each Wound taken, roll
+a die. If the die is 15-20 the Wound is ignored."}
+{:name "Sonic Emitter (Baihu)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "When the pilot makes
+an intimidation attack, this device emits an
+infrasonic sound which induces feelings of
+nausea in the target. As long as the target
+can hear, the pilot’s intimidation attacks are
+Favored. Alternatively, the emitter can be used
+in high frequency mode, allowing the pilot to
+use echolocation to see, and ignoring up to 4
+points of Darkness penalties."}
+{:name "Speed-Loading Mechanism (Anyong, Baihu, Gekko, Patriot Arms)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "This enhancement
+allows the user to configure their suit to quickly
+reload weapons. Reload time is reduced a step
+as follows: round > action > simple action >
+free action (once per round). Reloading as a
+free action does allow additional Multi-Targets
+to be selected if the magazine runs out of
+ammunition."}
+{:name "Ultra-Light Alloys (Anyong, Baihu, Gekko, Kanawa)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "The armor’s low weight and perfect
+fit combine to eliminate one level of Fatigue
+penalty (e.g. from Fatigue +1 to just Fatigue).
+If the armor only inflicts Fatigue, this upgrade
+eliminates that property. This Enhancement
+may be selected multiple times."}
+{:name "Vehicle Operating Extension (Gekko, Kanawa)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "This software extension allows a
+power suit’s onboard computer to network
+with a Tech 24 or higher land vehicle. This
+enhancement cancels the first two points of
+Multi-Action penalties when at least one
+action uses land vehicles. Stunts during Chases
+are Favored."}
+{:name "Wall-Walker (Baihu, Gekko)"
+ :Cosm "Pan-Pacifica"
+ :Type "Power Suit Enhancements"
+ :Source "PP 39"
+ :Prereq ""
+ :description
+ "Gloves and
+boots allow movement along any surface that
+can support the user’s weight, even moving
+upside down, at normal walking speed. The
+pilot cannot rush upside down."}
+{:name "Block/Strike*"
+ :Cosm "Pan-Pacifica"
+ :Type "Vitality"
+ :Source "PP 41"
+ :Prereq "Spirit 8+, at least three adds in unarmed
+combat."
+ :description
+ "A martial artist, missed by a foe with a melee
+attack, may suffer 1 Shock to immediately make a
+melee attack of her own against that opponent.
+  If the hero is a target of a Combined Action attack,
+she may use Multi-Targeting to attack up to all those
+who attacked her.
+If the Storm Knight is attacked more than once in
+a round, she may activate Block/Strike as long as she
+has Shock to spend."}
+{:name "Breath Strike*"
+ :Cosm "Pan-Pacifica"
+ :Type "Vitality"
+ :Source "PP 41"
+ :Prereq "Spirit 8+, at least three adds in melee weapons or unarmed
+combat."
+ :description
+ "The warrior can focus her breathing to turn an
+attack into a devastating blow. After generating
+a melee weapons or unarmed combat damage total,
+she may suffer 1 Shock per target hit to apply a +2
+bonus to damage on the attack."}
+{:name "Center Self*"
+ :Cosm "Pan-Pacifica"
+ :Type "Vitality"
+ :Source "PP 41"
+ :Prereq "Mind 8+"
+ :description
+ "The hero has trained to calm his emotions, remove
+distractions, and reinvigorate himself, even in
+chaotic environments.
+  If the hero spends 30 minutes in quiet contemplation
+after waking, mindful of her breathing and the
+sensations of the world around her, for the rest of
+the day she may center herself once per scene as a
+simple action, recovering 1BD+1 Shock."}
+{:name "Combo Expert*"
+ :Cosm "Pan-Pacifica"
+ :Type "Vitality"
+ :Source "PP 42"
+ :Prereq "Mind 8+ and any Path perk"
+ :description
+ "The martial artist can sequence Vitality Powers
+more efficiently. They may add the same effects to
+a number of targets up to their Path skill adds by
+only expending the needed Shock once. All targets
+must have the same effects. Example: A hero with
+3 adds in the Path of the Foot and Fist may suffer 3
+Shock to add +1BD damage with a Leaping Kick to
+3 targets instead of the normal 9 Shock."}
+{:name "Focused Strike*"
+ :Cosm "Pan-Pacifica"
+ :Type "Vitality"
+ :Source "PP 42"
+ :Prereq "Spirit 8+ and at least three adds in melee weapons or unarmed combat."
+ :description
+ "The hero summons all his concentration and strikes
+at a foe’s most vulnerable point. After generating
+a melee weapons or unarmed combat damage total,
+she may suffer 1 Shock to give her attack Armor
+Piercing 4. Armor Piercing from multiple sources
+does not stack."}
+{:name "Multi-Disciplined*"
+ :Cosm "Pan-Pacifica"
+ :Type "Vitality"
+ :Source "PP 42"
+ :Prereq "At least one Path Perk and at least five adds in that Path's skill."
+ :description
+ "The martial artist’s mind has expanded such that
+they can walk a second Path. This Perk only grants
+the ability to take another Path, it does not grant
+them the Path Perk itself."}
+{:name "Unflinching*"
+ :Cosm "Pan-Pacifica"
+ :Type "Vitality"
+ :Source "PP 42"
+ :Prereq "Spirit 8+"
+ :description
+ "Some practitioners put their mission first, even
+above their own personal safety. They push their
+body to the limits of its endurance to accomplish
+their goals.
+The hero may eliminate one or more levels of
+Stymied or Vulnerable by taking 1 Shock per
+condition removed. As an example, for 1 Shock, she
+could reduce Very Stymied to Stymied. For 2 Shock,
+she could eliminate both or negate a Stymied and
+Vulnerable condition, and so on."}
+{:name "Path of the Foot and Fist*"
+ :Cosm "Pan-Pacifica"
+ :Type "Paths"
+ :Source "PP 42"
+ :Prereq "At least three adds in unarmed combat."
+ :description
+ "This Path features self defense by way of punching,
+kicking, or otherwise making strikes with the bare
+hand, foot, knees, or elbows. Real world examples
+include taekwondo, karate, and kung fu.
+Path Skill: unarmed combat
+Techniques:
+1. Stone Fist: Spend 1 Shock after hitting a target
+with a melee attack to knock the target back 5
+meters and do +1 Shock, or spend 3 Shock to knock
+the target back 5 meters and inflict +2 Shock. The
+target may make a contest of reality vs. unarmed
+combat to prevent the forced movement.
+2. Leaping Kick: Spend 1 Shock after hitting to
+gain a +2 bonus to damage. Spend 3 Shock after
+hitting to do +1BD damage.
+3. Lightning Fist: Spend 1 Shock before an attack
+to gain +2 to the attack roll when using fists.
+4. Roundhouse Kick: Before making an unarmed
+attack, spend 1 Shock to render the target Stymied
+on a Good or Outstanding hit.
+5. Offhand Backhand: If Vulnerable or Very
+Vulnerable, when attacked by one or more Ords,
+the hero may spend 1 Shock to interrupt and make
+a single unarmed attack as a free action against
+one attacker before they strike, or spend 2 Shock to
+make an attack against any of the attackers, using
+Multi-Targeting.
+6. Disarm: Spend 1 Shock before making a Called
+Shot with unarmed combat to disarm to give the
+target a –2 penalty on his Strength test to avoid
+being Disarmed, or 3 Shock for a –4 penalty.
+7. Cyclone: Spend 1 Shock to ignore the first
+2 points of Multi-Targeting Penalties. With the
+Whirlwind Perk, the hero may ignore the first 4
+points of Multi-Targeting with 1 Shock or the first 6
+points with 3 Shock.
+8. Felling the Oak: After rolling any bonus dice for
+additional damage on an unarmed attack, spend 2
+Shock to re-roll any or all Bonus Dice rolled and
+take the highest damage total."}
+{:name "Path of Flow*"
+ :Cosm "Pan-Pacifica"
+ :Type "Paths"
+ :Source "PP 43"
+ :Prereq "At least one add in each of maneuver,
+melee weapons, and unarmed combat."
+ :description
+ "This Path focuses on non-lethal resolution and self-
+defense rather than aggressive action. Practitioners
+are adept at reading their environment and
+reducing risks to themselves and others. Real world
+examples include tai chi at combat speed and aikido.
+Path Skill: unarmed combat
+Techniques:
+1. Avoid and Deflect: Spend 1 Shock after being
+hit to give the attacker a damage penalty equal to
+one half the hero’s unarmed combat adds against a
+single attack.
+2. Feint: As an action, spend 1 Shock to make
+an unarmed combat or melee weapons test as an
+interaction attack against a single opponent’s
+maneuver.
+3. Unbalance: When an attacker fails to hit with
+a melee attack against the hero, spend 1 Shock to
+make the attacker Vulnerable. If attacked with a
+Combined Action, the hero may spend 2 Shock to
+make all the attackers Vulnerable.
+4. Circular Defense: When targeted by an attack
+using a Combined Action, spend 2 Shock to negate
+the Combined Action attack bonus.
+5. Whirling Barrier: If a foe misses the hero with
+a melee attack, spend 2 Shock to immediately
+counterattack that foe with a melee attack. If the
+hero has Block/Strike, spend 2 Shock to ignore up
+to 4 points of Multi-Targeting penalties on Block/
+Strike.
+6. Disarm: Spend 1 Shock before making a
+Called Shot with melee weapons or unarmed combat
+to disarm to give the target a –2 penalty on his
+Strength test to avoid being Disarmed, or 3 Shock
+for a –4 penalty.
+7. Cyclone: Spend 1 Shock to ignore the first
+2 points of Multi-Targeting Penalties. With the
+Whirlwind Perk, the hero may ignore the first 4
+points of Multi-Targeting with 1 Shock or the first 6
+points with 3 Shock.
+8. Calm Presence: The master’s tranquil demeanor
+when facing apparently overwhelming numbers
+can be unnerving. At the beginning of combat,
+if the character is not surprised, he may spend 2
+Shock to force all Ords to make a Fear test."}
+{:name "Path of the Gun*"
+ :Cosm "Pan-Pacifica"
+ :Type "Paths"
+ :Source "PP 43"
+ :Prereq "At least 2 add in fire combat and one add in unarmed combat."
+ :description
+ "This Path combines elements of both unarmed
+combat and marksmanship with pistols, and is
+known by some as “gun fu.” The martial artist has
+learned techniques to use the advantages of both to
+enhance their abilities, and to use the advantages
+of one to counter the disadvantages of the other.
+Path Skill: fire combat
+Techniques:
+1. Guns Akimbo: When using the Two Weapons
+attack option with two pistols, spend 1 Shock to
+reduce the Multi-Targeting penalty by 2.
+2. Tap Twice: Spend 1 Shock to fire two shots for
+a +1 to fire combat or energy weapons. If the hero has
+Double Tap, he may spend 1 Shock to increase
+bonus to +2..
+3. Fast Reload: Reload up to two firearms per turn
+as a simple action or spend 1 Shock to reload as a
+free action when not firing the weapon.
+4. Quick Trigger: Sspend 2 Shock before making
+a fire combat attack to upgrade Rapid Fire by one
+  level, up to a Long Burst (including an attack using
+Two Weapons).
+5. Bullet Ballet: While armed with a pistol in
+each hand in melee combat, the hero may spend 1
+Shock to substitute fire combat for unarmed combat
+and is considered to have two melee weapons
+for purposes of Two Weapon defense (see Torg
+Eternity).
+6. Double Strike: Spend 4 Shock to apply damage
+to a single opponent with both an unarmed combat
+and fire combat attack. With the Gun Fu Perk, the
+hero reduces the cost to activate Gun Fu to 2 Shock.
+7. Deadeye: Spend 1 Shock to roll damage twice
+for Tap Twice/Double Tap and use the larger result.
+If the hero has Killshot, it may be triggered by using
+the Quick Trigger Technique.
+8. Bullet Time: Spend 3 Shock to gain a Flurry. The
+hero may only attack with fire combat or unarmed
+combat during the Flurry turn. This ability may
+only be activated once per round."}
+{:name "Path of The Hero*"
+ :Cosm "Pan-Pacifica"
+ :Type "Paths"
+ :Source "PP 44"
+ :Prereq "At least one add in maneuver, one add in
+streetwise, and one add in unarmed combat."
+ :description
+ "This Path is often followed through a combination
+of martial arts training, social interactions, and a
+heart that just can’t help but assist others who need
+it.
+Path Skill: streetwise
+Techniques:
+1. Parkour: When making a test involving running,
+jumping, or climbing, the hero may spend 1 Shock
+to gain a bonus to those tests equal to his maneuver
+adds.
+2. The Tools at Hand: Spend 1 Shock to make a
+trick attack Favored, or 3 Shock to gain a +4 attack
+bonus.
+3. Weapons Everywhere: Spend 1 Shock to use
+improvised weapons as with the Improvised
+Weapon Perk. If the hero has Improvised Weapon,
+attacks with an improvised weapon are Favored.
+4. My Father Taught Me...: Select a Path with
+unarmed combat or melee weapons as its Path skill.
+This is the hero’s Minor Path. Choose one Technique
+from that Path with rank 3 or lower.
+5. Street Learning: Choose one Technique from
+the hero’s Minor Path of rank 4 or lower.
+6. The Unchosen One: Despite his heroism, the
+martial artist always ends up hurt. Once per act,
+before being attacked by a reality-rated opponent,
+choose to accept the hit and take 1, 2, or 3 Wounds,
+as well as any additional effects the hit would
+apply, and gain one Possibility for each Wound
+taken. These Wounds may not be prevented or
+healed for the remainder of the act.
+7. Hero of the People: After hitting with a melee
+attack, the hero may spend 3 Shock to grant a
+bonus to damage equal to half his streetwise adds
+(rounded down). If he is in the presence of neutral
+or friendly non-combatants, the bonus is equal to
+streetwise adds.
+8. Signature Move: When this rank is gained,
+choose a Technique from the hero’s Minor Path
+of rank 5 or lower. Additionally, create a Combo
+involving the three Minor Path Techniques. Once
+per act, when attacking a single reality-rated foe,
+spend 1 Shock to perform the Combo, without any
+additional Shock costs."}
+{:name "Path of Palan*"
+ :Cosm "Pan-Pacifica"
+ :Type "Paths"
+ :Source "PP 44"
+ :Prereq "At least two adds in faith, one add in
+persuasion, and following the Palanism faith."
+ :description
+ "Some priests of Palan metaphorically replicate
+Palan’s journey to enlightenment by following this
+Path.
+Path Skill: faith
+Techniques:
+1. Step of Consequence: All actions, even minor
+ones, have consequences. After the priest or an
+ally is hit in combat, spend 2 Shock to make the
+hero’s next test against that attacker Favored. If the
+attacker is KO’ed before the hero’s next action, they
+regain the Shock.
+2. Step of Kindness: Spend 2 Shock to make a
+persuasion test. On a success, heal an ally from one
+Stymied or Vulnerable condition. If the priest has
+Helper, the persuasion test is Favored.
+3. Step of Truth: Always speak the truth. The
+truth can be more surprising than a lie. The priest
+may use persuasion instead of trick as an interaction
+  attack. On a successful test, spend 1 Shock to draw
+a card. This does not count as an Approved Action.
+4. Step of Mercy: Spend 4 Shock to roll another
+bonus for the Vow of Nonviolence Perk instead of
+spending a Possibility. If the hero has the Pacifist
+Perk, he may also choose to take a Wound he can’t
+soak or otherwise heal for 1 act instead of losing his
+Vow of Nonviolence and Pacifist Perks for an act.
+5. Step of Poverty: With the Path of Palan Perk,
+when the priest is hit in combat, she may spend 2
+Shock to reduce the number of Wounds taken by
+one.
+6. Step of Struggle: Resist those who would
+oppress others. Spend 1 Shock to gain a +2 bonus
+to an Active Defense.
+7. Step of Mindfulness: Be aware without
+interpretation or judgement. Gain the meditation
+miracle for free (see page 59). If the priest already
+has meditation, she may spend 2 Shock to increase
+the range to 5 meters and target up to six allies
+without taking Multi-Targeting penalties.
+8. Step of Connection: The most powerful force
+in the cosmverse is the link between conscious
+beings. During round play, the priest may spend
+1 Shock to make a Combined Action on an ally’s
+turn without sacrificing her own action, or she may
+spend 3 Shock to allow all allies within hearing
+range to support her action with a Combined
+Action, without consuming their own action. Extra
+Effort is not allowed in this case."}
+{:name "Path of Shadow*"
+ :Cosm "Pan-Pacifica"
+ :Type "Paths"
+ :Source "PP 45"
+ :Prereq "At least two adds in stealth and one add
+in unarmed combat."
+ :description
+ "Some fighting arts focus less on direct conflict and
+more on misdirection and stealth, stretching at
+least as far back as Sun Tzu’s maxim: “all combat is
+based on deception.” Those who reach mastery of
+this Path are almost impossible to surprise and may
+appear from anywhere. Real world examples of
+this include ninjutsu and most nations’ or agencies’
+advanced light infantry, intelligence, or scouting
+training.
+Path Skill: stealth
+  Techniques:
+1. Now You See Me: The hero may spend 1 Shock
+to inflict a –2 Concealment penalty to all attacks
+against her until the start of her next turn.
+2. Floating Mind : At the beginning of any combat,
+spend 2 Shock to be Vulnerable and able to act in a
+surprise round. If not surprised, spend 2 Shock to
+be Vulnerable and gain a surprise round.
+3. Close In: Spend 1 Shock to eliminate 2 points of
+Multi-Action Penalties if a stealth test is one of the
+actions.
+4. Han Shot First: Spend 1 Shock to add +1BD to
+any physical attack damage to surprised targets.
+If the hero has Brutal Ambush, these surprise
+physical attacks in a surprise round are Favored.
+5. Living Shadow: Use stealth against one or more
+Ords as an interaction attack.The Ords use find
+for defense. If the hero succeeds, he may spend 2
+Shock to increase the Success Level by one.
+6. Sentry Removal: At the beginning of any combat
+involving Ords, spend 3 Shock to remove up to
+three Ords from combat without being detected.
+Ords with a Wound Limit of 1 or more cannot be
+targets. Whether removal is lethal or non-lethal is
+at the player’s discretion.
+7. Fade Out: If cover is nearby, spend 1 Shock
+to immediately become hidden (gains High
+Concealment, –6 penalty). On the hero’s next
+attack, she may spend 2 Shock to make any targets
+she attacks Flat Footed.
+8. Always Ready: Once per scene, a hero may
+place a card directly from her hand into her pool
+(and use it immediately, if desired). If the hero has
+Situational Awareness, spend 2 Shock to draw a
+card before placing a card, including this one, into
+the pool."}
+{:name "Path of Supplenes*"
+ :Cosm "Pan-Pacifica"
+ :Type "Paths"
+ :Source "PP 45"
+ :Prereq "At least three adds in unarmed combat"
+ :description
+ "This Path focuses on grappling, binding, and
+throws, with the goal being immobilization or
+subduing of an opponent. real world examples
+include Greco-Roman wrestling and judo.
+Path Skill: unarmed combat
+  Techniques:
+  1. Break the Fall: As long as the hero can touch a
+surface or object he may spend 2 Shock to take half
+falling damage.
+  2. Grappler: Grapple attacks are Favored. If
+the hero has the Wrestler Perk, he ignores the -2
+damage penalty on a Standard success and may
+spend 1 Shock to gain a +2 bonus to damage on the
+attack.
+3. Stunning Throw: When a hero hits with an
+unarmed attack, he may spend 2 Shock to render
+the target Vulnerable.
+4. Chokehold: When inflicting one or more
+Wounds on a restrained target (after any Soak
+Damage attempts), spend 2 Shock to convert all the
+Wounds to 3 Shock each.
+5. Joint Lock: Prior to making an attack roll, spend
+1 Shock to improve the Success Level of a successful
+grapple attack by one step, or spend 3 Shock after
+hitting to do the same.
+6. Deep Reserves: Recover 1 Shock as a simple
+action. If the hero has Center Self, the Shock
+recovered from Center Self increases to 1BD+3.
+7. Immovable Object: Prior to being attacked
+with maneuver, the hero may spend 1 Shock to
+make his maneuver defense 20. Additionally when
+struck with an unarmed combat attack, he may
+spend 2 Shock to gain a +5 bonus to Toughness for
+the attack (which stacks with any other Toughness
+bonuses).
+8. Shake the Tree: Before rolling any Bonus Dice
+from an unarmed combat attack, spend 2 Shock to
+roll the Bonus Dice twice and take the highest
+result."}
+{:name "Path of the Sword*"
+ :Cosm "Pan-Pacifica"
+ :Type "Paths"
+ :Source "PP 46"
+ :Prereq "At least 3 adds in melee weapons."
+ :description
+ "This Path focuses on the sword as an implement
+both of combat and self-improvement. While
+traditionally the sword has been the focus of such
+arts, any hand-to-hand weapon is suitable for this
+Path. Examples on Core Earth include kendo, iaido,
+and more exotic schools such as the Fairbairn-
+Sykes knife school.
+Unless specified, the techniques may be used only
+when a character is using a melee weapon.
+  Path Skill: melee weapons
+  Techniques:
+  1. Break the Fall: As long as the hero can touch
+a surface or object he may spend 2 Shock to halve
+falling damage.
+2. Staying Alive: When attacked, after the attacker
+makes the action total, the swordmaster may spend
+1 Shock to gain a +2 bonus to melee defense.
+3. Flourish: After hitting a target with a Good or
+Outstanding hit, spend 1 Shock to make the target
+Stymied.
+4. Cut the Center: Prior to attacking, spend 1 Shock
+to gain +2 bonus to the attack or spend 3 Shock to
+apply a +2 bonus to both attack and damage.
+5. Cyclone: Spend 1 Shock to ignore the first
+2 points of Multi-Targeting Penalties. With the
+Whirlwind Perk, the hero may ignore the first 4
+points of Multi-Targeting with 1 Shock or the first 6
+points with 3 Shock.
+6. Break the Blade: After hitting with a Called
+Shot against a target with the intent to disarm a foe,
+spend 1 Shock to compare the damage against the
+weapon’s Toughness (12 for most weapons). If a
+Wound is inflicted, the weapon is unusable for the
+remainder of the scene. If the target is reality-rated
+they may make a Soak Damage test to prevent the
+damage as if they were taking the Wounds.
+7. No-Mind: The hero has so attuned herself to her
+art that she may use her weapon to defend against
+attacks from missile weapons, firearms, and energy
+weapons. When attacked, after the action total is
+made, the hero may spend 1 Shock to use her melee
+defense instead of dodge.
+8. Perfect Timing: Spend 1 Shock to interrupt and
+make a single melee combat attack as a free action
+against one target. After the interrupt, the attack
+resolves normally, even if the melee attack would
+KO the enemy. If the enemy is KO’ed, the hero may
+spend 2 Shock to nullify the attack entirely."}
+{:name "Path of Unification*"
+ :Cosm "Pan-Pacifica"
+ :Type "Paths"
+ :Source "PP 47"
+ :Prereq "At least two adds in kinesis and one add
+in unarmed combat AND Disciplined Psychic."
+ :description
+ "The emergence of psychic disciplines, and human
+nature, made it inevitable that someone would
+learn to combine psionics with martial arts.
+Path Skill: kinesis
+Techniques:
+1. Painful Touch: After dealing damage with an
+unarmed attack, spend 1 Shock to inflict 1 Shock on
+all targets who took damage.
+2. Avoid and Deflect: When attacked, before the
+roll is made, the hero may spend 1 Shock to gain
+a bonus equal to half his kinesis adds (rounded
+down) to his unarmed defense for that attack.
+3. Biokinesis: Gain two kinesis psionic powers.
+4. Iron Fist: Gain the telekinetic strike power (see
+page 54) for free. If the hero already has this
+  power, spend 2 Shock to gain a +4 bonus to the
+kinesis test to manifest it.
+5. Iron Skin: When taking damage from an attack,
+spend 2 Shock to gain a +4 Armor bonus against
+that attack.
+6. Wire Fu: Gain the updraft power for free. If the
+hero already has this power, spend 1 Shock to
+manifest the power at the Standard Success Level
+without making a test.
+7. Non-Lethal Strike: When inflicting damage
+from an unarmed combat attack, rather than
+inflicting Wounds, spend 1 Shock to inflict 3 Shock
+per Wound on all targets struck.
+8. Unification: Ignore 2 points of Multi-Action
+penalties when the action involves kinesis and
+unarmed combat. If the hero hits with an unarmed
+attack and succeeds at manifesting a psionic
+power, spend 2 Shock to increase damage of the
+unarmed attack by +4, or apply the damage to one
+target twice."}
+
+
+
+
+
+
+{:name "Religious Pluralist"
+ :Cosm "Core Earth"
+ :Prereq "Beta, Core Earth, and at least three adds
+in faith"
+ :Type "Faith"
+ :Source "RoCE 3"
+ :description
+ "The faithful of Core Earth, especially those who
+are Storm Knights, often witness miracles from a
+multitude of different religions, and knowledge
+of these new miracles is spreading. The miracle
+worker may select a miracle from a list other than
+the ones the character may normally access, even if
+it is contradictory. This miracle must be compatible
+with the character’s religion."}
+{:name "Religious Scholar"
+ :Cosm "Core Earth" 
+ :Source "RoCE 3"
+ :Prereq "Core Earth, at least one add in faith,
+and two adds in scholar, and a follower of a Core
+Earth religion"
+ :Type "Faith"
+ :description
+ "Knowledge is a powerful tool, and many of the
+faithful study the intracies of their religion, often
+for years. This theological knowledge served
+the character well; the character may access the
+appropriate miracle list on page 23, and can
+select two miracles, plus additional miracles as
+described below. If the supplicant already knows
+the listed miracles, they may select a new one.
+   Theology: Adherents of the religion of Los
+Asangrados do not have a large body of knowledge
+about their faith and may not take this Perk.
+• Bantu and other Traditional African Faiths:
+commune with spirits and pass without trace
+• Buddhism: meditation and yin and yang
+• Chinese Folk Religion: commune with spirits
+and yin and yang
+• Christianity: bounty and walk on water
+• Hinduism: contort and meditation
+• Indigenous Religions: dream and banish
+• Islam: pass without trace and walk on water
+• Judaism: prophecy and snake staff
+• Neopaganism: break curse and commune with
+spirits
+• Sikhism: contort and meditation
+• Shinto: commune with spirits and yin and yang
+• Other Core Earth Religions: Gain one
+miracle from another Core Earth faith’s list, as
+appropriate (GM’s call)"}
+
+
+{:name "Ascetic"
+ :Cosm "Core Earth"
+ :Source "RoCE 4"
+ :Prereq "At least one add in reality, at least
+three adds in willpower, Strong Willed, and
+Endurance"
+ :Type "Reality"
+ :description
+ "A lifestyle of dedicated self-discipline and
+abstinance from a variety of indulgences allows the
+most strong-willed to use their inner ki to perform
+incredible feats. The Storm Knight gains access to
+the Ki Power Perk category and may select one Ki
+Power Perk. This Perk is supported by both Core
+Earth and Pan-Pacifica’s World Laws and does not
+cause contradictions in either reality."}
+{:name "Anomaly Prime"
+ :Cosm "Core Earth"
+ :Source "WGtT 28"
+ :Prereq "Beta Clearance, at least 5 adds in
+kinesis, precognition, or telepathy, and one of
+Precog Anomaly, Telekinetic Anomaly, or
+Telepathy Anomaly"
+ :Type "Psionics"
+ :description
+ "The psi is one of the most powerful on Core Earth,
+and unlocks her complete potential. She gains access
+to, and learns the psionic power corresponding to
+the type of psionic anomaly she is:
+• Precog Anomaly: Shift fate.
+• Telekinetic Anomaly: Teleport.
+• Telepathic Anomaly: Mind control."}
+{:name "Firestarter"
+ :Cosm "Core Earth"
+ :Source "WGtT 28"
+ :Prereq "At least one add in kinesis. May not
+have any adds in precognition or telepathy, and may
+not know any psionic powers that require
+precognition or telepathy. May not have the Psionic
+Perk."
+ :Type "Psionics"
+ :description
+ "The psi is a wild talent who can materialize fire
+or waves of heat. Her power potential is immense,
+and may have access to powers that she otherwise
+shouldn’t have, but she tends to lose control of her
+powers at inopportune times.
+The psi gains access to the Firestarter psionic
+power list on page 31, and knows all of the powers,
+even if she does not have a high enough kinesis
+skill. She is subject to the effects listed in the Wild
+Talents sidebar.
+Special: The psi may never gain adds in
+precognition or telepathy, nor learn any psionic
+powers not on the Firestarter list."}
+{:name "Firestarter Prime"
+ :Cosm "Core Earth"
+ :Source "WGtT 29"
+ :Prereq "At least 5 adds in kinesis and Firestarter"
+ :Type "Psionics"
+ :description
+ "The pyrokinetic is at one with her powers. This
+does not mean that she fully controls them,
+but more that she is subject to their chaotic and
+uncontrollable nature. While heat shield is active,
+her rolls to activate pyrokinesis or pyrokinetic storm
+are Favored."}
+{:name "Precog Anomaly"
+ :Cosm "Core Earth"
+ :Source "WGtT 29"
+ :Prereq "At least one add in precognition. May
+not have any adds in kinesis or telepathy, and
+may not know any psionic powers that require
+kinesis or telepathy"
+ :Type "Psionics"
+ :description
+ "The psi gains access to the Precog Anomaly list on
+page 31 and may learn three powers, even if she
+does not have the requisite precognition skill. She
+is subject to the effects listed in the Wild Talents
+sidebar.
+Special: The psi may never gain adds in kinesis or
+telepathy, nor learn any psionic powers requiring
+those skills.
+Additional Powers: The psi may take the Psionic
+Perk, but only gains additional powers, not the
+access to a new power list."}
+{:name "Psychic Anomaly"
+ :Cosm "Core Earth"
+ :Source "WGtT 29"
+ :Prereq "Psionic and at least one add in two of
+kinesis, precognition, or telepathy."
+ :Type "Psionics"
+ :description
+ "The psi expands her mind slightly and learns
+two additional psionic powers from the Psychic
+Anomaly list."}
+{:name "Telekinetic Anomaly"
+ :Cosm "Core Earth"
+ :Source "WGtT 29"
+ :Prereq "At least one add in kinesis. May not
+have any adds in telepathy or precognition, and
+may not know any psionic powers that require
+telepathy or precognition."
+ :Type "Psionics"
+ :description
+ "The psi gains access to the Telekinetic Anomaly
+list on page 31 and may learn three powers, even
+if she does not have the requisite kinesis skill. She
+is subject to the effects listed in the Wild Talents
+sidebar.
+Special: The psi may never gain adds in
+precognition or telepathy, nor learn any psionic
+powers requiring those skills.
+Additional Powers: The psi may take the Psionic
+Perk, but only gains additional powers, not the
+access to a new power list."}
+{:name "Telepathic Anomaly"
+ :Cosm "Core Earth"
+ :Source "WGtT 29"
+ :Prereq "At least one add in telepathy. May not
+have any adds in precognition or kinesis, and
+may not know any psionic powers that require
+precognition or kinesis."
+ :Type "Psionics"
+ :description
+ "The psi gains access to the Telepathic Anomaly
+list on page 31 and may learn three powers, even if
+she does not have the requisite telepathy skill. She
+is subject to the effects listed in the Wild Talents
+sidebar.
+Special: The psi may never gain adds in
+precognition or kinesis, nor learn any psionic powers
+requiring those skills.
+Additional Powers: The psi may take the Psionic
+Perk, but only gains additional powers, not the
+access to a new power list."}
+{:name "Supernatural Adaptation"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, access to any spell list,
+and Realm Runner OR Gamma Clearance and
+access to any spell list."
+ :Type "Prowess"
+ :Source "ToT 26"
+ :description
+ "Exposure to other realities allows the Storm Knight
+to expand the scope of their own abilities and learn
+spells that are foreign to their own training. The
+hero gains access to a single new spell list and
+may replace up to two spells, miracles, or psionic
+powers they currently know with new spells from
+that list. This access does not count as a Prereq for
+the selection of other Perks that require access to
+that spell list."}
+{:name "Arcane Investigator"
+ :Cosm "Core Earth"
+ :Prereq "Core Earth, Spellcaster, and access to
+the Dabbler spell list. The spellcaster may not
+have access to any other spell list."
+ :Type "Spellcraft"
+ :Source "ToT 26"
+ :description
+ "Some wizards utilize their skills in solving crimes,
+or acting as private investigators. These arcane
+detectives most often live in urban areas, but can
+occasionally be found aiding rural folk. Selecting
+this Perk grants the wizard access to the Arcane
+Investigator spell list (see page 30).
+Additionally, they may select three additional
+spells."}
+{:name "Avant-Garde"
+ :Cosm "Core Earth"
+ :Prereq "Core Earth, Spellcaster, and access to
+the Dabbler spell list. The spellcaster may not
+have access to any other spell list."
+ :Type "Spellcraft"
+ :Source "ToT 26"
+ :description
+ "Some Dabblers turn their dabbling to 11, dipping
+their toes into the knowledge that other cosms have
+brought to Core Earth. Selecting this Perk allows
+the wizard to select three spells, one of which may
+be from another cosm, but must have a Magic
+Axiom of 14 or less."}
+{:name "Mythomancer"
+ :Cosm "Core Earth"
+ :Prereq "Core Earth, Storyteller, and at least
+one add in alteration, apportation, conjuration or
+divination. May not have access to any spell lists."
+ :Type "Spellcraft"
+ :Source "ToT 26"
+ :description
+ "Mythomancers cast spells in the form of telling a
+story, and are newcomers to the spellcasting stage,
+only appearing after the invasion began. Some
+mythomancers narrate scenes or character actions
+from stories. Others cast their spells in the form of
+songs, or in the form slam poetry. Mechanically
+these spells are identical to the current forms, but
+manifest in a different manner. For example, the
+dancing sword spell can appear as a heroic knight
+wielding a sword.
+Selecting this Perk grants access to the Mythomancer
+spell list, and the wizard may select three spells.
+Additionally, apportation or conjuration spells use
+Charisma as the base attribute rather than Spirit.
+Additional Spells: The Spellcaster Perk may be
+selected to gain additional spells but it does not
+provide access to any new spell lists."}
+{:name "Soul Implement"
+ :Cosm "Core Earth"
+ :Prereq "Core Earth and Spellcaster OR
+Mythomancer"
+ :Type "Spellcraft"
+ :Source "ToT 26"
+ :description
+ "Wizards and magicians of all sorts frequently
+use implements such as wands or to enhance
+their spellcasting (see Aysle Sourcebook). Selecting
+this Perk grants the wizard one of the appropriate
+implements as shown below.
+No matter the implement, the magician chooses
+one of the magic skills, and tests using that skill are
+Favored. This skill cannot be changed.
+These implements have the same power as Arcane
+items, but since those require a significantly higher
+Magic Axiom than Core Earth has ever had, soul
+implements utilize the Law of Aegis to function by
+putting a piece of the user’s soul into it. Thus the
+use of soul implements is contradictory outside of
+Core Earth.
+Should the item be destroyed or permanently lost,
+the wizard suffers a temporary Injury (see Defeat in
+Torg Eternity). The wizard gains a new implement
+after one full act passes, which heals the Injury.
+Alternatively, if the wizard has selected one of the
+following Perks, they can instead gain the listed
+implement:
+• Spellcaster: These wands are made by the
+magician, whittling branches from particular
+hardwood trees such as oak, maple, or poplar
+trees.
+• Geomancer (Selenite Crystal): These crystals
+are handpicked by geomancers who make a
+pilgrimage to the Cave of Crystals (see page 22).
+• Mythomancer: Mythomancers use a variety
+of instruments (literally in the case of those
+who base their spellcasting on song) to enhance
+their spells. The physical form that this takes
+is not important, whether it be analog or
+digital, paper or silicon. What is important is
+that the spellcaster compiles the stories, songs,
+poems, plays, or movies themselves. The
+repertoire says something profound about the
+mythomancer’s soul, and whether the media
+is stored on a paper page, on a DVD, or MP3
+player, the device functions through the Law
+of Aegis."}
+{:name "Geomancer"
+ :Cosm "Core Earth"
+ :Prereq "Core Earth and access to the Dabbler
+spell list. The spellcaster may not have access to
+any other spell list."
+ :Type "Spellcraft"
+ :Source "ToT 27"
+ :description
+ "These Core Earth wizards specialize in the use
+of rocks, minerals, and the planet itself to power
+their spells. Geomancers frequently use the power
+of ley lines to cast higher axiom spells, and the
+most skilled geomancers can even use ley lines to
+teleport across the globe. With the exposure to other
+realities with high magic (like Aysle), geomancers
+have even managed to learn otherwise unheard of
+spells such as sudden burial. This Perk grants the
+spellcaster access to the Geomancer spell list, and
+they may choose three spells."}
+{:name "Quantum Entanglement"
+ :Cosm "Aysle, Core Earth"
+ :Prereq "Core Earth or Aysle (Transformed
+Core Earth), Spellcaster, and at least two adds in
+science."
+ :Type "Spellcraft"
+ :Source "ToT 28"
+ :description
+ "Combining quantum physics with mathematics
+can entangle a spell with future possibilities. As
+a free action, after determining the Success Level
+of a successfully cast spell, it may be increased
+by one level by spending a Possibility. After the
+action resolves, that Possibility is given to the GM
+who can spend it at any time in the future for any
+character, including an Ord"}
+{:name "Reality Mage"
+ :Cosm "Core Earth"
+ :Prereq "Core Earth and access to the Dabbler
+spell list. The spellcaster may not have access to
+any other spell list."
+ :Type "Spellcraft"
+ :Source "ToT 26"
+ :description
+ "The wizard gains access to the Reality Mage spell
+list, and may select three spells. One of these spells
+may instead be from a cosm’s list that Core Earth
+has been exposed to, up to a Magic Axiom of 18.
+The wizard only learns that specific spell, and does
+not otherwise gain access to the associated spell
+list, and may not select any Perks that knowing
+that spell may allow."}
+{:name "Spell Slinger"
+ :Cosm "Aysle, Core Earth, Cyberpapacy, Nile Empire, Orrorsh, Tharkold"
+ :Prereq "Spellcaster, at least 2 adds in apportation."
+ :Type "Spellcraft"
+ :Source "ToT 26"
+ :description
+ "When armed with a rod, wand, or a staff you may
+use Dexterity + apportation as a defense in place of
+dodge or melee weapons."}
+{:name "Travel Ley Line"
+ :Cosm "Core Earth"
+ :Prereq "Geomancer and at least 5 adds in
+apportation."
+ :Type "Spellcraft"
+ :Source "ToT 26"
+ :description
+ "This ability allows the geomancer and up to 8
+allies to instantly transport from one ley node to
+another. The departure node can be any of the ones
+on Core Earth, but the arrival node must be one
+that is Magic 15 or higher. The nodes much be in a
+Core Earth Dominant or Pure Zone, but can include
+hardpoints (by traveling through the interior of
+the Earth). Even if a reality such as Aysle has a
+Magic Axiom higher than 15, it does not properly
+maintain the ley line structure needed for this spell
+to work.
+To activate the ley node, the mage creates a circle
+with chalk, sand, or other materials, around the
+people who will be traveling the ley lines. As long
+as the circle isn’t broken when the casting time is
+complete, the travelers instantly teleport to the
+desired ley node.
+Under most circumstances, this casting can be done
+without effort, and no test is necessary. However,
+if the geomancer is activating the node under time
+pressure (such as during combat), this ability is
+activated through a Dramatic Skill Resolution, with
+all four Steps requiring a successful Hard (DN 14)
+apportation test.
+The use of this ability requires Magic 15, so any
+tests involved in activating the ley node could be
+contradictory."}
+{:name "Wiccan"
+ :Cosm "Core Earth"
+ :Prereq "Core Earth, at least one add in faith,
+and at least one add in alteration, apportation,
+conjuration, or divination, and follower of neo-
+paganism (see Core Earth Religions)."
+ :Type "Spellcraft"
+ :Source "ToT 28"
+ :description
+ "The White Witches of the Cyberpapacy are
+spiritual cousins to those who follow the Wicca
+faith of Core Earth. Selecting this Perk counts as
+selecting the White Witch Perk (see Cyberpapacy
+Sourcebook) for all intents and purposes, including
+access to the White Witch spell list, access to any
+Perks that require White Witch as a Prereq, and any
+advantages or disadvantages such an association
+involves."}
+
+
+
+
+{:name "Dumb Luck"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Human"
+ :Type "Human"
+ :Source "BCPP 4"
+ :description
+ "Some humans are just born lucky, and this
+character is one of them. When an opponent
+spends a Possibility on a test targeting or opposing
+this character, there is no minimum value of 10 for
+the added die. The same effect applies to any other
+targets of the same roll."}
+{:name "Human Compassion"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, Human, Charisma 8+"
+ :Type "Human"
+ :Source "BCPP 4"
+ :description
+ "The character’s Charisma attribute increases +1."}
+{:name "Human Spirit"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, Human, Strong-Willed"
+ :Type "Human"
+ :Source "BCPP 4"
+ :description
+ "Once per act, an Outstanding result of a Defeat
+roll means the character isn’t KOed, and instead
+recovers 2 Shock and may keep acting."}
+{:name "Lead from the Front"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Spirit 8+, at least one other Leadership
+Perk"
+ :Type "Leadership"
+ :Source "BCPP 4"
+ :description
+ "The hero’s steady nerves and seeming disdain for
+the enemy inspire those around him. If not already
+Vulnerable or Very Vulnerable, he may become
+Very Vulnerable instead of spending a Possibility
+to activate any Leadership perk."}
+{:name "Not on My Watch"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Charisma 8+, at least three adds in find"
+ :Type "Leadership"
+ :Source "BCPP 4"
+ :description
+ "Some leaders can see trouble coming and draft a
+plan to react accordingly. When a new Drama Card
+is revealed, the character may spend a Possibility
+to eliminate the effects of the opposite Conflict
+Line. Positive effects like Flurry, Inspiration, and
+Up are eliminated. The friendly Conflict Line is
+completely unaffected."}
+{:name "Intense Training"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, Charisma 8+, a follower
+from any source"
+ :Type "Leadership"
+ :Source "BCPP 4"
+ :description
+ "One of the character’s Followers gains a +1 bonus
+to one Attribute, a +3 bonus to one Skill, a +2 bonus
+to another skill, a +1 bonus to a third skill, and
+one Perk. This Perk may be purchased more than
+once, but each time it must be applied to a different
+Follower."}
+{:name "Cosm Adaptation"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance and Realm Runner 
+OR Gamma Clearance"
+ :Type "Prowess"
+ :Source "BCPP 5"
+ :description
+ "The Storm Knight has adapted to an
+aspect of another cosm, either through
+high levels of training and exposure
+or a transforming experience. Choose
+one Perk category normally limited to
+a specific Cosm. The character may
+purchase Perks from that group
+as through she met the cosm
+prerequisite."}
+{:name "Shake it Off"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, Endurance"
+ :Type "Prowess"
+ :Source "BCPP 5"
+ :description
+ "When the character uses a
+Recovery Action, she regains
+the normal 2 Shock, plus Shock
+equal to the result of a Bonus Die roll.
+Note that a Recovery Action is only
+possible when there isn’t a condition
+such as hunger, or an extreme
+environment, that prevents Shock
+restoration."}
+{:name "Killshot"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Double Tap"
+ :Type "Prowess"
+ :Source "BCPP 5"
+ :description
+ "On an attack where Double Tap
+was applied, roll the Bonus Dice for
+damage (if any) two separate times
+and apply the larger result."}
+{:name "Guns Blazing"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "At least three adds in fire
+combat"
+ :Type "Prowess"
+ :Source "BCPP 5"
+ :description
+ "The character has strong fire-discipline
+and great control of weapon overheating
+and other issues that can arise during
+sustained fire. Reduce the extended Malfunction
+range from any use of Rapid Fire with fire combat
+by one, down to a minimum of 1. This includes
+using the Two Weapons modifier. A roll of 1 still
+causes a Malfunction as usual, and Malfunction
+ranges from other modifiers are not affected."}
+{:name "Quick"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, Dexterity 8+"
+ :Type "Prowess"
+ :Source "BCPP 5"
+ :description
+ "The Storm Knight is extremely quick on her feet.
+She may move up to her Dexterity x2 meters each
+turn, or up to Dexterity x5 meters per turn if using
+an Action to run."}
+{:name "Racer"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, at least three adds
+in land vehicles"
+ :Type "Prowess"
+ :Source "BCPP 5"
+ :description
+ "During a Chase where the Storm Knight is
+driving a land vehicle, he treats every
+Drama Card as if it had Step A printed
+on it."}
+{:name "Drive Defensively"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, at
+least five adds in land vehicles"
+ :Type "Prowess"
+ :Source "BCPP 5"
+ :description
+ "The Storm Knight may
+attempt to Soak damage done
+to a land vehicle he’s driving.
+The reality test to Soak suffers a
+–2 penalty if the vehicle is Large and
+a –4 if it’s Very Large, and another –1
+penalty for each other passenger inside
+the vehicle."}
+{:name "Ace Pilot"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, at least five
+adds in air vehicles"
+ :Type "Prowess"
+ :Source "BCPP 5"
+ :description
+ "The Storm Knight may attempt to
+Soak damage done to an air vehicle
+she’s flying. The reality test to Soak
+suffers a –2 penalty if the vehicle is
+Large and a –4 if it’s Very Large, and
+another –1 penalty for each other
+passenger inside the vehicle."}
+{:name "Acrobatic"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, at least five
+adds in dodge"
+ :Type "Prowess"
+ :Source "BCPP 5"
+ :description
+ "Each time an attack or maneuver interaction
+misses the Storm Knight, she may move 2 meters.
+She does not become Vulnerable if this movement
+takes her out of contact with an opponent."}
+{:name "Duck and Weave"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, at least five adds in
+maneuver"
+ :Type "Prowess"
+ :Source "BCPP 6"
+ :description
+ "The Storm Knight may now move through
+enemies. She may not end her movement in the
+same space as a standard or Large opponent, but
+she may occupy the same space as a Very Large
+opponent. Leaving contact with a foe makes the
+character Vulnerable as usual."}
+{:name "Detached Strategist"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, Situational Awareness"
+ :Type "Prowess"
+ :Source "BCPP 6"
+ :description
+ "Even in the heat of the moment this Storm Knight’s
+keen mind for planning remains unclouded. When
+Playing for the Critical Moment any unused
+Destiny Cards remain in the player’s Action Pool
+and aren’t discarded."}
+{:name "Elusive"
+ :Cosm "Core Earth"
+ :Prereq "Beta Clearance, Tenacious"
+ :Type "Reality"
+ :Source "BCPP 6"
+ :description
+ "The Storm Knight is hard to touch with words,
+bullets, fists, or anything else. She may wait until
+she sees the result of an attack or interaction attack
+that targets her before declaring the use of an
+Active Defense. More, if she’s already had a turn
+she may still use an Active Defense at the cost of
+her next available turn."}
+{:name "Realm-Dancer"
+ :Cosm "Core Earth"
+ :Prereq "Beta Clearance, Realm-Runner"
+ :Type "Reality"
+ :Source "BCPP 6"
+ :description
+ "The character ignores his first Disconnection in
+each scene. Any subsequent Disconnections within
+the same scene function as normal."}
+{:name "Longshot"
+ :Cosm "Core Earth"
+ :Prereq "Beta Clearance"
+ :Type "Reality"
+ :Source "BCPP 6"
+ :description
+ "The hero is so connected to
+Core Earth that the Law of
+the Underdog applies to
+him even in other realms. So
+long as he’s outnumbered
+or at a disadvantage (GM’s
+call) he may play a Destiny
+card into his Action Pool at
+the beginning of combat.
+This doesn’t stack if the Law
+of the Underdog is already
+in effect, but it does stack
+with Surprise."}
+{:name "Nullify"
+ :Cosm "Core Earth"
+ :Prereq "Beta Clearance, Negation"
+ :Type "Reality"
+ :Source "BCPP 6"
+ :description
+ "When an enemy attempts
+to spend a Possibility to
+activate a Perk or Special
+Ability, the Storm Knight
+may spend one of her own to
+instantly negate it. This is a
+free action she can perform,
+so long as she’s aware of the
+rival’s action.
+Nullify may not be used to stop a foe from Soaking
+Wounds with Possibilities."}
+{:name "Sense Stela"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, at least five adds in
+reality"
+ :Type "Reality"
+ :Source "BCPP 7"
+ :description
+ "The Storm Knight has become attuned to stelae and
+can now sense one when it’s within one kilometer.
+This is automatic. The character senses the exact
+direction of the stela but not the distance. It’s
+possible to triangulate the position of a stela with
+a map and two “readings” at least one kilometer
+apart by making a Very Hard (DN 16) science
+or survival test. A third reading at least another
+kilometer away drops the difficulty to Easy (DN 8).
+Note that Dimthread Trees and Nightmare Trees
+both count as stelae for purposes of this ability.
+This Perk is available to reality-rated characters
+outside of Core Earth."}
+{:name "Create Focus"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, at least five adds in
+reality"
+ :Type "Reality"
+ :Source "BCPP 7"
+ :description
+ "The reality-rated character may imbue one small
+object with a connection to her own Cosm. The
+object should have some significance within the
+cosm it reflects. A baseball card might work for Core
+Earth, while a tooth or claw may be appropriate for
+the Living Land, an amulet for Aysle, and so on.
+The Focus takes half a day and one Possibility
+to create. It must be created in a space where the
+character’s reality is Dominant or Pure. When the
+Focus is created the character may spend up to
+three Possibilities to “charge” it, and it works one
+day for each Possibility spent. The item may also
+charge on its own over time, one day for every day
+of charge.
+Possession of a Focus grants a +4 bonus on an
+attempt to Reconnect. An Ord with a Focus may
+operate normally in an enemy Dominant or Pure
+Zone, similar to being under the effect of a Talisman
+(see Torg Eternity), but a Focus only affects the
+individual carrying it.
+Special: This Perk is available to any reality-rated
+character, including those from outside of Core
+Earth. The character may only create a Focus for
+his own reality."}
+{:name "First Response"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "At least three adds in first aid"
+ :Type "Social"
+ :Source "BCPP 7"
+ :description
+ "Use an action and attempt a first aid test against
+any KOed character. This test suffers the target’s
+Wound penalties in addition to any other modifiers.
+If the test succeeds the target regains consciousness
+and recovers 1 Shock. A Good Success increases
+the recovery to 2 Shock, and an Outstanding
+Success restores 3 Shock. Note that any Wounds
+and Injuries still apply."}
+{:name "Pep Talk"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, Helper, at least three
+adds in persuasion"
+ :Type "Social"
+ :Source "BCPP 7"
+ :description
+ "The Storm Knight can inspire others to do their
+best. He uses an action and tests persuasion against
+the target’s Spirit. On a success, the target gains a +1
+bonus to her next test. On a Good Success the bonus
+increases to +2, and on an Outstanding Success the
+test also becomes Favored. This bonus only applies
+to the next test the target attempts, and is lost if not
+used before the Storm Knight’s next turn."}
+{:name "Clear the Room"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, at least five adds in
+intimidation"
+ :Type "Social"
+ :Source "BCPP 7"
+ :description
+ "When Intimidation is an Approved Action, the
+Multi-Target penalties for intimidation interaction
+attacks are halved (–1 per additional target instead
+of the usual –2.)"}
+{:name "Trash Talker"
+ :Cosm "Core Earth, Living Land, Nile Empire, Aysle, Cyberpapacy, Tharkold, Orrorsh, Pan-Pacifica"
+ :Prereq "Beta Clearance, at least five adds in
+taunt"
+ :Type "Social"
+ :Source "BCPP 7"
+ :description
+ "When Taunt is an Approved Action, the Multi-
+Target penalties for taunt interaction attacks are
+halved (–1 per additional target instead of the
+usual –2.)"}
+
+
 ]
